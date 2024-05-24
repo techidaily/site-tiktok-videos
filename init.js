@@ -8,9 +8,9 @@ const fs = require('fs');
 const path = require('path');
 
 // ------------------------------------------------------------------------------------------- 以下内容需要自己替换
-const subSiteAuthor = 'Nova';
-const subSiteKeywords = `` + ','; // 关键字，多个关键字用逗号分隔
-const indexNowKey = 'ec9c9516ea82433086d979e16e1960e0'; // 替换为你的API密钥
+const subSiteAuthor = 'Brian';
+const subSiteKeywords = `Videos on Tiktok,Tiktok video posts,Tiktok video updates,Tiktok video sharing,Tiktok video content,Tiktok video footage,Tiktok video recordings,Tiktok video streams,Tiktok video files` + ','; // 关键字，多个关键字用逗号分隔
+const indexNowKey = '21582cf11aba43d9b67e3025267fba0f'; // 替换为你的API密钥
 
 
 

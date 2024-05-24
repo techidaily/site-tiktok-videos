@@ -1,6 +1,6 @@
-# TechiDaily
+# Tiktok Videos Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://tiktok-videos.techidaily.com](https://tiktok-videos.techidaily.com)
 
 ## Publish
 
