@@ -1,7 +1,7 @@
 ---
 title: "[New] Fixed! What If I Accidentally Refreshed Tiktok, In 2024"
-date: 2024-05-23T14:31:55.752Z
-updated: 2024-05-24T14:31:55.752Z
+date: 2024-06-10T17:15:31.689Z
+updated: 2024-06-11T17:15:31.689Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Fixed! What If I Accidentally Refreshed Tiktok, In 2024"
 excerpt: "This Article Describes [New] Fixed! What If I Accidentally Refreshed Tiktok, In 2024"
 keywords: "TikTok Refresh Issue Fix,TikTok Accidental Reload Help,Revert TikTok Refresh Error,Correcting TikTok Refreshing Glitch,Overcome TikTok Reset Mishap,Resolve Unexpected TikTok Refresh,Address TikTok Unwanted Refresh"
-thumbnail: https://www.lifewire.com/thmb/kaSUGALv5w9I27LAJVJ1nAXx2U0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-delete-all-emails-in-gmail-app-67f80efd675447e7b7675becc7cbbab1.jpg
+thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb76549037277932507e29a378053d0b9798db.jpg
 ---
 
 ## Fixed! What If I Accidentally Refreshed Tiktok?

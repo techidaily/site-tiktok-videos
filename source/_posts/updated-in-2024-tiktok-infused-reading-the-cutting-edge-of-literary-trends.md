@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, TikTok-Infused Reading  The Cutting Edge of Literary Trends\""
-date: 2024-05-23T15:31:51.439Z
-updated: 2024-05-24T15:31:51.439Z
+date: 2024-06-10T17:15:27.151Z
+updated: 2024-06-11T17:15:27.151Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, TikTok-Infused Reading: The Cutting Edge of Literary Trends\""
 excerpt: "\"This Article Describes [Updated] In 2024, TikTok-Infused Reading: The Cutting Edge of Literary Trends\""
 keywords: "\"TikTok Lit Trends,Infused Reading,TikTok Reads,Bookish TikToks,Cutting-Edge Books,Literary TikTok,Trendy Reading Apps\""
-thumbnail: https://www.lifewire.com/thmb/9Yt_RjRUC9OKjWNte1YSKLjW9fs=/564x250/filters:no_upscale():max_bytes(150000):strip_icc()/ConnectedCarTech_metamorworks_GettyImages-966859036_CROPPED-a9460403602c4b67a7a8c1acd599c9be.jpg
+thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff178ada3de9653ceb21ae65a7a.jpg
 ---
 
 ## TikTok-Infused Reading: The Cutting Edge of Literary Trends

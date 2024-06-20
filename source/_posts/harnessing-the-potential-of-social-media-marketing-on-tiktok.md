@@ -1,7 +1,7 @@
 ---
 title: "Harnessing the Potential of Social Media Marketing on TikTok"
-date: 2024-05-23T13:17:16.047Z
-updated: 2024-05-24T13:17:16.047Z
+date: 2024-06-10T17:15:28.589Z
+updated: 2024-06-11T17:15:28.589Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Harnessing the Potential of Social Media Marketing on TikTok"
 excerpt: "This Article Describes Harnessing the Potential of Social Media Marketing on TikTok"
 keywords: "TikTok SEO,Social Media Growth,TikTok Ads,Influencer Strategies,TikTok Marketing,Engaging Content,Viral Trends"
-thumbnail: https://www.lifewire.com/thmb/x3esfFmI2Y55OmmlRvMWAY3TioM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-98471373-56a9ff935f9b58b7d0006b1a.jpg
+thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aacdfd70319b10cdaec65e638.jpg
 ---
 
 ## Harnessing the Potential of Social Media Marketing on TikTok

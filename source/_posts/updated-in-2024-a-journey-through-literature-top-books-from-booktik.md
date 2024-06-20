@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, A Journey Through Literature  Top Books From #Booktik\""
-date: 2024-05-23T14:31:11.740Z
-updated: 2024-05-24T14:31:11.740Z
+date: 2024-06-10T17:15:19.879Z
+updated: 2024-06-11T17:15:19.879Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, A Journey Through Literature: Top Books From #Booktik\""
 excerpt: "\"This Article Describes [Updated] In 2024, A Journey Through Literature: Top Books From #Booktik\""
 keywords: "\"Lit Booktops,Best Read Tips,Book Insight Journey,Essential Reading Guide,Favorite Books List,Must-Read Literature,Top Book Picks Trail\""
-thumbnail: https://www.lifewire.com/thmb/i516RJAOKPq_U36ko3DvWto-Kn4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/TheGoodBrigade_Kidsonlaptopsincar_GettyImages-1297084394_CROPPED2-9566c364cf9344a288febcca577b171f.jpg
+thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab8587601498f32a131493f3f787f8.jpg
 ---
 
 ## A Journey Through Literature: Top Books From #Booktik

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Viral Beats  Top TikTok Hits for a Dance Off\""
-date: 2024-05-23T14:26:57.131Z
-updated: 2024-05-24T14:26:57.131Z
+date: 2024-06-10T17:15:30.022Z
+updated: 2024-06-11T17:15:30.022Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Viral Beats: Top TikTok Hits for a Dance Off\""
 excerpt: "\"This Article Describes [Updated] Viral Beats: Top TikTok Hits for a Dance Off\""
 keywords: "\"TikTok Dance Challenge,Viral Dance Trends,Top TikTok Songs,Dance Battle Music,Popular TikTok Beats,Hip-Hop TikTok Videos,Dancing to Viral Hits\""
-thumbnail: https://www.lifewire.com/thmb/ahjGgPBNVXhPGoYIxS7OxgZ4vuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-200544475-001-a23be5e7b0f24905873ef477e09dbbd3.jpg
+thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa228337347cb369c95ebc26efcbbaf5.jpg
 ---
 
 ## Viral Beats: Top TikTok Hits for a Dance Off

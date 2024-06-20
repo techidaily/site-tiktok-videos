@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate TikTok Book List for Every Genre Lover for 2024"
-date: 2024-05-23T15:30:44.577Z
-updated: 2024-05-24T15:30:44.577Z
+date: 2024-06-10T17:15:20.795Z
+updated: 2024-06-11T17:15:20.795Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] The Ultimate TikTok Book List for Every Genre Lover for 2024"
 excerpt: "This Article Describes [New] The Ultimate TikTok Book List for Every Genre Lover for 2024"
 keywords: "\"TikTok Fan Guide,Genre-Specific TikToks,TikBooks Collection,TikTok Content Genres,Ultimate TikTok List,Book Series for TikTokers,TikTok Genre Exploration\""
-thumbnail: https://www.lifewire.com/thmb/k58vbJPuDCjL1Uf6h00LpxDd_5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/white-office-desk-table-with-a-lot-of-things-on-it--top-view-with-copy-space--637047700-5a24617b4e46ba001a6d6d23.jpg
+thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a67c761a2d6a6d2fb5b65330.jpg
 ---
 
 ## The Ultimate TikTok Book List for Every Genre Lover

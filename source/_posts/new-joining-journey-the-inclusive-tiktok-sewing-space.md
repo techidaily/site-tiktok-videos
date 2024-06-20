@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Joining Journey  The Inclusive TikTok Sewing Space\""
-date: 2024-05-23T13:53:39.054Z
-updated: 2024-05-24T13:53:39.054Z
+date: 2024-06-10T17:15:23.357Z
+updated: 2024-06-11T17:15:23.357Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Joining Journey: The Inclusive TikTok Sewing Space\""
 excerpt: "\"This Article Describes [New] Joining Journey: The Inclusive TikTok Sewing Space\""
 keywords: "TikTok Sewing Community,Inclusive TikTok Crafts,Social Media Sewers,Creative TikTok Making,Diverse TikTok Creators,Sewing on TikTok Platform,Engaging Sewing Videos TikTok"
-thumbnail: https://www.lifewire.com/thmb/jBnabVblnU-pVzdwjWgW35QXhjQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/PreetAnand-4c9eb5ff333041e2a6a25710d87b4a34.png
+thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab605d1c55ebd68e10c11778128.png
 ---
 
 ## Joining Journey: The Inclusive TikTok Sewing Space

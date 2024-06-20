@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Authoritative TikTok Symbol Compendium"
-date: 2024-05-23T14:11:54.864Z
-updated: 2024-05-24T14:11:54.864Z
+date: 2024-06-10T17:15:19.930Z
+updated: 2024-06-11T17:15:19.930Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, The Authoritative TikTok Symbol Compendium"
 excerpt: "This Article Describes In 2024, The Authoritative TikTok Symbol Compendium"
 keywords: "TikTok Icon Guide,TikTok Symbols List,TikTok Emoji Encyclopedia,Authoritative TikTok Icons,Comprehensive TikTok Symbols,Detailed TikTok Symbol Compendium,Essential TikTok Iconography"
-thumbnail: https://www.lifewire.com/thmb/NtWak-ToxcMPVb1t0Kn0t0QH8fU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/kids-and-ipads-177219460-resized-56a532c45f9b58b7d0db7169.jpg
+thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d84fbfcf0819906ab437cf25f.jpg
 ---
 
 ## The Authoritative TikTok Symbol Compendium

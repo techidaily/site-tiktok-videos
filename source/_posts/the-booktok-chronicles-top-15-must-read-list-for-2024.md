@@ -1,7 +1,7 @@
 ---
 title: "\"The #Booktok Chronicles  Top 15 Must-Read List for 2024\""
-date: 2024-05-23T14:12:07.533Z
-updated: 2024-05-24T14:12:07.533Z
+date: 2024-06-10T17:15:24.364Z
+updated: 2024-06-11T17:15:24.364Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes The #Booktok Chronicles: Top 15 Must-Read List for 2024\""
 excerpt: "\"This Article Describes The #Booktok Chronicles: Top 15 Must-Read List for 2024\""
 keywords: "\"BookTok Reads,Must-Read Books,Literary Favorites,Popular Book Tweets,BooktokList,Top Books Twitter,Essential Reading\""
-thumbnail: https://www.lifewire.com/thmb/6CZu7SnYk3e0uxANpY66fUZIA7w=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/zoomupdate05-9290ece0b4704500aedcbd5db5d69016.jpg
+thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4b5a03be31336b43fbf43c35.jpg
 ---
 
 ## The #Booktok Chronicles: Top 15 Must-Read List

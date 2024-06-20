@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Country Calm  A Curated List of Soothing Tunes to Dance & Unwind On TikTok\""
-date: 2024-05-23T14:40:11.323Z
-updated: 2024-05-24T14:40:11.323Z
+date: 2024-06-10T17:15:32.641Z
+updated: 2024-06-11T17:15:32.641Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Country Calm: A Curated List of Soothing Tunes to Dance & Unwind On TikTok\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Country Calm: A Curated List of Soothing Tunes to Dance & Unwind On TikTok\""
 keywords: "Relaxing Tunes TikTok,TikTok Soothing Sounds,Calm Music TikTok Playlist,Serene Dance & Unwind Beats,TikTok Chill Song Collection,Harmonious TikTok Melodies,Peaceful Tunes for Relaxation"
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## Country Calm: A Curated List of Soothing Tunes to Dance & Unwind On TikTok

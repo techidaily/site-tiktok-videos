@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Top 10  Viral Eats on TikTok\""
-date: 2024-05-23T15:34:02.198Z
-updated: 2024-05-24T15:34:02.198Z
+date: 2024-06-10T17:15:24.899Z
+updated: 2024-06-11T17:15:24.899Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Top 10: Viral Eats on TikTok\""
 excerpt: "\"This Article Describes [New] In 2024, Top 10: Viral Eats on TikTok\""
 keywords: "TikTok Food Trends,Viral Culinary Content,Top TikTok Dishes,Popular Food Challenges,Eats on TikTok Hits,TikTok Gastronomy,TikTok Food Frenzy"
-thumbnail: https://www.lifewire.com/thmb/ihHXhscRd_7pjZenuKYSLpv9OwM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed2-60f231b72c19491683c2166c9285b34d.jpg
+thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50b7aab7a2fe4029be64b0298.jpg
 ---
 
 ## Top 10: Viral Eats on TikTok

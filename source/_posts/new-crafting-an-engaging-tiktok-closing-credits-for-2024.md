@@ -1,7 +1,7 @@
 ---
 title: "[New] Crafting An Engaging TikTok Closing Credits for 2024"
-date: 2024-05-23T14:40:45.072Z
-updated: 2024-05-24T14:40:45.072Z
+date: 2024-06-10T17:15:22.626Z
+updated: 2024-06-11T17:15:22.626Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Crafting An Engaging TikTok Closing Credits for 2024"
 excerpt: "This Article Describes [New] Crafting An Engaging TikTok Closing Credits for 2024"
 keywords: "TikTok End Scene,Credits Creation,Engaging Closing,Creative TikToks,Video Ending Design,Interesting TikTok Credits,Captivating TikTok Seal"
-thumbnail: https://www.lifewire.com/thmb/YZAAAXpFP89HTtOXXQp1a6W9Cvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/1.Clicks-arealkeyboardforiPhone-a038b4613f264346891315547780718f.jpg
+thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d559912a6d4e6e048b474186.jpg
 ---
 
 ## Crafting An Engaging TikTok Closing Credits

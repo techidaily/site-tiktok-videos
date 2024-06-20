@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Getting Started with Computers  The Basics of Going Live on TikTok\""
-date: 2024-05-23T14:57:29.615Z
-updated: 2024-05-24T14:57:29.615Z
+date: 2024-06-10T17:15:20.611Z
+updated: 2024-06-11T17:15:20.611Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Getting Started with Computers: The Basics of Going Live on TikTok\""
 excerpt: "\"This Article Describes [New] In 2024, Getting Started with Computers: The Basics of Going Live on TikTok\""
 keywords: "TikTok Beginners Guide,Starting TikTok Live,TikTok Basic Use,TikTok GoLive Basics,TikTok For New Users,Start TikTok Streaming,Fundamentals of TikTok"
-thumbnail: https://www.lifewire.com/thmb/5lyEkq3okn_NNsuCJc0_04F1lIU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-cast-to-firestick-from-an-android-phone-f625f95b6dd548e5934171100785016e.jpg
+thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee741804b69375cf4ed02faf5de.jpg
 ---
 
 ## Getting Started with Computers: The Basics of Going Live on TikTok

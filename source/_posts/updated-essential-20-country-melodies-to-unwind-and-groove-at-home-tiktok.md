@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Essential 20 Country Melodies to Unwind and Groove at Home (TikTok)"
-date: 2024-05-23T13:43:26.991Z
-updated: 2024-05-24T13:43:26.991Z
+date: 2024-06-10T17:15:22.682Z
+updated: 2024-06-11T17:15:22.682Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Essential 20 Country Melodies to Unwind and Groove at Home (TikTok)"
 excerpt: "This Article Describes [Updated] Essential 20 Country Melodies to Unwind and Groove at Home (TikTok)"
 keywords: "Home TikTok Melodies,World Music Relaxing,Global Groove Songs,Country Unwind Tracks,Easy TikTok Chill Beats,International Tunes Soothe,20 Countries Groove Playlist"
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## Essential 20 Country Melodies to Unwind and Groove at Home (TikTok)

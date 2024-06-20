@@ -1,7 +1,7 @@
 ---
 title: "\"Yearbook Beatdowns  The Top Ten TikTok Hits of the New Decade\""
-date: 2024-05-23T13:24:46.745Z
-updated: 2024-05-24T13:24:46.745Z
+date: 2024-06-10T17:15:18.853Z
+updated: 2024-06-11T17:15:18.853Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Yearbook Beatdowns: The Top Ten TikTok Hits of the New Decade\""
 excerpt: "\"This Article Describes Yearbook Beatdowns: The Top Ten TikTok Hits of the New Decade\""
 keywords: "TikTok Trends 2020S,Yearly Social Media Battles,Top TikTok Videos,Hits of Digital Era,Decade's TikTok Favorites,TikTok Popularity Surge,New Decade TikTok Rise"
-thumbnail: https://www.lifewire.com/thmb/DqtKlGQoB_SUK9UXyVHv2XrG5RQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed1-d5515bd372264472994929d78dbbe185.jpeg
+thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66b69630f22d7099f56101e88.jpeg
 ---
 
 ## Yearbook Beatdowns: The Top Ten TikTok Hits of the New Decade

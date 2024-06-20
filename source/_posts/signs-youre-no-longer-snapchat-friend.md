@@ -1,7 +1,7 @@
 ---
 title: "Signs You're No Longer Snapchat Friend"
-date: 2024-05-23T13:10:24.578Z
-updated: 2024-05-24T13:10:24.578Z
+date: 2024-06-10T17:15:23.393Z
+updated: 2024-06-11T17:15:23.393Z
 tags:
   - ai video
   - ai snapchat
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Signs You're No Longer Snapchat Friend"
 excerpt: "This Article Describes Signs You're No Longer Snapchat Friend"
 keywords: "Lost Friends Signs,Unfriendreddind Indicators,Fading Snaps Clues,Disconnecting Chat Traits,Dwindling Snapchat Bonds,Reduced Snap Interaction,Friendship Withdrawal Cues"
-thumbnail: https://www.lifewire.com/thmb/DjyPPeH7zK7WJUxT1TQTVE0mc04=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1079012838-18c9de31049847f5bb71da74611f8c94.jpg
+thumbnail: https://thmb.techidaily.com/f29016c0fce2f518937f68251a2431a5f707a01cf190eb7eb7552fa0f6fd65d9.jpg
 ---
 
 ## Signs You're No Longer Snapchat Friend
