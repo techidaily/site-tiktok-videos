@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Vibe of the Town  Top 20 Viral TikTok Rap Songs to Follow\""
-date: 2024-05-23T15:43:55.046Z
-updated: 2024-05-24T15:43:55.046Z
+date: 2024-06-19T20:01:13.726Z
+updated: 2024-06-20T20:01:13.726Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Vibe of the Town: Top 20 Viral TikTok Rap Songs to Follow\""
 excerpt: "\"This Article Describes [Updated] In 2024, Vibe of the Town: Top 20 Viral TikTok Rap Songs to Follow\""
 keywords: "Viral Rap TikTok,TikTok Rap Trends,Rap Song Hits TikTok,Top TikTok Rap Songs,Popular Rap on TikTok,Rap Videos Going Viral,Hit Rap TikToks List"
-thumbnail: https://www.lifewire.com/thmb/xoj9YPxPAH01wV7Yk9lbephb9tY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165b0175087b89427fe82c8e76.jpg
 ---
 
 ## Vibe of the Town: Top 20 Viral TikTok Rap Songs to Follow

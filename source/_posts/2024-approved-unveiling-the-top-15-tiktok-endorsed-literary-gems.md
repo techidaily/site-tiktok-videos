@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Top 15 TikTok-Endorsed Literary Gems\""
-date: 2024-05-23T14:26:20.447Z
-updated: 2024-05-24T14:26:20.447Z
+date: 2024-06-19T20:01:20.146Z
+updated: 2024-06-20T20:01:20.146Z
 tags:
   - ai video
   - ai tiktok
@@ -12,12 +12,12 @@ categories:
 description: "\"This Article Describes 2024 Approved: Unveiling the Top 15 TikTok-Endorsed Literary Gems\""
 excerpt: "\"This Article Describes 2024 Approved: Unveiling the Top 15 TikTok-Endorsed Literary Gems\""
 keywords: "\"TikTok Lit Stories,Viral Book Trends,Popular TikTok Reads,TikTok & Books Collab,TikTok-Favorite Novels,Top TikTok Authors,Best TikTok Literary Works\""
-thumbnail: https://www.lifewire.com/thmb/BHYPoaBsqnN-yv34kxO6pJlwqgc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/chatgpt-fb9cd21b3fe24cdd94c8229ccb140e6a.jpg
+thumbnail: https://thmb.techidaily.com/48eff568c35933b40401a65faa40dbe7bb6a58eb499e343dac1cbda32fedf601.jpg
 ---
 
 ## Unveiling the Top 15 TikTok-Endorsed Literary Gems
 
-##### Versatile Video Editor - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Versatile Video Editor - Wondershare Filmora
 
 An easy yet powerful editor
 

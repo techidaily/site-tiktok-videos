@@ -1,7 +1,7 @@
 ---
 title: "Is My Friend's Account Invisible? Potential Block"
-date: 2024-05-23T13:09:14.488Z
-updated: 2024-05-24T13:09:14.488Z
+date: 2024-06-19T20:01:26.990Z
+updated: 2024-06-20T20:01:26.990Z
 tags:
   - ai video
   - ai snapchat
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Is My Friend's Account Invisible? Potential Block"
 excerpt: "This Article Describes Is My Friend's Account Invisible? Potential Block"
 keywords: "Unseen Friends,Hidden Accounts,Account Visibility,Social Blocking,Invisibility Issue,Friends' Online Status,Potential Block"
-thumbnail: https://www.lifewire.com/thmb/52cm_V9C3TFxE3FG5iT7mPAC1J4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/55a66c62-7dd6-4b7c-b176-5942ad8b77a1-9693aedc51a242109ed21be18d9c340c.jpeg
+thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5a9a2ad4f10fdb3f8f16d4fd.jpeg
 ---
 
 ## Is My Friend's Account Invisible? Potential Block
