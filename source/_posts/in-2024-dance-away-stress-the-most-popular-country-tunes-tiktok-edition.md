@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Dance Away Stress  The Most Popular Country Tunes (TikTok Edition)\""
-date: 2024-05-23T13:36:47.716Z
-updated: 2024-05-24T13:36:47.716Z
+date: 2024-06-27T20:27:49.277Z
+updated: 2024-06-28T20:27:49.277Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Dance Away Stress: The Most Popular Country Tunes (TikTok Edition)\""
 excerpt: "\"This Article Describes In 2024, Dance Away Stress: The Most Popular Country Tunes (TikTok Edition)\""
 keywords: "DanceStressRelief,CountryMusicSoothe,TikTokCountryBeats,TikTokDanceStress,TunesForCalmTikTok,RelaxingCountryVibes,StressBustingTunes"
-thumbnail: https://www.lifewire.com/thmb/ryNUpKy9NUZklFGZ1PWnjnlRSBI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/RazerLancehead-edf4c1f15db24c5da92170fb852d0d5d.jpg
+thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d193a0f319769e26791470115.jpg
 ---
 
 ## Dance Away Stress: The Most Popular Country Tunes (TikTok Edition)

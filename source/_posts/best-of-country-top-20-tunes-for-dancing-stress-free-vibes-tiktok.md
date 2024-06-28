@@ -1,7 +1,7 @@
 ---
 title: "\"Best of Country  Top 20 Tunes for Dancing, Stress-Free Vibes (TikTok)\""
-date: 2024-05-23T13:13:33.622Z
-updated: 2024-05-24T13:13:33.622Z
+date: 2024-06-27T20:27:43.903Z
+updated: 2024-06-28T20:27:43.903Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Best of Country: Top 20 Tunes for Dancing, Stress-Free Vibes (TikTok)\""
 excerpt: "\"This Article Describes Best of Country: Top 20 Tunes for Dancing, Stress-Free Vibes (TikTok)\""
 keywords: "\"Country Dance Hits,Top TikTok Beats,Stress-Free Country Music,Dancing Country Songs,Country Vibes (TikTok),Best Country Playlists,Country Music Chill\""
-thumbnail: https://www.lifewire.com/thmb/TUhwURXlcxOei17rsyNYMPqB2gM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/fix-a-slow-ipad-4103783-381f9e209c244d6c8b6849208db53776.png
+thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3596b8900296a25dc73f79cf.png
 ---
 
 ## Best of Country: Top 20 Tunes for Dancing, Stress-Free Vibes (TikTok)

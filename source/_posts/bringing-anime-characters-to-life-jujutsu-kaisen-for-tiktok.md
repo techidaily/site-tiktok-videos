@@ -1,7 +1,7 @@
 ---
 title: "\"Bringing Anime Characters to Life  Jujutsu Kaisen for TikTok\""
-date: 2024-05-23T13:13:53.537Z
-updated: 2024-05-24T13:13:53.537Z
+date: 2024-06-27T20:27:54.686Z
+updated: 2024-06-28T20:27:54.686Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Bringing Anime Characters to Life: Jujutsu Kaisen for TikTok\""
 excerpt: "\"This Article Describes Bringing Anime Characters to Life: Jujutsu Kaisen for TikTok\""
 keywords: "Anime Liveshots,Jujutsu Kaisen TikTok,Kaijin TikTok Challenges,Mythical Characters TikTok,Anime Cosplay on TikTok,Dynamic Anime Creators,Japanese Mythos TikToks"
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## Bringing Anime Characters to Life: Jujutsu Kaisen for TikTok

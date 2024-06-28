@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Soundscapes  Removing Ambient Noise in Audacity\""
-date: 2024-05-23T13:19:29.566Z
-updated: 2024-05-24T13:19:29.566Z
+date: 2024-06-27T20:27:49.889Z
+updated: 2024-06-28T20:27:49.889Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Perfecting Soundscapes: Removing Ambient Noise in Audacity\""
 excerpt: "\"This Article Describes Perfecting Soundscapes: Removing Ambient Noise in Audacity\""
 keywords: "\"Remove Noise Audacity,Ambient Noise Elimination,Audio Cleanup Tools,Silence Editing Pros,Soundscape Enhancement,De-Noising Software,Noise Reduction Audio\""
-thumbnail: https://www.lifewire.com/thmb/j1p_eafOIBzeuVMoFiTu1Hxzxe4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Familyroadtrip_Maskot_Getty-c760389eb6e64d6682aa79ceb9552967.jpg
+thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f4a1f3aaa3fc523cba06c6cc.jpg
 ---
 
 ## Perfecting Soundscapes: Removing Ambient Noise in Audacity
