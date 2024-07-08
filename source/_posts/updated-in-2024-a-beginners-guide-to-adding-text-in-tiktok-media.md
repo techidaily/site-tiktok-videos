@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, A Beginner's Guide to Adding Text in TikTok Media"
-date: 2024-05-23T14:30:36.548Z
-updated: 2024-05-24T14:30:36.548Z
+date: 2024-07-07T01:11:39.667Z
+updated: 2024-07-08T01:11:39.667Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, A Beginner's Guide to Adding Text in TikTok Media"
 excerpt: "This Article Describes [Updated] In 2024, A Beginner's Guide to Adding Text in TikTok Media"
 keywords: "TikTok Text Addition Guide,Basic TikTok Editing Tips,TikTok Media Content Creation,Starting with TikTok Text Use,Learning TikTok Captioning,Adding Text to TikTok Videos,Essential TikTok Editing Steps"
-thumbnail: https://www.lifewire.com/thmb/6d3Pk0OpPHgsMtYTh0RE0ehMopY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-758317893-3ab5c26f770448db8b4a58205fb549f1.jpg
+thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3ee5edf935baeb75dd083d47.jpg
 ---
 
 ## A Beginner's Guide to Adding Text in TikTok Media

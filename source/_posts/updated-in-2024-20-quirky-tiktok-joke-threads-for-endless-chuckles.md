@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, 20 Quirky TikTok Joke Threads for Endless Chuckles"
-date: 2024-05-23T14:29:31.316Z
-updated: 2024-05-24T14:29:31.316Z
+date: 2024-07-07T01:11:34.049Z
+updated: 2024-07-08T01:11:34.049Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, 20 Quirky TikTok Joke Threads for Endless Chuckles"
 excerpt: "This Article Describes [Updated] In 2024, 20 Quirky TikTok Joke Threads for Endless Chuckles"
 keywords: "\"TikTok Joke Content,Quirky TikToks Laughter,Humorous TikTok Threads,Endless Funny Videos,Comedic TikTok Threads,Chuckle-Inducing TikToks,TikTok Joke Threads\""
-thumbnail: https://www.lifewire.com/thmb/vZc3RPCQzWVRbsQkMBaC5ezxdJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/YouTube-TV-vs-Hulu-Live-TV-7015172e4e17425c910e83e3a5b30dd1.jpg
+thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38c3a471ddf15f2d24d24baec.jpg
 ---
 
 ## 20 Quirky TikTok Joke Threads for Endless Chuckles

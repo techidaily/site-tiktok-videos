@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Illustrating A Novel TikTok End Slide"
-date: 2024-05-23T13:51:48.243Z
-updated: 2024-05-24T13:51:48.243Z
+date: 2024-07-07T01:11:41.179Z
+updated: 2024-07-08T01:11:41.179Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Illustrating A Novel TikTok End Slide"
 excerpt: "This Article Describes In 2024, Illustrating A Novel TikTok End Slide"
 keywords: "TikTok Novel Finale,TikEndSlide Illustration,Novel TikTok Closing,TikNovel Epilogue Sketch,Slide Out Novel TikTok,Ending Illustration TikTok,TikTok Bookend Imagery"
-thumbnail: https://www.lifewire.com/thmb/NEhBa_X6gWPGl78-qJ9CVbmTiy0=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/003_how-to-fix-it-when-a-zoom-microphone-is-not-working-4844958-fd711ebc7fc646ac86c36f8f5b56d84d.jpg
+thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d026e48a10d4a2c1cd89022d5.jpg
 ---
 
 ## Illustrating A Novel TikTok End Slide

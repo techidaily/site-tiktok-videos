@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Essential List  15 Books Shining on TikTok's Literary Scene\""
-date: 2024-05-23T13:43:42.704Z
-updated: 2024-05-24T13:43:42.704Z
+date: 2024-07-07T01:11:31.872Z
+updated: 2024-07-08T01:11:31.872Z
 tags:
   - ai video
   - ai tiktok
@@ -17,7 +17,7 @@ thumbnail: https://www.lifewire.com/thmb/BdGSDv2gz6zVZZNJkXd_bAztPRI=/400x300/fi
 
 ## Essential List: 15 Books Shining on TikTok's Literary Scene
 
-##### Versatile Video Editor - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Versatile Video Editor - Wondershare Filmora
 
 An easy yet powerful editor
 

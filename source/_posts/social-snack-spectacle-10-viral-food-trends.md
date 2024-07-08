@@ -1,7 +1,7 @@
 ---
 title: "\"Social Snack Spectacle  10 Viral Food Trends\""
-date: 2024-05-23T13:20:43.450Z
-updated: 2024-05-24T13:20:43.450Z
+date: 2024-07-07T01:11:38.598Z
+updated: 2024-07-08T01:11:38.598Z
 tags:
   - ai video
   - ai tiktok
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Social Snack Spectacle: 10 Viral Food Trends\""
 excerpt: "\"This Article Describes Social Snack Spectacle: 10 Viral Food Trends\""
 keywords: "\"Social Snack Trends,Viral Food Fads,Meme Meals Galore,Eats that Go Viral,Trending Food Challenges,Memetic Culinary Phenomena,Popularity-Driven Dining\""
-thumbnail: https://www.lifewire.com/thmb/6e-dHhpfl-OgzUpZXzufYG-qf-Y=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/movie-night-at-home-with-popcorn_t20_yv3PA9-5c815f7fc9e77c0001fd5b49.jpg
+thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e55514d7bc0ce5bafaca00aee.jpg
 ---
 
 ## Social Snack Spectacle: 10 Viral Food Trends

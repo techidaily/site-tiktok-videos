@@ -1,7 +1,7 @@
 ---
 title: "Join the Readathon with These #Booktik Hits for 2024"
-date: 2024-05-23T13:53:35.847Z
-updated: 2024-05-24T13:53:35.847Z
+date: 2024-07-07T01:11:39.581Z
+updated: 2024-07-08T01:11:39.581Z
 tags:
   - ai video
   - ai tiktok
@@ -12,12 +12,12 @@ categories:
 description: "This Article Describes Join the Readathon with These #Booktik Hits for 2024"
 excerpt: "This Article Describes Join the Readathon with These #Booktik Hits for 2024"
 keywords: "\"Book Tik Challenge,Readathon Join In,TikTok Reading Trends,BookTik Party Essential,Favorite Books Shout-Out,Hits in Literature,Book Club TikTrend\""
-thumbnail: https://www.lifewire.com/thmb/WpEjByZxjDiu1dRhYVfqcDWX2LU=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Phones_GettyImages-1314284781_ORIG_d3sign._CROPPEDjpg-c1cb62860b3e4228b51aa8566e84abb0.jpg
+thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4734b479814370ac29d24cc7.jpg
 ---
 
 ## Join the Readathon with These #Booktik Hits
 
-##### Versatile Video Editor - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Versatile Video Editor - Wondershare Filmora
 
 An easy yet powerful editor
 
