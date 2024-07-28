@@ -1,7 +1,7 @@
 ---
 title: "\"Adding Social Media Magic  Snapchat to Your Mac\""
-date: 2024-05-23T13:07:37.622Z
-updated: 2024-05-24T13:07:37.622Z
+date: 2024-07-26T23:14:18.230Z
+updated: 2024-07-27T23:14:18.230Z
 tags:
   - ai video
   - ai snapchat
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Adding Social Media Magic: Snapchat to Your Mac\""
 excerpt: "\"This Article Describes Adding Social Media Magic: Snapchat to Your Mac\""
 keywords: "\"Snapchat Mac Integration,Mac Snapchat Connectivity,Social Media on Mac,Snapchat Mac App,Magic Snapchat Mac,Mac Snapchat Add-On,Enhancing Mac with Snapchat\""
-thumbnail: https://www.lifewire.com/thmb/44IYkFUfRU4h-daoi0uxZYAKRhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lifewire_Windows_Update_2624595-9da08302ecc44539b8f0fa484a81227e.jpg
+thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c32a9023581f934b16334c5a.jpg
 ---
 
 ## Adding Social Media Magic: Snapchat to Your Mac
@@ -127,6 +127,13 @@ Yes, the BlueStacks is entirely safe for any operating system, regardless of Mac
 
 Both are Android Emulators and have their corresponding benefits. However, the Nox is said to be quick and smooth running software than BlueStacks. But then, there is no need to download software like Virtual Box on BlueStacks. So, each software comes with its merits and demerits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Hopefully, you got how to get Snapchat on Mac via the different Android Emulators. You should consider using any of the emulator if you can’t resist using the all-time favorite Snapchat app. Also, check out the FAQs section for more clarity.
@@ -137,6 +144,10 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/images2022/download-mac-store.png) ](https://apps.apple.com/app/apple-store/id1516822341?pt=169436&ct=pc-article-top50&mt=8)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 And, we’re here to provide you with a step-by-step guide on both ways. So, let’s begin with how to download Snapchat on Mac with BlueStacks.
@@ -179,6 +190,135 @@ With the steps above, you can easily access Snapchat via BlueStacks. So, you wil
 
 The Nox Player is another free Android Emulator for Mac and PC operating systems. So, let’s check out how to use Snapchat on Mac without BlueStacks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+### Step-by-Step Guide to Using Snapchat on Mac without BlueStacks
+
+**Step 1: Download Nox Player**
+
+Go to <https://www.bignox.com/> and hit the **Download** button to proceed.
+
+Click on **Agree** after you complete installing the Nox Player application.
+
+**Step 2: Start the Nox Player Application**
+
+Drag the Nox Player to the **Applications** folder and double-click the icon to start.
+
+Then, you need to click **Open** to start the Nox Player.
+
+**Step 3: Fix the Virtual Box Issue**
+
+The Nox Player will not start properly if you also get the following message.
+
+**Step 4: Install Virtual Box**
+
+Go to [www.virtualbox.org](http://www.virtualbox.org) and hit the **Download** button.
+
+Then, you need to click the **OS X Hosts** to start downloading the Virtual Box.
+
+Now, double-click the Virtual Box icon to start installing.
+
+You will need to enter the Apple password to finish the installation.
+
+**Step 5: Restart Nox Player**
+
+Restart Nox Player after the installation of the Virtual Box application.
+
+Sign in to your Google Account and check all the permissions. So, you need to click on the Play Store first.
+
+After you complete all the **Sign In** procedure, you can open the Play Store and search for Snapchat.
+
+So, this is how to get Snapchat on Mac without BlueStacks. Well, both the methods are pretty definitive and need the software to primarily open to access Snapchat.
+
+Do you have more queries? Scroll to the section below to find more FAQs related to more on how to use Snapchat on Mac.
+
+## Part 3: FAQs about Using Snapchat on Mac
+
+**1\. Is it possible to get Snapchat on a Mac?**
+
+Yes. Officially, it is not possible to use Snapchat on Mac without using any Android Emulator. Thus, we have mentioned how to use Snapchat on Mac with BlueStacks and Nox Player.
+
+**2\. How do I log into Snapchat on my Mac?**
+
+You can log into Snapchat on Mac only after you’ve installed it over your Mac computer. And, we all know that the Snapchat app is not officially available for Mac. So, you need to primarily download the Android Emulator and then install Snapchat from the Google Play Store via the Emulator itself.
+
+ **3\. How can I use Snapchat on my Mac without BlueStacks?**
+
+There isn’t the best and free Android Emulator than the Nox Player if you want to replace BlueStacks.
+
+**4\. Is BlueStacks Mac safe?**
+
+Yes, the BlueStacks is entirely safe for any operating system, regardless of Mac. It is legal as well.
+
+**5\. Is Nox better than BlueStacks?**
+
+Both are Android Emulators and have their corresponding benefits. However, the Nox is said to be quick and smooth running software than BlueStacks. But then, there is no need to download software like Virtual Box on BlueStacks. So, each software comes with its merits and demerits.
+
+## Conclusion
+
+Hopefully, you got how to get Snapchat on Mac via the different Android Emulators. You should consider using any of the emulator if you can’t resist using the all-time favorite Snapchat app. Also, check out the FAQs section for more clarity.
+
+#### [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/images2022/download-mac-store.png) ](https://apps.apple.com/app/apple-store/id1516822341?pt=169436&ct=pc-article-top50&mt=8)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+And, we’re here to provide you with a step-by-step guide on both ways. So, let’s begin with how to download Snapchat on Mac with BlueStacks.
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: How to Download Snapchat on Mac with BlueStacks?
+
+The BlueStacks is nothing but an Android Emulator for your Windows and Mac PC. It generally provides the means to run Android applications on a PC. So, it is similar to an Android phone inside your PC. Well, BlueStacks delivers one of the best ways **how to use Snapchat on Mac**.
+
+### Step-by-Step Guide on How to Use Snapchat on Mac
+
+**Step 1: Download the BlueStacks Android Emulator**
+
+Go to <https://www.BlueStacks.com/> and click the **Download BlueStacks** tab to proceed.
+
+Proceed for installation by selecting the **Allow** button.
+
+Open the .dmg file and allow the prompts and instructions on the screen.
+
+Click the **Open** \> **Install Now** button afterward, as shown below on your Mac.
+
+**Step 2: Set Initial Boot**
+
+After you finish installing BlueStacks, know how to get Snapchat on Mac by following the instructions and setting it for initial boot. Then, you are required to allow all the permissions within the app.
+
+Make sure to unblock BlueStacks if you are using the newer versions of macOS. Go to **Security** **&** **Privacy** \> **General** \> **Allow** and proceed.
+
+**Step 3: Link Your Google Account**
+
+Now, you need to sign in with your Google account to download apps from Play Store.
+
+**Step 4: Download Snapchat**
+
+Lookup for Snapchat in the Google Play Store and hit the **Install** button to download.
+
+Once the installation is over, open the Snapchat app and start using it.
+
+With the steps above, you can easily access Snapchat via BlueStacks. So, you will need to open the BlueStacks first every time!
+
+## Part 2: How to Download Snapchat on Mac without BlueStacks?
+
+The Nox Player is another free Android Emulator for Mac and PC operating systems. So, let’s check out how to use Snapchat on Mac without BlueStacks.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### Step-by-Step Guide to Using Snapchat on Mac without BlueStacks
 
 **Step 1: Download Nox Player**
@@ -251,6 +391,9 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/images2022/download-mac-store.png) ](https://apps.apple.com/app/apple-store/id1516822341?pt=169436&ct=pc-article-top50&mt=8)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 And, we’re here to provide you with a step-by-step guide on both ways. So, let’s begin with how to download Snapchat on Mac with BlueStacks.
@@ -259,6 +402,9 @@ And, we’re here to provide you with a step-by-step guide on both ways. So, let
 
 The BlueStacks is nothing but an Android Emulator for your Windows and Mac PC. It generally provides the means to run Android applications on a PC. So, it is similar to an Android phone inside your PC. Well, BlueStacks delivers one of the best ways **how to use Snapchat on Mac**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Step-by-Step Guide on How to Use Snapchat on Mac
 
 **Step 1: Download the BlueStacks Android Emulator**
@@ -293,6 +439,9 @@ With the steps above, you can easily access Snapchat via BlueStacks. So, you wil
 
 The Nox Player is another free Android Emulator for Mac and PC operating systems. So, let’s check out how to use Snapchat on Mac without BlueStacks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Step-by-Step Guide to Using Snapchat on Mac without BlueStacks
 
 **Step 1: Download Nox Player**
@@ -333,6 +482,9 @@ So, this is how to get Snapchat on Mac without BlueStacks. Well, both the method
 
 Do you have more queries? Scroll to the section below to find more FAQs related to more on how to use Snapchat on Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Part 3: FAQs about Using Snapchat on Mac
 
 **1\. Is it possible to get Snapchat on a Mac?**
@@ -363,122 +515,14 @@ Hopefully, you got how to get Snapchat on Mac via the different Android Emulator
 
 Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/images2022/download-mac-store.png) ](https://apps.apple.com/app/apple-store/id1516822341?pt=169436&ct=pc-article-top50&mt=8)
 
-![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-And, we’re here to provide you with a step-by-step guide on both ways. So, let’s begin with how to download Snapchat on Mac with BlueStacks.
-
-## Part 1: How to Download Snapchat on Mac with BlueStacks?
-
-The BlueStacks is nothing but an Android Emulator for your Windows and Mac PC. It generally provides the means to run Android applications on a PC. So, it is similar to an Android phone inside your PC. Well, BlueStacks delivers one of the best ways **how to use Snapchat on Mac**.
-
-### Step-by-Step Guide on How to Use Snapchat on Mac
-
-**Step 1: Download the BlueStacks Android Emulator**
-
-Go to <https://www.BlueStacks.com/> and click the **Download BlueStacks** tab to proceed.
-
-Proceed for installation by selecting the **Allow** button.
-
-Open the .dmg file and allow the prompts and instructions on the screen.
-
-Click the **Open** \> **Install Now** button afterward, as shown below on your Mac.
-
-**Step 2: Set Initial Boot**
-
-After you finish installing BlueStacks, know how to get Snapchat on Mac by following the instructions and setting it for initial boot. Then, you are required to allow all the permissions within the app.
-
-Make sure to unblock BlueStacks if you are using the newer versions of macOS. Go to **Security** **&** **Privacy** \> **General** \> **Allow** and proceed.
-
-**Step 3: Link Your Google Account**
-
-Now, you need to sign in with your Google account to download apps from Play Store.
-
-**Step 4: Download Snapchat**
-
-Lookup for Snapchat in the Google Play Store and hit the **Install** button to download.
-
-Once the installation is over, open the Snapchat app and start using it.
-
-With the steps above, you can easily access Snapchat via BlueStacks. So, you will need to open the BlueStacks first every time!
-
-## Part 2: How to Download Snapchat on Mac without BlueStacks?
-
-The Nox Player is another free Android Emulator for Mac and PC operating systems. So, let’s check out how to use Snapchat on Mac without BlueStacks.
-
-### Step-by-Step Guide to Using Snapchat on Mac without BlueStacks
-
-**Step 1: Download Nox Player**
-
-Go to <https://www.bignox.com/> and hit the **Download** button to proceed.
-
-Click on **Agree** after you complete installing the Nox Player application.
-
-**Step 2: Start the Nox Player Application**
-
-Drag the Nox Player to the **Applications** folder and double-click the icon to start.
-
-Then, you need to click **Open** to start the Nox Player.
-
-**Step 3: Fix the Virtual Box Issue**
-
-The Nox Player will not start properly if you also get the following message.
-
-**Step 4: Install Virtual Box**
-
-Go to [www.virtualbox.org](http://www.virtualbox.org) and hit the **Download** button.
-
-Then, you need to click the **OS X Hosts** to start downloading the Virtual Box.
-
-Now, double-click the Virtual Box icon to start installing.
-
-You will need to enter the Apple password to finish the installation.
-
-**Step 5: Restart Nox Player**
-
-Restart Nox Player after the installation of the Virtual Box application.
-
-Sign in to your Google Account and check all the permissions. So, you need to click on the Play Store first.
-
-After you complete all the **Sign In** procedure, you can open the Play Store and search for Snapchat.
-
-So, this is how to get Snapchat on Mac without BlueStacks. Well, both the methods are pretty definitive and need the software to primarily open to access Snapchat.
-
-Do you have more queries? Scroll to the section below to find more FAQs related to more on how to use Snapchat on Mac.
-
-## Part 3: FAQs about Using Snapchat on Mac
-
-**1\. Is it possible to get Snapchat on a Mac?**
-
-Yes. Officially, it is not possible to use Snapchat on Mac without using any Android Emulator. Thus, we have mentioned how to use Snapchat on Mac with BlueStacks and Nox Player.
-
-**2\. How do I log into Snapchat on my Mac?**
-
-You can log into Snapchat on Mac only after you’ve installed it over your Mac computer. And, we all know that the Snapchat app is not officially available for Mac. So, you need to primarily download the Android Emulator and then install Snapchat from the Google Play Store via the Emulator itself.
-
- **3\. How can I use Snapchat on my Mac without BlueStacks?**
-
-There isn’t the best and free Android Emulator than the Nox Player if you want to replace BlueStacks.
-
-**4\. Is BlueStacks Mac safe?**
-
-Yes, the BlueStacks is entirely safe for any operating system, regardless of Mac. It is legal as well.
-
-**5\. Is Nox better than BlueStacks?**
-
-Both are Android Emulators and have their corresponding benefits. However, the Nox is said to be quick and smooth running software than BlueStacks. But then, there is no need to download software like Virtual Box on BlueStacks. So, each software comes with its merits and demerits.
-
-## Conclusion
-
-Hopefully, you got how to get Snapchat on Mac via the different Android Emulators. You should consider using any of the emulator if you can’t resist using the all-time favorite Snapchat app. Also, check out the FAQs section for more clarity.
-
-#### [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/images2022/download-mac-store.png) ](https://apps.apple.com/app/apple-store/id1516822341?pt=169436&ct=pc-article-top50&mt=8)
-
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 <ins class="adsbygoogle"
@@ -493,10 +537,16 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## InvisiStorytelling: The Complete Guide for Stealthy Sharing
 
 # How to Make a Private Story on Snapchat: A Complete Guide
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -518,6 +568,9 @@ Stories are a term popular in Snapchat, to showcase images and videos for the la
 
 There is a difference between ‘My Stories’ and ‘Private Stories’. When you record and post a video or a photo on your Snapchat account publicly, it is seen by all your contacts. On the other hand, if you wish to post a private story, you need to create a custom story. After you create a custom story, you can then post the same as a private one. Here you select the ones who would view the story. You choose the contacts who would view the post before publishing it. Another aspect is that no one else can add content to the private stories you post on Snapchat.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Create a Private Story on Snapchat?
 
 To begin how to make a private story on Snapchat, here are the steps to follow:
@@ -538,6 +591,9 @@ Click the ‘Open Your Profile’ section and tap on the profile icon. You will 
 
 #### 3.Select the Private Story option
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Select Private Story Snapchat](https://images.wondershare.com/filmora/article-images/select-private-story-snapchat.jpg)
 
 You will find options such as ‘Private Story’ or ‘Custom Story’ to add in the ‘Stories’ section. You might be asked to confirm whether you wish to make a private story. Simply tap on ‘Private Story’ to get started.
@@ -548,6 +604,9 @@ Start by adding photos or videos to your story. Tap on a rectangle icon with a p
 
 #### 5.Share with Your Select Friends
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Share Snapchat Private Story](https://images.wondershare.com/filmora/article-images/share-snapchat-private-story.jpg)
 
 Once your video or photos are ready for sharing, proceed to the ‘Send’ tab. Check off the circle next to ‘My Story’, ensuring that the feed will not be public. You can then choose friends from your contact list who would receive the Snapchat private story. Alternately, you could find the story in the ‘Stories’ section on your user page. Once the story is selected, tap on a recipient to whom you wish to share the private story. After you pick the people you wish to share the story with, hit the ‘Send’ button.
@@ -600,6 +659,9 @@ Since private stories are usually daily incidents that could be mundane, funny, 
 
 To get creative, choose a name that would set the narrative or theme for your story. You could then add on photos and videos to showcase the theme.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Troubleshooting Tips: When Someone Hide Their Snapchat Stories from You
 
 **How to Know if Someone Hid Their Snapchat Story from You?**
@@ -647,6 +709,9 @@ Stories are a term popular in Snapchat, to showcase images and videos for the la
 
 There is a difference between ‘My Stories’ and ‘Private Stories’. When you record and post a video or a photo on your Snapchat account publicly, it is seen by all your contacts. On the other hand, if you wish to post a private story, you need to create a custom story. After you create a custom story, you can then post the same as a private one. Here you select the ones who would view the story. You choose the contacts who would view the post before publishing it. Another aspect is that no one else can add content to the private stories you post on Snapchat.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Create a Private Story on Snapchat?
 
 To begin how to make a private story on Snapchat, here are the steps to follow:
@@ -729,6 +794,9 @@ Since private stories are usually daily incidents that could be mundane, funny, 
 
 To get creative, choose a name that would set the narrative or theme for your story. You could then add on photos and videos to showcase the theme.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Troubleshooting Tips: When Someone Hide Their Snapchat Stories from You
 
 **How to Know if Someone Hid Their Snapchat Story from You?**
@@ -770,12 +838,18 @@ A private story is one that you share with your closest friends. Snapchat is a w
 * [Part 3: Creative Private Story Names and Ideas for Snapchat](#part3)
 * [Part 4: Troubleshooting Tips: When Someone Hide Their Snapchat Stories from You](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## What Is a Private Story on Snapchat?
 
 Stories are a term popular in Snapchat, to showcase images and videos for the last 24 hours. Stories can comprise photos as well as videos. You can post stories to your feed which you can view as well as your friends. These show your friends your different activities the day before. These exist for the next 24 hours within which you can replay them many times.
 
 There is a difference between ‘My Stories’ and ‘Private Stories’. When you record and post a video or a photo on your Snapchat account publicly, it is seen by all your contacts. On the other hand, if you wish to post a private story, you need to create a custom story. After you create a custom story, you can then post the same as a private one. Here you select the ones who would view the story. You choose the contacts who would view the post before publishing it. Another aspect is that no one else can add content to the private stories you post on Snapchat.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Create a Private Story on Snapchat?
 
 To begin how to make a private story on Snapchat, here are the steps to follow:
@@ -806,6 +880,9 @@ Start by adding photos or videos to your story. Tap on a rectangle icon with a p
 
 #### 5.Share with Your Select Friends
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Share Snapchat Private Story](https://images.wondershare.com/filmora/article-images/share-snapchat-private-story.jpg)
 
 Once your video or photos are ready for sharing, proceed to the ‘Send’ tab. Check off the circle next to ‘My Story’, ensuring that the feed will not be public. You can then choose friends from your contact list who would receive the Snapchat private story. Alternately, you could find the story in the ‘Stories’ section on your user page. Once the story is selected, tap on a recipient to whom you wish to share the private story. After you pick the people you wish to share the story with, hit the ‘Send’ button.
@@ -874,10 +951,17 @@ To use this feature, all you need to do is tap on the group or the person you wi
 
 This feature is a useful addition and you need not hide or block a contact to silence conversations from them. Hence, those people will also not get notified unlike when you block a contact. It allows you to see updates from them at your ease and convenience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Snapchat is an attractive platform to get your daily moments the attention they deserve. You can create stories, private or with anyone else, and share them with selective people of your choice. The Snapchat private story option is great to keep your moments between your close friends or loved ones. Other features such as ‘Do Not Disturb’ allow you to silence notifications from friends or groups that you wish to check as per your convenience.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -899,12 +983,22 @@ A private story is one that you share with your closest friends. Snapchat is a w
 * [Part 3: Creative Private Story Names and Ideas for Snapchat](#part3)
 * [Part 4: Troubleshooting Tips: When Someone Hide Their Snapchat Stories from You](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## What Is a Private Story on Snapchat?
 
 Stories are a term popular in Snapchat, to showcase images and videos for the last 24 hours. Stories can comprise photos as well as videos. You can post stories to your feed which you can view as well as your friends. These show your friends your different activities the day before. These exist for the next 24 hours within which you can replay them many times.
 
 There is a difference between ‘My Stories’ and ‘Private Stories’. When you record and post a video or a photo on your Snapchat account publicly, it is seen by all your contacts. On the other hand, if you wish to post a private story, you need to create a custom story. After you create a custom story, you can then post the same as a private one. Here you select the ones who would view the story. You choose the contacts who would view the post before publishing it. Another aspect is that no one else can add content to the private stories you post on Snapchat.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Create a Private Story on Snapchat?
 
 To begin how to make a private story on Snapchat, here are the steps to follow:
@@ -925,6 +1019,9 @@ Click the ‘Open Your Profile’ section and tap on the profile icon. You will 
 
 #### 3.Select the Private Story option
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Select Private Story Snapchat](https://images.wondershare.com/filmora/article-images/select-private-story-snapchat.jpg)
 
 You will find options such as ‘Private Story’ or ‘Custom Story’ to add in the ‘Stories’ section. You might be asked to confirm whether you wish to make a private story. Simply tap on ‘Private Story’ to get started.
@@ -941,6 +1038,9 @@ Once your video or photos are ready for sharing, proceed to the ‘Send’ tab. 
 
 Once you have chosen the recipients of your Snapchat private story, they will be able to see your private as well as public stories. In the iPhone, the application shows the videos as mixed up. For Android users, the stories can be differentiated. Also, the people who were not specified for receiving the private content will have no idea of the private stories created and shared with others.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Creative Private Story Names and Ideas for Snapchat](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Since private stories are usually daily incidents that could be mundane, funny, or tragic, here are some quirky name ideas for the same:
@@ -987,6 +1087,9 @@ Since private stories are usually daily incidents that could be mundane, funny, 
 
 To get creative, choose a name that would set the narrative or theme for your story. You could then add on photos and videos to showcase the theme.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Troubleshooting Tips: When Someone Hide Their Snapchat Stories from You
 
 **How to Know if Someone Hid Their Snapchat Story from You?**
@@ -1003,6 +1106,10 @@ To use this feature, all you need to do is tap on the group or the person you wi
 
 This feature is a useful addition and you need not hide or block a contact to silence conversations from them. Hence, those people will also not get notified unlike when you block a contact. It allows you to see updates from them at your ease and convenience.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Snapchat is an attractive platform to get your daily moments the attention they deserve. You can create stories, private or with anyone else, and share them with selective people of your choice. The Snapchat private story option is great to keep your moments between your close friends or loved ones. Other features such as ‘Do Not Disturb’ allow you to silence notifications from friends or groups that you wish to check as per your convenience.
@@ -1030,3 +1137,47 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-key-to-generating-an-exclusive-tag-on-tiktok/"><u>[New] 2024 Approved  Key to Generating an Exclusive Tag on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-mastery-guide-critical-tiktok-macos-elements/"><u>[New] 2024 Approved  Mastery Guide  Critical TikTok (macOS) Elements</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-your-starting-guide-to-tiktok-macos-basics/"><u>[New] 2024 Approved  Your Starting Guide to TikTok (macOS) Basics</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-building-a-cohesive-tiktok-ending-spectacle/"><u>[New] Building a Cohesive TikTok Ending Spectacle</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-elevating-your-presence-a-tiktok-desktop-guide-for-2024/"><u>[New] Elevating Your Presence  A TikTok Desktop Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-minecraft-branding-tools-download-for-2024/"><u>[New] Free Minecraft Branding Tools Download for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-change-your-tiktok-username-an-ultimate-guide/"><u>[New] In 2024, How to Change Your TikTok Username - an Ultimate Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-revitalize-your-tiktok-videos-masterful-techniques-to-alter-backdrops/"><u>[New] In 2024, Revitalize Your TikTok Videos  Masterful Techniques to Alter Backdrops</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-making-the-most-of-both-worlds-obs-and-zoom-guide-for-2024/"><u>[New] Making the Most of Both Worlds  OBS & Zoom Guide for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-metaverse-musings-top-30-quotes-for-immersive-living-for-2024/"><u>[New] Metaverse Musings  Top 30 Quotes for Immersive Living for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ptimize-your-video-library-youtubes-to-dailymotion-directly-for-2024/"><u>[New] Optimize Your Video Library  YouTubes to Dailymotion Directly for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-speeding-up-tiktoks-simple-techniques-for-faster-videos-for-2024/"><u>[New] Speeding Up TikToks  Simple Techniques for Faster Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-font-customization-in-ae/"><u>[New] The Ultimate Guide to Font Customization in AE</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-top-25-anime-visionaries-on-tiktok-changing-content-norms/"><u>[New] Top 25 Anime Visionaries on TikTok Changing Content Norms</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unusual-upsets-top-10-unexpected-gaming-sensations-on-tiktok-for-2024/"><u>[New] Unusual Upsets  Top 10 Unexpected Gaming Sensations on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-crafting-an-engaging-tiktok-closing-credits/"><u>[Updated] 2024 Approved  Crafting An Engaging TikTok Closing Credits</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fast-tracking-social-scanning-mastering-fb-profiles/"><u>[Updated] 2024 Approved  Fast-Tracking Social Scanning  Mastering FB Profiles</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unleash-your-full-potential-in-tiktok-video-making-with-templates/"><u>[Updated] 2024 Approved  Unleash Your Full Potential in TikTok Video Making with Templates</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-achieving-video-greatness-on-tiktok-with-smart-use-of-pre-made-templates/"><u>[Updated] Achieving Video Greatness on TikTok with Smart Use of Pre-Made Templates</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-building-an-effective-monetization-plan-for-video-content-on-vimeo/"><u>[Updated] In 2024, Building an Effective Monetization Plan for Video Content on Vimeo</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-co-singers-capturing-hearts-online/"><u>[Updated] In 2024, Co-Singers Capturing Hearts Online</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-ensuring-tiktok-authenticity-pre-upload-rights-confirmation/"><u>[Updated] In 2024, Ensuring TikTok Authenticity  Pre-Upload Rights Confirmation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-newest-tiktok-sensations-for-your-earseyes/"><u>[Updated] In 2024, The Newest TikTok Sensations for Your Ears/Eyes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-top-15-reading-recommendations-from-booktok-stars/"><u>[Updated] In 2024, Top 15 Reading Recommendations From BookTok Stars</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-launch-into-live-tiktok-from-computer-quick-and-easy-steps-for-2024/"><u>[Updated] Launch Into Live TikTok From Computer – Quick and Easy Steps for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-guide-to-utilizing-siri-on-tiktok-videos/"><u>2024 Approved  Guide to Utilizing Siri on TikTok Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screenrec-101-essential-techniques-for-laptops/"><u>2024 Approved  ScreenRec 101  Essential Techniques for Laptops</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-principles-for-youtube-participants-for-2024/"><u>Adept Principles for YouTube Participants for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/chromes-edge-in-tiktok-video-upload-and-distribution/"><u>Chrome's Edge in TikTok Video Upload & Distribution</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-motorola-moto-g-stylus-2023-by-drfone-android/"><u>Full Guide to Unlock Your Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-make-every-snap-count-top-15-tips-and-tricks/"><u>How to Make Every Snap Count  Top 15 Tips & Tricks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-y78t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Y78t</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-realme-gt-5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Realme GT 5 to iPod | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Identify missing your hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-an-insiders-look-at-tiktok-element-hierarchy/"><u>In 2024, An Insider's Look at TikTok Element Hierarchy</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-establishing-a-unique-code-for-your-tiktok-presence/"><u>In 2024, Establishing a Unique Code for Your TikTok Presence</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/proactive-measures-for-validating-tiktok-copyright-status/"><u>Proactive Measures for Validating TikTok Copyright Status</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/shenanigans-unleashed-the-wildest-tiktok-game-spectacle/"><u>Shenanigans Unleashed  The Wildest TikTok Game Spectacle</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/taking-screenshot-on-windows-1087/"><u>Taking Screenshot on Windows 10/8/7</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/viral-cooking-hits-best-tiktok-dishes-for-2024/"><u>Viral Cooking Hits  Best TikTok Dishes for 2024</u></a></li>
+</ul></div>
