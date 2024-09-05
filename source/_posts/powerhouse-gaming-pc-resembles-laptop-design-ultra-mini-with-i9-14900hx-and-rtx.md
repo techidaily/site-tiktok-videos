@@ -1,7 +1,7 @@
 ---
 title: Powerhouse Gaming PC Resembles Laptop Design - Ultra Mini with I9-14900HX & RTX
-date: 2024-08-13T01:14:27.423Z
-updated: 2024-08-14T01:14:27.423Z
+date: 2024-09-04T00:10:56.972Z
+updated: 2024-09-05T00:10:56.972Z
 tags:
   - desktop
 categories:
@@ -54,9 +54,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -124,3 +121,16 @@ __Ayaneo Retro Mini PC AM01 Specification__
 <li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-a-step-by-step-guide-to-accessing-spotifys-student-pricing/"><u>Unlocking the Secrets: A Step-by-Step Guide to Accessing Spotify's Student Pricing</u></a></li>
 <li><a href="https://some-skills.techidaily.com/unveiling-the-most-economical-cloud-stores-for-2024/"><u>Unveiling the Most Economical Cloud Stores for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="960" height="540" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

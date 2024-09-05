@@ -1,7 +1,7 @@
 ---
 title: Tom's Computer Gear Breakdown - Expert Analysis & Reviews
-date: 2024-08-13T01:14:18.642Z
-updated: 2024-08-14T01:14:18.642Z
+date: 2024-09-04T00:10:57.123Z
+updated: 2024-09-05T00:10:57.123Z
 tags:
   - desktop
 categories:
@@ -35,9 +35,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -100,3 +97,16 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 <li><a href="https://tiktok-videos.techidaily.com/trending-tiktok-faves-and-their-amazon-counterparts/"><u>Trending TikTok Faves & Their Amazon Counterparts</u></a></li>
 <li><a href="https://extra-tips.techidaily.com/unveiling-the-key-to-thriving-in-online-communities-like-reddit/"><u>Unveiling the Key to Thriving in Online Communities Like Reddit</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="150" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

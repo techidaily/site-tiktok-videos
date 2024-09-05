@@ -1,7 +1,7 @@
 ---
 title: "Tecno X's GeekOm Mega Mini G1: A Unique Aquarium Style PC Powered by Intel I9 and Nvidia RTX Graphics"
-date: 2024-08-13T01:14:48.103Z
-updated: 2024-08-14T01:14:48.103Z
+date: 2024-09-04T00:10:56.577Z
+updated: 2024-09-05T00:10:56.577Z
 tags:
   - desktop
 categories:
@@ -41,9 +41,6 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -118,3 +115,16 @@ These are the specifications of the two Asus ROG NUC models:
 <li><a href="https://tiktok-videos.techidaily.com/unlock-new-creative-potential-on-tiktok-with-easy-background-swaps-for-2024/"><u>Unlock New Creative Potential on TikTok with Easy Background Swaps for 2024</u></a></li>
 <li><a href="https://tech-hub.techidaily.com/unveiling-the-influence-of-smart-chatbots-on-modern-content-creation-techniques/"><u>Unveiling the Influence of Smart Chatbots on Modern Content Creation Techniques</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="125" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
