@@ -1,7 +1,7 @@
 ---
 title: "Introducing Lenovo's New Global Yoga Portable AI: 3.7L Mini PC with 14Th Gen Intel Processor & ThinkCentre-Inspired Design"
-date: 2024-09-04T00:10:57.045Z
-updated: 2024-09-05T00:10:57.045Z
+date: 2024-09-09T03:42:28.331Z
+updated: 2024-09-10T03:42:28.331Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/533236261129cabe3de86d1bef1cbed00a9ea2770d693fc8e5825a129a9010b9.JPG
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Secure a High-Performance Gaming PC with an RTX 3,080 for Only $2,091 - Avail Lenovo's Deal Now
 
 Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty discount from the MSRP price listing. Lenovo is offering a rather generous 33% off a range of their PC products, with a huge $1,058 discount off the price of the Lenovo Legion Tower 7i Gen 8 (RTX 4080 Super) desktop PC. With the listed components packed inside this PC, you could run a top-spec gaming machine, have a lot of power for productivity work and content creation, or even play around with some AI software.
@@ -103,16 +109,3 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 <li><a href="https://tiktok-videos.techidaily.com/vocal-ensemble-in-the-digital-age-tiktok-edition/"><u>Vocal Ensemble in the Digital Age  TikTok Edition</u></a></li>
 <li><a href="https://tiktok-videos.techidaily.com/your-easy-route-to-tiktok-bliss-on-a-macbook/"><u>Your Easy Route to TikTok Bliss on a MacBook</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="125" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
