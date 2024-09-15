@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Instagrammable Vs. Trendy  Will LikeBeat TikTok?\""
-date: 2024-09-09T03:42:30.556Z
-updated: 2024-09-10T03:42:30.556Z
+date: 2024-09-08T16:00:05.039Z
+updated: 2024-09-14T16:22:12.701Z
 tags:
   - ai video
   - ai tiktok
@@ -15,24 +15,12 @@ keywords: "Instagram Chic,Trendsetting Beats,TikTok Popularity,InstaTrends Impac
 thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc393141382248bd9298fb623a960664270.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Instagrammable Vs. Trendy: Will LikeBeat TikTok?
 
 # Likee vs. Tiktok: Will Likee Surpass TikTok?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
@@ -54,12 +42,6 @@ Here’s a detailed insight on Likee vs. TikTok.
 * [Part 3: Likee vs. TikTok: Features Comparison - Similarities & Differences](#part3)
 * [Part 4: Will Likee Surpass TikTok?](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Likee & What Is TikTok?
 
 #### Likee
@@ -68,18 +50,6 @@ Launched in the year 2017, Likee allows users to create short videos easily with
 
 ![Likee Features](https://images.wondershare.com/filmora/article-images/likee.png)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### TikTok
 
 Released in September 2016, TikTok is the most popular short-form, video-sharing app. Often referred to as a “lip-syncing” app, it gives users the freedom to create and share 15-second mobile videos on any topic. It is a fun and entertaining app that has emerged as one of the biggest marketing and social networking platforms today.
@@ -112,6 +82,19 @@ With people debating on whether to stick with TikTok or switch to Likee, are you
 | Socialization         | TikTok aims to redefine digital socialization by introducing online video socialization | Likee allows user to watch live streaming and make new friends by People Nearby function                 |
 | Users                 | 800 million active users worldwide                                                      | 150 million monthly active users                                                                         |
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Likee Surpass TikTok?
 
 With the whole “TikTok being banned in the US” becoming a thing, some assumed that competitors will soon surpass TikTok. However, no competitor, including Likee has been successful in doing so. Although some users switched to other video-sharing apps in panic, TikTok remains to be in the spotlight even today. Moreover, after a deal was sealed with Walmart and Oracle, it appears that TikTok will be able to continue its operations in the U.S.
@@ -139,11 +122,12 @@ This is a part of TikTok’s competitive advantage over Likee. With an endless n
 ![Tiktok Problem](https://images.wondershare.com/filmora/article-images/tiktok-problem.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 source：www.theguardian.com
 
 ### Conclusion
@@ -152,87 +136,11 @@ No matter whether you are social media lurker or a content creator, be assured t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-engineering-unique-tiktok-outro-animations/"><u>[New] 2024 Approved  Engineering Unique TikTok Outro Animations</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-navigating-tiktok-on-both-mac-and-windows-devices/"><u>[New] 2024 Approved  Navigating TikTok on Both Mac & Windows Devices</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-trustful-growth-how-to-properly-buy-tiktok-followers/"><u>[New] 2024 Approved  Trustful Growth  How to Properly Buy TikTok Followers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-a-beginners-guide-to-jujutsu-kaisen-on-tiktok/"><u>[New] A Beginner’s Guide to Jujutsu Kaisen on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-comic-corner-tickling-fun-with-the-top-tiktok-jokes-and-pranks/"><u>[New] Comic Corner  Tickling Fun with the Top TikTok Jokes and Pranks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-comprehensive-breakdown-of-theta-s-specifications/"><u>[New] Comprehensive Breakdown of Theta S Specifications</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-cutting-edge-anime-ideas-dominating-social-media-screens-for-2024/"><u>[New] Cutting-Edge Anime Ideas Dominating Social Media Screens for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-dare-to-be-noteworthy-top-30-innovative-tiktok-usernames/"><u>[New] Dare to Be Noteworthy  Top 30 Innovative TikTok Usernames</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-10-customizable-tikfilters-for-unique-content/"><u>[New] In 2024, Top 10 Customizable TikFilters for Unique Content</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-navigating-tiktok-with-mac-key-knowledge-points-for-2024/"><u>[New] Navigating TikTok with Mac  Key Knowledge Points for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-premium-top-5-storage-solutions-for-xbox-for-2024/"><u>[New] Premium Top 5 Storage Solutions for Xbox for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-snippets-from-cinema-to-skillful-editors-arsenal/"><u>[New] Snippets From Cinema to Skillful Editors' Arsenal</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-elite-10-of-tiktok-game-stars/"><u>[New] The Elite 10 of TikTok Game Stars</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-final-act-of-severing-tiktok-ties-temporarily/"><u>[New] The Final Act of Severing TikTok Ties Temporarily</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-10-chucklesome-tiktok-riddles/"><u>[Updated] 10 Chucklesome TikTok Riddles</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-decoding-fbs-interface-how-to-find-just-watched-content/"><u>[Updated] 2024 Approved  Decoding FB's Interface  How To Find Just-Watched Content</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-elevating-your-tiktok-presence-harness-the-power-of-siri-speech/"><u>[Updated] 2024 Approved  Elevating Your TikTok Presence  Harness the Power of Siri Speech</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-tiktok-mastery-in-a-nutshell-quick-guide-for-camera-ready-recordings/"><u>[Updated] 2024 Approved  TikTok Mastery in a Nutshell  Quick Guide for Camera-Ready Recordings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-360-video-editors-how-to-upload-360-video-to-youtube-for-2024/"><u>[Updated] 360 Video Editors  How to Upload 360 Video to YouTube for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-elevate-to-a-custom-hashtag-mastery-on-tiktok/"><u>[Updated] Elevate to a Custom Hashtag Mastery on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-engaging-and-eye-catching-tiktok-videos-made-simple/"><u>[Updated] Engaging and Eye-Catching TikTok Videos Made Simple</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-filter-frenzy-unleash-the-power-of-10-innovative-tools-for-2024/"><u>[Updated] Filter Frenzy  Unleash the Power of 10 Innovative Tools for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-zero-to-hero-profit-on-reddit-with-no-experience-top-13/"><u>[Updated] From Zero to Hero  Profit on Reddit with No Experience (Top 13)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easy-tutorial-uploading-youtube-shorts-video-via-computer-and-phone/"><u>[Updated] In 2024, Easy Tutorial  Uploading YouTube Shorts Video via Computer & Phone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-effortless-gameplay-capture-a-compreayers-approach-to-xbox-recording/"><u>[Updated] In 2024, Effortless Gameplay Capture  A Compreayer's Approach to Xbox Recording</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-laugh-literature-documenting-the-funniest-trends-on-tiktok/"><u>[Updated] In 2024, Laugh Literature  Documenting the Funniest Trends on TikTok</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-roadmap-to-creating-unforgettable-facebook-cover-videos/"><u>[Updated] In 2024, The Roadmap to Creating Unforgettable Facebook Cover Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-infiltrate-a-tiktok-livestream-with-precision-for-2024/"><u>[Updated] Infiltrate a TikTok Livestream With Precision for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-instant-melodic-livestreaming-on-iqiyi-for-2024/"><u>[Updated] Instant Melodic Livestreaming on IQiYi for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-joining-in-on-tiktok-gigs-without-causing-a-ruckus-for-2024/"><u>[Updated] Joining in on TikTok Gigs Without Causing a Ruckus for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-make-every-sound-count-comprehensive-guide-to-free-youtube-video-transcriptions/"><u>[Updated] Make Every Sound Count  Comprehensive Guide to Free YouTube Video Transcriptions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pazeras-audio-extraction-mastery-in-the-2024-landscape/"><u>[Updated] Pazera's Audio Extraction Mastery in the 2024 Landscape</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-producing-an-expressive-tiktok-conclusion-snippet-for-2024/"><u>[Updated] Producing an Expressive TikTok Conclusion Snippet for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-turbocharge-your-tiktok-videos-for-instant-viewing/"><u>[Updated] Turbocharge Your TikTok Videos for Instant Viewing</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-unveiling-tiktoks-visual-makeover-techniques-for-2024/"><u>[Updated] Unveiling TikTok's Visual Makeover Techniques for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-cyberlink-vs-alternatives-the-ultimate-recording-showdown/"><u>2024 Approved  Cyberlink Vs. Alternatives  The Ultimate Recording Showdown</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-perfecting-your-tiktok-videos-incorporating-clear-audio-narration/"><u>2024 Approved  Perfecting Your TikTok Videos  Incorporating Clear Audio Narration</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-step-by-step-guide-to-reinventing-your-tiktok-look/"><u>2024 Approved  Step-by-Step Guide to Reinventing Your TikTok Look</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/back-in-the-past-with-snapchats-animation-hacks/"><u>Back in the Past with Snapchat's Animation Hacks</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/capture-the-moment-the-hottest-tiktok-trends-to-embrace-top-10-for-2024/"><u>Capture the Moment  The Hottest TikTok Trends to Embrace (Top 10) for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/directly-overwrite-graphics-drivers-2024s-guide-to-ddu/"><u>Directly Overwrite Graphics Drivers: 2024'S Guide to DDU</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/from-tiktok-kitchens-15-irresistible-culinary-challenges-for-2024/"><u>From TikTok Kitchens  15 Irresistible Culinary Challenges for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-6s-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 6s with iTunes | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/guard-your-content-the-copyright-check-before-tiktok-publishing-for-2024/"><u>Guard Your Content  The Copyright Check Before TikTok Publishing for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/how-to-quickly-upload-and-load-tiktok-videos/"><u>How to Quickly Upload and Load TikTok Videos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-honor-play-8t-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Honor Play 8T.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-sony-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Sony</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-5-essential-tiktok-to-gif-conversion-apps/"><u>In 2024, 5 Essential TikTok-to-GIF Conversion Apps</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-comprehensive-guide-to-enhancing-tiktoks-adding-texts-professionally/"><u>In 2024, Comprehensive Guide to Enhancing TikToks  Adding Texts Professionally</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-f54-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy F54 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-reconstructing-your-tiktok-identity-step-by-step-renaming-manual/"><u>In 2024, Reconstructing Your TikTok Identity  Step-by-Step Renaming Manual</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-leading-free-software-for-quality-desktop-recording/"><u>In 2024, The Leading Free Software for Quality Desktop Recording</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/indulge-in-these-15-influencer-led-tiktok-recipes-that-are-a-hit-online/"><u>Indulge in These 15 Influencer-Led TikTok Recipes That Are a Hit Online</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/leading-identity-stamp-eliminator-apps-for-mobile-media/"><u>Leading Identity Stamp Eliminator Apps for Mobile Media</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/real-time-hardware-for-vr/"><u>Real-Time Hardware for VR</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/snapchat-business-model-101-how-to-turn-snaps-into-dollars/"><u>Snapchat Business Model 101  How to Turn Snaps Into Dollars</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721456613199-struggling-with-your-iphones-home-button-try-our-5-swift-repairs/"><u>Struggling with Your iPhone's Home Button? Try Our 5 Swift Repairs</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tailoring-social-interaction-the-art-of-snapchat-pins/"><u>Tailoring Social Interaction  The Art of Snapchat Pins</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-choreographers-guide-crafting-captivating-tiktok-dances-for-mac-users/"><u>The Choreographer's Guide  Crafting Captivating TikTok Dances for Mac Users</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -240,3 +148,15 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-top-5-tiktok-fonts-for-higher-engagement-in-23/"><u>[New] Top 5 TikTok Fonts for Higher Engagement in '23</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unleashing-creativity-in-tiktok-intros-your-ultimate-macguide-for-2024/"><u>[New] Unleashing Creativity in TikTok Intros Your Ultimate MacGuide for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-exclusive-list-affordable-mac-video-editing-on-tiktok-for-2024/"><u>[Updated] Exclusive List Affordable Mac Video Editing on TikTok for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/alert-how-to-protect-yourself-from-horrifying-online-abduction-hoax-calls/"><u>Alert: How to Protect Yourself From Horrifying Online Abduction Hoax Calls</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-excel-2023-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to make a digital signature for Excel 2023 files</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macs-invisible-exthdd-unlock-with-8-solutions/"><u>Mac's Invisible ExtHDD – Unlock with 8 Solutions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-compromised-m4v-files-in-os-environments/"><u>Reviving Compromised M4V Files in OS Environments</u></a></li>
+</ul></div>
+

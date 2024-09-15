@@ -1,7 +1,7 @@
 ---
 title: "Asus Unveils New NUC Pert+ Model: Packing a Meteor Lake CPU, Core Ultra-5 125H for $860!"
-date: 2024-09-09T03:42:27.814Z
-updated: 2024-09-10T03:42:27.814Z
+date: 2024-09-10T23:39:03.916Z
+updated: 2024-09-15T06:51:24.020Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/702839098e6b38fca5d2a80178622bdd12571904afc3e2a79991d9aa352013d7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unleash Unparalleled Computing Power On-The-Go With Our Portable Server: 4TB RAM, 480TB NVMe, and Ampere Altra CPU Packed in a Fly-Away Kit
 
 Next Computing has[unveiled two edge computing "fly-away kits"](https://solutions.nextcomputing.com/nextcomputing-and-ampere-cpus/) powered by high-core count[Ampere Altra](https://www.tomshardware.com/news/ampere-altra-max-128-core-priced) processors. These servers cater to Packet Capture, Telco Edge, and Open-RAN applications (to name a few), all of which require high-performance servers that can be easily transported to different locations quickly.
@@ -33,12 +27,6 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -47,14 +35,11 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -65,41 +50,26 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-success-with-youtube-on-facebook/"><u>[New] In 2024, Unlocking Success with YouTube on Facebook</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-perfect-pairings-combining-song-and-scene-in-tiktok-vids/"><u>[New] Perfect Pairings  Combining Song and Scene in TikTok Vids</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-strategies-to-overcome-unseen-tiktok-limitations-for-2024/"><u>[New] Strategies to Overcome Unseen TikTok Limitations for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-blueprint-to-a-stellar-tiktok-promotion-strategy/"><u>[New] The Blueprint to a Stellar TikTok Promotion Strategy</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-strategy-for-flawless-selfies-on-tiktok-repeatedly-for-2024/"><u>[New] The Strategy for Flawless Selfies on TikTok, Repeatedly for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-unlock-your-creative-potential-top-7-hidden-tiktok-emojis/"><u>[New] Unlock Your Creative Potential  Top 7 Hidden TikTok Emojis</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-journey-to-the-world-of-tiktok-download-guide-for-macbook/"><u>[Updated] 2024 Approved  Journey to the World of TikTok  Download Guide for MacBook</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-jumpstart-your-journey-to-tiktok-fame-with-these-hits/"><u>[Updated] 2024 Approved  Jumpstart Your Journey to TikTok Fame with These Hits</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-step-by-step-guide-to-eternal-unlinking-of-a-tiktok-id/"><u>[Updated] 2024 Approved  Step-by-Step Guide to Eternal Unlinking of a TikTok ID</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-the-ultimate-method-to-keep-your-tiktok-videos-safe-on-phone/"><u>[Updated] 2024 Approved  The Ultimate Method to Keep Your TikTok Videos Safe on Phone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-unlock-the-full-potential-of-tiktok-on-applewindows-devices/"><u>[Updated] 2024 Approved  Unlock the Full Potential of TikTok on Apple/Windows Devices</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-bridging-fashion-and-filmmaking-ootd-tips-for-mac-users-for-2024/"><u>[Updated] Bridging Fashion & Filmmaking  OOTD Tips for Mac Users for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-click-and-groove-an-insiders-guide-to-making-tiktok-dance-videos-for-mac/"><u>[Updated] Click and Groove  An Insider's Guide to Making TikTok Dance Videos for Mac</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-dispelling-myths-about-tiktok-bans-for-2024/"><u>[Updated] Dispelling Myths About TikTok Bans for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-elevating-your-brand-the-tiktok-business-model-for-2024/"><u>[Updated] Elevating Your Brand  The TikTok Business Model for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exceptional-7-dslr-devices-for-expert-video-content-creators/"><u>[Updated] Exceptional 7 DSLR Devices For Expert Video Content Creators</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-free-tool-for-tiktok-to-mp4-conversion/"><u>[Updated] Free Tool for TikTok to MP4 Conversion</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-50plus-best-tiktok-quotes-to-inspire-you-and-make-videos-go-viral/"><u>[Updated] In 2024, 50+ Best TikTok Quotes to Inspire You and Make Videos Go Viral</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-daily-dose-top-15-tiktok-creators/"><u>[Updated] In 2024, Daily Dose  Top 15 TikTok Creators</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-close-up-views-in-minecraft/"><u>[Updated] Mastering Close-Up Views in Minecraft</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-must-buy-tiktok-goodies-top-30-from-amazon-for-2024/"><u>[Updated] Must-Buy TikTok Goodies – Top 30 From Amazon for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-navigating-a-new-digital-landscape-detailed-steps-for-updating-tiktok-handle-for-2024/"><u>[Updated] Navigating a New Digital Landscape  Detailed Steps for Updating TikTok Handle for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-premium-money-forecasting-aid-for-tiktok-artists-for-2024/"><u>[Updated] Premium Money Forecasting Aid for TikTok Artists for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-pro-tips-for-efficient-and-effective-use-of-siri-on-tiktok/"><u>[Updated] Pro Tips for Efficient and Effective Use of Siri on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-real-time-music-showcase-on-miaopai/"><u>[Updated] Real-Time Music Showcase on Miaopai</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-revealing-the-top-6-affordable-web-accessible-tiktok-to-mp3-apps-for-2024/"><u>[Updated] Revealing the Top 6 Affordable, Web-Accessible TikTok to MP3 Apps for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-step-by-step-macootd-tiktok-creation-process/"><u>[Updated] Step by Step  MacOOTD TikTok Creation Process</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-5-best-sites-for-quick-templates-on-youtube/"><u>2024 Approved  5 Best Sites for Quick Templates on YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-missing-video-functionality-in-sony-a6400/"><u>2024 Approved  Missing Video Functionality in Sony A6400</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/capturing-every-detail-tactics-for-streamlined-meet-recordings/"><u>Capturing Every Detail  Tactics for Streamlined Meet Recordings</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-review-on-stanleys-j5c09-big-machine-with-surprising-abilities/"><u>Expert Review on Stanley's J5C09 - Big Machine with Surprising Abilities</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-f54-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy F54 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x-fold-2-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo X Fold 2 Phone without Any Data Loss</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/say-goodbye-to-watermarks-free-tiktok-videos/"><u>Say Goodbye to Watermarks  Free TikTok Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/techniques-for-capturing-wide-angle-360-photos-effortlessly-for-2024/"><u>Techniques for Capturing Wide Angle 360 Photos Effortlessly for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/top-tiktok-video-clips-editing-software-for-2024/"><u>Top TikTok Video Clips Editing Software for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/trending-apps-battle-royale-wholl-win-over-users-likes-or-tiktok-in-2024/"><u>Trending Apps Battle Royale  Who'll Win Over Users, Likes or TikTok, In 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-a-deep-dive-into-youtubes-income-models/"><u>[Updated] A Deep Dive Into YouTube’s Income Models</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-definitive-guide-to-screencast-editors/"><u>2024 Approved The Definitive Guide to Screencast Editors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/advanced-virtual-webcam-capabilities-unlock-the-power-of-manycam-in-live-broadcasting/"><u>Advanced Virtual Webcam Capabilities: Unlock the Power of ManyCam in Live Broadcasting</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/all-encompassing-outline-googles-podcast-app-at-a-glance-for-2024/"><u>All-Encompassing Outline Google's Podcast App at a Glance for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-xiaomi-redmi-note-12-pro-4g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Xiaomi Redmi Note 12 Pro 4G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/beyond-activity-discover-enhanced-well-being-with-the-fitbit-sense-versus-apple-watch/"><u>Beyond Activity – Discover Enhanced Well-Being with the Fitbit Sense Versus Apple Watch</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/expert-insights-on-toms-hardware-choices/"><u>Expert Insights on Tom's Hardware Choices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/fortnite-sound-issues-solved-expert-fixes-for-nonworking-game-mics/"><u>Fortnite Sound Issues Solved? Expert Fixes for Nonworking Game Mics</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/future-proof-your-setup-with-cutting-edge-hardware-insights-from-your-site-name-tech-enthusiasts-hub/"><u>Future-Proof Your Setup with Cutting-Edge Hardware Insights From [Your Site Name] – Tech Enthusiast's Hub</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-ultra-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Find X7 Ultra Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/precise-procedure-for-fusing-gopro-footage-into-comprehensive-video-spheres-for-2024/"><u>Precise Procedure for Fusing GoPro Footage Into Comprehensive Video Spheres for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/troubleshooting-steps-fix-constant-system-failures-of-the-luna-desktop/"><u>Troubleshooting Steps: Fix Constant System Failures of the Luna Desktop</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

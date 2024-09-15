@@ -1,7 +1,7 @@
 ---
 title: In-Depth Technology Examination by Tom's Resource Hub
-date: 2024-09-09T03:42:27.745Z
-updated: 2024-09-10T03:42:27.745Z
+date: 2024-09-11T20:42:05.679Z
+updated: 2024-09-15T04:44:06.800Z
 tags:
   - desktop
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/AdGF8mqfmrfKzZXh2t7FTB-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering Technology: Find the Best Deals on Computers at [Your Site Name] - Savvy Shopper’s Paradise
 
 This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show was filled interesting AI focused PCs, but often, their most interesting features had little to do with AI. Such is the case with[MSI](https://www.tomshardware.com/tag/msi-microstar) 's MEG Vision X AI Desktop, which we stumbled upon in the company's sprawling booth.
@@ -35,36 +23,18 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X with Gelsinger Signature](https://cdn.mos.cms.futurecdn.net/BYkvUDqMNVz6ycnx4BZFYV-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  By default, the touch display shows key PC stats such as your CPU temperature and clock speed. It also allows you to launch your favorite apps on your primary screen by tapping a shortcut icon. You can change performance modes here as well, opting for more speed or quieter fans.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/2SRaW8dq9GVUxC4BK2xbzh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The display is seen by Windows as a full-fledged second display in portrait mode. So you can play YouTube videos on it or run apps on it if you wish. MSI reps said a game streamer should keep their chat or OBS window on the front-panel screen while gaming on their primary monitor. They also said that the touch screen uses Intel integrated graphics while the main monitor or any secondary monitors you attach would use the Nvidia graphics card.
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -79,26 +49,17 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  But even if having a local image generator / chatbot is really valuable to you, you don't need a special PC or an on-case screen on the case to get those features. MSI may have its own branded apps, but it's likely using the same chat and image generation that's available elsewhere. Anyone who has a decent graphics card can download and install Stable Diffusion image generator or LLama for chat. If you have an RTX card, try[ComfyUI](https://github.com/comfyanonymous/ComfyUI) , which is a very powerful frontend for Stable Diffusion.
 
  What you can't get elsewhere is a full HD screen that takes up the entire front surface of your chassis. We have seen some cases with screens on the front -- the[Jonsbo D41](https://www.jonsbo.com/en/products/D41MESHSCREENBlack.html) comes to mind. But MSI's display takes up the entire space and is meant to be an integral part of the user experience, not just a cute special effect.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,34 +70,27 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-simplified-gs-yt-cta-implementation/"><u>[New] 2024 Approved  Guide to Simplified GS-YT CTA Implementation</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-a-new-era-of-capturing-screens-camstudio-2023-reviewed/"><u>[New] In 2024, A New Era of Capturing Screens? CamStudio 2023 Reviewed</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-making-a-mark-jujutsu-kaisen-on-the-tiktok-scene/"><u>[New] Making a Mark  Jujutsu Kaisen on the TikTok Scene</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-premier-selection-of-tiktok-video-editors/"><u>[New] Premier Selection of TikTok Video Editors</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-guide-to-instagram-analytics-tools-for-accurate-tracking-for-2024/"><u>[New] The Ultimate Guide to Instagram Analytics Tools for Accurate Tracking for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-5-tiktok-fonts-for-higher-engagement-in-23/"><u>[New] Top 5 TikTok Fonts for Higher Engagement in '23</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-unleashing-creativity-in-tiktok-intros-your-ultimate-macguide-for-2024/"><u>[New] Unleashing Creativity in TikTok Intros  Your Ultimate MacGuide for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-climb-higher-on-tiktoks-rankings-a-guide-for-more-interactions/"><u>[Updated] 2024 Approved  How to Climb Higher on TikTok's Rankings  A Guide for More Interactions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-maximize-impact-with-tiktok-videos-from-your-personal-computer-or-mac/"><u>[Updated] 2024 Approved  Maximize Impact with TikTok Videos From Your Personal Computer or MAC</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-captivating-audience-leading-5-tiktok-font-generators-of-2023-for-2024/"><u>[Updated] Captivating Audience  Leading 5 TikTok Font Generators of 2023 for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-exclusive-list-affordable-mac-video-editing-on-tiktok-for-2024/"><u>[Updated] Exclusive List  Affordable Mac Video Editing on TikTok for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-finest-choices-free-streaming-tools-suitable-everywhere/"><u>[Updated] Finest Choices   Free Streaming Tools Suitable Everywhere</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hitting-the-high-notes-of-youtube-editing-audio-addition-secrets-revealed-for-2024/"><u>[Updated] Hitting the High Notes of YouTube Editing  Audio Addition Secrets Revealed for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-ideal-10-video-editors-perfect-for-pc-based-tiktoks-for-2024/"><u>[Updated] Ideal 10 Video Editors Perfect for PC-Based TikToks for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-achieving-instagrammable-proportion-the-self-clone-method-on-tiktok/"><u>[Updated] In 2024, Achieving Instagrammable Proportion  The Self-Clone Method on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-ideal-tiktok-cuts-apps-reviewed-and-ranked/"><u>[Updated] In 2024, Ideal TikTok Cuts  Apps Reviewed and Ranked</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-masterclass-streamlining-your-video-uploads-on-tiktok-macwindows/"><u>[Updated] In 2024, Masterclass  Streamlining Your Video Uploads on TikTok (Mac/Windows)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-offline-viewing-of-full-hd-fb-content/"><u>[Updated] Offline Viewing of Full-HD FB Content</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-safely-increase-your-tiktok-supporters/"><u>[Updated] Safely Increase Your TikTok Supporters</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-serene-strings-20-calming-country-songs-perfect-for-dancing-on-tiktok/"><u>[Updated] Serene Strings  20 Calming Country Songs Perfect for Dancing on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-step-by-step-guide-to-attending-live-showcases-on-tiktok/"><u>[Updated] Step-by-Step Guide to Attending Live Showcases on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-most-popular-tiktok-items-now-available-on-amazon-for-2024/"><u>[Updated] The Most Popular TikTok Items Now Available on Amazon for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-experts-recommendations-for-image-watermarking/"><u>2024 Approved  Expert's Recommendations for Image Watermarking</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-t2x-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo T2x 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-properly-download-and-update-your-canon-mf85er0-c-printer-drivers-for-various-windows-versions/"><u>How to Properly Download and Update Your Canon MF85er0 C Printer Drivers for Various Windows Versions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/innovative-seo-strategies-the-impact-of-cookiebot-integration/"><u>Innovative SEO Strategies: The Impact of Cookiebot Integration</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/speak-with-style-mastering-the-art-of-altering-vocal-effects-on-snapchat/"><u>Speak with Style  Mastering the Art of Altering Vocal Effects on Snapchat</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-elite-10-secrets-for-tiktok-sensations-for-2024/"><u>The Elite 10  Secrets for TikTok Sensations for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-ultimate-guide-to-evaluating-and-enhancing-your-instream-ads-on-facebook/"><u>[New] The Ultimate Guide to Evaluating & Enhancing Your Instream Ads on Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filmoras-blueprint-for-stellar-youtube-trailers/"><u>[Updated] 2024 Approved Filmora's Blueprint for Stellar YouTube Trailers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-elevate-social-media-content-to-hd-clarity-on-facebook-for-2024/"><u>[Updated] Elevate Social Media Content to HD Clarity on Facebook for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/comprehensive-hardware-guides-by-tomtechinsight/"><u>Comprehensive Hardware Guides by TomTechInsight</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-laserjet-5200-printer-drivers-compatible-with-windows-10-8-and-sx/"><u>Get the Latest HP LaserJet 5200 Printer Drivers: Compatible with Windows 10, 8 & SX</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-s17-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo S17 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-s17-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo S17 Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-y100a-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Y100A Device</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/pioneering-gear-insights-with-toms-electronic-expertise/"><u>Pioneering Gear Insights with Tom's Electronic Expertise</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplify-your-writing-workflow-by-automating-documents-with-chatgpt-in-ms-word/"><u>Simplify Your Writing Workflow by Automating Documents with ChatGPT in MS Word</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/toms-hardware-review-top-tech-insights-and-guides/"><u>Tom's Hardware Review: Top Tech Insights and Guides</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/ultimate-guide-fix-unresponsive-pubg-gameplay-on-windows/"><u>Ultimate Guide: Fix Unresponsive PUBG Gameplay on Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/1723262420198-unbeatable-deal-alert-combo-offer-on-latest-aurora-r16-gaming-system-and-spectacular-34-alienware-oled-monitor-cut-costs-by-700-now/"><u>Unbeatable Deal Alert: Combo Offer on Latest Aurora R16 Gaming System and Spectacular 34” Alienware OLED Monitor - Cut Costs by $700 Now!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unbeatable-price-on-alienware-aurora-r16-latest-tech-with-rtx-4080-and-i9-chip-plus-half-off-savings/"><u>Unbeatable Price on Alienware Aurora R16 - Latest Tech with RTX 4080 & I9 Chip Plus Half Off Savings</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: Building an Ultra Compact, Fanless 'Retro Futuristic' Desktop Powered by High-Performance USB4 Solid State Drives"
-date: 2024-09-09T03:42:28.437Z
-updated: 2024-09-10T03:42:28.437Z
+date: 2024-09-13T03:56:39.004Z
+updated: 2024-09-15T06:48:23.183Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157eaf7507ac4a1589610732acc.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unleash the Beast: High-End Gaming & Creativity on a Compact Platform - AMD's NUC Mini Featuring 4K Screen, Hexa-Core CPU, RAM Galore & SSD Blitz
 
 A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.[Miniproca claims](https://www.kickstarter.com/projects/91388361/miniproca-all-in-1-mini-pc-with-intergarted-display/rewards) its 7-inch screen-lidded device is a “revolutionary” mix of high-performance PC and monitor, delivering a versatile[All-in-One PC](https://www.tomshardware.com/tag/all-in-one-pcs) to its Kickstarter backers.
@@ -46,12 +40,6 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -64,36 +52,21 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Miniproca)
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Miniproca)
 
  It seems increasingly necessary for mini-PC makers to deliver some exciting twist on the form factor, or news of their latest product may be drowned out among the also-rans. Whether the twist is appealing or practical enough to gain traction is up to consumers. The ‘retail price’ doesn’t help either.
 
  Kickstarter users already seem to have passed judgment on this Miniproca device, which has been very successful since its launch. However, we shall repeat our standard warning about crowdfunders—backing this kind of project isn’t the same as buying a product. You may face lengthy delays, spec changes, and/or even project cancellations and difficulties getting refunds or warranty cover.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,50 +77,24 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/xamining-how-youtube-curates-its-highlighted-discussion-threads/"><u>[New] Examining How YouTube Curates Its Highlighted Discussion Threads</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-20-tiktok-captions-for-captivating-viewers/"><u>[New] In 2024, Top 20 TikTok Captions for Captivating Viewers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-video-upload-made-easy-a-comprehensive-guide-for-mac-and-pc-tiktok/"><u>[New] In 2024, Video Upload Made Easy  A Comprehensive Guide for Mac & PC (TikTok)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-year-end-recap-tiktok-hits-that-keep-coming-back-in-24/"><u>[New] In 2024, Year-End Recap  TikTok Hits That Keep Coming Back in '24</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-navigating-the-new-age-of-tiktok-reacts-filmmakers-guide-using-filmora-for-2024/"><u>[New] Navigating the New Age of TikTok Reacts – Filmmaker's Guide Using Filmora for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-navigating-tiktok-web-efficiently-as-a-mac-user-for-2024/"><u>[New] Navigating TikTok Web Efficiently as a Mac User for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-propel-your-passion-profits-joining-the-elite-of-tiktok-creators/"><u>[New] Propel Your Passion Profits  Joining the Elite of TikTok Creators</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-proven-steps-for-choosing-an-effective-4k-camera-lens/"><u>[New] Proven Steps for Choosing an Effective 4K Camera Lens</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-clear-sky-route-to-free-unmarked-tiktok-videos/"><u>[New] The Clear-Sky Route to Free, Unmarked TikTok Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-strategies-unleashed-dominating-the-tiktok-marketing-landscape/"><u>[New] Top Strategies Unleashed  Dominating the TikTok Marketing Landscape</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-15-sensational-tiktok-cooking-challenges-for-your-plate-for-2024/"><u>[Updated] 15 Sensational TikTok Cooking Challenges for Your Plate for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-exploring-charms-galore-uncover-top-7-tiktok-emojis-and-their-covert-counterparts/"><u>[Updated] 2024 Approved  Exploring Charms Galore – Uncover Top 7 TikTok Emojis & Their Covert Counterparts</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-fresh-filmmaking-innovative-biographical-ideas-to-triple-your-tiktok-following-on-filmora/"><u>[Updated] 2024 Approved  Fresh Filmmaking  Innovative Biographical Ideas to Triple Your TikTok Following on Filmora</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-mastering-tiktok-crafting-high-impact-marketing-moves/"><u>[Updated] 2024 Approved  Mastering TikTok  Crafting High-Impact Marketing Moves</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-proactive-copyright-verification-for-your-tiktok-videos/"><u>[Updated] 2024 Approved  Proactive Copyright Verification for Your TikTok Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-transform-your-day-with-these-15-tiktok-innovators/"><u>[Updated] 2024 Approved  Transform Your Day with These 15 TikTok Innovators</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-affordable-mac-tools-editing-video-creations-on-tiktok-for-2024/"><u>[Updated] Affordable Mac Tools  Editing Video Creations on TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-commanding-attention-best-in-class-tiktok-caption-ideas-for-audiene-engagement/"><u>[Updated] Commanding Attention  Best-in-Class TikTok Caption Ideas for Audiene Engagement</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-conquer-audience-engagement-top-20-viral-tiktok-caption-approaches-for-2024/"><u>[Updated] Conquer Audience Engagement  Top 20 Viral TikTok Caption Approaches for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-elevating-your-tiktok-career-with-effective-monetization-strategies-for-2024/"><u>[Updated] Elevating Your TikTok Career with Effective Monetization Strategies for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-elude-the-invisible-threat-unshadowbanned-on-tiktok/"><u>[Updated] Elude the Invisible Threat  Unshadowbanned on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-essential-tips-for-bigger-head-visual-effects-on-tiktok-clips-3-key-techniques-for-2024/"><u>[Updated] Essential Tips for Bigger-Head Visual Effects on TikTok Clips (3 Key Techniques) for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-expedite-your-tiktok-videos-with-ease-for-2024/"><u>[Updated] Expedite Your TikTok Videos with Ease for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-expertly-selected-10-windows-apps-for-tiktok-videography-for-2024/"><u>[Updated] Expertly Selected 10 Windows Apps for TikTok Videography for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-climb-higher-on-tiktoks-rankings-a-guide-for-more-interactions/"><u>[Updated] How to Climb Higher on TikTok's Rankings  A Guide for More Interactions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-demystifying-the-mechanics-of-high-impact-tiktok-plays/"><u>[Updated] In 2024, Demystifying the Mechanics of High-Impact TikTok Plays</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-mastering-the-art-of-expression-tiktoks-top-7-emojis/"><u>[Updated] In 2024, Mastering the Art of Expression  TikTok's Top 7 Emojis</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-streamline-your-tiktok-videos-effortlessly/"><u>[Updated] In 2024, Streamline Your TikTok Videos Effortlessly</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-reclaim-your-spotlight-evading-tiktok-shadowbans-for-2024/"><u>[Updated] Reclaim Your Spotlight  Evading TikTok Shadowbans for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-seamless-creativity-free-mac-apps-for-tiktok-video-edits-for-2024/"><u>[Updated] Seamless Creativity  Free Mac Apps for TikTok Video Edits for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-swipe-right-for-speed-quick-tiktok-video-acquisition/"><u>[Updated] Swipe Right for Speed - Quick TikTok Video Acquisition</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-complete-tiktok-siri-interaction-manual-for-2024/"><u>[Updated] The Complete TikTok Siri Interaction Manual for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-income-investigation-the-streamlined-3-part-method-to-assess-your-youtube-income-levels/"><u>2024 Approved  Income Investigation  The Streamlined 3-Part Method to Assess Your YouTube Income Levels</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-ranked-slideshow-creation-software-on-latest-iphones/"><u>2024 Approved  Ranked Slideshow Creation Software on Latest iPhones</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-nord-n30-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus Nord N30 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-xiaomi-redmi-k70e-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Xiaomi Redmi K70E Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pinnacle-workshop-moniker-composer/"><u>Pinnacle Workshop Moniker Composer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/professional-stability-essentials-for-youtube-videographers/"><u>Professional Stability Essentials for YouTube Videographers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/quick-steps-installing-snapchat-on-macos/"><u>Quick Steps  Installing Snapchat on macOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/steer-clear-of-these-6-missteps-when-creating-chatgpt-requests/"><u>Steer Clear of These 6 Missteps When Creating ChatGPT Requests</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/step-by-step-guide-to-implement-siri-on-tiktok-platform/"><u>Step-By-Step Guide to Implement Siri on TikTok Platform</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-power-of-virality-enhancing-brand-presence-on-tiktok-for-2024/"><u>The Power of Virality  Enhancing Brand Presence on TikTok for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-upcoming-marvel-of-tech-insights-into-samsung-galaxy-z-fold-6-cost-launch-date-and-hardware/"><u>The Upcoming Marvel of Tech - Insights Into Samsung Galaxy Z Fold 6 Cost, Launch Date & Hardware</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/top-30-trending-tiktok-deals-for-amazon-for-2024/"><u>Top 30 Trending TikTok Deals for Amazon for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/ultimate-earnings-prediction-top-6-tiktok-tools/"><u>Ultimate Earnings Prediction  Top 6 TikTok Tools</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/unlock-tiktoks-full-potential-strategies-for-popularity-surge-for-2024/"><u>Unlock TikTok's Full Potential  Strategies for Popularity Surge for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-video-limits-explained-in-detail/"><u>[New] In 2024, Instagram Video Limits Explained in Detail</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-nba-livestream-a-list-of-15-essentials/"><u>[New] Mastering NBA Livestream A List of 15 Essentials</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/boost-your-health-journey-experience-a-new-level-of-motivation-and-tracking-with-the-fitbit-versa-s-3-featuring-inbuilt-gps-technology-and-fitness-applicati161/"><u>Boost Your Health Journey: Experience a New Level of Motivation and Tracking with the Fitbit Versa S 3, Featuring Inbuilt GPS Technology and Fitness Applications</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/code-vein-crashing-solutions-effective-methods-to-resolve-game-stutter/"><u>Code Vein Crashing Solutions: Effective Methods to Resolve Game Stutter</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-steps-for-youtube-videos-to-mpeg-format/"><u>Essential Steps for YouTube Videos to MPEG Format</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-the-missing-msvbvm50dll-file-and-fix-related-problems/"><u>How to Restore the Missing 'msvbvm50.dll' File and Fix Related Problems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-100-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor 100 Phone?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-honor-100-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Honor 100 Data? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-motion-correction-professional-tips-for-video-stabilizing-using-adobe-premiere-pro/"><u>Mastering Motion Correction: Professional Tips for Video Stabilizing Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-12-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 12 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/resolved-troubleshooting-guide-to-stop-phoenix-point-from-crashing/"><u>Resolved: Troubleshooting Guide to Stop Phoenix Point From Crashing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/transforming-ai-prowess-gigabytes-premier-computing-array-including-elite-motherboards-optimal-gpu-selection-lightning-fast-ssd-storage-and-solid-psus-enhan83/"><u>Transforming AI Prowess: Gigabyte's Premier Computing Array Including Elite Motherboards, Optimal GPU Selection, Lightning-Fast SSD Storage and Solid PSUs - Enhanced with Dedicated AI Training Applications</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

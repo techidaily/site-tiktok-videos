@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Fix Constant System Failures of the Luna Desktop"
-date: 2024-09-09T03:42:27.694Z
-updated: 2024-09-10T03:42:27.694Z
+date: 2024-09-10T04:12:06.711Z
+updated: 2024-09-15T06:00:05.546Z
 tags:
   - win11
   - win10
@@ -13,24 +13,12 @@ excerpt: "This Article Describes Troubleshooting Steps: Fix Constant System Fail
 thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef99cd1dfcbc0a3fd4ae8767d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Steps When Cortana Stops Responding - Solutions Inside
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab9c0b620709.jpg)
 
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -41,22 +29,10 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -73,17 +49,18 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 5) Try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -97,15 +74,22 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -128,17 +112,12 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -146,17 +125,12 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 ## Method 5: Reset your Cortana
@@ -167,12 +141,6 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
@@ -192,8 +160,6 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,34 +169,20 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-use-igtv-hashtags-to-get-more-followers/"><u>[New] 2024 Approved  How to Use IGTV Hashtags to Get More Followers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-unveiling-50plus-best-tiktok-inspirational-quotes/"><u>[New] In 2024, Unveiling 50+ Best TikTok Inspirational Quotes</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-versatile-video-tools-exporting-tiktok-content-as-mp4/"><u>[New] In 2024, Versatile Video Tools  Exporting TikTok Content as MP4</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-perfect-every-moment-top-10-free-video-editing-apps-on-a-mac-for-2024/"><u>[New] Perfect Every Moment - Top 10 Free Video Editing Apps on a Mac for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-perfecting-the-aesthetic-ootd-tiktok-on-a-mac/"><u>[New] Perfecting the Aesthetic  OOTD TikTok on a Mac</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-revolutionary-tiktok-profits-estimator-guide/"><u>[New] Revolutionary TikTok Profits Estimator Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-selecting-the-superior-cloud-storage-hub/"><u>[New] Selecting the Superior Cloud Storage Hub</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-tiktok-creator-fund-how-to-join-it-and-make-money-for-2024/"><u>[New] TikTok Creator Fund  How to Join It and Make Money for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-transformative-videography-revolutionary-mac-edits-to-elevate-tiktok-videos-for-2024/"><u>[New] Transformative Videography  Revolutionary Mac Edits to Elevate TikTok Videos for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unleash-creative-potential-at-no-expense-dive-into-the-world-of-green-screen-with-free-lessons-from-youtube-channels/"><u>[New] Unleash Creative Potential at No Expense  Dive Into the World of Green Screen with Free Lessons From YouTube Channels</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-master-viral-wonders-secrets-to-exceptional-tiktok-photo-tricks/"><u>[Updated] 2024 Approved  Master Viral Wonders  Secrets to Exceptional TikTok Photo Tricks</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unveiling-similarities-and-divergences-in-triller-and-tiktok-max-156-chars/"><u>[Updated] 2024 Approved  Unveiling Similarities & Divergences in Triller and TikTok (Max 156 Chars)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-crafting-share-worthy-videos-with-top-tiktok-ideas/"><u>[Updated] Crafting Share-Worthy Videos with Top TikTok Ideas</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-expand-reach-on-tiktok-with-powerful-hashtags/"><u>[Updated] Expand Reach on TikTok with Powerful Hashtags</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-fast-track-your-tiktok-video-creation-process-for-2024/"><u>[Updated] Fast-Track Your TikTok Video Creation Process for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-bypass-tradition-innovative-techniques-to-boost-your-tiktok-photos/"><u>[Updated] In 2024, Bypass Tradition  Innovative Techniques to Boost Your TikTok Photos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-exploring-methods-for-rapid-tiktok-editing/"><u>[Updated] In 2024, Exploring Methods for Rapid TikTok Editing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-memes-to-your-device-iosandroid-gif-collection-tips/"><u>[Updated] In 2024, From Memes to Your Device  IOS/Android GIF Collection Tips</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-tips-for-entering-a-friends-tiktok-live-stream/"><u>[Updated] In 2024, Tips for Entering a Friend's TikTok Live Stream</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-pinnacle-predictors-top-tiktok-income-calculators/"><u>[Updated] Pinnacle Predictors  Top TikTok Income Calculators</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastering-free2x-camera-recorder-features/"><u>2024 Approved  Mastering Free2X Camera Recorder Features</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-swift-and-secure-video-shipment-sending-oversized-content-from-ios/"><u>2024 Approved  Swift & Secure Video Shipment  Sending Oversized Content From iOS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-syma-s111g-rc-helicopter-ultimate-guide-for-indoor-enjoyment/"><u>Affordable Syma S111G RC Helicopter - Ultimate Guide for Indoor Enjoyment</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c110-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Nokia C110 Phone without Any Data Loss</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-sharpened-internet-video-views/"><u>In 2024, Mastering the Art of Sharpened Internet Video Views</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/polishing-tiktok-content-on-mac-a-comprehensive-editors-manual/"><u>Polishing TikTok Content on Mac  A Comprehensive Editor's Manual</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/simplifying-the-art-of-creating-your-tiktok-doppelganger-for-2024/"><u>Simplifying the Art of Creating Your TikTok Doppelgänger for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tiktok-marketing-strategy-grow-your-business-on-tiktok-for-2024/"><u>TikTok Marketing Strategy  Grow Your Business on TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/top-5-factors-to-master-when-using-tiktok-web-mac-for-2024/"><u>Top 5 Factors to Master When Using TikTok Web (Mac) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-success-stories-adopting-viral-techniques-from-tiktok-for-2024/"><u>[Updated] Instagram Success Stories Adopting Viral Techniques From TikTok for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-earning-potential-with-youtube-shorts-crucial-elements-possible-returns/"><u>[Updated] Unlocking Earning Potential with Youtube Shorts Crucial Elements, Possible Returns</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clarity-counts-how-to-zoom-into-every-aspect-of-google-meet-calls/"><u>2024 Approved Clarity Counts How to Zoom Into Every Aspect of Google Meet Calls</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dysfonctionnement-de-handbrake-sous-windows-11-solutions-et-alternatives-rapides/"><u>Dysfonctionnement De Handbrake Sous Windows 11 : Solutions Et Alternatives Rapides</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-visionalign-studio/"><u>In 2024, VisionAlign Studio</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-depth-look-at-the-zmi-powerpack-20000-your-go-to-compact-power-provider-reviewed/"><u>In-Depth Look at the ZMI PowerPack 20000 - Your Go-To Compact Power Provider Reviewed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/introducing-lenovos-new-global-yoga-portable-ai-37l-mini-pc-with-14th-gen-intel-processor-and-thinkcentre-inspired-design/"><u>Introducing Lenovo's New Global Yoga Portable AI: 3.7L Mini PC with 14Th Gen Intel Processor & ThinkCentre-Inspired Design</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-complete-guide-to-shooting-with-a-green-screen-for-2024/"><u>The Complete Guide to Shooting with a Green Screen for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-review-of-toms-technological-devices/"><u>The Ultimate Review of Tom's Technological Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/toms-computer-gear-breakdown-expert-analysis-and-reviews/"><u>Tom's Computer Gear Breakdown - Expert Analysis & Reviews</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gear/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gear</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-s17-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo S17 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unleashing-creativity-building-an-ultra-compact-fanless-retro-futuristic-desktop-powered-by-high-performance-usb4-solid-state-drives/"><u>Unleashing Creativity: Building an Ultra Compact, Fanless 'Retro Futuristic' Desktop Powered by High-Performance USB4 Solid State Drives</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/win-back-control-successful-remedies-for-troublesome-steam-game-starts-in-windows-10/"><u>Win Back Control: Successful Remedies for Troublesome Steam Game Starts in Windows 10</u></a></li>
 </ul></div>
+

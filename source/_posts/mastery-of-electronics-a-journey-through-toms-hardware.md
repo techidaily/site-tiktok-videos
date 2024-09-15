@@ -1,7 +1,7 @@
 ---
 title: Mastery of Electronics - A Journey Through Tom's Hardware
-date: 2024-09-09T03:42:27.761Z
-updated: 2024-09-10T03:42:27.761Z
+date: 2024-09-14T05:09:39.090Z
+updated: 2024-09-15T00:14:19.981Z
 tags:
   - desktop
 categories:
@@ -9,24 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/JrhRMs4SQRcfksApRBGvxR-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Explore Cutting-Edge Tech with Tom's Hardware - Your Ultimate Gadget Guide
 
 Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com/desktops/mini-pcs/minisforum-atomman-x7-ti-touchscreen-mini-pc-comes-packing-an-intel-core-ultra-9-185h) device, this time with its eye on Mini PCs designed for gaming. The firm’s premium sub-brand is used here for a device offering the twin charms, and AMD Advantage blessings, of a[Ryzen R9 7945HX](https://www.tomshardware.com/news/ryzen-9-7945hx-beats-core-i9-13950hx) and Radeon[RX 7600M XT](https://www.tomshardware.com/news/amd-launches-rx-7600m-gpus-mobile-rdna-3-with-rtx-3060-performance) . Curiously, the new[AtomMan G7 Pt](https://www.minisforum.com/page/g7pt/index.html?lang=en) appears to be a rejigged version of the proposed Minisforum HX200G which was[showcased at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) back in January.
 
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/PyZgZxKUB9Acg9JX58bM36-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  As per our headline, Minisforum claims this is “the world’s first AMD Advantage-certified A+A high-performance Mini PC.” You can read more about[AMD Advantage for desktops](https://www.tomshardware.com/news/amds-advantage-comes-to-desktops-with-new-perf-boosting-features) , and we have[reviewed some laptops](https://www.tomshardware.com/reviews/asus-rog-strix-g15-advantage-edition-rx-6800m) with this certification. The AtomMan G7 Pt, however, is somewhere in-between as a Mini PC featuring mobile processors. For the rest of the specs check out the table below.
@@ -48,18 +36,6 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/BCXcTW8u5XFwpHJ2k5ueD6-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  The AMD Dragon Range CPU and RX7600M XT may not be the newest or most powerful AMD combo a PC maker could assemble in mid-2024\. Nevertheless, they should do a pretty good job delivering a capable mini gaming system experience, as long as user ambitions for higher resolutions (like 4K) and raytracing are kept in check.
@@ -74,22 +50,10 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/5vH5yUKbtEt5tHuJMtPYk5-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  One of the bigger changes we have seen added to the AtomMan G7 Pt since its name was switched from the HX200G is the provision of dual RGB backlighting panels. The example logo scrawl provides a prime example of beauty being in the eye of the beholder.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -100,14 +64,11 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
  Pricing for the AtomMan G7 Pt hasn’t been divulged, though we have written back to Minisforum for some pricing details. Those particularly interested in this device might find it worthwhile to sign up for updates and a $50 discount coupon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,53 +79,19 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-essential-video-and-music-companion-apps-roundup-for-2024/"><u>[New] Essential Video & Music Companion Apps Roundup for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-examining-the-elite-the-top-10-pc-vr-headsets-of-now/"><u>[New] Examining the Elite  The Top 10 PC VR Headsets of Now</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-unlocking-tiktok-a-comprehensive-guide-for-macpc/"><u>[New] In 2024, Unlocking TikTok  A Comprehensive Guide for Mac/PC</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-must-know-basics-for-mac-users-on-tiktok/"><u>[New] Must-Know Basics for Mac Users on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-step-by-step-macootd-tiktok-creation-process/"><u>[New] Step by Step  MacOOTD TikTok Creation Process</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-clone-game-amplifying-your-presence-on-tiktok/"><u>[New] The Clone Game  Amplifying Your Presence on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-dual-identity-approach-for-influential-tiktok-presence/"><u>[New] The Dual Identity Approach for Influential TikTok Presence</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-ultimate-checklist-for-transforming-your-tiktok-handle/"><u>[New] The Ultimate Checklist for Transforming Your TikTok Handle</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-10-tik-tok-catchy-songs-of-2024-that-are-stuck-in-your-head/"><u>[New] Top 10 Tik Tok Catchy Songs of 2024 that Are Stuck in Your Head</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-5-essentials-for-mastering-tiktok-on-macos-for-2024/"><u>[New] Top 5 Essentials for Mastering TikTok on macOS for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-unleash-your-fun-with-todays-favorite-tiktoks/"><u>[New] Unleash Your Fun with Today's Favorite TikToks</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-get-creative-the-ultimate-list-of-free-mac-compatible-tiktok-editors/"><u>[Updated] 2024 Approved  Get Creative  The Ultimate List of Free, Mac-Compatible TikTok Editors</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-propel-business-growth-strategies-in-the-tiktok-arena/"><u>[Updated] 2024 Approved  Propel Business Growth  Strategies in the TikTok Arena</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-the-essential-toolkit-for-achieving-viral-impact-in-tiktok-photos/"><u>[Updated] 2024 Approved  The Essential Toolkit for Achieving Viral Impact in TikTok Photos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-ace-your-tiktok-videos-10-top-editing-software-picks-win-for-2024/"><u>[Updated] Ace Your TikTok Videos  10 Top Editing Software Picks (Win) for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-blueprint-to-top-notch-tiktok-marketing-mastery/"><u>[Updated] Blueprint to Top-Notch TikTok Marketing Mastery</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-breaking-the-ice-a-guide-to-crafting-strikingly-effective-tiktok-captions/"><u>[Updated] Breaking the Ice  A Guide to Crafting Strikingly Effective TikTok Captions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-caught-the-viral-vibe-here-are-amazons-30-hot-tiktok-deals/"><u>[Updated] Caught the Viral Vibe? Here Are Amazon’s 30 Hot TikTok Deals</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-cut-the-cord-free-tiktok-videos-here/"><u>[Updated] Cut the Cord - FREE TikTok Videos Here</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-amazing-builds-the-best-of-block-city-homes/"><u>[Updated] In 2024, Amazing Builds  The Best of Block City Homes</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-essential-ingredients-for-triumphant-tiktok-marketing-plans/"><u>[Updated] In 2024, Essential Ingredients for Triumphant TikTok Marketing Plans</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-get-tiktoks-best-videos-in-a-flash/"><u>[Updated] In 2024, Get TikTok's Best Videos in a Flash</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-prime-motorsport-experiences-quintessential-list/"><u>[Updated] In 2024, Prime Motorsport Experiences  Quintessential List</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-refresh-your-tiktok-storytelling-with-dynamic-backgrounds/"><u>[Updated] In 2024, Refresh Your TikTok Storytelling with Dynamic Backgrounds</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-rhythm-and-precision-crafting-tiktok-moves-on-a-mac/"><u>[Updated] In 2024, Rhythm & Precision  Crafting TikTok Moves on a Mac</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-key-ingredients-for-a-profitable-social-media-career-tiktok-edition/"><u>[Updated] In 2024, The Key Ingredients for a Profitable Social Media Career - TikTok Edition</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-premium-10-tools-for-crafting-tiktok-videos-online-w-for-2024/"><u>[Updated] Premium 10 Tools for Crafting TikTok Videos Online (W) for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-quick-guide-downloading-tiktok-for-mac-users-for-2024/"><u>[Updated] Quick Guide  Downloading TikTok for Mac Users for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-quick-pick-tricks-mastering-tiktok-photo-hacks/"><u>[Updated] Quick-Pick Tricks  Mastering TikTok Photo Hacks</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-real-time-artist-streaming-on-douyin-for-2024/"><u>[Updated] Real-Time Artist Streaming on Douyin for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-speedy-photographers-guide-to-google-collage-crafting/"><u>[Updated] The Speedy Photographer's Guide to Google Collage Crafting</u></a></li>
-<li><a href="https://extra-information.techidaily.com/15-types-of-camera-shots-in-film-beginners-need-to-know/"><u>15 Types of Camera Shots in Film Beginners Need to Know</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1715860772248-2024-approved-live-video-logging-on-mac-free/"><u>2024 Approved  Live Video Logging on Mac, Free!</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-essential-edge-advantages-that-make-it-a-gamers-browser/"><u>7 Essential Edge Advantages that Make It a Gamer's Browser</u></a></li>
-<li><a href="https://article-files.techidaily.com/audio-wizards-unveiled-top-5-techniques-for-win10/"><u>Audio Wizards Unveiled  Top 5 Techniques for Win10</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/best-mac-capture-software-excluding-traditional-bandicam/"><u>Best Mac Capture Software Excluding Traditional Bandicam</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-hp-officejet-3830-software-installer-windows-compatible/"><u>Free HP OfficeJet 3830 Software Installer - Windows Compatible</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-hot-40-lock-screen-password-by-drfone-android/"><u>How To Change Infinix Hot 40 Lock Screen Password?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/how-to-smoothly-embed-facebook-live-on-your-site-for-2024/"><u>How to Smoothly Embed Facebook Live on Your Site for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-7-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 7 with iTunes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-xiaomi-13t-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Xiaomi 13T Devices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-your-game-library-the-finest-pc-based-gba-emulation-tools/"><u>In 2024, Mastering Your Game Library  The Finest PC-Based GBA Emulation Tools</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-12r-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 12R Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/perfect-pairings-combining-song-and-scene-in-tiktok-vids/"><u>Perfect Pairings  Combining Song and Scene in TikTok Vids</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-to-the-no-supported-drivers-found-issue-in-windows-1087/"><u>Step-by-Step Solution to the No Supported Drivers Found Issue in Windows (10/8/7)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/streamlining-your-video-creation-ootd-on-a-mac-for-2024/"><u>Streamlining Your Video Creation  OOTD on a Mac for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-song-guide-for-newbies/"><u>The Ultimate Song Guide for Newbies</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tiktop-to-mp4-prime-video-conversion-tools-for-2024/"><u>TikTop to MP4  Prime Video Conversion Tools for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-fast-and-easy-guide-how-to-set-up-snapchat-on-a-mac/"><u>[Updated] In 2024, Fast & Easy Guide How to Set up Snapchat on a Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-should-itop-top-your-list-for-screen-recorders-in-2024/"><u>[Updated] Should ITop Top Your List for Screen Recorders, In 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/discover-cutting-edge-tech-innovations-at-toms-gadget-review/"><u>Discover Cutting-Edge Tech Innovations at Tom's Gadget Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-the-setup-of-a-nintendo-network-id-for-your-3ds-console/"><u>Navigating the Setup of a Nintendo Network ID for Your 3DS Console</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/riding-on-innovation-discover-how-lenovo-is-boosting-its-legion-7000k-towers-with-locally-developed-processor-technology-in-china/"><u>Riding on Innovation: Discover How Lenovo Is Boosting Its Legion #7000K Towers with Locally Developed Processor Technology in China</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-motorola-edgeplus-2023-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Motorola Edge+ (2023)</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
