@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Fix Constant System Failures of the Luna Desktop"
-date: 2024-09-10T04:12:06.711Z
-updated: 2024-09-15T06:00:05.546Z
+date: 2024-09-15T02:15:57.087Z
+updated: 2024-09-20T09:07:38.486Z
 tags:
   - win11
   - win10
@@ -55,13 +55,6 @@ Check your region and language settings on your computer:
 
 5) Try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
  If your Windows 10 system is old, you may not be able to use Cortana either. To check for updates on your Windows 10 PC:
@@ -69,6 +62,13 @@ Check your region and language settings on your computer:
  1) Type **update**  in the search box from **Start** . Then click**Check for updates** on the top.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
@@ -79,16 +79,10 @@ Check your region and language settings on your computer:
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -112,10 +106,10 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
@@ -123,13 +117,6 @@ Check your region and language settings on your computer:
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
@@ -144,6 +131,13 @@ Or click  **Update All** to automatically download and install the correct versi
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
@@ -169,20 +163,16 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-success-stories-adopting-viral-techniques-from-tiktok-for-2024/"><u>[Updated] Instagram Success Stories Adopting Viral Techniques From TikTok for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-earning-potential-with-youtube-shorts-crucial-elements-possible-returns/"><u>[Updated] Unlocking Earning Potential with Youtube Shorts Crucial Elements, Possible Returns</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-clarity-counts-how-to-zoom-into-every-aspect-of-google-meet-calls/"><u>2024 Approved Clarity Counts How to Zoom Into Every Aspect of Google Meet Calls</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dysfonctionnement-de-handbrake-sous-windows-11-solutions-et-alternatives-rapides/"><u>Dysfonctionnement De Handbrake Sous Windows 11 : Solutions Et Alternatives Rapides</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-visionalign-studio/"><u>In 2024, VisionAlign Studio</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-depth-look-at-the-zmi-powerpack-20000-your-go-to-compact-power-provider-reviewed/"><u>In-Depth Look at the ZMI PowerPack 20000 - Your Go-To Compact Power Provider Reviewed</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/introducing-lenovos-new-global-yoga-portable-ai-37l-mini-pc-with-14th-gen-intel-processor-and-thinkcentre-inspired-design/"><u>Introducing Lenovo's New Global Yoga Portable AI: 3.7L Mini PC with 14Th Gen Intel Processor & ThinkCentre-Inspired Design</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-complete-guide-to-shooting-with-a-green-screen-for-2024/"><u>The Complete Guide to Shooting with a Green Screen for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-review-of-toms-technological-devices/"><u>The Ultimate Review of Tom's Technological Devices</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/toms-computer-gear-breakdown-expert-analysis-and-reviews/"><u>Tom's Computer Gear Breakdown - Expert Analysis & Reviews</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gear/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gear</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-s17-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo S17 Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/unleashing-creativity-building-an-ultra-compact-fanless-retro-futuristic-desktop-powered-by-high-performance-usb4-solid-state-drives/"><u>Unleashing Creativity: Building an Ultra Compact, Fanless 'Retro Futuristic' Desktop Powered by High-Performance USB4 Solid State Drives</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/win-back-control-successful-remedies-for-troublesome-steam-game-starts-in-windows-10/"><u>Win Back Control: Successful Remedies for Troublesome Steam Game Starts in Windows 10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-free-red-eye-correction-for-iphone-users-tips-and-tricks/"><u>[Updated] In 2024, Free Red-Eye Correction for iPhone Users - Tips and Tricks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-pioneering-3-approaches-to-ipad-voice-capture-for-2024/"><u>[Updated] Pioneering 3 Approaches to iPad Voice Capture for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-essentials-of-hosting-a-zoom-event-via-android-for-2024/"><u>[Updated] The Essentials of Hosting a Zoom Event via Android for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/acquista-display-screen-e-webcam-con-winx-video-in-modalita-registrazione-e-supporto-multimediale-online/"><u>Acquista Display Screen E Webcam Con Winx Video in Modalità Registrazione E Supporto Multimediale Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-fix-for-when-mfc4illexec-is-undetectable-overcoming-dll-errors/"><u>Easy Fix for When 'MFC4^illexec' Is Undetectable: Overcoming DLL Errors</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/exclusive-offer-high-end-gaming-beast-rtx-4070-super-gpu-plus-i7-cpu-prebuilt-pc-from-msi-for-less-than-1600-limited-time-only/"><u>Exclusive Offer: High-End Gaming Beast (RTX 4070 Super GPU + I7 CPU) Prebuilt PC From MSI for Less Than $1,600 - Limited Time Only</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-newest-drivers-for-hp-officejet-5255/"><u>How to Download & Install Newest Drivers for HP OfficeJet #5255</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/professional-fb-ad-videos-made-simple-free-kit-included-for-2024/"><u>Professional FB Ad Videos Made Simple – Free Kit Included for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/solving-cannot-perform-version-validation-in-final-fantasy-xiv/"><u>Solving 'Cannot Perform Version Validation' In Final Fantasy XIV</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/toms-tech-review-expert-insights-on-latest-hardware/"><u>Tom's Tech Review: Expert Insights on Latest Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-claude-3-supercedes-chatgpt-four-compelling-reasons-for-users/"><u>Why Claude 3 Supercedes ChatGPT: Four Compelling Reasons for Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for a Broken Razer Man O' War Gaming Microphone
-date: 2024-09-12T08:39:02.036Z
-updated: 2024-09-15T05:22:26.461Z
+date: 2024-09-15T21:07:15.423Z
+updated: 2024-09-20T03:09:37.968Z
 tags:
   - win11
   - win10
@@ -85,14 +85,14 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 4: Adjust **the minimum processor state**
 
@@ -103,36 +103,25 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 2. Click the **High performance** option > **Change plan settings** .  
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -162,18 +151,17 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeos-revenue-revolution-strategies-for-sustainable-earnings/"><u>[New] 2024 Approved Vimeo's Revenue Revolution Strategies for Sustainable Earnings</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-degrees-matter-rotating-videos-for-social-glory/"><u>[Updated] 2024 Approved Degrees Matter Rotating Videos for Social Glory</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/affordable-high-performance-gaming-keyboards-listed/"><u>Affordable High-Performance Gaming Keyboards Listed</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/cost-effective-power-play-investing-in-an-affordable-ibuypower-esports-gaming-pc/"><u>Cost-Effective Power Play: Investing in an Affordable iBUYPOWER Esports Gaming PC</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/high-performance-meets-versatility-in-our-in-depth-look-at-the-dell-xps-dell-xps-13-9380-convertible-laptop-premium-power-and-sleek-design-unveiled/"><u>High Performance Meets Versatility in Our In-Depth Look at the Dell XPS Dell XPS 13 (9380) Convertible Laptop - Premium Power and Sleek Design Unveiled</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/how-to-invert-colors-in-digital-photos-in-2024/"><u>How to Invert Colors in Digital Photos, In 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/how-to-prevent-arma-3-from-crashing-expert-advice-and-solutions/"><u>How to Prevent Arma 3 From Crashing - Expert Advice & Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-redmi-13c-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Redmi 13C Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-share-play-on-ps5/"><u>How to Share Play on PS5</u></a></li>
-<li><a href="https://win-dash.techidaily.com/logitech-driving-force-and-g955g925-setup-files-compatible-with-all-modern-windows-os/"><u>Logitech Driving Force and G955/G925 Setup Files - Compatible with All Modern Windows OS</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/powerhouse-gaming-pc-resembles-laptop-design-ultra-mini-with-i9-14900hx-and-rtx/"><u>Powerhouse Gaming PC Resembles Laptop Design - Ultra Mini with I9-14900HX & RTX</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/upgrade-your-desktop-with-asuss-latest-creation-the-nuc-14-proplus-with-a-meteor-lake-processor/"><u>Upgrade Your Desktop with Asus's Latest Creation - The NUC 14 Pro+ With a Meteor Lake Processor</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-to-gif-how-to-make-a-gif-from-vimeo-video/"><u>[New] In 2024, Vimeo to GIF How to Make a GIF From Vimeo Video</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-tiktoks-hidden-treasures-grab-em-all-for-free/"><u>[New] TikTok's Hidden Treasures Grab 'Em All for Free</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-top-9-accelerators-skyrocketing-your-tiktok-community/"><u>[New] Top 9 Accelerators Skyrocketing Your TikTok Community</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-dominate-youtube-with-effective-content-strategies/"><u>[Updated] Dominate YouTube with Effective Content Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>[Updated] In 2024, The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-liberating-your-account-beyond-the-shadowban-for-2024/"><u>[Updated] Liberating Your Account Beyond the Shadowban for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-financial-frontier-youtubes-pay-structure-at-the-1m-mark/"><u>[Updated] The Financial Frontier Youtube's Pay Structure at the 1M Mark</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-realme-gt-5-frp-bypass-by-drfone-android/"><u>In 2024, About Realme GT 5 FRP Bypass</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-enhancing-your-video-impact-a-compreranble-plan-for-youtube-success/"><u>In 2024, Enhancing Your Video Impact A Compreranble Plan for YouTube Success</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rogue-company-game-crashes-fixed-now-running-smoothly-on-your-pc/"><u>Rogue Company Game Crashes Fixed: Now Running Smoothly on Your PC</u></a></li>
 </ul></div>
 
