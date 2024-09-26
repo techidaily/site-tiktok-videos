@@ -1,7 +1,7 @@
 ---
 title: Solving 'Cannot Perform Version Validation' In Final Fantasy XIV
-date: 2024-09-18T08:30:01.965Z
-updated: 2024-09-20T02:54:05.278Z
+date: 2024-09-21T06:08:48.857Z
+updated: 2024-09-26T07:21:44.844Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  Also make sure you have downloaded **[the latest Java version](https://java.com/en/download/manual.jsp)**  , which is important for your Minecraft to run smoothly. Note that you should download the Java file according to your operating system (32-bit or 64-bit).[How to check my computer specs?](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 fixes that proved very helpful for many users. You donâ€™t have to try them all; just work your way down the list until you find the one that works for you.
@@ -57,11 +64,25 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Launch your Minecraft again.
 
  See if the issue still persists. If your Minecraft is still not responding, you can move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Remove incompatible software
 
@@ -102,6 +123,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
 
 **Or**
@@ -109,13 +137,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  Click the**Update All** button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  â€” you will be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easyâ€™s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -136,22 +157,15 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Run Minecraft again to see if this works.
 
@@ -183,13 +197,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/remove-minecraft-1.jpg)
@@ -220,5 +227,20 @@ Feel free to leave us a comment if you have any questions or suggestions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-pro-features-of-dji-phantom-3-technology/"><u>[New] Exploring the Pro Features of DJI Phantom 3 Technology</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-tips-and-tricks-for-joining-friends-live-on-tiktok/"><u>[Updated] 2024 Approved Tips & Tricks for Joining Friends' LIVE on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-choreographed-vocal-harmony-on-tiktok-for-2024/"><u>[Updated] Choreographed Vocal Harmony on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-from-your-computers-vision-mastering-tiktok-video-uploads/"><u>[Updated] From Your Computer's Vision Mastering TikTok Video Uploads</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-tiktok-treasures-turned-into-trendy-graphics-with-top-apps/"><u>[Updated] TikTok Treasures Turned Into Trendy Graphics with Top Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-most-effective-sales-strategies-unveiled-with-these-leading-15-fb-analyzers/"><u>2024 Approved The Most Effective Sales Strategies Unveiled with These Leading 15 FB Analyzers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/beat-the-purchase-free-fb-playlists-download/"><u>Beat the Purchase Free FB Playlists Download</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-macx-dvd-ripper-pro-at-a-bargain-price-exclusive-windows-offer-and-online-discounts-await/"><u>Get MacX DVD Ripper Pro at a Bargain Price! Exclusive Windows Offer and Online Discounts Await.</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/spotting-the-signs-of-an-snapchat-account-closure/"><u>Spotting the Signs of an Snapchat Account Closure</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-solutions-for-windows-pin-access-issues-10plus11/"><u>Top Solutions for Windows PIN Access Issues (10+11)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unique-compilation-rarely-seen-films-now-available-on-dvd/"><u>Unique Compilation: Rarely Seen Films Now Available on DVD</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unveiling-tiktoks-symbolic-world-a-detailed-guidebook-for-2024/"><u>Unveiling TikTokâ€™s Symbolic World A Detailed Guidebook for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-gt-neo-5-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme GT Neo 5 Phones</u></a></li>
+</ul></div>
 

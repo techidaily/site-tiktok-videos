@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Fix Constant System Failures of the Luna Desktop"
-date: 2024-09-15T02:15:57.087Z
-updated: 2024-09-20T09:07:38.486Z
+date: 2024-09-19T18:30:51.365Z
+updated: 2024-09-26T13:51:36.358Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
@@ -45,15 +52,36 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 5) Try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -62,13 +90,6 @@ Check your region and language settings on your computer:
  1) Type **update**  in the search box from **Start** . Then click**Check for updates** on the top.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
@@ -79,10 +100,10 @@ Check your region and language settings on your computer:
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -105,13 +126,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -128,16 +142,16 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
@@ -161,5 +175,24 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-essential-knowledge-for-capturing-stellar-tiktok-videos/"><u>[New] 2024 Approved Essential Knowledge for Capturing Stellar TikTok Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-mastering-tiktok-a-template-based-guide-to-outstanding-video-creation/"><u>[New] 2024 Approved Mastering TikTok A Template-Based Guide to Outstanding Video Creation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-elevate-your-creative-expression-with-smart-caption-techniques-for-tiktoks-for-2024/"><u>[New] Elevate Your Creative Expression with Smart Caption Techniques for TikToks for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-unlock-the-secrets-to-12-incredible-gamers-intro-videos-yt-no-cost/"><u>[New] In 2024, Unlock the Secrets to 12 Incredible Gamers' Intro Videos (YT No Cost)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-what-if-i-accidentally-refreshed-tiktok-in-2024/"><u>[New] What If I Accidentally Refreshed TikTok, In 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-winning-over-viewers-the-top-20-must-try-tiktok-caption-strategies/"><u>[New] Winning Over Viewers The Top 20 Must-Try TikTok Caption Strategies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ultimate-unboxing-logitechs-professional-4k-pro-webcam/"><u>[Updated] 2024 Approved Ultimate Unboxing Logitech's Professional 4K Pro Webcam</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-bridge-the-gap-to-your-friends-live-broadcast/"><u>[Updated] Bridge the Gap to Your Friend's Live Broadcast</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-catchy-tracks-the-20-top-rapping-beats-you-cant-miss-on-tiktok/"><u>[Updated] In 2024, Catchy Tracks The 20 Top Rapping Beats You Can't Miss on TikTok</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-engagement-crafting-anime-subscribe-bars-for-youtube-content/"><u>[Updated] In 2024, Elevate Engagement Crafting Anime Subscribe Bars for YouTube Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-top-25-anime-visionaries-on-tiktok-changing-content-norms-for-2024/"><u>[Updated] Top 25 Anime Visionaries on TikTok Changing Content Norms for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-whimsical-logging-in-and-out-guide-for-2024/"><u>[Updated] Whimsical Logging in & Out Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-resolved-dvd-playback-issue-fixing-supported-disc-unavailable-mistake/"><u>1. Resolved: DVD Playback Issue - Fixing 'Supported Disc Unavailable' Mistake</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-easy-guide-to-see-youtube-liked-comments/"><u>In 2024, Easy Guide to See YouTube Liked Comments</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oneplus-ace-2v-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for OnePlus Ace 2V Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-final-cut-pro-2023-unlocking-professional-color-correction/"><u>Updated 2024 Approved Final Cut Pro 2023 Unlocking Professional Color Correction</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-galaxy-z-fold-5-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Galaxy Z Fold 5</u></a></li>
+</ul></div>
 

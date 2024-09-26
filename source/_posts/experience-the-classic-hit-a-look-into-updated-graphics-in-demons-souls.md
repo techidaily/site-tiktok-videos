@@ -1,7 +1,7 @@
 ---
 title: "Experience the Classic Hit: A Look Into Updated Graphics in Demon's Souls"
-date: 2024-09-16T06:32:04.421Z
-updated: 2024-09-20T04:50:57.774Z
+date: 2024-09-19T00:29:34.395Z
+updated: 2024-09-25T18:01:12.666Z
 categories:
   - BestProducts
 description: "This Article Describes Experience the Classic Hit: A Look Into Updated Graphics in Demon's Souls"
@@ -69,6 +69,13 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/W0-czfRzA-7ixa5VS8Cb4sBcaqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_02-b2292f1ee1b54f4e9990c92e582c5a4b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
 ## Design: An accessory that blends in
@@ -78,6 +85,13 @@ Lifewire / Yoona Wagener
  Slightly less sophisticated, however, is the charging clip. It’s a boxy bar with a hinge that opens to place the device inside. Because it’s so lightweight—venturing on flimsy—I experienced the clip part slipping and snapping closed before I could place the wearable in the charging cradle. This slightly inelegant charging accessory seems a bit at odds with the more polished tracker design.
 
 ![Amazon Halo](https://www.lifewire.com/thmb/QHImxX0EsYwunnnS2aNtTX9j80s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_03-66da73beea854cd39f6c35c06975ef4e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -91,6 +105,13 @@ Lifewire / Yoona Wagener
 
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Performance: Constantly monitoring movement, not performance
 
  While this streamlined device doesn’t log detailed workout metrics, the Halo has the upper hand when it comes to continuously monitoring movement—and sedentary stints throughout the day. Whether you’re sitting at a desk or venture out for an errand, the Halo will capture that and pretty accurately categorize it. It consistently registered walking and running activities, though the readout wasn’t very accurate for the latter. Truthfully, I don’t get the impression that that’s the point of the Halo.
@@ -98,19 +119,6 @@ Lifewire / Yoona Wagener
  Instead, the Halo presents all activity data through a convenient point-tracking system. The weekly goal is 150, which converts to 150 minutes of cardiovascular activity, as recommended by the American Heart Association. Periods of movement and exercise count toward this point goal, while periods of non-movement subtract from points earned. It’s a digestible system that offers a new twist on the steps or movement alert functions you’ll find in fitness trackers and[smartwatches](https://www.lifewire.com/an-introduction-to-smart-watches-3441381) from Samsung, Garmin, Fitbit, and others. This system was an encouraging reset from those reminders that sometimes feel more annoying than motivating.
 
 ![Amazon Halo](https://www.lifewire.com/thmb/FjdFyV6Y4mTXNsqccZ4aEBJNpV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_05-e671ee9f77cc4cee8e2580a2dba449d5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener.
 
@@ -121,13 +129,6 @@ Lifewire / Yoona Wagener
  All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the cloud, which Amazon assures is private and well secured.
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Software: An essential and user-friendly mobile app
 
@@ -148,13 +149,20 @@ Lifewire / Yoona Wagener
 ![Amazon Halo](https://www.lifewire.com/thmb/fBsShcBruhAWkg-kTKPWkYUaImo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_04-ee532fbe8d2f4e8195e63ed9dd45611a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Price: A reasonable price for the feature set
 
@@ -177,13 +185,6 @@ Lifewire / Yoona Wagener
 * [Apple Watch Series 5](https://www.lifewire.com/apple-watch-series-6-review-5087552)
 * [Fitbit Sense](https://www.lifewire.com/fitbit-sense-review-5085832)
 * [Ticwatch Pro](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -214,5 +215,21 @@ Lifewire / Yoona Wagener
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-laying-down-an-elegant-tiktok-credits-panel/"><u>[New] In 2024, Laying Down an Elegant TikTok Credits Panel</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-safeguard-creativity-validating-content-for-tiktok-posting/"><u>[New] In 2024, Safeguard Creativity Validating Content for TikTok Posting</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-24-clever-tiktoks-the-comedy-goldmine/"><u>[Updated] 2024 Approved 24 Clever TikToks The Comedy Goldmine</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-formulating-imaginative-tiktok-credit-graphics/"><u>[Updated] 2024 Approved Formulating Imaginative TikTok Credit Graphics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-exploring-the-best-free-youtube-video-editors-for-ios-for-2024/"><u>[Updated] Exploring the Best Free YouTube Video Editors for iOS for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-vocalizing-your-tiktok-content/"><u>[Updated] In 2024, The Ultimate Guide to Vocalizing Your TikTok Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mobile-editing-hacks-select-top-10-short-form-apps/"><u>[Updated] Mobile Editing Hacks Select Top 10 Short Form Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-top-5-iphone-podcast-apps-guide/"><u>2024 Approved Exclusive Top 5 iPhone Podcast Apps Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-first-steps-launching-a-youtube-channel-for-profit/"><u>2024 Approved First Steps Launching a YouTube Channel for Profit</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/enhance-team-engagement-with-microsoft-teams-snap-camera-feature/"><u>Enhance Team Engagement with Microsoft Teams' Snap Camera Feature</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-e13-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto E13 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-m-audio-fast-track-download-latest-drivers-for-windows-users-w10-7-8-and-81/"><u>Installing M-Audio Fast Track: Download Latest Drivers for Windows Users (W10, 7, 8 & 8.1)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/troubleshooting-steps-to-prevent-outlook-from-frequent-crashes/"><u>Troubleshooting Steps to Prevent Outlook From Frequent Crashes</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-get-started-with-mp4-video-editing-a-friendly-tutorial-for-mac-and-windows-beginners/"><u>Updated Get Started with MP4 Video Editing A Friendly Tutorial for Mac and Windows Beginners</u></a></li>
+</ul></div>
 

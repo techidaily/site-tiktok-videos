@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sound Issues Solved? Expert Fixes for Nonworking Game Mics
-date: 2024-09-18T01:35:08.716Z
-updated: 2024-09-19T20:43:40.243Z
+date: 2024-09-20T15:29:53.991Z
+updated: 2024-09-26T00:06:59.284Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -72,6 +79,14 @@ Read on and follow the easy-doing images below!
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
@@ -83,8 +98,24 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
@@ -112,12 +143,23 @@ Read on and follow the easy-doing images below!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-a-guide-to-establishing-a-vlog-centered-on-merchandise-assessments-for-2024/"><u>[Updated] A Guide to Establishing a Vlog Centered on Merchandise Assessments for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-connect-to-a-real-time-tiktok-livestayers-world/"><u>[Updated] Connect to a Real-Time TikTok Livestayer's World</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-discover-50plus-creative-words-that-make-tiktoks-go-viral/"><u>[Updated] Discover 50+ Creative Words That Make TikToks Go Viral</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-securely-expanding-your-tiktok-audience/"><u>[Updated] In 2024, Securely Expanding Your TikTok Audience</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-refining-your-tiktok-end-screen-elements/"><u>[Updated] Refining Your TikTok End Screen Elements</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-transforming-videos-into-stories-top-5-effective-tiktok-caption-strategies-for-2024/"><u>[Updated] Transforming Videos Into Stories Top 5 Effective TikTok Caption Strategies for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-craft-your-first-impactful-facebook-phenomenon-giveaway/"><u>2024 Approved Craft Your First Impactful Facebook Phenomenon Giveaway</u></a></li>
+<li><a href="https://win-answers.techidaily.com/deathloop-freezing-issues-heres-how-you-can-get-smooth-playback-on-pcps5/"><u>Deathloop Freezing Issues? Here's How You Can Get Smooth Playback on PC/PS5</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-xiaomi-redmi-12-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Redmi 12 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-rogue-company-game-crash-issues-on-windows-computers/"><u>Fixing the Rogue Company Game Crash Issues on Windows Computers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mastering-visual-storytelling-captioning-for-tiktok-videos-for-2024/"><u>Mastering Visual Storytelling Captioning for TikTok Videos for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-the-nook-how-jake-paul-snagged-youtube-success-for-2024/"><u>Navigating the Nook How Jake Paul Snagged YouTube Success for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-a-detailed-exploration-of-top-value-free-plugins-and-their-download-sources/"><u>New In 2024, A Detailed Exploration of Top Value Free Plugins and Their Download Sources</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-realtek-alc887-sound-card-problems-on-your-windows-pc/"><u>Resolving Realtek ALC887 Sound Card Problems on Your Windows PC</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tiktok-food-10-most-popular-tiktok-food-trends-for-2024/"><u>Tiktok Food | 10 Most Popular Tiktok Food Trends for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-resolved-issue-why-elden-ring-is-now-available/"><u>Update: Resolved Issue - Why Elden Ring Is Now Available</u></a></li>
+</ul></div>
 
