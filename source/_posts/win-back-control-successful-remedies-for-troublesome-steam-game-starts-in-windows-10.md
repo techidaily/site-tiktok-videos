@@ -1,7 +1,7 @@
 ---
 title: "Win Back Control: Successful Remedies for Troublesome Steam Game Starts in Windows 10"
-date: 2024-09-21T03:34:17.909Z
-updated: 2024-09-26T07:14:12.245Z
+date: 2024-09-27T17:34:51.913Z
+updated: 2024-10-01T17:48:14.244Z
 tags:
   - win11
   - win10
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/927eab612ca9394a8dc7ea238a2f885f7ea9117fa
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. You’ll need the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) to do this and you’ll be prompted to upgrade.  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
@@ -70,20 +70,27 @@ thumbnail: https://thmb.techidaily.com/927eab612ca9394a8dc7ea238a2f885f7ea9117fa
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
  If your PC fails to meet the recommended system requirements for Control, you should use a reduced settings profile for graphics-related features, because higher settings will increase the workload for your PC, which may even lead to the game crash issue. You can follow the screenshots below to lower the in-game graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here are the system requirements for Control:
 
@@ -116,13 +123,21 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
@@ -131,22 +146,8 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
@@ -204,25 +205,11 @@ Here are the system requirements for Control:
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Install the latest Control patch
 
  Remedy Entertainment (the developer of Control) releases regular game patches to fix bugs and improve gaming performance. It’s possible that an older patch has caused the game crash issue, and that a new patch is required to fix it.
 
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Verify the game file
 
@@ -233,10 +220,10 @@ Here are the system requirements for Control:
 2. Click **Verify** to start verifying the game files.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
@@ -251,6 +238,13 @@ Here are the system requirements for Control:
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 10: Run Program Compatibility Troubleshooter
 
  If Control often crashes on your Windows 10 PC, you can try running Windows Program Compatibility Troubleshooter to run the game in Windows 7 mode. Here’s how to do it:
@@ -263,6 +257,13 @@ Here are the system requirements for Control:
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
 See if this fix works for you. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 11: Reinstall the game
 
@@ -290,19 +291,18 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-adding-value-to-visuals-implementing-watermarks-in-instagram-for-2024/"><u>[New] Adding Value to Visuals Implementing Watermarks in Instagram for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-from-basic-to-breathtaking-crafting-top-tier-tiktok-videos-using-templates-for-2024/"><u>[New] From Basic to Breathtaking Crafting Top-Tier TikTok Videos Using Templates for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-outrageous-odyssey-your-roadmap-to-the-funniest-tiktok-challenges/"><u>[New] Outrageous Odyssey Your Roadmap to the Funniest TikTok Challenges</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-top-10-invisible-peers-for-hidden-stories/"><u>[New] Top 10 Invisible Peers for Hidden Stories</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-free-easy-to-use-leading-web-based-tiktop-to-mp3-apps/"><u>[Updated] Free, Easy-to-Use Leading Web-Based TikTop To MP3 Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-saving-smiles-the-step-by-step-guide-to-downloading-tweets-animated-images/"><u>[Updated] In 2024, Saving Smiles The Step-by-Step Guide to Downloading Tweets’ Animated Images</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-crafting-an-authentic-tiktok-conclusion-experience/"><u>2024 Approved Crafting an Authentic TikTok Conclusion Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-fixes-handling-a-server-error-500-successfully/"><u>Essential Fixes: Handling a Server Error 500 Successfully</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/hottest-tiktok-trials-step-up-and-join-in/"><u>Hottest TikTok Trials - Step Up and Join In</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo Y27s? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/immaculatepixels-prograde-background-elimination-for-2024/"><u>ImmaculatePixels Prograde Background Elimination for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-v29-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo V29 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/inverting-video-order-on-snapchat/"><u>Inverting Video Order on Snapchat</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/join-the-party-your-guide-to-active-tiktok-streaming/"><u>Join the Party Your Guide to Active TikTok Streaming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-top-5-tips-for-tiktok-success-on-mac-for-2024/"><u>[New] Top 5 Tips for TikTok Success on Mac for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-vhs-80s-effects-to-use-in-video-editing-for-2024/"><u>[New] Top VHS 80S Effects to Use in Video Editing for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-initiate-into-a-tiktok-live-with-ease/"><u>[Updated] 2024 Approved Initiate Into a TikTok Live with Ease</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mastering-customization-seamlessly-embedding-text-and-links-in-youtube-videos/"><u>[Updated] 2024 Approved Mastering Customization Seamlessly Embedding Text & Links in Youtube Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-capture-the-rhythm-rapid-tap-into-tiktok-videos/"><u>2024 Approved Capture the Rhythm Rapid Tap Into TikTok Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expert-voice-editing-software-for-video-content-makers-for-2024/"><u>Expert Voice Editing Software for Video Content Makers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-luminarx-the-freepaid-lightroom-rival-list/"><u>In 2024, LuminarX The Free/Paid Lightroom Rival List</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-8-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone 8 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insider-info-on-the-upcoming-google-pixel-fold-2-anticipated-cost-and-launch-timeline/"><u>Insider Info on the Upcoming Google Pixel Fold 2 - Anticipated Cost & Launch Timeline</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-tiktok-crashes-fix-guide-for-androidios-users-for-2024/"><u>Navigating TikTok Crashes Fix Guide for Android/iOS Users for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-common-file-explorer-issues-in-windows-11-get-expert-advice/"><u>Quick Fixes for Common File Explorer Issues in Windows 11 - Get Expert Advice!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unleashing-creativity-a-guide-to-music-infused-videos-for-tiktok-for-2024/"><u>Unleashing Creativity A Guide to Music-Infused Videos for TikTok for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unlocking-youtube-sounds-through-screen-capture/"><u>Unlocking YouTube Sounds Through Screen Capture</u></a></li>
 </ul></div>
 

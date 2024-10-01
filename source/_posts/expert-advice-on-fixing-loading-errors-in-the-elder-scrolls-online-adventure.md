@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Fixing Loading Errors in The Elder Scrolls Online Adventure
-date: 2024-09-24T00:17:31.616Z
-updated: 2024-09-26T06:16:50.725Z
+date: 2024-09-29T17:55:18.806Z
+updated: 2024-10-01T16:33:38.480Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ God of War
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The Santa Monica Studio releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -42,6 +49,13 @@ God of War
  If a patch is available, it will be detected by Steam or the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch God of War and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patches available, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -62,23 +76,17 @@ There are mainly two methods for you to update the graphics driver:
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Change Windows power plan
 
@@ -92,6 +100,13 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
 
@@ -161,31 +176,17 @@ There are mainly two methods for you to update the graphics driver:
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch God of War again after you disabled all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -198,21 +199,14 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -240,17 +234,24 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-boosting-sales-via-high-roi-animated-fb-ad-campaigns/"><u>[New] Boosting Sales via High-ROI Animated FB Ad Campaigns</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-newest-tiktok-sensations-for-your-earseyes-for-2024/"><u>[New] The Newest TikTok Sensations for Your Ears/Eyes for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-crafting-content-gaining-profits-an-insiders-tale-on-instagram-sponsorship-for-2024/"><u>[Updated] Crafting Content, Gaining Profits An Insider's Tale on Instagram Sponsorship for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-extract-youtube-soundtracks-for-free-with-this-list-of-25-rippers/"><u>[Updated] Extract YouTube Soundtracks for Free With This List of 25 Rippers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-inspiration-on-screen-top-youtube-themes-for-channels-prosperity/"><u>[Updated] In 2024, Inspiration on Screen Top YouTube Themes for Channels' Prosperity</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-the-art-of-preserving-playstation-4-gaming-history/"><u>[Updated] In 2024, Mastering the Art of Preserving PlayStation 4 Gaming History</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-tips-and-tricks-for-joining-friends-live-on-tiktok/"><u>[Updated] In 2024, Tips & Tricks for Joining Friends' LIVE on TikTok</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-install-the-correct-hp-network-driver-for-windows-1078-with-our-comprehensive-download-resource/"><u>Find and Install the Correct HP Network Driver for Windows 10/7/8 with Our Comprehensive Download Resource</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-the-easy-guide-to-taking-and-saving-twitters-gifs/"><u>In 2024, The Easy Guide to Taking and Saving Twitter's Gifs</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/retro-revelry-on-snapchat-camera-roll-insights/"><u>Retro Revelry on Snapchat Camera Roll Insights</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/snap-edit-and-share-spectacularly-on-tiktok-with-themes/"><u>Snap, Edit & Share Spectacularly on TikTok with Themes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-basics-of-biometric-identification-what-you-need-to-know/"><u>The Basics of Biometric Identification: What You Need To Know</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-jujutsu-kaisens-impact-the-tiktok-challenge-perspective/"><u>[New] 2024 Approved Jujutsu Kaisen's Impact The TikTok Challenge Perspective</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-engaging-your-audience-ranked-top-20-tiktok-caption-techniques/"><u>[New] Engaging Your Audience Ranked Top 20 TikTok Caption Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-game-on-excavating-elite-escape-chamber-quests-for-2024/"><u>[New] Game On Excavating Elite Escape Chamber Quests for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-how-to-cut-off-and-terminate-your-tiktok-identity/"><u>[New] How to Cut Off and Terminate Your TikTok Identity</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-journey-into-the-creative-realm-top-25-tiktok-anime-ideas-for-2024/"><u>[New] Journey Into the Creative Realm Top 25 TikTok Anime Ideas for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-disguise-techniques-in-picart/"><u>[Updated] Disguise Techniques in PicArt</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-tiktok-mastery-in-a-nutshell-quick-guide-for-camera-ready-recordings-for-2024/"><u>[Updated] TikTok Mastery in a Nutshell Quick Guide for Camera-Ready Recordings for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unlock-creative-potential-in-tiktok-with-voice-modification-for-2024/"><u>[Updated] Unlock Creative Potential in TikTok with Voice Modification for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-premium-video-recorder-for-cutting-edge-youtube-content/"><u>2024 Approved Premium Video Recorder for Cutting-Edge YouTube Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-the-secrets-of-inshot-editing-excellence/"><u>2024 Approved Unraveling the Secrets of InShot Editing Excellence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-gigabyte-gc-wb867d-driver-software-here/"><u>Get the Newest Gigabyte GC-WB867D Driver Software Here!</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-from-digital-sketches-to-dynamic-lives-the-pc-guide-for-tiktok-broadcasting/"><u>In 2024, From Digital Sketches to Dynamic Lives The PC Guide for TikTok Broadcasting</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20c-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20C Phone without Any Data Loss</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-innovative-insights-for-streaming-success-on-tiktoks-computer-interface/"><u>In 2024, Innovative Insights for Streaming Success on TikTok's Computer Interface</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mastering-video-retention-ios-and-android-solutions/"><u>Mastering Video Retention IOS and Android Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/schneiden-von-videos-im-vlc-media-player-verstehen-professionelle-tipps-fur-die-optimierung/"><u>Schneiden Von Videos Im VLC Media Player Verstehen - Professionelle Tipps Für Die Optimierung</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unhappy-with-windows-10-photos-here-are-8-better-options/"><u>Unhappy with Windows 10 Photos? Here Are 8 Better Options</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-the-secrets-to-successful-rapid-subscribing-on-youtube-for-2024/"><u>Unlocking the Secrets to Successful Rapid Subscribing on YouTube for 2024</u></a></li>
 </ul></div>
 

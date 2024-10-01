@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Arma 3 From Crashing - Expert Advice & Solutions
-date: 2024-09-24T05:04:07.642Z
-updated: 2024-09-26T12:13:04.823Z
+date: 2024-09-30T16:08:11.501Z
+updated: 2024-10-01T16:58:21.491Z
 tags:
   - win11
   - win10
@@ -30,22 +30,15 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
  Before you move on to the troubleshooting steps below, check if your PC specs surpass the[minimum requirements](https://www.epicgames.com/store/en-US/product/hitman-3/home) of Hitman 3\. If not, you’ll have to upgrade your components to play the game normally.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Stop overclocking
 
  An unstable overclocking will lead to excessive energy consumption and cause your programs to malfunction. So if you’ve overclocked your CPU or GPU and then Hitman 3 crashes, try**disabling overclocking utilities like MSI Afterburner** and **setting the clock speed back to the default** . If this doesn’t help, have a look at the second fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Use the dedicated GPU
 
@@ -58,39 +51,55 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 3. Go to the**Programs Settings** tab. Then, click the**Add** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-3.jpg)
 4. Select**HITMAN 3** from the list and click**Add Selected Program** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-4.jpg)
-5. Choose**High-performance NVIDIA processor** as the preferred graphics processor for Hitman 3.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-5.jpg)
-6. Exit the NVIDIA Control Panel.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-4.jpg)
+5. Choose**High-performance NVIDIA processor** as the preferred graphics processor for Hitman 3.  
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-5.jpg)
+6. Exit the NVIDIA Control Panel.
 
 7. Launch Hitman 3 and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-6.jpg)
 8. Select your**dedicated graphics card** instead of the integrated one next to Graphics Processing Unit, and click**Save** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-7.jpg)
 
  If you have an AMD graphics card, you could refer to this[official guide](https://www.amd.com/en/support/kb/faq/dh-017) to configure the Radeon settings.
 
  Now see if Hitman 3 works properly. If not, there are two more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Verify the integrity of game files
@@ -105,13 +114,6 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 3. After the process completes, launch Hitman 3 to test.
 
  Does the game works the right way or does it still crash? If the latter, don’t frustrate and check out the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
 
@@ -134,13 +136,6 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
  After the driver update, you should see Hitman 3 runs more smoothly. But if this method doesn’t work, continue to the last fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5 – Increase virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory, but when it runs low, the system performance may suffer and Hitman 3 will crash frequently. To see if that’s the case, you can increase the virtual memory via the steps below.
@@ -148,16 +143,32 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 1. Click the**Start** button and type**advanced system settings** in the search bar. Then, click**View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-3.jpg)
 2. Click**Settings** under Performance.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-2.jpg)
 3. Navigate to the**Advanced** tab. Then, click**Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-2.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-3.jpg)
@@ -193,19 +204,20 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-unleashing-creativity-in-tiktok-intros-your-ultimate-macguide/"><u>[New] Unleashing Creativity in TikTok Intros Your Ultimate MacGuide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-zenful-grooves-top-20-tranquil-country-beats-for-stress-free-dancing-tiktok/"><u>[New] Zenful Grooves Top 20 Tranquil Country Beats for Stress-Free Dancing (TikTok)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-clearance-checking-guidelines-for-pre-upload-to-tiktok-for-2024/"><u>[Updated] Clearance-Checking Guidelines for Pre-Upload to TikTok for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-tips-to-get-your-video-staff-picked-on-vimeo/"><u>[Updated] Tips to Get Your Video “Staff Picked” On Vimeo</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-s17-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo S17 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-fix-microphone-problems-during-google-hangouts-calls-effortlessly/"><u>Diagnose and Fix Microphone Problems During Google Hangouts Calls Effortlessly</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/efficient-transfer-techniques-for-iphone-images-on-snapchat/"><u>Efficient Transfer Techniques for iPhone Images on Snapchat</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/embrace-these-hits-top-10-viral-tiktok-challenges/"><u>Embrace These Hits Top 10 Viral TikTok Challenges</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-s24-ultra-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy S24 Ultra Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-your-windows-device-with-new-ch340g-usb-chip-drivers/"><u>How to Update Your Windows ^Device with New CH340G USB Chip Drivers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-a25-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy A25 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Infinix Phone without Any Data Loss</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/instant-impact-effortless-ways-to-amplify-your-tiktok-pics/"><u>Instant Impact Effortless Ways to Amplify Your TikTok Pics</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-virtual-and-the-immersive-delineating-metavirtualitys-six-aspects/"><u>The Virtual and the Immersive: Delineating Metavirtuality's Six Aspects</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-pioneering-film-making-skills-through-youtube-videos/"><u>[New] 2024 Approved Pioneering Film Making Skills Through YouTube Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-accurate-age-reflection-in-just-a-minute/"><u>[New] Accurate Age Reflection in Just a Minute</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-unlimited-tiktok-videos-no-watermarks-free-downloads/"><u>[New] In 2024, Unlimited TikTok Videos No Watermarks, Free Downloads</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-tickling-your-brain-the-best-joke-threads-on-tiktok/"><u>[New] Tickling Your Brain The Best Joke Threads on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-20-timeless-anime-themes-making-a-mark-on-tiktok/"><u>[Updated] 2024 Approved 20 Timeless Anime Themes Making a Mark on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-sculpting-an-impactful-tiktok-conclusion/"><u>[Updated] Sculpting an Impactful TikTok Conclusion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-secure-your-videos-top-5-fb-downloader-apps-ranked-for-2024/"><u>[Updated] Secure Your Videos Top 5 FB Downloader Apps Ranked for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-essential-techniques-5-methods-for-superior-tiktok-captioning/"><u>2024 Approved Essential Techniques 5 Methods for Superior TikTok Captioning</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-ultimate-guide-to-crafting-compelling-tiktok-captions-5-must-knows/"><u>2024 Approved The Ultimate Guide to Crafting Compelling TikTok Captions (5 Must-Knows)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-xiaomi-13-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Xiaomi 13 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/einfach-wechseln-mit-butagaz-intelligente-datenabfrage-fur-eine-reibungslose-versorgungsanderung/"><u>Einfach Wechseln Mit Butagaz - Intelligente Datenabfrage Für Eine Reibungslose Versorgungsänderung</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-standard-to-stylish-personalize-each-window-11-screen/"><u>From Standard to Stylish: Personalize Each Window 11 Screen</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-g24-power-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-f23-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo F23 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-monetization-a-deep-dive/"><u>YouTube's Monetization A Deep Dive</u></a></li>
 </ul></div>
 

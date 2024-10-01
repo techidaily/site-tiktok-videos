@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Dive Into iBUYPOWER’s Memorable Memorial Day Deals for Latest Gaming Rigs"
-date: 2024-09-21T01:45:20.435Z
-updated: 2024-09-25T16:10:11.448Z
+date: 2024-09-26T16:28:00.445Z
+updated: 2024-10-01T17:02:33.460Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ## Best $500 PC Build for Gaming
 
 ![Cooler Master MasterBox Q300L](https://cdn.mos.cms.futurecdn.net/Zoebn2FkWQprjxmm7jKxZS-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -67,16 +74,16 @@ If you want a computer that meets your exact needs and budget, you need to put i
   
  Finally, we need something to power the whole system, and this is an area where we opted to compromise in pursuit of the $500 price point. The $40 500W PSU should be fine for this basic build, which will likely peak at around 200W of power use, but the Thermaltake Smart series isn't exactly highly regarded, and the listing mentions Haswell support (circa 2014) and it only has 80 Plus certification, which are clear drawbacks. If you want a quality PSU, check out the[Thermaltake Toughpower GX2 600W](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB087CDR14Z%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2901418645577992029-20) that costs $20 more. It's an 80 Plus Gold certified PSU, from a reputable brand, albeit overkill for a build like this.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best $800 PC Build for Gaming
 
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Amazon)
 
@@ -100,13 +107,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![14400 CPU vs competition](https://cdn.mos.cms.futurecdn.net/FVyBrR3Fkm8RXeguWat4ik-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  To go with this Intel processor, we're using an ASRock B760M-HDV motherboard because it supports 14th Gen CPUs without a BIOS update. It's a DDR4 board so we can save money by using DDR4 memory. It also features two M.2 slots for SSDs, with one of them supporting PCIe 4.0 drives.
@@ -124,16 +124,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Crucial P5 Plus Tests](https://cdn.mos.cms.futurecdn.net/dVtKieHEMPgzXkpEJa7jcm-320-80.png)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -170,13 +164,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![CPU 1080p performance for Ryzen 7 5700X3D](https://cdn.mos.cms.futurecdn.net/FubLpBjdNUCy6aXRouBReZ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Image credit: Newegg)
 
  To support our Ryzen 7 57003XD, we're using a Gigabyte B550 UD AC motherboard. This board has built-in Wi-Fi 6 and it also has Q-Flash, which allows you to[update the BIOS](https://www.tomshardware.com/how-to/update-bios-on-a-pc) , before you install the CPU. This may be necessary as the 5700X3D just came out a few months ago.
@@ -195,16 +182,16 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Finally, we've stepped up to a 750-watt power supply and we're going with Corsair CX750M, which is 80+ Bronze certified and semi-modular. You can get a modular PSU or one that's 80+ Gold certified for a bit more, but that's money you don't need to spend at this price point.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best $1,500 PC Build for Gaming
 
 ![Lian Li Lancool 216](https://cdn.mos.cms.futurecdn.net/Km4g6hf6hy2XkxhB88oxBR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -229,6 +216,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
  With ray tracing enabled, the RTX 4070 delivers 69.4 fps at 1080 ultra and a playable 45.2 fps at 1440p. In some titles, the numbers are much higher. For example, in Spider-Man: Miles Morales at 1440p, the card returned an average frame rate of 69 fps.
 
 ![RTX 4070 Spider-Man: Miles Morales Ray Tracing results](https://cdn.mos.cms.futurecdn.net/XgVebfNva528szwrGpaooB-320-80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -282,6 +276,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Ryzen 7 7800X3D 1080p gaming tests](https://cdn.mos.cms.futurecdn.net/c5TiEiPPHBkLtGTfkp3Tyh-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  To cool the CPU, we're using an Iceberg Thermal IceFLOE Oasis 360\. When we[tested the IceFLOE](https://www.tomshardware.com/pc-components/liquid-cooling/iceberg-thermal-icefloe-oasis-360mm-240mm-review) , we were impressed with its low noise output and fantastic cooling output that allowed it to disperse up to 237 watts of heat. It has attractive RGB and you get all of that for a measly $89.
@@ -289,13 +290,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our motherboard is Gigabyte B650M Aorus Elite AX which is one of the more affordable AM5 motherboards you can buy but it still packs in Wi-Fi 6E radio. AMD Zen 7000 chips require DDR5 RAM so we're going with 32GB of G.Skill Trident Z5\. The Trident Z5 kit tops our list of[best RAM](https://www.tomshardware.com/reviews/best-ram,4057.html) , thanks to its tight-timings, fast performance and overclocking potential. In our tests, the Z5 also had the lowest memory latency of its competitors.
 
 ![Memory Latency](https://cdn.mos.cms.futurecdn.net/ew9VS2PUuTupX8YSvcyb5X-320-80.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Future)
 
@@ -310,10 +304,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Fractal Design North XL](https://cdn.mos.cms.futurecdn.net/gohZoiw9QykbPm5kgrhfbi-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -340,6 +334,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4090 Performance](https://cdn.mos.cms.futurecdn.net/mKv5emaUBYKBRQ8URPsxCY-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Our CPU is AMD's Ryzen 9 7950X3D, which offers faster gaming than any Intel CPU on the market, including the Core i9-14900K. It has a whopping 140MB of cache, thanks to AMDs innovative 3D V-Cache and it boasts 16 full-power cores and 32 threads, which is more regular cores than the 13900K's set of 8 (to go with 16 E-Cores).
@@ -364,13 +365,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  With these high-end components, we don't want to skimp on the power supply, and having something that's fit for a future graphics card upgrade makes sense. We're going with a full 1000-watts of power and the Corsair HX1000\. This power supply is 80+ Platinum certified and fully modular.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Finding Discounts on the Best PC Components
 
  To find savings on components of all types, check out our lists of the[best PC hardware deals](https://www.tomshardware.com/news/best-deals-on-tech) , along with the latest[Newegg promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fnewegg.com) ,[Corsair coupon codes](https://www.tomshardware.com/coupons/corsair.com) and[Best Buy promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fbestbuy.com) .
@@ -390,17 +384,24 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-perfect-game-video-edits-made-easy-for-newcomers/"><u>[New] 2024 Approved Perfect Game Video Edits Made Easy for Newcomers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-how-to-join-and-reap-the-rewards-of-social-media-success-stories-for-2024/"><u>[New] How to Join & Reap the Rewards of Social Media Success Stories for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-spark-interest-with-style-mixing-tiktoks-genius-techniques-for-insta-for-2024/"><u>[Updated] Spark Interest with Style Mixing TikTok's Genius Techniques for Insta for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-which-angle-works-better-for-social-sharing-vertical-or-horizontal-for-2024/"><u>[Updated] Which Angle Works Better for Social Sharing Vertical or Horizontal for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-beyond-the-basics-advanced-livestreaming-tools/"><u>2024 Approved Beyond the Basics Advanced Livestreaming Tools</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-creme-de-la-reading-list-tiktok-endorsed-bestsellers/"><u>2024 Approved The Crème De La Reading List TikTok-Endorsed Bestsellers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/activating-windows-10-security-features-a-step-by-step-guide/"><u>Activating Windows 10 Security Features: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/carving-out-the-ultimate-tiktok-final-act/"><u>Carving Out the Ultimate TikTok Final Act</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/from-page-to-screen-jujutsu-kaisen-on-tiktok/"><u>From Page to Screen Jujutsu Kaisen on TikTok</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimal-free-cam-viewer-with-snatch-feature/"><u>In 2024, Optimal Free Cam Viewer with Snatch Feature</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/top-fonts-to-amplify-your-tiktok-presence-in-23-for-2024/"><u>Top Fonts to Amplify Your TikTok Presence in '23 for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/video-cataloging-mastery-perfecting-playlists-on-youtube-platform/"><u>Video Cataloging Mastery Perfecting Playlists on YouTube Platform</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-how-to-dominate-the-viral-video-edit-scene-on-tiktok-for-2024/"><u>[New] How to Dominate the Viral Video Edit Scene on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-leading-the-charge-top-10-gaming-bloggers-on-tiktok/"><u>[New] Leading The Charge Top 10 Gaming Bloggers on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-cutting-edge-creativity-on-tiktok-mastering-video-designs-in-minutes-for-2024/"><u>[Updated] Cutting-Edge Creativity on TikTok Mastering Video Designs in Minutes for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-earn-on-tiktok-explore-8-effective-money-making-techniques/"><u>[Updated] Earn on TikTok Explore 8 Effective Money-Making Techniques</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-blueprint-for-tiktok-profitability-mastering-filmmaker-funds/"><u>2024 Approved The Blueprint for TikTok Profitability – Mastering Filmmaker Funds</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-beginners-basics-establishing-your-channel-and-earning-profits/"><u>2024 Approved Youtube Beginner's Basics Establishing Your Channel & Earning Profits</u></a></li>
+<li><a href="https://win-answers.techidaily.com/batman-arkham-knight-rapid-remedies-for-fatal-glitches-and-system-collapses/"><u>Batman: Arkham Knight - Rapid Remedies for Fatal Glitches and System Collapses</u></a></li>
+<li><a href="https://fox-info.techidaily.com/creating-your-first-home-theater-disc-with-mac-for-2024/"><u>Creating Your First Home Theater Disc with Mac for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/cult-classic-reimaginings-top-20-anime-on-tiktok-for-2024/"><u>Cult Classic Reimaginings Top 20 Anime on TikTok for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-fixing-iphone-incoming-call-problems/"><u>Guide to Fixing iPhone Incoming Call Problems</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-use-a-stabilization-tool-in-filmora-for-2024/"><u>How to Use a Stabilization Tool in Filmora for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-a-compreenasion-of-siri-integration-into-tiktok-filmmaking/"><u>In 2024, A Compreenasion of Siri Integration Into TikTok Filmmaking</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-media-iphoneipad-download-youtube-videos-step-by-step/"><u>In 2024, Maximizing Media IPhone/iPad - Download Youtube Videos Step-by-Step</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unlocking-tiktok-stream-potential-3-key-steps-on-laptops/"><u>In 2024, Unlocking TikTok Stream Potential 3 Key Steps on Laptops</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mac-video-editing-app-turn-clips-into-masterpieces-for-2024/"><u>Mac Video Editing App Turn Clips Into Masterpieces for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stay-ahead-of-the-curve-engaging-activities-while-listening-to-talk-shows/"><u>Stay Ahead of The Curve Engaging Activities While Listening to Talk Shows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/swift-clearing-of-tiktok-imprints-on-mobile-devices-for-2024/"><u>Swift Clearing of TikTok Imprints on Mobile Devices for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-blueprint-for-flawless-video-conferences-on-slackplusfilmora/"><u>The Blueprint for Flawless Video Conferences on Slack+Filmora</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Samsung Galaxy S24+? | Dr.fone</u></a></li>
 </ul></div>
 

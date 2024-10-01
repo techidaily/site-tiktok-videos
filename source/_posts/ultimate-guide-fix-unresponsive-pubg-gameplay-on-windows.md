@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Fix Unresponsive PUBG Gameplay on Windows"
-date: 2024-09-20T07:48:26.418Z
-updated: 2024-09-26T06:51:10.472Z
+date: 2024-09-25T17:14:01.990Z
+updated: 2024-10-01T17:53:32.586Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ But the good news is that you can fix it. Here are 8 solutions to try.
 7. **[Configure your virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Mordhau](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Meet the minimum system requirements
 
  To run Mordhau smoothly on your PC, ensure your computer meets the game’s minimum system requirements.
@@ -65,19 +58,45 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-28.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Check your **operating system, processor, and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-32.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-37.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Make sure your system specs meet the requirements, then move on and try the fix below.
 
@@ -123,13 +142,6 @@ If this didn’t work for you, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-51.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click**Mordhau** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-57.jpg)
@@ -141,6 +153,19 @@ If this didn’t work for you, try the fix below.
 **5)** Relaunch Mordhau to test your issue.
 
 If Mordhau is still crashing, move on and check the fix, below.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your graphics driver
 
@@ -157,6 +182,13 @@ If Mordhau is still crashing, move on and check the fix, below.
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-02-25-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -189,6 +221,13 @@ If your problem persists, move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-54.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Select **High Performance** .
 
  **What’s the differences?**
@@ -197,16 +236,16 @@ If your problem persists, move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-59-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Restart your computer and Mordhau to test your issue.
 
 If your game is still unplayable, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Configure your virtual memory
 
@@ -238,48 +277,15 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-29.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** Click the option button next to**Custom size** , and then type**4096** in the text box next to**Initial size (MB)** and**Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger. In most cases, setting your virtual memory as 4 GB is enough.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-34-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)** Click**Set** , and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-41.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **9)** Restart your computer and Mordhau.
 
@@ -295,6 +301,19 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-51-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Mordhau**  and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-20-1.jpg)
@@ -302,13 +321,6 @@ If your game is still unplayable, move on to the fix below.
 **4)**  On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-14-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Type**%LocalAppData%** , then press the**Enter key** on your keyboard.
 
@@ -345,18 +357,20 @@ If your game is still unplayable, move on to the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-engaging-your-audience-ranked-top-20-tiktok-caption-techniques/"><u>[New] Engaging Your Audience Ranked Top 20 TikTok Caption Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-redefining-the-viewing-experience-top-alternatives-to-periscope/"><u>[New] Redefining the Viewing Experience Top Alternatives to Periscope</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-tiktok-mastery-in-a-nutshell-quick-guide-for-camera-ready-recordings-for-2024/"><u>[Updated] TikTok Mastery in a Nutshell Quick Guide for Camera-Ready Recordings for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-ultimate-visionary-insights-the-top-8k-cameras-guide/"><u>[Updated] Ultimate Visionary Insights The Top 8K Cameras Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-craft-top-notch-episodes-learn-podcast-editing-secrets-with-garageband/"><u>2024 Approved Craft Top-Notch Episodes Learn Podcast Editing Secrets with GarageBand</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-step-into-the-future-elevate-your-gameplay-with-fbx-recorder/"><u>2024 Approved Step Into the Future Elevate Your Gameplay with FBX Recorder</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-tecno-spark-10-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Tecno Spark 10 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/become-a-trendsetter-in-snapchat-innovate-with-dynamic-boomers/"><u>Become a Trendsetter in SnapChat Innovate with Dynamic Boomers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-emoji-suggestions-back-on-track-on-apple-devices-quickly/"><u>Getting Emoji Suggestions Back on Track on Apple Devices Quickly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-essential-steps-for-clearance-prior-to-tiktok-uploads/"><u>The Essential Steps for Clearance Prior to TikTok Uploads</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-artificial-intelligence-applications-enhancing-content-creators-efficiency/"><u>Top 8 Artificial Intelligence Applications Enhancing Content Creator's Efficiency</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-convenience-why-utilizing-google-maps-save-location-function-enhances-your-daily-routine/"><u>Unlocking Convenience: Why Utilizing Google Maps' Save Location Function Enhances Your Daily Routine</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-list-of-5-youtube-competitor-editors/"><u>[New] 2024 Approved The Ultimate List of 5 YouTube Competitor Editors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-teleconference-recordings/"><u>[New] Teleconference Recordings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-digital-documentation-mobile-and-desktop-meeting-recordings/"><u>[Updated] Digital Documentation Mobile & Desktop Meeting Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-embrace-classic-gaming-leading-ps3-tools-for-pcs/"><u>[Updated] In 2024, Embrace Classic Gaming Leading PS3 Tools for PCs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/delving-into-the-visual-excellence-of-benq-sw320s-4k-display/"><u>Delving Into the Visual Excellence of BenQ SW320's 4K Display</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-smart-tracking-solutions-discover-how-cookiebot-empowers-your-website/"><u>Harnessing the Power of Smart Tracking Solutions - Discover How Cookiebot Empowers Your Website</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-prevent-arma-3-from-crashing-expert-advice-and-solutions/"><u>How to Prevent Arma 3 From Crashing - Expert Advice & Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-economical-virtual-reality-solutions/"><u>In 2024, Unveiling Economical Virtual Reality Solutions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-depth-look-at-the-zmi-powerpack-20000-your-go-to-compact-power-provider-reviewed/"><u>In-Depth Look at the ZMI PowerPack 20000 - Your Go-To Compact Power Provider Reviewed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/introducing-lenovos-new-global-yoga-portable-ai-37l-mini-pc-with-14th-gen-intel-processor-and-thinkcentre-inspired-design/"><u>Introducing Lenovo's New Global Yoga Portable AI: 3.7L Mini PC with 14Th Gen Intel Processor & ThinkCentre-Inspired Design</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-clarity-for-your-screen/"><u>Quick Fix: Clarity for Your Screen</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-review-of-toms-technological-devices/"><u>The Ultimate Review of Tom's Technological Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/toms-computer-gear-breakdown-expert-analysis-and-reviews/"><u>Tom's Computer Gear Breakdown - Expert Analysis & Reviews</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gear/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gear</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/win-back-control-successful-remedies-for-troublesome-steam-game-starts-in-windows-10/"><u>Win Back Control: Successful Remedies for Troublesome Steam Game Starts in Windows 10</u></a></li>
 </ul></div>
 
