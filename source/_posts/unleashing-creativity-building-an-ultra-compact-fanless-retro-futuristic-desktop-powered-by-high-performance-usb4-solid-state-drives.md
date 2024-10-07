@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: Building an Ultra Compact, Fanless 'Retro Futuristic' Desktop Powered by High-Performance USB4 Solid State Drives"
-date: 2024-09-24T17:09:47.473Z
-updated: 2024-10-01T17:02:59.282Z
+date: 2024-10-04T22:34:37.613Z
+updated: 2024-10-06T17:02:33.831Z
 tags:
   - desktop
 categories:
@@ -77,26 +77,35 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-scenes-what-does-an-unlisted-video-mean/"><u>[New] In 2024, Behind the Scenes What Does an 'Unlisted' Video Mean?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-ig-reel-secrets-pausing-time-for-creative-impact/"><u>[New] In 2024, IG Reel Secrets Pausing Time for Creative Impact</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-swiftly-skip-videos-on-tiktok-a-step-by-step-walkthrough/"><u>[New] In 2024, Swiftly Skip Videos on TikTok A Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-quick-start-downloading-and-using-tiktok-on-macbook-for-2024/"><u>[New] Quick Start Downloading and Using TikTok on MacBook for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-capturing-audiences-attention-with-animated-viral-video-hits/"><u>[Updated] 2024 Approved Capturing Audiences' Attention with Animated Viral Video Hits</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-crafting-perfect-squares-imovie-guide-for-instagram-videos/"><u>[Updated] 2024 Approved Crafting Perfect Squares IMovie Guide for Instagram Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-from-minuscule-to-monumental-a-tiktok-guide-for-oversized-characters/"><u>[Updated] From Minuscule to Monumental A TikTok Guide for Oversized Characters</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unleash-creativity-mastering-tiktok-audio/"><u>[Updated] In 2024, Unleash Creativity Mastering TikTok Audio</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-mastering-melodies-on-discord-top-tier-bots-for-sonic-enthusiasts-for-2024/"><u>[Updated] Mastering Melodies on Discord Top-Tier Bots for Sonic Enthusiasts for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ad-free-local-listings-with-oodle-your-ultimate-classified-solution/"><u>Ad-Free Local Listings with Oodle - Your Ultimate Classified Solution</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/dissecting-your-profit-share-in-youtube-short-creation-for-2024/"><u>Dissecting Your Profit Share in YouTube Short Creation for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-bizarre-tiktok-quests-the-10-most-hilarious-games-to-try-now/"><u>In 2024, Bizarre TikTok Quests The 10 Most Hilarious Games to Try Now</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-basic-to-brilliant-adding-effects-in-fcp-x-in-3-easy-steps/"><u>In 2024, From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719151524514-overlooked-high-impact-tech-developments-top-4-hidden-gems/"><u>Overlooked High-Impact Tech Developments - Top 4 Hidden Gems!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-expedite-your-videos-on-tiktok-secrets-revealed/"><u>[New] 2024 Approved Expedite Your Videos on TikTok Secrets Revealed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-elite-sites-and-strategies-finding-the-best-deals-on-tamil-melodies/"><u>[New] In 2024, Elite Sites & Strategies Finding the Best Deals on Tamil Melodies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-tiktok-food-10-most-popular-tiktok-food-trends/"><u>[New] In 2024, Tiktok Food | 10 Most Popular Tiktok Food Trends</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-soundscapes-for-success-the-art-of-music-on-tiktok/"><u>[Updated] In 2024, Soundscapes for Success The Art of Music on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unlock-new-creative-potential-on-tiktok-with-easy-background-swaps/"><u>[Updated] In 2024, Unlock New Creative Potential on TikTok with Easy Background Swaps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-blended-vocalists-one-platform-at-a-time/"><u>2024 Approved Blended Vocalists, One Platform at a Time</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-speedy-tiktok-video-creation-a-comprehensible-guide/"><u>2024 Approved Speedy TikTok Video Creation A Comprehensible Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/boost-interaction-on-your-tiktok-with-these-5-innovative-caption-methods/"><u>Boost Interaction on Your TikTok with These 5 Innovative Caption Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/discovering-the-basics-of-digital-pixel-landscapes-for-2024/"><u>Discovering the Basics of Digital Pixel Landscapes for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-honor-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Honor ?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-ethical-download-strategies-for-youtube-to-mp4-files/"><u>In 2024, Ethical Download Strategies for YouTube to MP4 Files</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-12-pro-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 12 Pro without Password?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-logic-pro-guide-gradually-lowering-audio-levels/"><u>In 2024, Logic Pro Guide Gradually Lowering Audio Levels</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/maximizing-your-impact-4-methods-for-streaming-on-computer/"><u>Maximizing Your Impact 4 Methods for Streaming on Computer</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-underdeveloped-world-of-vr-experiences-for-2024/"><u>The Underdeveloped World of VR Experiences for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-unbiased-news-apps-the-ultimate-list-for-both-iphone-and-android-users/"><u>Top-Rated, Unbiased News Apps: The Ultimate List for Both iPhone and Android Users</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Repair Tips for a Smooth Phasmophobia Virtual Reality Gameplay
-date: 2024-09-25T16:43:51.154Z
-updated: 2024-10-01T17:35:00.050Z
+date: 2024-10-01T22:30:10.994Z
+updated: 2024-10-06T22:01:35.171Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Also, too many startup apps can be a drag on your computer’s performance. In this case, you can prevent some apps from automatically starting when you sign into Windows:
 
  1) Select the**Startup** tab. Right-click the apps that you want to stop from running automatically at startup and select**Disable** .  
@@ -56,28 +49,15 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 ![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After you’ve done these, play The Division 2 and check if your game looks better.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Disable Windows 10 Game Mode
 
@@ -89,33 +69,19 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
 ![disable windows 10 gaming features disable game mode](https://images.drivereasy.com/wp-content/uploads/2021/01/gaming-in-the-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After applying the changes, play The Division 2 to check if your issues persist. If disabling Windows 10 Game Mode didn’t do the trick, proceed to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable overlays
@@ -132,13 +98,6 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-ubisoft-connect-overlay-1200x655.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **To disable GeForce Experience Overlay, take these steps:**
 
  1) From the GeForce Experience app, click on the**Settings icon** located on the top right corner.  
@@ -146,15 +105,22 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 ![disable GeForce Experience overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/settings-icon.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the GENERAL tab, toggle off**IN-GAME OVERLAY** and exit.  
   
 ![disable GeForce Experience overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/toggle-off-in-game-overlay.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After disabling in-game overlays, launch The Division 2 to check if this mitigates your problems. If you’re still getting low framerate and experiencing constant stutters during gameplay, try the next fix below.
 
@@ -166,6 +132,13 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[**automatically**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -174,6 +147,19 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -222,6 +208,19 @@ To set your game’s priority to high, you can take these steps:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Optimize in-game settings
 
  If the methods listed above didn’t help you get higher fps or fix the stuttering issues, we suggest you tweak the in-game settings:
@@ -236,6 +235,13 @@ To set your game’s priority to high, you can take these steps:
 **Spot Shadows: Low**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After applying the changes, play The Division 2 and you should be able to notice the difference.
 
@@ -258,17 +264,21 @@ To set your game’s priority to high, you can take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-ultimate-no-return-path-to-tiktok-deactivation-for-2024/"><u>[Updated] The Ultimate No-Return Path to TikTok Deactivation for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-tiktok-trends-hit-amazon-your-must-have-list-for-2024/"><u>[Updated] TikTok Trends Hit Amazon - Your Must-Have List for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-top-20-country-anthems-from-tiktoks-chillest-stations-for-2024/"><u>[Updated] Top 20 Country Anthems From TikTok's Chillest Stations for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-unlock-your-potential-dominant-tiktok-campaigns-and-techniques-for-2024/"><u>[Updated] Unlock Your Potential Dominant TikTok Campaigns and Techniques for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/analyzing-view-count-to-cash-out-on-youtube-for-2024/"><u>Analyzing View Count to Cash Out on YouTube for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-performance-of-samsungs-best-4k-hdr10plus-series-qn55q60rafxza-tv-reviewed/"><u>Exploring the Performance of Samsung's Best 4K HDR10+ Series - QN55Q60RAFXZA TV Reviewed</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/influencing-up-a-comprehensive-instagram-growth-strategy/"><u>Influencing Up A Comprehensive Instagram Growth Strategy</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/privacy-centric-explore-instagram-stories-anon-on-your-devices/"><u>Privacy-Centric Explore Instagram Stories Anon on Your Devices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ess-content-curation-with-youtubes-watch-later-feature-for-2024/"><u>Seamless Content Curation with YouTube’s Watch Later Feature for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/the-ultimate-guide-to-fixing-battlefield-5s-initialization-woes-tips-gamers/"><u>The Ultimate Guide to Fixing Battlefield 5'S Initialization Woes - Tips Gamers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/viral-visionaries-top-10-tiktok-secrets-for-2024/"><u>Viral Visionaries Top 10 TikTok Secrets for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-elevate-your-tiktok-videos-with-compelling-captions/"><u>[New] In 2024, Elevate Your TikTok Videos with Compelling Captions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-pinpoint-the-perfect-tag-for-your-personalized-tiktok-stream/"><u>[New] In 2024, How to Pinpoint the Perfect Tag for Your Personalized TikTok Stream</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-insiders-path-to-joining-others-tiktok-gigs/"><u>[New] In 2024, The Insider's Path to Joining Others' TikTok Gigs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-edges-in-mobile-photography-best-phones-for-clear-videos/"><u>[New] Leading Edges in Mobile Photography Best Phones for Clear Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-art-of-visual-excellence-leveraging-enhancer-22/"><u>[New] The Art of Visual Excellence - Leveraging Enhancer 2.2</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-joining-the-party-your-guide-to-tiktok-livestreams/"><u>[Updated] 2024 Approved Joining the Party Your Guide to TikTok Livestreams</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-gastronomic-adventures-await-with-these-15-must-watch-food-challenges-on-tiktok-for-2024/"><u>[Updated] Gastronomic Adventures Await with These 15 Must-Watch Food Challenges on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-reimagining-your-tiktok-presence-step-by-step-renaming-process-for-2024/"><u>[Updated] Reimagining Your TikTok Presence Step-by-Step Renaming Process for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-navigating-the-best-tiktok-to-gif-conversion-applications/"><u>2024 Approved Navigating the Best TikTok to GIF Conversion Applications</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-comprehensive-guide-to-sharing-your-gaming-library-with-friends-on-xbox-one/"><u>A Comprehensive Guide to Sharing Your Gaming Library with Friends on Xbox One</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-conversion-from-avi-to-gif-your-fast-free-online-solution/"><u>Effortless Conversion From AVI to Gif - Your Fast, Free Online Solution!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/facilitate-lexmark-drivers-latest-release/"><u>Facilitate Lexmark Drivers' Latest Release</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-tecno-spark-20-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Tecno Spark 20 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Passcode Screen?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-step-into-retro-gaming-with-top-5-ps1-emulators-for-pc/"><u>In 2024, Step Into Retro Gaming with Top 5 PS1 Emulators for PC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-guide-to-free-mp4-video-editing-software-2023-edition-for-2024/"><u>The Ultimate Guide to Free MP4 Video Editing Software (2023 Edition) for 2024</u></a></li>
 </ul></div>
 

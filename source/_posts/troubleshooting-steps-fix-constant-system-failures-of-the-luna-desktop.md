@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Fix Constant System Failures of the Luna Desktop"
-date: 2024-09-26T16:15:39.867Z
-updated: 2024-10-01T17:25:44.549Z
+date: 2024-10-05T21:42:51.479Z
+updated: 2024-10-06T17:02:45.215Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
@@ -48,16 +48,16 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Region & language.**
 
@@ -70,10 +70,10 @@ Check your region and language settings on your computer:
 5) Try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
@@ -84,16 +84,22 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Install the available updates.
 
@@ -119,19 +125,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -139,6 +132,13 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -157,10 +157,10 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
@@ -183,22 +183,24 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-optimizing-your-workflow-nvidia-screener/"><u>[New] In 2024, Optimizing Your Workflow NVIDIA Screener</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-visual-impact-discover-these-essential-font-tools-for-tiktoks-2023/"><u>[New] In 2024, Visual Impact Discover These Essential Font Tools for TikTok's 2023</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-professional-webcam-recording-solutions-explored-for-2024/"><u>[New] Professional WebCam Recording Solutions Explored for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-art-of-music-laced-tiktok-production-for-2024/"><u>[New] The Art of Music-Laced TikTok Production for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-expert-tips-for-adding-audio-to-your-tiktok-creations/"><u>[Updated] 2024 Approved Expert Tips for Adding Audio to Your TikTok Creations</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-becoming-a-pro-with-obs-gaming-recordings/"><u>[Updated] Becoming a Pro with OBS Gaming Recordings</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-gentle-grooves-a-selection-of-chill-country-songs-for-relaxing-dancing-tiktok/"><u>[Updated] In 2024, Gentle Grooves A Selection of Chill Country Songs for Relaxing Dancing (TikTok)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-skyrocket-your-earnings-on-tiktok-discover-the-top-8-ways/"><u>[Updated] In 2024, Skyrocket Your Earnings on TikTok Discover the Top 8 Ways</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-secrets-to-profit-from-tiktok-in-just-8-ways-for-2024/"><u>[Updated] Secrets to Profit From TikTok in Just 8 Ways for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-syncopating-scenes-and-beats-the-tiktok-video-guide-for-2024/"><u>[Updated] Syncopating Scenes & Beats The TikTok Video Guide for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-a59-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo A59 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-y100-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo Y100 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gamers-rejoice-hitman-3-finally-booting-up-without-a-glitch-in-sight/"><u>PC Gamers Rejoice! Hitman 3 Finally Booting Up Without a Glitch in Sight</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-nokia-105-classic-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Nokia 105 Classic</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-essential-guide-to-win-compatible-tiktok-editing-software/"><u>The Essential Guide to Win-Compatible TikTok Editing Software</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-correcting-unresponsive-video-files/"><u>Tips for Correcting Unresponsive Video Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/vid-vocated-trust-a-marketers-secret-weapon/"><u>Vid-Vocated Trust A Marketer's Secret Weapon</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716069818494-new-2024-approved-capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series/"><u>[New] 2024 Approved Capturing Screen Content via Built-In Recorders in the Mate and P Series.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-6-methods-for-capturing-your-netflix-viewing-experience-on-mac/"><u>[New] 2024 Approved Top 6 Methods for Capturing Your Netflix Viewing Experience on Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-breaking-new-ground-installation-of-windows-11/"><u>[New] Breaking New Ground Installation of Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-easy-cross-posting-of-tiktok-videos-on-fb/"><u>[New] Navigating Easy Cross-Posting of TikTok Videos on FB</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-rhythmic-rendezvous-combining-beat-and-visuals-on-tiktok-for-2024/"><u>[New] Rhythmic Rendezvous Combining Beat and Visuals on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-from-watcher-to-participant-tiktok-live-integration/"><u>[Updated] 2024 Approved From Watcher to Participant TikTok Live Integration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expedite-your-experience-quick-iphone-time-lapse/"><u>[Updated] Expedite Your Experience Quick iPhone Time-Lapse</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-laughs-galore-a-curated-collection-of-funny-tiktok-content-for-2024/"><u>[Updated] Laughs Galore A Curated Collection of Funny TikTok Content for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-pioneer-your-personal-brand-in-tiktok-with-dynamic-backgrounds-for-2024/"><u>[Updated] Pioneer Your Personal Brand in TikTok with Dynamic Backgrounds for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-flawless-path-to-popularizing-tiktok-imagery-for-2024/"><u>[Updated] The Flawless Path to Popularizing TikTok Imagery for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unlocking-the-secrets-to-swapping-out-your-tiktok-handle/"><u>2024 Approved Unlocking the Secrets to Swapping Out Your TikTok Handle</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-voiceover-on-tiktok-enhancing-your-presence/"><u>2024 Approved Voiceover on TikTok Enhancing Your Presence</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/3-copywriting-structure-for-facebook-ads-for-2024/"><u>3 Copywriting Structure for Facebook Ads for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/effective-methods-unlinking-from-your-discord-servers/"><u>Effective Methods Unlinking From Your Discord Servers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/engaging-audiences-with-jujutsu-kaisen-tiktok-content-for-2024/"><u>Engaging Audiences with Jujutsu Kaisen TikTok Content for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pop-7-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Tecno Pop 7 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-film-capture-on-mac-pc-and-smartphones/"><u>Mastering Film Capture on Mac, PC & Smartphones</u></a></li>
+<li><a href="https://fox-info.techidaily.com/step-into-success-10-pivotal-steps-for-exceptional-smm-achievement/"><u>Step Into Success 10 Pivotal Steps for Exceptional SMM Achievement</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-moto-g-stylus-2023-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Moto G Stylus (2023) fingerprint</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving 'Cannot Perform Version Validation' In Final Fantasy XIV
-date: 2024-09-27T16:22:16.050Z
-updated: 2024-10-01T17:01:47.828Z
+date: 2024-10-01T23:42:20.101Z
+updated: 2024-10-06T23:57:02.125Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  Also make sure you have downloaded **[the latest Java version](https://java.com/en/download/manual.jsp)**  , which is important for your Minecraft to run smoothly. Note that you should download the Java file according to your operating system (32-bit or 64-bit).[How to check my computer specs?](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -52,13 +52,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 5. **[Disable Mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Disable Discord Overlay
 
  Many users are reporting that Discord overlay can cause Minecraft not to respond. To fix it, you need to**disable Discord Overlay** or**close Discord completely** .
@@ -70,13 +63,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  2) Select the**Overlay** tab, and turn off**Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Launch your Minecraft again.
 
@@ -95,10 +81,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -130,6 +116,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
 
 **Or**
@@ -137,13 +130,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  Click the**Update All** button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  â€” you will be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easyâ€™s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -171,6 +157,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable Mods
 
  Mods enable you to have a better experience when playing Minecraft. However, mods can be the cause of your Minecraft not responding issue. If youâ€™ve added any mods to your Minecraft, you can disable them to fix the issue.
@@ -196,6 +189,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  4) Press the Windows logo key and R again to open the Run box again, then type**%appdata%** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
 
@@ -229,24 +229,22 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-perfecting-the-art-of-facebook-live-recording/"><u>[New] Perfecting the Art of Facebook Live Recording</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-of-intellect-trivia-videos/"><u>[New] Pinnacle of Intellect Trivia Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweetvidsoundscape-instant-video-to-sound/"><u>[New] TweetVidSoundscape Instant Video-to-Sound</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-the-professionals-playbook-streaming-live-videos-on-tiktok-from-computer/"><u>[Updated] 2024 Approved The Professionalâ€™s Playbook Streaming Live Videos on TikTok From Computer</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-accessing-live-spaces-on-tiktok-your-pathway-for-2024/"><u>[Updated] Accessing Live Spaces on TikTok Your Pathway for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-breaking-the-mold-unique-anime-creatives-dominating-tiktok/"><u>[Updated] In 2024, Breaking the Mold Unique Anime Creatives Dominating TikTok</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-virtual-vanguards-identifying-the-top-7-fps-powerhouses/"><u>[Updated] Virtual Vanguards Identifying the Top 7 FPS Powerhouses</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-mac-users-guide-styling-top-tier-ootd-tiktoks/"><u>2024 Approved Mac Users' Guide Styling Top-Tier OOTD TikToks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-reno-8t-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Reno 8T 5G FRP</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/diminishing-drain-techniques-to-limit-vanguards-user-mode-cpu-use/"><u>Diminishing Drain: Techniques to Limit Vanguard's User-Mode CPU Use</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/generating-income-with-every-swipe-up/"><u>Generating Income with Every Swipe Up</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/hip-hop-frenzy-top-tiktok-rap-videos-of-today/"><u>Hip-Hop Frenzy Top TikTok Rap Videos of Today</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-eating-the-trend-top-food-moments-on-tiktok/"><u>In 2024, Eating the Trend Top Food Moments on TikTok</u></a></li>
-<li><a href="https://app-tips.techidaily.com/lumafusion-the-ultimate-top-pick-for-ios-video-editing-apps/"><u>LumaFusion: The Ultimate Top Pick for iOS Video Editing Apps</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/proactive-measures-for-validating-tiktok-copyright-status/"><u>Proactive Measures for Validating TikTok Copyright Status</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamlining-your-media-mastering-mp4-and-other-formats-in-vlc-for-2024/"><u>Streamlining Your Media Mastering MP4 & Other Formats in VLC for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/viral-visions-the-ultimate-guide-to-tiktok-editing-wonders-for-2024/"><u>Viral Visions The Ultimate Guide to TikTok Editing Wonders for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-projector-not-responding-heres-the-solution/"><u>Windows 11 Projector Not Responding? Here's the Solution!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-syncopated-sing-sessions-tiktok-style/"><u>[New] In 2024, Syncopated Sing-Sessions TikTok Style</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-30-anime-inspired-videos-reshaping-online-culture/"><u>[New] In 2024, Top 30 Anime-Inspired Videos Reshaping Online Culture</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-viral-anime-themed-videos-for-tiktok-success-for-2024/"><u>[New] Viral Anime-Themed Videos for TikTok Success for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-becoming-one-in-the-tiktok-living-room-your-steps/"><u>[Updated] 2024 Approved Becoming One in the TikTok Living Room Your Steps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-bridging-iphone-and-tiktok-the-ultimate-siri-filming-technique/"><u>[Updated] 2024 Approved Bridging iPhone and TikTok The Ultimate Siri Filming Technique</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-cutting-edge-videotelephony-solutions-list/"><u>[Updated] 2024 Approved Cutting-Edge Videotelephony Solutions List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-turbocharge-your-fb-search-game/"><u>[Updated] In 2024, Turbocharge Your FB Search Game</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-secrets-of-seamlessly-sharing-in-tiktok-livestreams-for-2024/"><u>[Updated] Secrets of Seamlessly Sharing in TikTok Livestreams for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/apple-acknowledges-mondly-among-worlds-premier-educational-apps/"><u>Apple Acknowledges Mondly Among Worldâ€™s Premier Educational Apps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cost-effective-strategies-to-combine-videos-with-text/"><u>Cost-Effective Strategies to Combine Videos with Text</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-ways-to-convert-pdf-content-into-readable-format-for-chatgpt/"><u>Effective Ways to Convert PDF Content Into Readable Format for ChatGPT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/essential-android-photography-tools-for-2024/"><u>Essential Android Photography Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-creativity-time-lapse-on-samsung/"><u>In 2024, Unleashing Creativity Time-Lapse on Samsung</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/laugh-outloud-a-curation-of-the-funniest-tiktok-videos-and-joke-threads/"><u>Laugh Outloud A Curation of the Funniest TikTok Videos and Joke Threads</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-no-more-format-issues-a-comprehensive-guide-to-chromecast-video-streaming-for-2024/"><u>New No More Format Issues A Comprehensive Guide to Chromecast Video Streaming for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/premium-list-the-finest-4k-monitors-with-recording-features-for-2024/"><u>Premium List The Finest 4K Monitors with Recording Features for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/seamlessly-integrate-into-others-tiktok-livestreams/"><u>Seamlessly Integrate Into Othersâ€™ TikTok Livestreams</u></a></li>
 </ul></div>
 
