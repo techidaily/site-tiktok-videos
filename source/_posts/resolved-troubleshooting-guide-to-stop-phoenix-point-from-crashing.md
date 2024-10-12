@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Guide to Stop Phoenix Point From Crashing"
-date: 2024-10-01T19:45:03.378Z
-updated: 2024-10-06T16:22:49.512Z
+date: 2024-10-10T18:07:37.599Z
+updated: 2024-10-12T17:36:41.299Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Delete “DataPC\_TGT\_WorldMap.forge”
 
  You can try deleting the game file “_DataPC\_TGT\_WorldMap.forge_ ” if Ghost Recon Breakpoint crashes at launch on your computer. Here’s how to do it:
@@ -54,13 +47,6 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
  Launch the game again to see if you can play it without crashes. If not, don’t worry. Please read on and try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics drivers
 
@@ -80,6 +66,13 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-2.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-2.jpg)  
@@ -109,7 +102,21 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-uplay.jpg)
 2. Select **Verify files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-uplay1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Epic Game Launcher
 
@@ -118,20 +125,14 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-epic.jpg)
 3. Click **Verify** to start verifying the game files.  
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-epic1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
 
@@ -144,13 +145,6 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
  If this issue persists after you reset the CPU or graphics card to its manufacturer specifications, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Lower in-game settings
 
@@ -196,10 +190,10 @@ Here are the system requirements for Ghost Recon Breakpoint:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall the game
@@ -228,18 +222,18 @@ Here are the system requirements for Ghost Recon Breakpoint:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-15-best-booktok-picks-you-cant-miss/"><u>[New] 2024 Approved 15 Best BookTok Picks You Can't Miss</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-check-your-videos-legal-status-before-tiktok-upload/"><u>[New] In 2024, How to Check Your Video's Legal Status Before TikTok Upload</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-how-to-embed-a-youtube-video-in-powerpoint-4-methods/"><u>[New] In 2024, How to Embed a YouTube Video in PowerPoint [4 Methods]</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-discover-the-power-of-voice-in-tiktok-videos/"><u>[Updated] 2024 Approved Discover the Power of Voice in TikTok Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-canvas-hidden-power-ups-for-stunning-visuals/"><u>[Updated] Canva's Hidden Power-Ups for Stunning Visuals</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-enhance-your-instagram-presence-with-obs-based-streaming-for-2024/"><u>[Updated] Enhance Your Instagram Presence with OBS-Based Streaming for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-pixiz-for-creating-dynamic-photo-videos/"><u>[Updated] Mastering Pixiz for Creating Dynamic Photo Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-increase-photo-resolution-unaltered-image/"><u>2024 Approved Increase Photo Resolution - Unaltered Image</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-economical-4k-screen-picks-for-enhanced-viewing/"><u>Best Economical 4K Screen Picks for Enhanced Viewing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-nokia-c300-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Nokia C300</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-5-elite-apps-for-creating-gifs-from-tiktok-videos-quickly/"><u>In 2024, 5 Elite Apps for Creating GIFs From TikTok Videos Quickly</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-methodologies-for-backdrop-purification-in-figma-design/"><u>In 2024, Advanced Methodologies for Backdrop Purification in Figma Design</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-20-popular-tiktok-rap-songs-you-probably-have-listened-to/"><u>[New] 2024 Approved 20 Popular TikTok Rap Songs You Probably Have Listened To</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-building-your-way-to-greatness-a-complete-guide-to-valorant-video-thumbnails-for-2024/"><u>[New] Building Your Way to Greatness A Complete Guide to Valorant Video Thumbnails for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-seamless-integration-utilizing-instagrams-music-stickers-expertise/"><u>[New] In 2024, Seamless Integration Utilizing Instagram's Music Stickers Expertise</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-step-by-step-process-for-crafting-tiktok-video-captions/"><u>[New] In 2024, Step-by-Step Process for Crafting TikTok Video Captions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-revolutionary-techniques-to-change-video-borders-in-tiktok/"><u>[New] Revolutionary Techniques to Change Video Borders in TikTok</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-from-playtime-to-peak-time-top-gaming-women-in-the-digital-space/"><u>[Updated] From Playtime to Peak Time Top Gaming Women in the Digital Space</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/15-snapchat-mastery-techniques-you-cant-miss/"><u>15 Snapchat Mastery Techniques You Can't Miss</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-realme-c55-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Realme C55</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-top-picks-11-affordable-innovative-yt-moniker-generators/"><u>In 2024, Top Picks 11 Affordable, Innovative YT Moniker Generators</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-transform-your-online-presence-on-tiktok-in-5-easy-steps/"><u>In 2024, Transform Your Online Presence on TikTok in 5 Easy Steps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/producing-an-expressive-tiktok-conclusion-snippet/"><u>Producing an Expressive TikTok Conclusion Snippet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-achieving-verification-status-on-formerly-twitter/"><u>Step-by-Step Guide: Achieving Verification Status on Formerly Twitter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-seven-puzzling-questions-that-stump-ai-assistant-chatgpt/"><u>The Seven Puzzling Questions That Stump AI Assistant ChatGPT</u></a></li>
 </ul></div>
 

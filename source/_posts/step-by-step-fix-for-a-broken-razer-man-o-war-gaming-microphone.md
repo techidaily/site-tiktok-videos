@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for a Broken Razer Man O' War Gaming Microphone
-date: 2024-10-01T20:32:36.600Z
-updated: 2024-10-06T16:46:38.424Z
+date: 2024-10-11T16:46:29.131Z
+updated: 2024-10-12T18:15:01.354Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
@@ -65,10 +72,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
@@ -89,6 +96,14 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
@@ -102,40 +117,26 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -165,22 +166,21 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-unveiling-digital-storytellings-key-concepts/"><u>[New] 2024 Approved Unveiling Digital Storytelling's Key Concepts</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-elude-the-invisible-threat-unshadowbanned-on-tiktok/"><u>[New] Elude the Invisible Threat Unshadowbanned on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-make-videos-with-music-for-tiktok/"><u>[New] In 2024, How To Make Videos With Music for Tiktok?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-lasting-legacies-a-compilation-of-2024s-most-memorable-tik-tok-songs/"><u>[New] Lasting Legacies A Compilation of 2024’S Most Memorable Tik Tok Songs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-technological-leap-in-home-camcorders-and-live-feeds/"><u>[New] The Technological Leap in Home Camcorders and Live Feeds</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-10-premium-online-vectors-image-repositories-for-2024/"><u>[Updated] 10 Premium Online Vectors Image Repositories for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-beat-it-right-constructing-mesmerizing-tiktok-dances-on-mac/"><u>[Updated] 2024 Approved Beat It Right Constructing Mesmerizing TikTok Dances on Mac</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-drafting-an-emotional-tiktok-conclusion/"><u>[Updated] 2024 Approved Drafting an Emotional TikTok Conclusion</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-snap-back-on-tiktok-after-accidental-loadout/"><u>[Updated] In 2024, Snap-Back on TikTok After Accidental Loadout</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-tiktok-copycat-techniques-for-social-media-success/"><u>[Updated] In 2024, TikTok Copycat Techniques for Social Media Success</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/complete-guide-how-to-remove-a-virtual-private-network-on-your-ipad/"><u>Complete Guide: How to Remove a Virtual Private Network on Your iPad</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Detailed guide of ispoofer for pogo installation On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-best-split-screen-video-editor-online-and-offline/"><u>In 2024, Best Split Screen Video Editor Online & Offline</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-real-time-music-sessions-on-douyin/"><u>In 2024, Real-Time Music Sessions on Douyin</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/philips-hf3505-sunrise-alarm-clock-review-a-user-friendly-guide-to-a-better-morning-ritual/"><u>Philips HF3505 Sunrise Alarm Clock Review - A User-Friendly Guide to a Better Morning Ritual</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-weighing-up-the-usefulness-of-facebook-events/"><u>The Ultimate Guide to Weighing Up the Usefulness of Facebook Events</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-acer-touchpad-driver-windows-10/"><u>[Download] Acer Touchpad Driver Windows 10</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-from-basic-to-breathtaking-elevate-your-tiktok-videos-today/"><u>[New] 2024 Approved From Basic to Breathtaking Elevate Your TikTok Videos Today</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-from-digital-sketches-to-dynamic-lives-the-pc-guide-for-tiktok-broadcasting/"><u>[New] 2024 Approved From Digital Sketches to Dynamic Lives The PC Guide for TikTok Broadcasting</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-devising-a-personalized-tiktok-alphanumeric-marker/"><u>[New] In 2024, Devising a Personalized TikTok Alphanumeric Marker</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-bigger-head-vfx-for-tiktok-creators-3-ways/"><u>[New] In 2024, The Ultimate Guide to Bigger-Head VFX for TikTok Creators (3 Ways)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-viral-trend-you-need-to-try-here-it-is/"><u>[New] The Viral Trend You Need to Try - Here It Is</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windows-10cssdand/"><u>最新技術:Windows 10のCドライブSSDへスムーズなコピー&移動ソフト</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/live-tune-streams-on-younow/"><u>Live Tune Streams on YouNow</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-and-simple-guide-to-taking-perfect-screenshots-on-your-hp-laptop/"><u>Quick and Simple Guide to Taking Perfect Screenshots on Your HP Laptop</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revolutionizing-home-entertainment-with-amazon-fire-tv-cube-an-expert-review/"><u>Revolutionizing Home Entertainment with Amazon Fire TV Cube: An Expert Review</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/safeguarding-and-recovering-private-snap-content/"><u>Safeguarding and Recovering Private Snap Content</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/simplifying-complex-grammar-rules-a-guide-to-using-english-contractions/"><u>Simplifying Complex Grammar Rules: A Guide To Using English Contractions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/supreme-macx-dvd-ripper-pro-seamless-dvd-encryption-conversion-tool-export-to-mp4mobile-devices-on-mac-systems/"><u>Supreme MacX DVD Ripper Pro - Seamless DVD Encryption Conversion Tool, Export to MP4/Mobile Devices on Mac Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-are-the-significant-shifts-in-metas-privacy-rules/"><u>What Are the Significant Shifts in Meta's Privacy Rules?</u></a></li>
 </ul></div>
 

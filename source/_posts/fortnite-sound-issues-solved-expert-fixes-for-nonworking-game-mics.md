@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sound Issues Solved? Expert Fixes for Nonworking Game Mics
-date: 2024-10-04T20:02:46.152Z
-updated: 2024-10-06T18:36:43.083Z
+date: 2024-10-10T18:20:32.502Z
+updated: 2024-10-12T17:12:23.998Z
 tags:
   - win11
   - win10
@@ -72,32 +72,38 @@ Read on and follow the easy-doing images below!
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -113,16 +119,16 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -147,22 +153,24 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-navigating-tiktoks-money-making-path-in-8-key-steps/"><u>[New] 2024 Approved Navigating TikTok's Money-Making Path in 8 Key Steps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-best-10-digital-landscape-replacers-for-videos/"><u>[New] Best 10 Digital Landscape Replacers for Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-key-to-generating-an-exclusive-tag-on-tiktok/"><u>[New] In 2024, Key to Generating an Exclusive Tag on TikTok</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-secure-smooth-photo-viewing-w10-troubleshooting-tips-unveiled/"><u>[New] Secure Smooth Photo Viewing W10 Troubleshooting Tips Unveiled</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-a-journey-through-literature-top-books-from-booktik/"><u>[Updated] In 2024, A Journey Through Literature Top Books From #Booktik</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-refresh-your-tiktok-storytelling-with-dynamic-backgrounds/"><u>[Updated] Refresh Your TikTok Storytelling with Dynamic Backgrounds</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-top-10-boosting-tiktok-success-with-key-analytics-for-2024/"><u>[Updated] TOP 10 Boosting TikTok Success with Key Analytics for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-unveiling-the-features-of-jackerys-portable-power-bar-with-ac-output/"><u>Expert Review: Unveiling the Features of Jackery's Portable Power Bar with AC Output</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/from-needle-to-narrative-tales-of-textiles-on-tiktok-for-2024/"><u>From Needle to Narrative Tales of Textiles on TikTok for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-leveraging-tiktok-for-business-growth-strategies/"><u>In 2024, Leveraging TikTok for Business Growth Strategies</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/navigate-the-world-of-snapchat-communication-in-a-blink/"><u>Navigate the World of Snapchat Communication in a Blink</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oppo-reno-8t-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Oppo Reno 8T 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolving-call-of-duty-vanguard-game-crashes/"><u>Ultimate Guide to Resolving 'Call of Duty: Vanguard' Game Crashes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unleash-inspiration-the-507-most-captivating-instagram-captions/"><u>Unleash Inspiration: The 507 Most Captivating Instagram Captions</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-oneplus-ace-2-pro-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the OnePlus Ace 2 Pro password or pattern lock</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-zero-to-hero-learning-the-art-of-youtube-content/"><u>[New] From Zero to Hero Learning the Art of YouTube Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-ensuring-tiktok-authenticity-pre-upload-rights-confirmation/"><u>[New] In 2024, Ensuring TikTok Authenticity Pre-Upload Rights Confirmation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-top-10-youtube-business-channels-and-how-to-create-one-easily/"><u>[New] In 2024, Top 10 YouTube Business Channels and How to Create One Easily</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-spotlight-on-viral-content-tiktok-reactions-for-2024/"><u>[New] Spotlight on Viral Content TikTok Reactions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-closing-your-vlog-right-top-6-free-youtube-outro-tools/"><u>[Updated] 2024 Approved Closing Your Vlog Right Top 6 Free YouTube Outro Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-effortless-tiktok-integration-on-your-macbook-wonderland-for-2024/"><u>[Updated] Effortless TikTok Integration on Your MacBook Wonderland for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-sync-up-with-tiktok-live-the-strategy-for-participation/"><u>[Updated] In 2024, Sync Up with TikTok Live The Strategy for Participation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-winning-over-viewers-the-top-20-must-try-tiktok-caption-strategies/"><u>[Updated] In 2024, Winning Over Viewers The Top 20 Must-Try TikTok Caption Strategies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unveiling-this-years-dominant-tiktok-styles/"><u>[Updated] Unveiling This Year's Dominant TikTok Styles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-meme-mastery-top-ten-designs-to-share-scream-and-chortle/"><u>2024 Approved Meme Mastery Top Ten Designs to Share, Scream & Chortle</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-navigate-to-tiktok-world-installation-for-macbook/"><u>2024 Approved Navigate to TikTok World Installation for MacBook</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-quick-solutions-troubleshooting-windows-11-cannot-connect-to-network-issues/"><u>Best Quick Solutions: Troubleshooting 'Windows 11 Cannot Connect to Network' Issues</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/breaking-into-the-tiktok-livestream-realm/"><u>Breaking Into the TikTok Livestream Realm</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/cultivating-a-thriving-business-model-with-snapchat-insights/"><u>Cultivating a Thriving Business Model with Snapchat Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nubia-red-magic-9-proplus-is-unlocked-by-drfone-android/"><u>How To Check if Your Nubia Red Magic 9 Pro+ Is Unlocked</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-iphone-7-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 7 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/step-into-a-world-of-magic-expert-led-guide-to-snapchat-edits-for-2024/"><u>Step Into a World of Magic Expert-Led Guide to Snapchat Edits for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-java-vm-error-on-windows/"><u>Unraveling the Mystery of Java VM Error on Windows</u></a></li>
 </ul></div>
 
