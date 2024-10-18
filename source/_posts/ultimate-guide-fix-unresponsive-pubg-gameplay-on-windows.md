@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Fix Unresponsive PUBG Gameplay on Windows"
-date: 2024-10-06T18:25:57.091Z
-updated: 2024-10-12T17:16:20.833Z
+date: 2024-10-12T16:14:56.903Z
+updated: 2024-10-18T17:25:46.482Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ But the good news is that you can fix it. Here are 8 solutions to try.
 6. **[Change PC power settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Configure your virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Mordhau](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Meet the minimum system requirements
 
@@ -67,6 +74,13 @@ Follow the instructions below to view your computer hardware information:
 
  Make sure your system specs meet the requirements, then move on and try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run the game as an administrator
 
  Certain game files on your PC may require administrative access before using. If you’re running the game under normal user mode, it might not be able to access some files and crashes.
@@ -78,10 +92,16 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-42.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Right-click the**Steam icon** and select**Run as administrator** .
@@ -116,13 +136,6 @@ If this didn’t work for you, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-51.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click**Mordhau** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-57.jpg)
@@ -151,6 +164,19 @@ If Mordhau is still crashing, move on and check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-02-25-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -174,23 +200,9 @@ If your problem persists, move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-46.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
@@ -203,6 +215,13 @@ If your problem persists, move on to Fix 6.
 **High Performance** : High Performance mode keeps your PC running at high speeds most of the time. Your computer will generate more heat under this mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-59-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Restart your computer and Mordhau to test your issue.
 
@@ -222,6 +241,13 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-12.jpg)
@@ -229,13 +255,6 @@ If your game is still unplayable, move on to the fix below.
 **4)** Click the**Advanced** tab, and then click**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-17.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Uncheck the box next to**Automatically manage paging file size for all drives** .
 
@@ -251,16 +270,16 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-34-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Click**Set** , and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-41.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **9)** Restart your computer and Mordhau.
 
@@ -280,16 +299,16 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-20-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-14-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Type**%LocalAppData%** , then press the**Enter key** on your keyboard.
 
@@ -298,13 +317,6 @@ If your game is still unplayable, move on to the fix below.
 **6)** Right-click the**Mordhau folder** , then select**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-647.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Reinstall Mordhau from Steam.
 
@@ -333,19 +345,22 @@ If your game is still unplayable, move on to the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-insiders-guide-to-mastering-fb-live-recordings/"><u>[New] 2024 Approved The Insider's Guide to Mastering FB Live Recordings</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-bring-your-message-alive-how-to-send-gifs-via-snapchat/"><u>[New] Bring Your Message Alive How to Send Gifs via Snapchat</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-direct-to-the-bottom-of-the-feed-no-watermark-on-iphone/"><u>[New] Direct to the Bottom of the Feed, No Watermark on iPhone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-effortlessly-export-tiktok-vids-as-premium-mp4-files/"><u>[New] In 2024, Effortlessly Export TikTok Vids as Premium MP4 Files</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/outube-tech-basics-essential-equipment-guide/"><u>[New] YouTube Tech Basics Essential Equipment Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-the-top-8-services-to-amplify-video-content/"><u>[Updated] In 2024, Discover the Top 8 Services to Amplify Video Content</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-top-cameras-for-puppetry-cinematography/"><u>[Updated] In 2024, Top Cameras for Puppetry Cinematography</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-revel-in-photo-excellence-with-this-guide-to-mastering-the-background-erase-tool/"><u>[Updated] Revel in Photo Excellence with This Guide to Mastering the Background Erase Tool</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-best-gif-tools-for-transforming-tiktoks/"><u>2024 Approved Best GIF Tools for Transforming TikToks</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/a-closer-look-at-non-tiktok-apps-leading-the-next-wave/"><u>A Closer Look at Non-TikTok Apps Leading the Next Wave</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/efficiently-execute-tasks-with-a-simple-tap-at-the-rear-of-your-android-smartphone/"><u>Efficiently Execute Tasks with a Simple Tap at the Rear of Your Android Smartphone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/master-iphone-timelapses-efficient-recording-tips/"><u>Master iPhone Timelapses Efficient Recording Tips</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/streamlining-your-video-creation-ootd-on-a-mac/"><u>Streamlining Your Video Creation OOTD on a Mac</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-expert-tiktok-editing-simplified-methods-for-bold-video-makeovers-for-2024/"><u>[New] Expert TikTok Editing Simplified Methods for Bold Video Makeovers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensible-list-best-games-music-found-online/"><u>[Updated] Comprehensible List Best Games’ Music Found Online</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-becoming-an-active-participant-in-tiktok-lives/"><u>[Updated] In 2024, Becoming an Active Participant in TikTok Lives</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtube-image-marketing-dos-vs-donts-explained-for-2024/"><u>[Updated] YouTube Image Marketing Dos vs Don'ts Explained for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/20-viral-tiktok-anime-ideas-for-2024/"><u>20 Viral Tiktok Anime Ideas for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-ions-pro-3-cam-revealed-a-compact-powerhouse-unveiled/"><u>2024 Approved ION's Pro 3 Cam Revealed - A Compact Powerhouse Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unfolding-cinema-narratives/"><u>2024 Approved Unfolding Cinema Narratives</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unique-and-effective-the-best-username-options-to-dominate-tiktok/"><u>2024 Approved Unique and Effective The Best Username Options to Dominate TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/delicious-discoveries-whos-making-eats-go-viral-in-2024/"><u>Delicious Discoveries Who's Making Eats Go Viral, In 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhanced-efficiency-after-resolving-inadequate-system-resources-warning/"><u>Enhanced Efficiency After Resolving Inadequate System Resources Warning</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhancing-site-performance-through-advanced-cookiebot-features/"><u>Enhancing Site Performance Through Advanced Cookiebot Features</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-leap-into-the-tiktok-live-crowd-a-quick-guide/"><u>In 2024, Leap Into the TikTok Live Crowd A Quick Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-14-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi 14? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unleash-fun-top-10-binge-worthy-tiktok-challenges/"><u>In 2024, Unleash Fun Top 10 Binge-Worthy TikTok Challenges</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/introduce-movement-variance-to-pixels-in-ps/"><u>Introduce Movement Variance to Pixels in PS</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mac-users-guide-styling-top-tier-ootd-tiktoks-for-2024/"><u>Mac Users' Guide Styling Top-Tier OOTD TikToks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/telegram-upload-guide-sending-videos-over-2gb/"><u>Telegram Upload Guide: Sending Videos Over 2GB</u></a></li>
 </ul></div>
 

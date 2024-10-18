@@ -1,7 +1,7 @@
 ---
 title: Solving 'Cannot Perform Version Validation' In Final Fantasy XIV
-date: 2024-10-08T18:00:51.776Z
-updated: 2024-10-12T16:26:37.846Z
+date: 2024-10-12T16:53:29.588Z
+updated: 2024-10-18T16:14:00.057Z
 tags:
   - win11
   - win10
@@ -35,10 +35,16 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  Also make sure you have downloaded **[the latest Java version](https://java.com/en/download/manual.jsp)**  , which is important for your Minecraft to run smoothly. Note that you should download the Java file according to your operating system (32-bit or 64-bit).[How to check my computer specs?](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -51,6 +57,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 4. **[Run Minecraft as administrator](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable Mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your Minecraft](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Disable Discord Overlay
 
@@ -109,13 +122,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
 
 **Or**
@@ -124,6 +130,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easyâ€™s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  4) After updating the drivers, you need to restart your computer to take effect.
@@ -131,6 +144,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  See if updating your video driver fixes your Minecraft not responding issue. If not, you can try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Minecraft as administrator
 
@@ -142,13 +162,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
@@ -156,6 +169,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 4) Run Minecraft again to see if this works.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable Mods
 
@@ -177,25 +197,11 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click**Minecraft** and select**Uninstall** .
 
  4) Press the Windows logo key and R again to open the Run box again, then type**%appdata%** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
 
@@ -229,18 +235,22 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-amplify-engagement-increase-youtube-viewers/"><u>[New] 2024 Approved Amplify Engagement Increase YouTube Viewers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-direct-links-sharing-twitch-content-with-friends-on-fb/"><u>[New] 2024 Approved Direct Links Sharing Twitch Content with Friends on FB</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-jujutsu-kaisens-impact-the-tiktok-challenge-perspective/"><u>[New] Jujutsu Kaisen's Impact The TikTok Challenge Perspective</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-total-circles-capture-systems/"><u>[New] Total Circles Capture Systems</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-crossing-the-line-guesting-in-friends-tiktok-shows/"><u>[Updated] 2024 Approved Crossing the Line Guesting in Friends' TikTok Shows</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-your-easy-guide-to-youtube-downloads-on-idevices/"><u>[Updated] Your Easy Guide to YouTube Downloads on iDevices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-innovative-apps-revolutionizing-video-talks/"><u>2024 Approved Innovative Apps Revolutionizing Video Talks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-speed-with-top-pc-monitor-controls/"><u>2024 Approved Maximizing Speed with Top PC Monitor Controls</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-shots-no-hassle-leading-smartphone-tripods/"><u>2024 Approved Perfect Shots, No Hassle Leading Smartphone Tripods</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-precision-in-replication-crafting-a-perfect-clone-on-the-worlds-stage-tiktok/"><u>2024 Approved Precision in Replication Crafting a Perfect Clone on the World's Stage, TikTok</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-solutions-for-nokia-network-unlock-by-drfone-android/"><u>Best Solutions for Nokia Network Unlock</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-unlock-your-potential-transformative-video-edits-with-pro-tools-on-mac/"><u>In 2024, Unlock Your Potential Transformative Video Edits with Pro Tools on Mac</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-sharing-is-caring-but-not-without-copyright-checks-tiktok/"><u>[New] 2024 Approved Sharing Is Caring - But Not Without Copyright Checks (TikTok)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-turn-games-into-memories-no-fuss-nvidia-style/"><u>[New] 2024 Approved Turn Games Into Memories - No Fuss, NVIDIA Style</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-essential-techniques-for-sizing-up-your-instagram-video-reach-for-2024/"><u>[New] Essential Techniques for Sizing Up Your Instagram Video Reach for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-operational-update-troubled-obs-camera/"><u>[New] In 2024, Operational Update Troubled OBS Camera</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-quintessential-guide-to-selecting-premium-drone-engines/"><u>[New] In 2024, The Quintessential Guide to Selecting Premium Drone Engines</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-animation-in-viral-online-videos/"><u>[Updated] 2024 Approved Mastering the Art of Animation in Viral Online Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-recording-wizardry-5-tactics-for-windows-enthusiasts/"><u>[Updated] Recording Wizardry 5 Tactics for Windows Enthusiasts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unleash-creativity-a-guide-to-adding-texts-in-tiktoks-for-2024/"><u>[Updated] Unleash Creativity A Guide to Adding Texts in TikToks for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-top-5-must-know-for-macos-tiktok-users/"><u>2024 Approved The Top 5 Must-Know for macOS TikTok Users</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/crafting-captivating-tiktok-content-from-anime-stories/"><u>Crafting Captivating TikTok Content From Anime Stories</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/easy-steps-to-audit-your-favorite-tiktok-sessions-for-2024/"><u>Easy Steps to Audit Your Favorite TikTok Sessions for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficient-methods-to-abruptly-end-non-responsive-applications-in-windows-via-revo-uninstaller/"><u>Efficient Methods to Abruptly End Non-Responsive Applications in Windows via Revo Uninstaller</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-itel-p40-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Itel P40 FRP Bypass Instantly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/nvidia-screen-recorder-record-games-with-ease/"><u>NVIDIA Screen Recorder - Record Games with Ease</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/perfect-the-art-of-posting-on-snapchat-15-tips/"><u>Perfect the Art of Posting on Snapchat (15 Tips)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/radiant-faces-mastering-makeup-and-lighting-together-for-2024/"><u>Radiant Faces Mastering Makeup and Lighting Together for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/snap-edit-and-enchant-the-ultimate-guide-to-stellar-tiktok-videos/"><u>Snap, Edit & Enchant The Ultimate Guide to Stellar TikTok Videos</u></a></li>
 </ul></div>
 

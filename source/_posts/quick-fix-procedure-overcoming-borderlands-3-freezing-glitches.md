@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix Procedure: Overcoming Borderlands 3 Freezing Glitches"
-date: 2024-10-07T16:33:11.425Z
-updated: 2024-10-12T16:53:10.978Z
+date: 2024-10-11T17:27:45.769Z
+updated: 2024-10-18T17:48:46.615Z
 tags:
   - win11
   - win10
@@ -52,33 +52,12 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Install the latest game patch
 
@@ -94,14 +73,14 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
  If there are no updates related to MS Visual C++ or .NET Framework, you can download their installation files via the links below on your own and manually install them on your PC.
 
@@ -112,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 [https://www.microsoft.com/en-us/download/details.aspx?id=30653](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Borderlands 3 to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify the graphics settings in the game
 
@@ -124,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 * **Set your frame cap to whatever your monitor refresh rate is set to**
 
  Launch the game again in a reduced settings to see it it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Stop overclocking
 
@@ -144,16 +137,10 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
  Launch Borderlands 3 after verifying the game file to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Add Borderland 3 as an exception to your 3rd party antivirus software
@@ -163,6 +150,13 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
  Since Borderlands 3 consumes a lot of memory and CPU usage when you’re playing a game, many third-party antivirus application may regard it as a potential threat and Borderlands 3 may not run as expected. You can try   **adding Borderlands 3 as an exception to your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Perform a clean boot
 
@@ -181,28 +175,28 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and run Borderlands 3 to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall the game
 
@@ -230,24 +224,18 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-comprehensive-guide-to-avoid-copyright-breaches-in-tiktok-videos/"><u>[New] Comprehensive Guide to Avoid Copyright Breaches in TikTok Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-downloading-the-latest-tiktok-features-on-your-macbook/"><u>[New] In 2024, Downloading the Latest TikTok Features on Your MacBook</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-insiders-tactics-for-creating-gripping-puzzle-posts-on-instagram/"><u>[New] The Insider's Tactics for Creating Gripping Puzzle Posts on Instagram</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-from-watcher-to-participant-tiktok-live-integration/"><u>[Updated] 2024 Approved From Watcher to Participant TikTok Live Integration</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unlocking-fbx-filming-in-games/"><u>[Updated] In 2024, Unlocking FBX Filming in Games</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-laughs-galore-a-curated-collection-of-funny-tiktok-content-for-2024/"><u>[Updated] Laughs Galore A Curated Collection of Funny TikTok Content for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-micro-business-video-advertising-insights/"><u>[Updated] Micro-Business Video Advertising Insights</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-pioneer-your-personal-brand-in-tiktok-with-dynamic-backgrounds-for-2024/"><u>[Updated] Pioneer Your Personal Brand in TikTok with Dynamic Backgrounds for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-flawless-path-to-popularizing-tiktok-imagery-for-2024/"><u>[Updated] The Flawless Path to Popularizing TikTok Imagery for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-6-superior-apps-for-effortless-mac-video-grabbing/"><u>2024 Approved 6 Superior Apps for Effortless Mac Video Grabbing</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unlocking-the-secrets-to-swapping-out-your-tiktok-handle/"><u>2024 Approved Unlocking the Secrets to Swapping Out Your TikTok Handle</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-voiceover-on-tiktok-enhancing-your-presence/"><u>2024 Approved Voiceover on TikTok Enhancing Your Presence</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/effective-methods-unlinking-from-your-discord-servers/"><u>Effective Methods Unlinking From Your Discord Servers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-15-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 15 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-instagram-adding-borders-to-videos-for-2024/"><u>Mastering Instagram Adding Borders to Videos for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-tweeting-etiquette-knowing-when-to-disconnect-from-x-users/"><u>Mastering the Art of Tweeting Etiquette: Knowing When to Disconnect From X Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-insiders-guide-to-fixing-adobe-cannot-start-as-expected-with-code-0xc0000022/"><u>The Insider's Guide to Fixing 'Adobe Cannot Start as Expected' With Code 0Xc0000022</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unboxing-the-power-of-yis-high-definition-cam/"><u>Unboxing the Power of YI's High Definition Cam</u></a></li>
-<li><a href="https://win11.techidaily.com/wondershare/"><u>Wondershareを超えた最高の編集ソフトウェア：拡張されたデバイス対応</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-innovative-patchwork-elevating-the-art-of-tiktok-video-creation/"><u>[New] Innovative Patchwork Elevating the Art of TikTok Video Creation</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-complete-walkthrough-to-emoji-enriched-discord-statuses/"><u>[New] The Complete Walkthrough to Emoji-Enriched Discord Statuses</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unleash-viral-potential-top-50plus-trending-tiktok-hashtags-for-2024/"><u>[New] Unleash Viral Potential Top 50+ Trending TikTok HashTags for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-bringing-heartwarmth-to-the-winter-5-snug-cinematographic-tips-for-2024/"><u>[Updated] Bringing Heartwarmth to the Winter 5 Snug Cinematographic Tips for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-ensuring-profitability-in-youtube-with-correct-monetization-for-2024/"><u>[Updated] Ensuring Profitability in YouTube with Correct Monetization for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ideal-free-app-uncluttered-android-captures/"><u>2024 Approved Ideal Free App Uncluttered Android Captures</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/feast-your-senses-15-must-try-tiktok-meal-ideas-for-2024/"><u>Feast Your Senses 15 Must-Try TikTok Meal Ideas for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/formulating-a-heartfelt-tiktok-epilogue-for-2024/"><u>Formulating a Heartfelt TikTok Epilogue for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-extract-subtitles-from-a-dvd-in-srt-format-on-windows-or-mac/"><u>How to Extract Subtitles From a DVD in SRT Format on Windows or Mac</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-plotting-the-perfect-tiktok-outro-journey/"><u>In 2024, Plotting the Perfect TikTok Outro Journey</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/masterful-persona-design-on-tiktok-the-ultimate-how-to/"><u>Masterful Persona Design on TikTok - The Ultimate How To</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-s-most-popular-free-4k-video-conversion-software/"><u>Updated In 2024, S Most Popular Free 4K Video Conversion Software</u></a></li>
 </ul></div>
 

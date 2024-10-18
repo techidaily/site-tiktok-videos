@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: Building an Ultra Compact, Fanless 'Retro Futuristic' Desktop Powered by High-Performance USB4 Solid State Drives"
-date: 2024-10-05T16:06:19.539Z
-updated: 2024-10-12T17:37:47.761Z
+date: 2024-10-13T17:22:18.601Z
+updated: 2024-10-18T17:37:11.952Z
 tags:
   - desktop
 categories:
@@ -77,26 +77,37 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-nextgen-videotron-app-evaluation/"><u>[New] NextGen Videotron App Evaluation</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-your-pathway-to-tiktok-live-spectatorship-for-2024/"><u>[New] Your Pathway to TikTok Live Spectatorship for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-9-windows-11-secrets-for-a-streamlined-user-interface-experience/"><u>[Updated] 2024 Approved 9 Windows 11 Secrets for a Streamlined User Interface Experience</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-constructing-captivating-podcast-vignettes/"><u>2024 Approved Constructing Captivating Podcast Vignettes</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/5-easiest-solutions-to-resolve-the-imessage-activating-issue/"><u>5 Easiest Solutions to Resolve the 'iMessage Activating' Issue</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/harmonizing-hearts-and-hertz-music-on-the-vimeo-scene/"><u>Harmonizing Hearts and Hertz Music on the Vimeo Scene</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-navigating-the-virtual-stage-your-pc-guide-to-engaging-live-on-tiktok/"><u>In 2024, Navigating the Virtual Stage Your PC Guide to Engaging Live on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/leverage-lingo-a-list-of-the-best-20-engaging-tiktok-captions-for-2024/"><u>Leverage Lingo A List of the Best 20 Engaging TikTok Captions for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/navigating-to-your-distinctive-tiktok-tag-for-2024/"><u>Navigating to Your Distinctive TikTok Tag for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-copy-and-paste-problems-in-windows-11-a-step-by-step-guide/"><u>Overcoming Copy & Paste Problems in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/rapid-tiktok-filming-techniques-to-enhance-frame-rate-for-2024/"><u>Rapid TikTok Filming Techniques to Enhance Frame Rate for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-fortnites-video-memory-issues-a-step-by-step-guide/"><u>Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/tips-for-incorporating-songs-in-your-fb-story-for-2024/"><u>Tips for Incorporating Songs in Your FB Story for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-elevating-your-macs-tiktok-opener-quality-for-2024/"><u>[New] Elevating Your Mac's TikTok Opener Quality for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-unlock-instagrams-filter-treasure-trove-without-spending/"><u>[New] In 2024, How to Unlock Instagram's Filter Treasure Trove Without Spending</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-step-by-step-guide-to-making-memorable-emote-videos-on-tiktok/"><u>[New] In 2024, Step-by-Step Guide to Making Memorable Emote Videos on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-deciphering-the-connotations-of-pfp-on-social-media-for-2024/"><u>[Updated] Deciphering the Connotations of 'PFP' On Social Media for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-free-online-convertors-6-leading-applications-turning-tiktop-to-mp3/"><u>[Updated] Free Online Convertors 6 Leading Applications Turning TikTop to MP3</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-jujutsu-kaisen-tiktok-a-step-by-step-guide/"><u>[Updated] In 2024, Jujutsu Kaisen TikTok A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-weaving-a-story-in-your-tiktok-closing-moment/"><u>[Updated] Weaving a Story in Your TikTok Closing Moment</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphone-and-android-edition-compile-the-most-useful-top-8-edits-tools/"><u>2024 Approved IPhone and Android Edition Compile the Most Useful Top 8 Edits Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-shenanigans-unleashed-the-wildest-tiktok-game-spectacle/"><u>2024 Approved Shenanigans Unleashed The Wildest TikTok Game Spectacle</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-visual-vibes-the-most-stylish-tiktok-filters-ranked/"><u>2024 Approved Visual Vibes The Most Stylish TikTok Filters Ranked</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-look-at-the-future-leading-photo-framing-apps/"><u>A Look at the Future Leading Photo Framing Apps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/beyond-typography-decoding-the-subtext-of-snapchat-emojis/"><u>Beyond Typography Decoding the Subtext of Snapchat Emojis</u></a></li>
+<li><a href="https://win11.techidaily.com/from-boring-to-stunning-switching-themes-in-windows-11-made-simple/"><u>From Boring to Stunning: Switching Themes in Windows 11 Made Simple</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-hd-cameras-for-comprehensive-social-media-broadcasts/"><u>In 2024, Best HD Cameras for Comprehensive Social Media Broadcasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exhilarating-viewing-experience-with-elite-blu-ray-players/"><u>In 2024, Exhilarating Viewing Experience with Elite Blu-Ray Players</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-multiple-windows-learn-pip-in-microsoft-edge/"><u>In 2024, Harnessing Multiple Windows Learn PIP in Microsoft Edge</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-security-camera-software-reviews-top-10/"><u>New 2024 Approved Free Security Camera Software Reviews Top 10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-complete-process-of-logging-google-meet-chats-for-2024/"><u>The Complete Process of Logging Google Meet Chats for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

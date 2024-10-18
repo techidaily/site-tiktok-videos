@@ -1,7 +1,7 @@
 ---
 title: High Performance Meets Versatility in Our In-Depth Look at the Dell XPS Dell XPS 13 (9380) Convertible Laptop - Premium Power and Sleek Design Unveiled
-date: 2024-10-05T17:25:01.502Z
-updated: 2024-10-12T17:37:45.395Z
+date: 2024-10-12T17:31:10.064Z
+updated: 2024-10-18T16:59:02.179Z
 categories:
   - BestProducts
 description: This Article Describes High Performance Meets Versatility in Our In-Depth Look at the Dell XPS Dell XPS 13 (9380) Convertible Laptop - Premium Power and Sleek Design Unveiled
@@ -37,29 +37,9 @@ Lifewire / Kelsey Simon
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Dying Light
 
 ![Dying Light](https://www.lifewire.com/thmb/YWkGikwP23JK119N4M7J22dAPJY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -92,14 +72,20 @@ Lifewire / Kelsey Simon
 
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
 
- Lifewire / Kelsey Simon
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Kelsey Simon
 
 ## **Plot: A character torn between obligation and friendship**
 
@@ -113,7 +99,21 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/8G35q3VsoSEuht_3bqsGm0Pwz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-7-d9d2bbe8881e476f8dfb3c13059634ed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Gameplay: Parkour and zombies galore**
 
@@ -139,19 +139,6 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/sy9NHLj8JNe2eaeS9HJJdejt6QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-6-56ef808272b544e6a1038f4a5d0280f1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
 ## **Price: Worth the cost, especially with a friend**
@@ -159,16 +146,10 @@ Harran is a whole different city at night.
  On PlayStation 4, you can purchase the game for $14, a fantastic value. You’ll get more than enough gameplay and fun to justify a purchase at that low cost. However, if you want to play on[PC](https://www.lifewire.com/best-desktop-pcs-4045927) , you’ll have to either wait for the game to go on sale, or you’ll have to pay $40\. Considering the game is older now, we’d suggest getting the game on sale (it goes on sale often through Steam). There’s a lot of fun to be had in Dying Light, especially if you have a friend to play with, so if you’re thinking about getting the game, we’d say go for it.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Competition: Other zombie and parkour games**
@@ -182,6 +163,19 @@ Harran is a whole different city at night.
 **An original in the zombie survival genre.**
 
  Dying Light is a game that took an overdone trope and used it to create a fresh game. Its fun parkour and co-op gameplay make for a great gaming experience, particularly when shared with friends. The variety of zombie enemies combined with the excellent melee combat keep the experience fresh even in the late game―and if things feel too simple, doing a mission at night is a wholly different experience from daylight outings. Dying Light is a great game in the zombie survival genre that we would recommend to most players.
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -204,24 +198,17 @@ Harran is a whole different city at night.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-anime-inspired-shorts-top-20-trends-on-tiktok/"><u>[New] 2024 Approved Anime-Inspired Shorts Top 20 Trends on TikTok</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-premium-aerial-camera-crew-the-best-10-drones/"><u>[New] 2024 Approved Premium Aerial Camera Crew The Best 10 Drones</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-financial-freedom-awaits-learn-these-8-ways-to-earn-on-tiktok/"><u>[Updated] 2024 Approved Financial Freedom Awaits Learn These 8 Ways to Earn on TikTok</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-skyrocketing-fb-engagement-masterful-seo-techniques-explored/"><u>[Updated] 2024 Approved Skyrocketing FB Engagement Masterful SEO Techniques Explored</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unlocking-the-door-to-joining-a-tiktok-gathering/"><u>[Updated] 2024 Approved Unlocking the Door to Joining a TikTok Gathering</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-a-friendly-how-to-participating-in-tiktok-livestreams/"><u>[Updated] In 2024, A Friendly How-To Participating in TikTok Livestreams</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-reconstructing-your-tiktok-identity-step-by-step-renaming-manual/"><u>[Updated] Reconstructing Your TikTok Identity Step-by-Step Renaming Manual</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-top-tools-to-decode-tiktok-engagement-and-growth-patterns-for-2024/"><u>[Updated] Top Tools to Decode TikTok Engagement and Growth Patterns for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-authenticity-matters-ensuring-your-tiktoks-are-legally-uploaded/"><u>2024 Approved Authenticity Matters Ensuring Your TikToks Are Legally Uploaded</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-optimizing-your-workflow-efficiently-editing-360-degree-videos-in-premiere-pro/"><u>2024 Approved Optimizing Your Workflow Efficiently Editing 360 Degree Videos in Premiere Pro</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-snacking-success-viral-eats-of-the-digital-age/"><u>2024 Approved Snacking Success Viral Eats of the Digital Age</u></a></li>
-<li><a href="https://blog-min.techidaily.com/asistencia-online-experta-para-el-programa-de-extraccion-y-conversion-de-dvd-winx/"><u>Asistencia Online Experta Para El Programa De Extracción Y Conversión De DVD - WinX</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/geautomatiseerde-binnenwerking-hoe-je-achtergrondjes-gemakkelijker-weghalen-met-movavi/"><u>Geautomatiseerde Binnenwerking: Hoe Je Achtergrondjes Gemakkelijker Weghalen Met Movavi</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-angles-the-complete-manual-for-effective-video-turns/"><u>Instagram Angles The Complete Manual for Effective Video Turns</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/nba-2k19-ultimate-virtual-basketball-experience/"><u>NBA 2K19 - Ultimate Virtual Basketball Experience</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-valheim-planting-manual/"><u>The Ultimate Valheim Planting Manual</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/understanding-and-uphold-points-in-tiktok-copyright-law/"><u>Understanding and Uphold Points in TikTok Copyright Law</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-audisynchx-enhancing-audio-cohesion-for-multimedia-projects-using-adobe-premiere-pro/"><u>Updated AudiSynchX Enhancing Audio Cohesion for Multimedia Projects Using Adobe Premiere Pro</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ng-narrative-threads-into-trailers-for-2024/"><u>Weaving Narrative Threads Into Trailers for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-efficient-tiktok-watchers-toolkit-fast-forward-edition/"><u>[New] In 2024, The Efficient TikTok Watcher's Toolkit (Fast Forward Edition)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-savor-the-viral-tiktoks-culinary-hitslist/"><u>[Updated] 2024 Approved Savor the Viral TikTok's Culinary Hitslist</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-meaning-behind-pfp-in-todays-tiktok-world/"><u>[Updated] The Meaning Behind PFP in Today's TikTok World</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-crafting-dynamic-web-pages-with-php-and-html/"><u>2024 Approved Crafting Dynamic Web Pages with PHP and HTML</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-online-concert-for-a-click-music-and-memories/"><u>2024 Approved Online Concert for a Click Music and Memories</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/buzzfeed-gurus-flashing-with-snapchat/"><u>BuzzFeed Gurus Flashing with Snapchat</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-basic-snaps-to-expertly-crafted-images-on-snapchat/"><u>From Basic Snaps to Expertly Crafted Images on Snapchat</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-lg-gram-17-svelte-design-meets-high-efficiency/"><u>In-Depth Review of the LG Gram 17: Svelte Design Meets High Efficiency</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/mastering-the-art-of-friendly-pins-in-snapchat/"><u>Mastering the Art of Friendly Pins in Snapchat</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/seamless-conversion-how-to-change-avi-videos-into-dvd-format-on-pc-or-mac/"><u>Seamless Conversion: How to Change AVI Videos Into DVD Format on PC or Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-persistent-audio-issues-in-windows-1n-expert-tips-and-tricks/"><u>Solving Persistent Audio Issues in Windows 1N: Expert Tips & Tricks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-here-you-will-find-top-10-best-free-and-paid-final-cut-pro-x-alternatives-that-you-can-use-on-windows-mac-or-linux-computer/"><u>Updated 2024 Approved Here, You Will Find Top 10 Best Free and Paid Final Cut Pro X Alternatives that You Can Use on Windows, Mac or Linux Computer</u></a></li>
 </ul></div>
 
