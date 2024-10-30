@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sound Issues Solved? Expert Fixes for Nonworking Game Mics
-date: 2024-10-23T07:43:48.988Z
-updated: 2024-10-24T11:02:33.970Z
+date: 2024-10-26T01:17:27.994Z
+updated: 2024-10-29T23:46:51.268Z
 tags:
   - win11
   - win10
@@ -62,10 +62,10 @@ Read on and follow the easy-doing images below!
  If your computer sound still keeps cutting out, please move on to the next option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2: Change Sound Enhancement Settings
@@ -78,12 +78,33 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Try your computer sound again to see if it still cuts out. If so, please move on.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -92,19 +113,6 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
@@ -115,21 +123,7 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -154,21 +148,22 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-deciphering-tiktoks-pfp-code-a-thorough-analysis/"><u>[New] 2024 Approved Deciphering TikTok's PFP Code - A Thorough Analysis</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-unlock-potential-expert-tips-for-youtube-video-trimming/"><u>[New] 2024 Approved Unlock Potential Expert Tips for YouTube Video Trimming</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-quest-for-your-own-specialized-tiktok-hash-code/"><u>[New] The Quest for Your Own Specialized TikTok Hash Code</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-dive-deep-into-tiktok-lives-how-to-engage-effectively-for-2024/"><u>[Updated] Dive Deep Into TikTok Lives How to Engage Effectively for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-15-best-game-recording-software-for-youtuber/"><u>[Updated] In 2024, 15 Best Game Recording Software for YouTuber</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-youtube-exchange-threads/"><u>[Updated] In 2024, Decoding YouTube Exchange Threads</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-regain-lost-content-after-an-unexpected-tiktok-reload/"><u>2024 Approved Regain Lost Content After an Unexpected TikTok Reload</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tuneful-transmissions-integrating-audio-with-statuses/"><u>2024 Approved Tuneful Transmissions Integrating Audio with Statuses</u></a></li>
-<li><a href="https://media-tips.techidaily.com/experts-handbook-on-eliminating-vocals-the-top-7-solutions-unveiled/"><u>Expert's Handbook on Eliminating Vocals: The Top 7 Solutions Unveiled</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-s23plus-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel S23+ Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/mastering-cartoon-expressions-with-snapchats-fun-filter/"><u>Mastering Cartoon Expressions with Snapchat's Fun Filter</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/slip-up-on-tiktok-how-to-get-back-content-in-2024/"><u>Slip-Up on TikTok How to Get Back Content, In 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/unbroken-song-livestreams-on-qyoutube/"><u>Unbroken Song Livestreams on QYoutube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/understanding-the-issue/"><u>Understanding the Issue</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-unbeatable-free-flv-video-editors-you-need-to-try/"><u>Updated Unbeatable Free FLV Video Editors You Need to Try</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-building-brands-on-video-a-guide-to-partnering-with-popular-youtubers/"><u>[New] Building Brands on Video A Guide to Partnering with Popular YouTubers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-easiest-way-to-download-and-use-tiktok-on-your-macbook-for-2024/"><u>[New] The Easiest Way to Download and Use TikTok on Your MacBook for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-tiktok-streams-decoded-finding-your-special-hashtag-for-2024/"><u>[New] TikTok Streams Decoded Finding Your Special Hashtag for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-building-a-strong-online-presence-with-attractive-video-thumbnails/"><u>[Updated] Building a Strong Online Presence with Attractive Video Thumbnails</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-make-duet-on-tiktok/"><u>[Updated] How to Make Duet On TikToK?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-winning-strategies-the-best-5-methods-for-game-recording-in-windows-11/"><u>[Updated] In 2024, Winning Strategies The Best 5 Methods for Game Recording in Windows 11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-master-the-quick-art-of-tiktok-film-rate-for-2024/"><u>[Updated] Master the Quick Art of TikTok Film Rate for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-perfect-your-tiktok-performance-with-voiceover-for-2024/"><u>[Updated] Perfect Your TikTok Performance with Voiceover for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-androids-premier-tools-for-fast-fixing-vid/"><u>2024 Approved Android's Premier Tools for Fast-Fixing Vid</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unbeatable-freebie-subtitle-services-our-top-picks/"><u>2024 Approved Unbeatable Freebie Subtitle Services Our Top Picks</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-v27e-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo V27e? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enable-mobile-communications-over-wi-fi-on-android-phones-a-complete-tutorial/"><u>Enable Mobile Communications Over Wi-Fi on Android Phones - A Complete Tutorial</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-crafting-compelling-content-with-macootd-tiktoks/"><u>In 2024, Crafting Compelling Content with MacOOTD TikToks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-reviews-and-analysis-on-digital-devices-by-toms-technology-experts/"><u>Pioneering Reviews and Analysis on Digital Devices by Tom's Technology Experts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/prime-8-edits-suites-on-linux-os-for-2024/"><u>Prime 8 Edits Suites on Linux OS for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/structuring-a-significant-tiktok-close-up-for-2024/"><u>Structuring a Significant TikTok Close-Up for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/visual-language-in-tiktok-a-complete-overview-for-2024/"><u>Visual Language in TikTok A Complete Overview for 2024</u></a></li>
 </ul></div>
 

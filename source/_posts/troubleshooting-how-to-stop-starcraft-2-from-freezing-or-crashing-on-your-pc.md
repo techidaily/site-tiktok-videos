@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Stop Starcraft 2 From Freezing or Crashing on Your PC"
-date: 2024-10-20T01:57:17.820Z
-updated: 2024-10-23T17:56:54.526Z
+date: 2024-10-28T06:57:42.420Z
+updated: 2024-10-30T02:04:49.766Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 5. **[Run the game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver
 
  Game issues, including crashes, freezing, or lag, are often caused by outdated or corrupted graphics drivers. Keeping your graphics driver up to date is a critical step. There are two ways you can get the correct graphics driver:
@@ -57,19 +50,19 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-56-17-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 **4)** Restart your computer and the game to test your issue.
 
  If this didn’t resolve your issue, then go ahead with the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run Steam as an administrator
 
@@ -85,14 +78,14 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-25-07.jpg)
 
- Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
 
 ### Fix 3: Disable your antivirus temporarily
 
@@ -112,6 +105,13 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-35-42.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click**Risk of Rain 2** and select**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
@@ -121,13 +121,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-19.jpg)
 
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Run your game in compatibility mode
 
@@ -143,13 +136,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-55.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the list box below to select **Windows 7** , then click **Apply**  \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-39-05.jpg)
@@ -157,6 +143,13 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 **4)**  Relaunch your game to check if your issue has been resolved.
 
 If your problem still exists, go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Steam
 
@@ -167,37 +160,49 @@ If your problem still exists, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-48-00.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Under**View by** , select**Category.** Then, select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-53-36.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Right-click**Steam** , and then click**Uninstall** .
 
@@ -208,6 +213,19 @@ If your problem still exists, go ahead with the fix below.
 **7)** Right-click the**Steam icon** and select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)** Move the backup**steamapps** folder you created before to your current directory location.
 
@@ -236,24 +254,18 @@ If your problem still exists, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-enhancing-collaboration-slack-melded-with-filmoras-video-capabilities/"><u>[New] Enhancing Collaboration Slack Melded With Filmora’s Video Capabilities</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-tiktok-photo-editing-hack-how-to-ace-the-viral-hacks-easily/"><u>[New] In 2024, TikTok Photo Editing Hack How to Ace the Viral Hacks Easily</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-mastery-in-making-memorable-tiktok-beginnings-on-a-mac/"><u>[New] Mastery in Making Memorable TikTok Beginnings on a Mac</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-lost-your-tiktok-progress-refresh-reversed/"><u>[Updated] Lost Your TikTok Progress? Refresh Reversed</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-the-nuances-of-sound-in-tiktok-media-voice-manipulation-techniques-for-2024/"><u>[Updated] Mastering the Nuances of Sound in TikTok Media Voice Manipulation Techniques for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-delicious-spotlight-on-tiktok-farewells-for-2024/"><u>[Updated] The Delicious Spotlight on TikTok Farewells for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unveiling-the-secrets-of-self-playing-fb-videos-for-2024/"><u>[Updated] Unveiling the Secrets of Self-Playing FB Videos for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-best-10-filter-combos-to-make-your-tiktok-unique/"><u>2024 Approved Best 10 Filter Combos To Make Your TikTok Unique</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-subtle-techniques-for-edgenuity-free-study-time/"><u>2024 Approved Subtle Techniques for Edgenuity-Free Study Time</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-pdf-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to Add Your Digital Signature to a PDF Document</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-jscriptdll-not-found-or-missing-errors/"><u>How to Fix Jscript.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://games-able.techidaily.com/identifying-your-ideal-elgato-for-productivity-boosts/"><u>Identifying Your Ideal Elgato for Productivity Boosts</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-how-to-use-tiktok-hashtags-to-increase-your-post-reach/"><u>In 2024, How to Use TikTok Hashtags to Increase Your Post Reach</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-vibe-of-the-town-top-20-viral-tiktok-rap-songs-to-follow/"><u>In 2024, Vibe of the Town Top 20 Viral TikTok Rap Songs to Follow</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oppo-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Oppo Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigate-through-cyberspace-to-treasure-island-a-players-guide-to-accumulating-boundless-fortune-in-dragon-realms-on-pc/"><u>Navigate Through Cyberspace to Treasure Island: A Player's Guide to Accumulating Boundless Fortune in Dragon Realms on PC</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tiktoks-new-wave-popular-rap-songs-to-sync-with-for-2024/"><u>TikTok's New Wave Popular Rap Songs to Sync With for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/video-editors-alternatives-to-inshot/"><u>Video Editors Alternatives to Inshot</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-composing-a-catchy-tiktok-epilogue/"><u>[New] 2024 Approved Composing a Catchy TikTok Epilogue</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-rapid-fire-success-strategies-the-essential-list-of-20-video-tips/"><u>[New] 2024 Approved Rapid-Fire Success Strategies The Essential List of 20 Video Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-camera-woes-ended-by-fix-obs/"><u>[New] In 2024, Camera Woes Ended by Fix - OBS</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-mastering-video-narratives-top-5-captioning-approaches-for-tiktok/"><u>[New] Mastering Video Narratives Top 5 Captioning Approaches for TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-boost-creativity-and-performance-with-these-top-10-free-tiktok-editors-for-mac/"><u>[Updated] In 2024, Boost Creativity and Performance with These Top 10 FREE TikTok Editors for Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-creative-freedom-redefined-a-review-of-screenflow-on-macbook-pro/"><u>[Updated] In 2024, Creative Freedom Redefined A Review of ScreenFlow on MacBook Pro</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-social-media-power-players-face-off-will-likes-triumph-over-tiktok/"><u>[Updated] Social Media Power Players Face-Off Will Likes Triumph over TikTok?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unleash-potential-with-these-top-20-tiktok-caption-insights/"><u>2024 Approved Unleash Potential with These Top 20 TikTok Caption Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-vsi-vidrecorder-verdicts-in-depth-overview/"><u>2024 Approved VSI VidRecorder Verdicts In-Depth Overview</u></a></li>
+<li><a href="https://facebook.techidaily.com/bridging-the-gap-to-facebook-login-post-code-disruption/"><u>Bridging the Gap to Facebook Login Post-Code Disruption</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-15-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 15 Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-art-of-transformation-in-tiktok-videos-via-background-shifts/"><u>In 2024, The Art of Transformation in TikTok Videos via Background Shifts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-on-leveraging-the-excel-navigation-pane-for-quick-data-access/"><u>The Ultimate Tutorial on Leveraging the Excel Navigation Pane for Quick Data Access</u></a></li>
 </ul></div>
 

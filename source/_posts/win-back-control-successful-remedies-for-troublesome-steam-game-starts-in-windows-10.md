@@ -1,7 +1,7 @@
 ---
 title: "Win Back Control: Successful Remedies for Troublesome Steam Game Starts in Windows 10"
-date: 2024-10-19T03:34:07.472Z
-updated: 2024-10-24T11:08:40.757Z
+date: 2024-10-26T20:30:43.859Z
+updated: 2024-10-29T23:27:54.923Z
 tags:
   - win11
   - win10
@@ -76,10 +76,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  _The system requirements information is captured from Epic Games Launcher_
@@ -87,6 +87,13 @@ Here are the system requirements for Control:
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -107,21 +114,14 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
@@ -133,10 +133,16 @@ Here are the system requirements for Control:
 2. View the Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
@@ -144,13 +150,6 @@ Here are the system requirements for Control:
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Modify Intel graphics card
 
@@ -164,13 +163,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
@@ -179,13 +171,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
@@ -202,6 +187,19 @@ Here are the system requirements for Control:
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Perform a Windows Update
 
  According to the game developers, if MS Visual C++ is missing or corrupted, you may also run into the Control crash issue. To resolve this problem, you need to reinstall Official Microsoft Visual C++ 2013 and .NET Framework.
@@ -214,6 +212,13 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
 **Microsoft Visual C++ 2013** :  
@@ -222,13 +227,6 @@ Here are the system requirements for Control:
 [https://www.microsoft.com/en-us/download/details.aspx?id=30653](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Install the latest Control patch
 
@@ -245,6 +243,19 @@ Here are the system requirements for Control:
 2. Click **Verify** to start verifying the game files.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
@@ -266,6 +277,13 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
 
@@ -295,19 +313,21 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-from-the-field-to-social-sharing-gopro-streams-on-facebookperiscope/"><u>[New] 2024 Approved From the Field to Social Sharing GoPro Streams on Facebook/Periscope</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-leading-alternatives-to-twitter-ranked-best/"><u>[New] 2024 Approved Leading Alternatives to Twitter, Ranked Best</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-dive-into-a-friends-life-without-fuss-on-tiktok/"><u>[Updated] 2024 Approved How To Dive Into a Friend's Life Without Fuss on TikTok</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-10-free-slideshow-designs-for-easy-presentations/"><u>[Updated] Top 10 Free Slideshow Designs for Easy Presentations</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-enhance-your-online-presence-4-streaming-methods-for-desktop-users/"><u>2024 Approved Enhance Your Online Presence 4 Streaming Methods for Desktop Users</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-essential-guide-to-text-enhanced-tiktoks/"><u>2024 Approved Essential Guide to Text-Enhanced TikToks</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-exploring-the-world-of-pc-based-tiktok-live-broadcasts/"><u>2024 Approved Exploring the World of PC-Based TikTok Live Broadcasts</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-mastering-the-latest-viral-tiktok-stunts/"><u>2024 Approved Mastering the Latest Viral TikTok Stunts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-evolution-of-auto-hdr-and-its-role-in-todays-photography/"><u>2024 Approved The Evolution of Auto HDR and Its Role in Today's Photography</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-performance-fixes-for-low-frames-per-second-fps-and-hiccups-in-splitgate/"><u>Enhancing Performance: Fixes for Low Frames Per Second (FPS) and Hiccups in Splitgate</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-boost-your-content-quality-the-ultimate-guide-for-impressive-mac-made-tiktok-openers/"><u>In 2024, Boost Your Content Quality The Ultimate Guide for Impressive Mac-Made TikTok Openers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-conversational-flow-in-cinematic-storytelling/"><u>In 2024, Conversational Flow in Cinematic Storytelling</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/seamless-guide-on-moving-your-films-from-pc-to-ipad-air-mini-or-pro/"><u>Seamless Guide on Moving Your Films From PC to iPad Air, Mini, or Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-steps-for-airplay-magic-projecting-a-macs-world-onto-tv-screens/"><u>Simple Steps for AirPlay Magic: Projecting a Mac's World Onto TV Screens</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-original-pfp-concepts-to-make-your-tiktok-presence-unforgettable/"><u>[New] 2024 Approved Original PFP Concepts to Make Your TikTok Presence Unforgettable</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-premier-pdf-enhancements/"><u>[New] 2024 Approved Premier PDF Enhancements</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-relax-and-rhythm-discover-20-country-songs-that-promote-dance-and-calm-on-tiktok/"><u>[New] Relax & Rhythm Discover 20 Country Songs That Promote Dance and Calm on TikTok</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-budget-friendly-recorder-choices-for-youtube-vloggers/"><u>[Updated] 2024 Approved Budget-Friendly Recorder Choices for YouTube Vloggers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-cutting-edge-tools-convert-tiktok-to-clear-mp4-files/"><u>[Updated] In 2024, Cutting-Edge Tools Convert TikTok to Clear MP4 Files</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-piecing-together-a-unique-tiktok-outro-elements/"><u>[Updated] Piecing Together A Unique TikTok Outro Elements</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-complete-mac-powered-guide-to-ootd-videography/"><u>[Updated] The Complete Mac-Powered Guide to OOTD Videography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-top-10-best-drones-with-camera-for-filming-and-photography/"><u>2024 Approved Top 10 Best Drones with Camera for Filming and Photography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/androidios-video-cutting-edge-8-top-montage-tools-revealed-for-2024/"><u>Android/iOS Video Cutting-Edge 8 Top Montage Tools Revealed for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-and-install-hps-official-wifi-driver-on-windows-os/"><u>How to Obtain and Install HP's Official WiFi Driver on Windows OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Life360 on Windows PC For Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-skyrocketing-engagement-on-igtv-with-smart-hash-tagging/"><u>In 2024, Skyrocketing Engagement on IGTV with Smart Hash Tagging</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/make-stunning-tiktok-videos-using-these-templates-for-2024/"><u>Make Stunning TikTok Videos Using These Templates for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/step-into-the-anime-world-of-snapchat-filters/"><u>Step Into the Anime World of Snapchat Filters</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-path-to-autoplay-configuring-youtube-content-for-uninterrupted-streaming/"><u>The Path to Autoplay Configuring Youtube Content for Uninterrupted Streaming</u></a></li>
 </ul></div>
 
