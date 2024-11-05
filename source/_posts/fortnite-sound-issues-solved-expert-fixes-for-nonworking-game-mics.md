@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sound Issues Solved? Expert Fixes for Nonworking Game Mics
-date: 2024-10-26T01:17:27.994Z
-updated: 2024-10-29T23:46:51.268Z
+date: 2024-10-30T21:40:07.936Z
+updated: 2024-11-04T18:41:38.761Z
 tags:
   - win11
   - win10
@@ -61,13 +61,6 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -78,32 +71,25 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
@@ -117,6 +103,13 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
@@ -124,6 +117,13 @@ Read on and follow the easy-doing images below!
 5. Click**Finish** to end the configuration.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -148,22 +148,20 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-building-brands-on-video-a-guide-to-partnering-with-popular-youtubers/"><u>[New] Building Brands on Video A Guide to Partnering with Popular YouTubers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-easiest-way-to-download-and-use-tiktok-on-your-macbook-for-2024/"><u>[New] The Easiest Way to Download and Use TikTok on Your MacBook for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-tiktok-streams-decoded-finding-your-special-hashtag-for-2024/"><u>[New] TikTok Streams Decoded Finding Your Special Hashtag for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-building-a-strong-online-presence-with-attractive-video-thumbnails/"><u>[Updated] Building a Strong Online Presence with Attractive Video Thumbnails</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-make-duet-on-tiktok/"><u>[Updated] How to Make Duet On TikToK?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-winning-strategies-the-best-5-methods-for-game-recording-in-windows-11/"><u>[Updated] In 2024, Winning Strategies The Best 5 Methods for Game Recording in Windows 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/torment-tides-of-numenera-overview-immersive-sci-fi-adventure-and-rich-worldbuilding-analysis/"><u>'Torment: Tides of Numenera' Overview: Immersive Sci-Fi Adventure and Rich Worldbuilding Analysis</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-amplify-video-speeds-the-ultimate-tiktok-guide/"><u>[Updated] Amplify Video Speeds The Ultimate TikTok Guide</u></a></li>
 <li><a href="https://tiktok-videos.techidaily.com/updated-master-the-quick-art-of-tiktok-film-rate-for-2024/"><u>[Updated] Master the Quick Art of TikTok Film Rate for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-perfect-your-tiktok-performance-with-voiceover-for-2024/"><u>[Updated] Perfect Your TikTok Performance with Voiceover for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-androids-premier-tools-for-fast-fixing-vid/"><u>2024 Approved Android's Premier Tools for Fast-Fixing Vid</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unbeatable-freebie-subtitle-services-our-top-picks/"><u>2024 Approved Unbeatable Freebie Subtitle Services Our Top Picks</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-v27e-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo V27e? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enable-mobile-communications-over-wi-fi-on-android-phones-a-complete-tutorial/"><u>Enable Mobile Communications Over Wi-Fi on Android Phones - A Complete Tutorial</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-crafting-compelling-content-with-macootd-tiktoks/"><u>In 2024, Crafting Compelling Content with MacOOTD TikToks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-reviews-and-analysis-on-digital-devices-by-toms-technology-experts/"><u>Pioneering Reviews and Analysis on Digital Devices by Tom's Technology Experts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/prime-8-edits-suites-on-linux-os-for-2024/"><u>Prime 8 Edits Suites on Linux OS for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/structuring-a-significant-tiktok-close-up-for-2024/"><u>Structuring a Significant TikTok Close-Up for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/visual-language-in-tiktok-a-complete-overview-for-2024/"><u>Visual Language in TikTok A Complete Overview for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-bridge-to-tiktok-lives-secrets-of-successful-entry/"><u>2024 Approved Bridge to TikTok Lives Secrets of Successful Entry</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-innovating-content-engagement-a-curated-list-of-20-best-tiktok-captions/"><u>2024 Approved Innovating Content Engagement A Curated List of 20 Best TikTok Captions</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-must-implement-safety-protocols-on-ps5/"><u>5 Must-Implement Safety Protocols on PS5</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-key-errors-essential-tips-for-effective-chatgpt-prompt-strategies/"><u>Avoiding Key Errors: Essential Tips for Effective ChatGPT Prompt Strategies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/finest-pencil-masters-free-vs-paid-windows-apps-reviewed-for-2024/"><u>Finest Pencil Masters Free vs Paid Windows Apps Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-unknown-to-famous-boosting-video-views-on-youtube-step-by-step/"><u>From Unknown to Famous Boosting Video Views on YouTube Step-by-Step</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oppo-a78-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-asus-rog-phone-8-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Asus ROG Phone 8 Pro?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-create-viral-tiktok-content-step-by-step-templates-guide/"><u>In 2024, Create Viral TikTok Content Step-by-Step Templates Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-weaving-a-story-in-your-tiktok-closing-moment/"><u>In 2024, Weaving a Story in Your TikTok Closing Moment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/photos-that-speak-volumes-starting-with-lunapics-tutorial/"><u>Photos That Speak Volumes Starting with LunaPic's Tutorial</u></a></li>
 </ul></div>
 

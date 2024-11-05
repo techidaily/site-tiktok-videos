@@ -1,7 +1,7 @@
 ---
 title: High Performance Meets Versatility in Our In-Depth Look at the Dell XPS Dell XPS 13 (9380) Convertible Laptop - Premium Power and Sleek Design Unveiled
-date: 2024-10-23T00:50:49.561Z
-updated: 2024-10-29T19:53:15.881Z
+date: 2024-10-29T22:08:09.637Z
+updated: 2024-11-04T18:07:39.705Z
 categories:
   - BestProducts
 description: This Article Describes High Performance Meets Versatility in Our In-Depth Look at the Dell XPS Dell XPS 13 (9380) Convertible Laptop - Premium Power and Sleek Design Unveiled
@@ -64,26 +64,13 @@ Lifewire / Kelsey Simon
 
 ![Dying Light](https://www.lifewire.com/thmb/_0yEidfS3S4dy57s584t378TZYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-5-4ec68914607c4b56acff25a78887af7f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup Process: Straight into the action**
@@ -93,13 +80,6 @@ Lifewire / Kelsey Simon
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
 
  Lifewire / Kelsey Simon
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Plot: A character torn between obligation and friendship**
 
@@ -114,6 +94,13 @@ Harran is a whole different city at night.
 ![Dying Light](https://www.lifewire.com/thmb/8G35q3VsoSEuht_3bqsGm0Pwz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-7-d9d2bbe8881e476f8dfb3c13059634ed.jpg)
 
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Gameplay: Parkour and zombies galore**
 
@@ -131,13 +118,6 @@ Harran is a whole different city at night.
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Graphics: Attention to detail**
 
  The graphics of Dying Light compare well to other triple-A titles, though it feels like the developers took more care with the scenery than the characters. Human models look a little plasticky, but the world around you is textured beautifully and rich with small details like posters and graffiti that help make the world around you feel real.
@@ -146,13 +126,20 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/sy9NHLj8JNe2eaeS9HJJdejt6QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-6-56ef808272b544e6a1038f4a5d0280f1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Worth the cost, especially with a friend**
@@ -170,6 +157,13 @@ Harran is a whole different city at night.
 **An original in the zombie survival genre.**
 
  Dying Light is a game that took an overdone trope and used it to create a fresh game. Its fun parkour and co-op gameplay make for a great gaming experience, particularly when shared with friends. The variety of zombie enemies combined with the excellent melee combat keep the experience fresh even in the late game―and if things feel too simple, doing a mission at night is a wholly different experience from daylight outings. Dying Light is a great game in the zombie survival genre that we would recommend to most players.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -192,18 +186,22 @@ Harran is a whole different city at night.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-binge-on-the-best-tiktoks-viral-video-collection-for-2024/"><u>[New] Binge on the Best TikTok's Viral Video Collection for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-tiktoks-viral-rhymes-a-guide-to-popular-rap-songs/"><u>[New] In 2024, TikTok's Viral Rhymes A Guide to Popular Rap Songs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-success-steps-to-thriving-as-a-designer/"><u>[Updated] Crafting Success Steps to Thriving as a Designer</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-unique-tiktok-pfp-concepts-for-an-eye-catching-profile/"><u>[Updated] Unique TikTok PFP Concepts for an Eye-Catching Profile</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/44cm5lia5rwb44gu44or44k944kz44oz44oi44oq44o844oi44oh44oz44oi77ya5rai44gi44gm44gx44gplus44gj44gf5yaz55yf44ks57ch5y2y44gr5yan55sf77yb44cn/"><u>「一流のパソコントリートメント：消えてしまった写真を簡単に再生！」</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-navigating-the-process-youtube-clips-become-engaging-animation-gifs/"><u>2024 Approved Navigating the Process YouTube Clips Become Engaging Animation Gifs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-motorola-razr-40-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Motorola Razr 40 FRP Bypass Instantly</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-the-crashes-resource-monitor-on-windows-11/"><u>Addressing the Crashes: Resource Monitor on Windows 11</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/breeze-through-snapchat-two-techniques-for-dynamic-lenses/"><u>Breeze Through Snapchat Two Techniques for Dynamic Lenses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-use-samsung-flow-to-connect-your-windows-pc-and-galaxy-phone/"><u>How to Use Samsung Flow to Connect Your Windows PC and Galaxy Phone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209636704-9781547571970-liderazgo-habilidades-para-influenciar-comunicar-efectivamente-y-alcanzar-objetivos/"><u>Liderazgo: Habilidades Para Influenciar, Comunicar Efectivamente Y Alcanzar Objetivos | Free Book</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/tips-for-perfect-control-how-to-use-your-switch-pro-on-steam-for-2024/"><u>Tips for Perfect Control How to Use Your Switch Pro on Steam for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-the-tp-link-archer-c80-superior-performance-at-a-budget-friendly-price/"><u>Unboxing the TP-Link Archer C80: Superior Performance at a Budget-Friendly Price</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-original-pfp-concepts-to-make-your-tiktok-presence-unforgettable/"><u>[New] 2024 Approved Original PFP Concepts to Make Your TikTok Presence Unforgettable</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-capturing-audiences-attention-with-animated-viral-video-hits-for-2024/"><u>[New] Capturing Audiences' Attention with Animated Viral Video Hits for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-easy-to-implement-strategies-to-stand-out-with-sound-in-pubg/"><u>[New] Easy-to-Implement Strategies to Stand Out with Sound in PUBG</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-art-of-documenting-digital-entertainment/"><u>[New] In 2024, The Art of Documenting Digital Entertainment</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-relax-and-rhythm-discover-20-country-songs-that-promote-dance-and-calm-on-tiktok/"><u>[New] Relax & Rhythm Discover 20 Country Songs That Promote Dance and Calm on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-cutting-edge-tools-convert-tiktok-to-clear-mp4-files/"><u>[Updated] In 2024, Cutting-Edge Tools Convert TikTok to Clear MP4 Files</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-piecing-together-a-unique-tiktok-outro-elements/"><u>[Updated] Piecing Together A Unique TikTok Outro Elements</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-top-15-trending-hashtags-in-tiktok/"><u>2024 Approved The Top 15 Trending Hashtags in TikTok</u></a></li>
+<li><a href="https://fox-search.techidaily.com/3-effective-steps-for-a-complete-ipad-reset-at-no-cost-a-comprehensive-guide/"><u>3 Effective Steps for a Complete iPad Reset at No Cost: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/big-file-baskets-in-the-cloud-cost-effective-saver-for-2024/"><u>Big File Baskets in the Cloud - Cost-Effective Saver for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-step-by-step-guide-to-attending-live-showcases-on-tiktok/"><u>In 2024, Step-by-Step Guide to Attending Live Showcases on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unlock-tiktok-magic-ditch-the-watermark/"><u>In 2024, Unlock TikTok Magic - Ditch the Watermark</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unlocking-advanced-visuals-how-to-use-picture-in-picture-in-final-cut-pro/"><u>New In 2024, Unlocking Advanced Visuals How to Use Picture-in-Picture in Final Cut Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-superiority-test-which-display-rules-the-game/"><u>Screen Superiority Test: Which Display Rules the Game?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-how-to-download-and-install-wacom-intuos-3-graphics-tablet-drivers-on-windows-100-support/"><u>Step-by-Step Tutorial: How to Download & Install Wacom Intuos 3 Graphics Tablet Drivers on Windows (100% Support)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-unbeatable-appeal-of-tangible-tape-rentals-vs-intangible-online-movie-streaming-options/"><u>The Unbeatable Appeal of Tangible Tape Rentals Vs. Intangible Online Movie Streaming Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-error-unsuccessful-upgrade-to-windows-10-version-1607/"><u>Update Error: Unsuccessful Upgrade to Windows 10 (Version 1607)</u></a></li>
 </ul></div>
 

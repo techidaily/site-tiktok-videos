@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Click and Groove  An Insider's Guide to Making TikTok Dance Videos for Mac\""
-date: 2024-10-22T22:12:06.950Z
-updated: 2024-10-29T19:42:39.849Z
+date: 2024-10-29T20:26:20.301Z
+updated: 2024-11-04T20:32:07.501Z
 tags:
   - ai video
   - ai tiktok
@@ -51,6 +51,13 @@ Using the motion tracking function is extremely easy. Here is how you do it:
 
 ![import media files on filmorax](https://images.wondershare.com/filmora/Mac-articles/import-media-files-on-filmorax.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2.Now you will want to check that the main body of the subject is in the entire frame. If it is not, then you will need to cut and trim the video accordingly.
 
 3.The next step is to start the motion tracking. For this, you will need to make sure that your play head is at the point from where you want to start your motion tracking. The tracking will only start wherever your play head is.
@@ -62,13 +69,6 @@ Using the motion tracking function is extremely easy. Here is how you do it:
 5.When you have done that, the motion tracking box will appear in the preview. Move and resize it according to the subject that you wish to track. Then, select the “render-effect” option so that Filmora can analyze the video.
 
 ![32box](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.box.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6.Now you can add the object you want to have to follow the track. You can choose that from the title menu or add a new image from your Mac.
 
@@ -97,16 +97,10 @@ This is also one of the most famous effects that are used for the Tik Tok dance 
 ![green screen tik tok effect](https://images.wondershare.com/filmora/Mac-articles/green-screen-tik-tok-effect.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Disco effects for TikTok Dance
@@ -116,17 +110,10 @@ This is another one of the extremely fun built-in effects that allow you to add 
  ![add disco effect to your tik tok](https://images.wondershare.com/filmora/Mac-articles/add-disco-effect-to-your-tik-tok.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Double Screen Effect for TikTok Dance
@@ -136,10 +123,10 @@ This is another one of the extremely fun built-in effects that allow you to add 
 ![double screen effect in tik tok](https://images.wondershare.com/filmora/Mac-articles/double-screen-effect-in-tik-tok.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Trio Effect for TikTok Dance
@@ -147,6 +134,13 @@ This is another one of the extremely fun built-in effects that allow you to add 
 This effect allows you to make two other clones of yourself. Now imagine three of you dancing together on some good choreography. Sounds sensational; doesn’t it? When using trio, both of your clones will be doing the same moves, you cannot assign different moves to your clones.
 
 ![add trio effect to your tik tok](https://images.wondershare.com/filmora/Mac-articles/add-trio-effect-to-your-tik-tok.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Conclusion
 
@@ -165,10 +159,16 @@ All of this can be achieved with just one top of the line video editing software
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -188,12 +188,20 @@ Follow @Shanoon Cox
 <div><ul>
 <li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-how-to-get-tiktok-working-again-after-a-crash/"><u>[New] 2024 Approved How to Get TikTok Working Again After a Crash</u></a></li>
 <li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-navigating-the-launch-of-tiktok-videos-from-pc/"><u>[New] 2024 Approved Navigating the Launch of TikTok Videos From PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-battle-for-best-action-camera-sony-fdr-x1000v-meets-hero-4-black/"><u>[New] Battle for Best Action Camera Sony FDR-X1000V Meets Hero 4 Black</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-fun-for-the-whole-family-revisiting-a-goofy-movie/"><u>[New] In 2024, 'Fun for the Whole Family' Revisiting a 'Goofy Movie'</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-get-tiktok-working-again-after-a-crash/"><u>[New] In 2024, How to Get TikTok Working Again After a Crash</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-useful-screen-recorder-for-teachers/"><u>[New] In 2024, Useful Screen Recorder for Teachers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-ahead-of-the-curve-tiktoks-freshest-acts-for-2024/"><u>[New] Ahead of the Curve TikTok's Freshest Acts for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-optimal-aspect-ratios-for-video-content-creation/"><u>[New] In 2024, Optimal Aspect Ratios for Video Content Creation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-20-viral-tiktok-anime-ideas-for-2024/"><u>[Updated] 20 Viral Tiktok Anime Ideas for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-next-gen-of-visual-perfection-a-review-of-eizos-cg318-4k/"><u>[Updated] 2024 Approved The Next Gen of Visual Perfection A Review of EIZO's CG318-4K</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-gourmet-grub-gurus-on-social-media-for-2024/"><u>[Updated] Gourmet Grub Gurus on Social Media for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-ride-on-others-tiktok-waves-as-a-guest/"><u>[Updated] How to Ride on Others' TikTok Waves as a Guest</u></a></li>
 <li><a href="https://tiktok-videos.techidaily.com/updated-maximizing-your-tiktok-intro-a-mac-guide/"><u>[Updated] Maximizing Your TikTok Intro A Mac Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-the-fix-simple-steps-to-address-bcm2045a0-driver-issues-successfully/"><u>Mastering the Fix: Simple Steps to Address Bcm2045a0 Driver Issues Successfully</u></a></li>
-<li><a href="https://fox-that.techidaily.com/wifi-iphone-charging-woes-discover-7-effective-remedies-to-get-it-working-again/"><u>WiFi iPhone Charging Woes? Discover 7 Effective Remedies to Get It Working Again</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/driving-traffic-through-social-platforms-leveraging-massmails-referral-strategies/"><u>Driving Traffic Through Social Platforms: Leveraging MassMail's Referral Strategies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-observing-to-involved-the-tiktok-life-journey/"><u>From Observing to Involved The TikTok Life Journey</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p40plus-phone-without-password-by-drfone-android/"><u>How To Unlock Itel P40+ Phone Without Password?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/optimal-applications-streamlining-video-conferencing/"><u>Optimal Applications Streamlining Video Conferencing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210348063-9782226389930-sagesses-pour-notre-temps/"><u>Sagesses pour notre temps | Free Book</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/seamless-conversion-of-bmp-files-to-gif-without-hassle/"><u>Seamless Conversion of BMP Files to GIF Without Hassle</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-xbox-game-pass-error-0-on-windows-11-devices/"><u>Steps to Resolve Xbox Game Pass Error 0 on Windows 11 Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-v30-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo V30 Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 
