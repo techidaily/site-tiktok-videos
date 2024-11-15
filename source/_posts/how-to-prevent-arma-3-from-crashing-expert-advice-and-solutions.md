@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Arma 3 From Crashing - Expert Advice & Solutions
-date: 2024-11-01T23:43:23.916Z
-updated: 2024-11-05T00:01:39.112Z
+date: 2024-11-14T05:01:19.564Z
+updated: 2024-11-14T18:52:26.026Z
 tags:
   - win11
   - win10
@@ -45,14 +45,21 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 3. Go to the**Programs Settings** tab. Then, click the**Add** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-3.jpg)
 4. Select**HITMAN 3** from the list and click**Add Selected Program** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-4.jpg)
 5. Choose**High-performance NVIDIA processor** as the preferred graphics processor for Hitman 3.  
@@ -67,10 +74,10 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have an AMD graphics card, you could refer to this[official guide](https://www.amd.com/en/support/kb/faq/dh-017) to configure the Radeon settings.
@@ -88,6 +95,13 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 3. After the process completes, launch Hitman 3 to test.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Does the game works the right way or does it still crash? If the latter, don’t frustrate and check out the next fix.
 
 ### Fix 4 – Update your graphics driver
@@ -103,27 +117,27 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the_flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, you should see Hitman 3 runs more smoothly. But if this method doesn’t work, continue to the last fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Increase virtual memory
 
@@ -134,53 +148,33 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 2. Click**Settings** under Performance.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-2.jpg)
 3. Navigate to the**Advanced** tab. Then, click**Change** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-2.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-3.jpg)
 5. Select the**C drive** and click**Custom size** .  
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-5.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has. Then, click **OK** .  
 
 **Note** : According to Microsoft, you should set virtual memory no less than**1.5 times** and no more than **3 times** the amount of RAM on your computer. For example, if you have 8 GB RAM, the**Initial size** should be 8 x 1024 x 1.5 = 12288 MB while the **Maximum size** should be 8 x 1024 x 3 = 24576 MB. If you don’t know how much RAM you have, read our post to[check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart the computer for changes to take effect. Once you’ve done that, run Hitman 3 and the crashes should be resolved now.
 
@@ -206,24 +200,16 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-a-deep-dive-into-top-10-streaming-platforms-compared/"><u>[New] 2024 Approved A Deep Dive Into Top 10 Streaming Platforms Compared</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-syncing-tiktok-creativity-across-chrome-android-ios/"><u>[New] In 2024, Syncing TikTok Creativity Across Chrome, Android, iOS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-in-depth-guide-to-frozen-indulgence-capture-tech/"><u>[Updated] 2024 Approved In-Depth Guide to Frozen Indulgence Capture Tech</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-forgotten-tiktok-reload-a-quick-fix/"><u>[Updated] In 2024, Forgotten TikTok Reload A Quick Fix?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-no-marking-tiktok-mp4-downloader-for-high-quality-clips/"><u>[Updated] In 2024, No Marking TikTok MP4 Downloader for High-Quality Clips</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-your-complete-macootd-filmmaking-handbook/"><u>[Updated] In 2024, Your Complete MacOOTD Filmmaking Handbook</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-complete-mac-powered-guide-to-ootd-videography/"><u>[Updated] The Complete Mac-Powered Guide to OOTD Videography</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-selection-the-top-11-kid-friendly-waterproof-camcorders/"><u>2024 Approved Expert Selection The Top 11 Kid-Friendly, Waterproof Camcorders</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-honor-play-8t-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor Play 8T FRP Bypass Instantly</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/asus-vivobook-11-comprehensive-analysis-perfect-blend-of-portability-and-price-sensitivity/"><u>Asus Vivobook 11 Comprehensive Analysis: Perfect Blend of Portability and Price Sensitivity</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-reno-11f-5g-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Reno 11F 5G.</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-oneplus-11r-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does OnePlus 11R Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-g2-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo G2 FRP?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/make-stunning-tiktok-videos-using-these-templates-for-2024/"><u>Make Stunning TikTok Videos Using These Templates for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/reel-your-audience-in-with-top-mobile-video-editors-for-snaps/"><u>Reel Your Audience in with Top Mobile Video Editors for Snaps</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/step-into-the-anime-world-of-snapchat-filters/"><u>Step Into the Anime World of Snapchat Filters</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-how-to-effortlessly-update-wacom-cintiq-software/"><u>Step-by-Step Tutorial: How to Effortlessly Update Wacom Cintiq Software</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/streamlining-video-creation-for-snapchat-on-mac/"><u>Streamlining Video Creation for Snapchat on Mac</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnets-ultimate-guide-to-superior-magsafe-peripherals-in-202-comprehensive-tester-insights/"><u>ZDNet's Ultimate Guide to Superior MagSafe Peripherals in 202# - Comprehensive Tester Insights</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-how-to-dominate-the-viral-video-edit-scene-on-tiktok-for-2024/"><u>[New] How to Dominate the Viral Video Edit Scene on TikTok for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ultimate-5-remote-viewing-recorders/"><u>[New] Ultimate 5 Remote Viewing Recorders</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-10-best-cinema-cameras-for-filmmaking-from-beginner-to-professional-for-2024/"><u>[Updated] 10 Best Cinema Cameras for Filmmaking From Beginner to Professional for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-earn-on-tiktok-explore-8-effective-money-making-techniques/"><u>[Updated] Earn on TikTok Explore 8 Effective Money-Making Techniques</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/cult-classic-reimaginings-top-20-anime-on-tiktok-for-2024/"><u>Cult Classic Reimaginings Top 20 Anime on TikTok for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/cutting-edge-youtube-end-card-tactics-and-layouts-for-2024/"><u>Cutting Edge Youtube End Card Tactics & Layouts for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-xbox-wireless-controller-driets-with-one-click-simplicity/"><u>Download Xbox Wireless Controller Driets with One-Click Simplicity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-13-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 13 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unlocking-tiktok-stream-potential-3-key-steps-on-laptops/"><u>In 2024, Unlocking TikTok Stream Potential 3 Key Steps on Laptops</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/las-mejores-tecnicas-para-rescatar-fotografias-de-un-disco-duro-viejos-en-sistemas-operativos-windows/"><u>Las Mejores Técnicas Para Rescatar Fotografías De Un Disco Duro Viejos en Sistemas Operativos Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-strategies-for-captivating-your-online-audience-with-videos/"><u>Ultimate Strategies for Captivating Your Online Audience with Videos</u></a></li>
 </ul></div>
 

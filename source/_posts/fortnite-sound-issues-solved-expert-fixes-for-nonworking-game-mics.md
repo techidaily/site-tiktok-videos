@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sound Issues Solved? Expert Fixes for Nonworking Game Mics
-date: 2024-10-30T21:40:07.936Z
-updated: 2024-11-04T18:41:38.761Z
+date: 2024-11-12T19:59:12.554Z
+updated: 2024-11-14T17:00:15.718Z
 tags:
   - win11
   - win10
@@ -74,22 +74,22 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
@@ -100,15 +100,15 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
@@ -116,14 +116,14 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -148,20 +148,16 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-tips.techidaily.com/torment-tides-of-numenera-overview-immersive-sci-fi-adventure-and-rich-worldbuilding-analysis/"><u>'Torment: Tides of Numenera' Overview: Immersive Sci-Fi Adventure and Rich Worldbuilding Analysis</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-amplify-video-speeds-the-ultimate-tiktok-guide/"><u>[Updated] Amplify Video Speeds The Ultimate TikTok Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-master-the-quick-art-of-tiktok-film-rate-for-2024/"><u>[Updated] Master the Quick Art of TikTok Film Rate for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-bridge-to-tiktok-lives-secrets-of-successful-entry/"><u>2024 Approved Bridge to TikTok Lives Secrets of Successful Entry</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-innovating-content-engagement-a-curated-list-of-20-best-tiktok-captions/"><u>2024 Approved Innovating Content Engagement A Curated List of 20 Best TikTok Captions</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-must-implement-safety-protocols-on-ps5/"><u>5 Must-Implement Safety Protocols on PS5</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoiding-key-errors-essential-tips-for-effective-chatgpt-prompt-strategies/"><u>Avoiding Key Errors: Essential Tips for Effective ChatGPT Prompt Strategies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/finest-pencil-masters-free-vs-paid-windows-apps-reviewed-for-2024/"><u>Finest Pencil Masters Free vs Paid Windows Apps Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/from-unknown-to-famous-boosting-video-views-on-youtube-step-by-step/"><u>From Unknown to Famous Boosting Video Views on YouTube Step-by-Step</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oppo-a78-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Oppo A78? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-asus-rog-phone-8-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Asus ROG Phone 8 Pro?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-create-viral-tiktok-content-step-by-step-templates-guide/"><u>In 2024, Create Viral TikTok Content Step-by-Step Templates Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-weaving-a-story-in-your-tiktok-closing-moment/"><u>In 2024, Weaving a Story in Your TikTok Closing Moment</u></a></li>
-<li><a href="https://extra-information.techidaily.com/photos-that-speak-volumes-starting-with-lunapics-tutorial/"><u>Photos That Speak Volumes Starting with LunaPic's Tutorial</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-aesthetic-alignment-for-online-glamour-content/"><u>[New] 2024 Approved Aesthetic Alignment for Online Glamour Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-easy-steam-recordings-with-team-fortress-2s-latest-update/"><u>[Updated] In 2024, Easy Steam Recordings with Team Fortress 2'S Latest Update</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-pathway-to-professional-pc-livestreams-with-tiktok-for-2024/"><u>[Updated] The Pathway to Professional PC Livestreams with TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/exploring-the-new-features-and-enhancements-in-microsoft-surface-pro-7-performance-vs-innovation-balance/"><u>Exploring the New Features and Enhancements in Microsoft Surface Pro 7: Performance vs Innovation Balance</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/fast-track-your-downloads-solve-yahoos-slow-speeds-with-our-2024-guide/"><u>Fast Track Your Downloads: Solve Yahoo's Slow Speeds with Our 2024 Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-depth-reviews-and-comparisons-by-toms-tech-review/"><u>In-Depth Reviews and Comparisons by Tom's Tech Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976699229-install-asus-bt50n-bluetooth-50-usb-stick-driver-on-windows-pcs-latest-version-available-now/"><u>Install Asus BT50n Bluetooth 5.0 USB Stick Driver on Windows PCs – Latest Version Available Now</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/master-your-devices-the-ultimate-resource-for-tech-enthusiasts-at-toms-hardware/"><u>Master Your Devices: The Ultimate Resource for Tech Enthusiasts at Tom's Hardware</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-problems-in-counter-strike-2-a-comprehensive-guide/"><u>Overcoming Launch Problems in Counter-Strike 2 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/stay-clear-of-7-common-windows-11-missteps-as-a-newbie/"><u>Stay Clear of 7 Common Windows 11 Missteps as a Newbie</u></a></li>
 </ul></div>
 

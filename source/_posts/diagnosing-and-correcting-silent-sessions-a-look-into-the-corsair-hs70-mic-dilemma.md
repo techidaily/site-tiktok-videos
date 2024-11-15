@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Correcting Silent Sessions: A Look Into the Corsair HS70 Mic Dilemma"
-date: 2024-10-29T23:56:50.568Z
-updated: 2024-11-04T17:15:11.922Z
+date: 2024-11-14T00:11:07.820Z
+updated: 2024-11-14T20:54:28.020Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1 – Allow access to your microphone on your PC
 
  If your Corsair HS35 is not activated in the Window settings, your PC will lack the access to your microphone and so the mic just won’t start to work at all. Follow these steps to allow access to your microphone:
@@ -44,28 +51,28 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
 2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2 – Check the audio settings
 
@@ -78,19 +85,19 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
 
  If this fix doesn’t give you the luck, try the next below to update your audio drives.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3 – Update your audio driver
 
@@ -108,22 +115,15 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
 
@@ -137,19 +137,19 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
 
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 5. Select**iCUE** and then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
@@ -216,22 +216,20 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-pivoting-with-purpose-rotate-and-rethink-with-youtubes-latest-tools/"><u>[New] 2024 Approved Pivoting with Purpose Rotate and Rethink with YouTube's Latest Tools</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-accidental-tiktok-reset-how-to-restore-content/"><u>[New] In 2024, Accidental TikTok Reset How to Restore Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-boost-engagement-with-effective-wirecast-broadcasts-on-fb/"><u>[New] In 2024, Boost Engagement with Effective Wirecast Broadcasts on FB</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-ultimate-playlist-tiktok-hits-that-stick-in-your-memory/"><u>[New] In 2024, The Ultimate Playlist TikTok Hits that Stick in Your Memory</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-laughlounge-app-join-the-meme-revolution-for-2024/"><u>[New] LaughLounge App - Join the Meme Revolution for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-mastering-video-narratives-top-5-captioning-approaches-for-tiktok/"><u>[New] Mastering Video Narratives Top 5 Captioning Approaches for TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-become-a-viral-sensation-best-tiktok-sayings-compilation/"><u>[Updated] Become a Viral Sensation Best TikTok Sayings Compilation</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-boost-creativity-and-performance-with-these-top-10-free-tiktok-editors-for-mac/"><u>[Updated] In 2024, Boost Creativity and Performance with These Top 10 FREE TikTok Editors for Mac</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-mistaken-loadout-on-tiktok-can-i-see-previous-selections/"><u>[Updated] In 2024, Mistaken Loadout on TikTok Can I See Previous Selections?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-spectre-3-clash-mirage-4-enters-the-fray/"><u>[Updated] In 2024, Spectre 3 Clash Mirage 4 Enters the Fray</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-disabling-instant-movie-making-in-quicktime/"><u>2024 Approved Disabling Instant Movie Making in QuickTime</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-legitimacy-in-the-limelight-copyright-verification-before-upload/"><u>2024 Approved Legitimacy in the Limelight Copyright Verification Before Upload</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-task-management-auto-gpt-in-ubuntu/"><u>Effortless Task Management: Auto-GPT in Ubuntu</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-a78-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/finding-balance-in-fb-sharing-a-guide-to-aspect-ratio-knowledge/"><u>Finding Balance in FB Sharing A Guide to Aspect Ratio Knowledge</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-11x-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 11X 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-game-changer-2-ways-to-elevate-your-tiktok-video-creations-using-filmora-for-2024/"><u>The Game Changer 2 Ways to Elevate Your TikTok Video Creations Using Filmora for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-engaging-and-eye-catching-tiktok-videos-made-simple-for-2024/"><u>[New] Engaging and Eye-Catching TikTok Videos Made Simple for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-dull-to-dynamic-a-guide-to-chromatic-finesse/"><u>[New] From Dull to Dynamic A Guide to Chromatic Finesse</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-engaging-in-the-moment-of-a-tiktok-life/"><u>[Updated] 2024 Approved Engaging in the Moment of a TikTok Life</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-a-detailed-guide-to-crop-your-video-for-instagram-for-2024/"><u>[Updated] A Detailed Guide to Crop Your Video for Instagram for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-cutting-edge-anime-ideas-dominating-social-media-screens-for-2024/"><u>[Updated] Cutting-Edge Anime Ideas Dominating Social Media Screens for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-screenscapes-the-new-tech-frontier-for-2024/"><u>[Updated] Screenscapes The New Tech Frontier for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/beyond-activity-discover-enhanced-well-being-with-the-fitbit-sense-versus-apple-watch/"><u>Beyond Activity – Discover Enhanced Well-Being with the Fitbit Sense Versus Apple Watch</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cambia-tu-archivo-de-video-de-mp4-a-m4a-gratis-con-convertidor-online-de-movavi/"><u>Cambia Tu Archivo De Vídeo De MP4 a M4A Gratis Con Convertidor Online De Movavi</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/comprehensive-guide-to-the-dreame-bot-l10-pro-revolutionizing-cleaning-with-high-tech-lidar-navigation/"><u>Comprehensive Guide to the Dreame Bot L10 Pro: Revolutionizing Cleaning with High-Tech LiDAR Navigation</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-8-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 8 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-samsung-galaxy-s23-fe-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Samsung Galaxy S23 FE to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ating-the-world-of-youtube-live-visuals-for-2024/"><u>Navigating the World of YouTube Live Visuals for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/sustained-soundwaves-a-list-of-tiktok-tracks-that-stick/"><u>Sustained Soundwaves A List of TikTok Tracks that Stick</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reversal-tactics-unique-youtube-video-experiences-for-2024/"><u>Time-Reversal Tactics Unique YouTube Video Experiences for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/weekly-update-changes-coming-to-netflixs-basic-plan-and-enhanced-techniques-in-iphone-restoration/"><u>Weekly Update: Changes Coming to Netflix's Basic Plan & Enhanced Techniques in iPhone Restoration</u></a></li>
 </ul></div>
 

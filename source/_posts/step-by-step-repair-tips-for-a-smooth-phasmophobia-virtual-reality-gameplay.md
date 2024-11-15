@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Repair Tips for a Smooth Phasmophobia Virtual Reality Gameplay
-date: 2024-10-29T21:52:46.741Z
-updated: 2024-11-04T16:31:12.062Z
+date: 2024-11-12T05:50:15.538Z
+updated: 2024-11-15T02:18:33.175Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
   
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing The Division 2 and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
@@ -48,22 +55,16 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
   
 ![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you’ve done these, play The Division 2 and check if your game looks better.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Disable Windows 10 Game Mode
 
@@ -75,33 +76,20 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
 ![disable windows 10 gaming features disable game mode](https://images.drivereasy.com/wp-content/uploads/2021/01/gaming-in-the-settings.png)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After applying the changes, play The Division 2 to check if your issues persist. If disabling Windows 10 Game Mode didn’t do the trick, proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Disable overlays
 
@@ -123,23 +111,9 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
   
 ![disable GeForce Experience overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/settings-icon.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the GENERAL tab, toggle off**IN-GAME OVERLAY** and exit.  
   
 ![disable GeForce Experience overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/toggle-off-in-game-overlay.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After disabling in-game overlays, launch The Division 2 to check if this mitigates your problems. If you’re still getting low framerate and experiencing constant stutters during gameplay, try the next fix below.
 
@@ -150,6 +124,19 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
  Most video games are graphics-intensive. If you run into any performance issues such as low FPS and constant stutters during the gameplay, your outdated or faulty graphics driver can be the culprit. To pinpoint the root cause, you should try updating your graphics driver. This is essential as driver updates come with bug fixes and bring new features.
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[**automatically**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -172,6 +159,13 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -182,13 +176,6 @@ Here’s how to update drivers with Driver Easy:
  After updating drivers, restart your computer and launch your game to check if the problem is solved. If not, then continue trying the fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Set the game’s priority to high
 
@@ -206,19 +193,33 @@ To set your game’s priority to high, you can take these steps:
   
 ![set The Division 2 priority to high](https://images.drivereasy.com/wp-content/uploads/2021/04/Task-Manager-Go-to-details.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Your game should be highlighted. Make sure to right-click it and select**Set priority > High** .  
   
 ![set The Division 2 priority to high](https://images.drivereasy.com/wp-content/uploads/2021/04/set-priority-to-high.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After applying the changes, launch The Division 2 and it should be running with high priority.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Optimize in-game settings
@@ -235,13 +236,6 @@ To set your game’s priority to high, you can take these steps:
 **Spot Shadows: Low**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After applying the changes, play The Division 2 and you should be able to notice the difference.
 
@@ -264,18 +258,24 @@ To set your game’s priority to high, you can take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-adobe-premiere-tips-youtube-video-uploads-for-2024/"><u>[New] Adobe Premiere Tips YouTube Video Uploads for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-experience-professional-video-calling-explore-the-top-5-devices/"><u>[New] Experience Professional Video Calling - Explore The Top 5 Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-happy-enrollment-and-logout-flowchart/"><u>[New] Happy Enrollment & Logout Flowchart</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-a-personalized-approach-developing-an-individualistic-tiktok-keyword/"><u>[Updated] A Personalized Approach Developing an Individualistic TikTok Keyword</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-final-steps-for-irreversible-tiktok-un-signup/"><u>[Updated] Final Steps for Irreversible TikTok Un-Signup</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-revitalize-your-tiktok-videos-masterful-techniques-to-alter-backdrops/"><u>[Updated] Revitalize Your TikTok Videos Masterful Techniques to Alter Backdrops</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-upload-wisdom-tiktok-video-rights-and-compliance-guide-for-2024/"><u>[Updated] Upload Wisdom TikTok Video Rights & Compliance Guide for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/abbyy-unveils-breakthrough-in-legal-tech-pioneering-text-analytics-for-efficient-contract-management-at-premier-corporate-counsel-conference/"><u>ABBYY Unveils Breakthrough in Legal Tech: Pioneering Text Analytics for Efficient Contract Management at Premier Corporate Counsel Conference</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-infinix-note-30-vip-racing-edition-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Infinix Note 30 VIP Racing Edition Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-nostalgia-spin-off-the-goofy-movie-on-tape/"><u>In 2024, Nostalgia Spin-Off The Goofy Movie on Tape</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-itel-a60s-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Itel A60s Black and White | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watch-tiktoks-on-tv-the-complete-walkthrough-for-enthusiasts/"><u>Watch TikToks on TV: The Complete Walkthrough for Enthusiasts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-elevate-your-creative-expression-with-smart-caption-techniques-for-tiktoks-for-2024/"><u>[New] Elevate Your Creative Expression with Smart Caption Techniques for TikToks for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-exploring-televised-facebook-live-4-strategies-for-2024/"><u>[New] Exploring Televised Facebook Live 4 Strategies for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-engaging-with-jujutsu-kaisen-fans-through-tiktok-challenges/"><u>[New] In 2024, Engaging with Jujutsu Kaisen Fans Through TikTok Challenges</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-art-of-influencing-with-tiktok-marketing/"><u>[New] In 2024, The Art of Influencing with TikTok Marketing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-snicker-sphere-hot-gags-and-joke-artists-of-tiktok/"><u>[New] Snicker Sphere Hot Gags and Joke Artists of TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-winning-over-viewers-the-top-20-must-try-tiktok-caption-strategies/"><u>[New] Winning Over Viewers The Top 20 Must-Try TikTok Caption Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-crafting-professional-level-sessions-utilizing-mask-and-filter-techniques/"><u>[Updated] 2024 Approved Crafting Professional-Level Sessions Utilizing Mask & Filter Techniques</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-discover-50plus-creative-words-that-make-tiktoks-go-viral/"><u>[Updated] Discover 50+ Creative Words That Make TikToks Go Viral</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-tape-to-trending-seamless-mp3-to-youtube-transition/"><u>[Updated] From Tape to Trending Seamless MP3 to YouTube Transition</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-catchy-tracks-the-20-top-rapping-beats-you-cant-miss-on-tiktok/"><u>[Updated] In 2024, Catchy Tracks The 20 Top Rapping Beats You Can't Miss on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-expert-tips-for-broadcasting-on-tiktok-via-computer/"><u>[Updated] In 2024, Expert Tips for Broadcasting on TikTok Via Computer</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/come-e-perche-cambiare-in-modo-facile-il-disco-fisso-portatile-asus-con-un-ssd/"><u>Come E Perchè Cambiare in Modo Facile Il Disco Fisso Portatile Asus Con Un SSD</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-brother-hl-l2300d-printer-software-get-it-now/"><u>Download the Latest Brother HL-L2300D Printer Software - Get It Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-vivo-by-fonelab-android-recover-data/"><u>How to recover lost data from Vivo ?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-lava-blaze-pro-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Lava Blaze Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-realme-gt-3-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Realme GT 3 for Parents | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/troubled-tiktoks-learn-how-to-reactivate-them-for-2024/"><u>Troubled TikToks? Learn How to Reactivate Them for 2024</u></a></li>
 </ul></div>
 
