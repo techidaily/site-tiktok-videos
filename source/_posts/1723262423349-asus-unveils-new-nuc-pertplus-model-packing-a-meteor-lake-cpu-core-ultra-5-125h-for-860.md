@@ -1,7 +1,7 @@
 ---
 title: "Asus Unveils New NUC Pert+ Model: Packing a Meteor Lake CPU, Core Ultra-5 125H for $860!"
-date: 2024-11-08T18:00:07.140Z
-updated: 2024-11-15T05:16:08.805Z
+date: 2024-11-17T16:23:08.370Z
+updated: 2024-11-24T16:12:30.576Z
 tags:
   - desktop
 categories:
@@ -27,6 +27,10 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -50,25 +54,24 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-dynamic-duo-approach-using-two-photos-in-one-instagram-story/"><u>[New] The Dynamic Duo Approach Using Two Photos in One Instagram Story</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-navigating-high-dynamic-range-photography-with-ps/"><u>[Updated] 2024 Approved Navigating High Dynamic Range Photography with PS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-accelerate-access-funimates-download-demystified/"><u>2024 Approved Accelerate Access Funimate's Download Demystified</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-template-hacks-for-building-professional-youtube-intros/"><u>2024 Approved Template Hacks for Building Professional YouTube Intros</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/dronemakers-ultimate-sky-explore/"><u>Dronemaker's Ultimate Sky Explore</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/future-proof-your-setup-with-cutting-edge-hardware-insights-from-your-site-name-tech-enthusiasts-hub/"><u>Future-Proof Your Setup with Cutting-Edge Hardware Insights From [Your Site Name] – Tech Enthusiast's Hub</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo Y200e 5G? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-15-pro-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 15 Pro?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-15-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 15</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-depth-technology-examination-by-toms-resource-hub/"><u>In-Depth Technology Examination by Tom's Resource Hub</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/mastery-of-electronics-a-journey-through-toms-hardware/"><u>Mastery of Electronics - A Journey Through Tom's Hardware</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mobile-editors-roundup-top-8-choices-for-iphone-and-android-users-for-2024/"><u>Mobile Editors Roundup Top 8 Choices for iPhone and Android Users for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/troubleshooting-guide-for-non-operational-enterprises-essential-tips-to-get-back-on-track/"><u>Troubleshooting Guide for Non-Operational Enterprises: Essential Tips to Get Back on Track</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-understanding-your-macs-capabilities-in-big-sur/"><u>[New] 2024 Approved Understanding Your Mac's Capabilities in Big Sur</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-from-observing-to-involved-the-tiktok-life-journey/"><u>[Updated] 2024 Approved From Observing to Involved The TikTok Life Journey</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-increase-your-content-reach-top-7-tools-for-tiktok-excellence/"><u>[Updated] 2024 Approved Increase Your Content Reach Top 7 Tools for TikTok Excellence</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-sending-your-creativity-soaring-pc-and-mac-tiktok-video-posts/"><u>[Updated] 2024 Approved Sending Your Creativity Soaring PC & Mac TikTok Video Posts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-ultimate-guide-to-tiktok-video-editors/"><u>[Updated] 2024 Approved Ultimate Guide to TikTok Video Editors</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-amplify-video-speeds-the-ultimate-tiktok-guide-for-2024/"><u>[Updated] Amplify Video Speeds The Ultimate TikTok Guide for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-creative-charisma-unprecedented-bio-concepts-to-captivate-filmo-tiktok-audiences-for-2024/"><u>[Updated] Creative Charisma Unprecedented Bio Concepts to Captivate Filmo-TikTok Audiences for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-easy-steps-to-dance-and-unwind-with-these-top-20-songs-country-edition/"><u>[Updated] In 2024, Easy Steps to Dance & Unwind with These Top 20 Songs (Country Edition)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-join-in-fun-this-weeks-top-10-challenges/"><u>[Updated] Join in Fun This Week's Top 10 Challenges</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-authorship-unleashed-techniques-for-crafting-your-personalized-ai-writer-with-chatgpt/"><u>AI Authorship Unleashed: Techniques for Crafting Your Personalized AI Writer with ChatGPT</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-radeon-driver-update-guide-fixing-issues-and-enhancing-performance/"><u>AMD Radeon Driver Update Guide: Fixing Issues and Enhancing Performance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversao-online-de-filmes-wmv-em-formato-vob-gratuita-movavi/"><u>Conversão Online De Filmes WMV Em Formato VOB Gratuita - Movavi</u></a></li>
+<li><a href="https://fox-making.techidaily.com/datenschutz-mit-windows-7-secure-backup-on-a-usb-stick-durch-2-ansatze/"><u>Datenschutz Mit Windows 7: Secure Backup on a USB Stick Durch 2 Ansätze</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevate-your-data-center-with-the-best-servers-racks-and-enclosures-available/"><u>Elevate Your Data Center with the Best Servers Racks and Enclosures Available</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tiktok-audio-enhancement-made-easy-for-2024/"><u>TikTok Audio Enhancement Made Easy for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

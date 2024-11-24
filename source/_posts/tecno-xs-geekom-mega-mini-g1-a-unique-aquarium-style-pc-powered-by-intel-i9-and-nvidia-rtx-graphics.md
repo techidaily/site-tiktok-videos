@@ -1,7 +1,7 @@
 ---
 title: "Tecno X's GeekOm Mega Mini G1: A Unique Aquarium Style PC Powered by Intel I9 and Nvidia RTX Graphics"
-date: 2024-11-09T22:35:30.251Z
-updated: 2024-11-15T05:24:14.067Z
+date: 2024-11-21T16:19:06.944Z
+updated: 2024-11-24T16:15:38.384Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,10 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -64,28 +68,20 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-efficiently-transforming-tiktok-videos-into-gif-format/"><u>[New] 2024 Approved Efficiently Transforming TikTok Videos Into GIF Format</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-how-to-speed-up-video-on-tiktok-in-2024/"><u>[New] How to Speed Up Video on TikTok, In 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-best-8k-tvs-detailed-comparison/"><u>[New] In 2024, Best 8K TVs [Detailed Comparison ]</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-capture-the-perfect-pace-a-beginners-approach-to-slow-mo-videos-on-tiktok/"><u>[New] In 2024, Capture the Perfect Pace A Beginner's Approach to Slow Mo Videos on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-crafting-captivating-tiktoks-mastering-the-use-of-pre-designed-templates/"><u>[Updated] 2024 Approved Crafting Captivating TikToks Mastering the Use of Pre-Designed Templates</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-shooting-in-the-dark-elevating-iphone-photos-with-shadows/"><u>[Updated] 2024 Approved Shooting in the Dark Elevating iPhone Photos with Shadows</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-be-the-best-lifeguard-at-your-friends-tiktok-shores/"><u>[Updated] Be the Best Lifeguard at Your Friends’ TikTok Shores</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-invite-and-guest-at-tiktok-lives-easily/"><u>2024 Approved Invite and Guest at TikTok Lives Easily</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/crossing-into-a-shared-tiktok-space-easy-ways-for-2024/"><u>Crossing Into a Shared TikTok Space Easy Ways for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-winservicesexe-operations/"><u>Demystifying WinServices.exe Operations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/disappearing-acts-in-digital-space-how-to-use-chrome-edge-firefox-safari-and-opera-without-being-tracked/"><u>Disappearing Acts in Digital Space: How to Use Chrome, Edge, Firefox, Safari and Opera without Being Tracked</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-logitech-g933-microphone-problems-effectively/"><u>How To Resolve Logitech G933 Microphone Problems Effectively</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-magic-6-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor Magic 6 Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Itel A60s? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-through-new-camera-settings-in-ios-11/"><u>In 2024, Navigating Through New Camera Settings in iOS 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-cost-effective-stratosphere-storage-for-large-archives-for-2024/"><u>[New] Cost-Effective Stratosphere Storage for Large Archives for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-clarity-crusade-enhancing-video-in-zoom-meetings/"><u>[New] In 2024, Clarity Crusade Enhancing Video in Zoom Meetings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximizing-virtual-reality-potential/"><u>[New] Maximizing Virtual Reality Potential</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-perfecting-the-aesthetic-ootd-tiktok-on-a-mac/"><u>[New] Perfecting the Aesthetic OOTD TikTok on a Mac</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-vocalizing-your-visual-content-a-complete-tiktok-manual/"><u>[New] Vocalizing Your Visual Content A Complete TikTok Manual</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-country-grooves-for-calmness-top-20-tiktok-anthems/"><u>[Updated] 2024 Approved Country Grooves for Calmness Top 20 TikTok Anthems</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-crafting-share-worthy-videos-with-top-tiktok-ideas/"><u>[Updated] Crafting Share-Worthy Videos with Top TikTok Ideas</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-exploring-methods-for-rapid-tiktok-editing/"><u>[Updated] In 2024, Exploring Methods for Rapid TikTok Editing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-tips-for-entering-a-friends-tiktok-live-stream/"><u>[Updated] In 2024, Tips for Entering a Friend's TikTok Live Stream</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-talk-shows/"><u>[Updated] The Secret Ingredient to Success 15 Activities that Enhance Learning While Listening to Talk Shows</u></a></li>
+<li><a href="https://solve-news.techidaily.com/effortless-conversion-top-techniques-for-changing-mkv-videos-to-mp4-on-a-mac/"><u>Effortless Conversion: Top Techniques for Changing MKV Videos to MP4 on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-game-attractions-the-top-six-to-notice/"><u>Essential Game Attractions: The Top Six to Notice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/future-proofing-communication-how-apple-bolsters-imessage-security-insights/"><u>Future-Proofing Communication: How Apple Bolsters iMessage Security - Insights</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/top-5-factors-to-master-when-using-tiktok-web-mac-for-2024/"><u>Top 5 Factors to Master When Using TikTok Web (Mac) for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-brother-mfc-j480dw-printer-drivers-on-your-windows-pc/"><u>Update Brother MFC J480DW Printer Drivers on Your Windows PC</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

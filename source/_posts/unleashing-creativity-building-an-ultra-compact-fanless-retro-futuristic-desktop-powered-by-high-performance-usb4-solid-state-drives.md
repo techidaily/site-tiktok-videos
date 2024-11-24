@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: Building an Ultra Compact, Fanless 'Retro Futuristic' Desktop Powered by High-Performance USB4 Solid State Drives"
-date: 2024-11-10T20:01:14.276Z
-updated: 2024-11-15T02:49:47.802Z
+date: 2024-11-22T16:13:44.501Z
+updated: 2024-11-24T16:05:23.198Z
 tags:
   - desktop
 categories:
@@ -40,6 +40,10 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,9 +56,17 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Miniproca)
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Miniproca)
 
@@ -77,28 +89,16 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-key-to-generating-an-exclusive-tag-on-tiktok/"><u>[New] 2024 Approved Key to Generating an Exclusive Tag on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-your-starting-guide-to-tiktok-macos-basics/"><u>[New] 2024 Approved Your Starting Guide to TikTok (macOS) Basics</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-navigate-the-world-of-podcast-seo-efficiently-for-2024/"><u>[New] Navigate the World of Podcast SEO Efficiently for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-25-anime-visionaries-on-tiktok-changing-content-norms/"><u>[New] Top 25 Anime Visionaries on TikTok Changing Content Norms</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-bridging-the-gap-how-to-successfully-export-srt-from-premiere-for-2024/"><u>[Updated] Bridging the Gap How to Successfully Export SRT From Premiere for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-ensuring-tiktok-authenticity-pre-upload-rights-confirmation/"><u>[Updated] In 2024, Ensuring TikTok Authenticity Pre-Upload Rights Confirmation</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-launch-into-live-tiktok-from-computer-quick-and-easy-steps-for-2024/"><u>[Updated] Launch Into Live TikTok From Computer – Quick and Easy Steps for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-smile-more-using-emojis-in-youtube-conversations-for-2024/"><u>[Updated] Smile More Using Emojis in YouTube Conversations for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-use-of-analytics-for-2024/"><u>[Updated] Use of Analytics for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722990241828-complete-solution-for-dealing-with-steam-error-message-code-130-heres-what-you-need-to-do/"><u>Complete Solution for Dealing with Steam Error Message Code 130 – Here's What You Need To Do</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-x-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone X iOS System? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-establishing-a-unique-code-for-your-tiktok-presence/"><u>In 2024, Establishing a Unique Code for Your TikTok Presence</u></a></li>
-<li><a href="https://extra-support.techidaily.com/personalize-vr-gear-with-homemade-google-headgear-for-2024/"><u>Personalize VR Gear with Homemade Google Headgear for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/shenanigans-unleashed-the-wildest-tiktok-game-spectacle/"><u>Shenanigans Unleashed The Wildest TikTok Game Spectacle</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unleash-potential-precision-zooming-for-professional-videoleap-footage-for-2024/"><u>Unleash Potential Precision Zooming for Professional VideoLeap Footage for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-gastronomy-in-action-a-guide-to-high-quality-food-videos/"><u>[New] 2024 Approved Gastronomy in Action A Guide to High-Quality Food Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-discovering-the-yuneec-typhoon-hs-potential/"><u>[New] Discovering the Yuneec Typhoon H's Potential</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-hot-tiktok-picks-for-your-amazon-shopping-spree/"><u>[Updated] Hot TikTok Picks for Your Amazon Shopping Spree</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-ignite-interest-top-20-creative-and-viral-tiktok-caption-strategies/"><u>[Updated] Ignite Interest Top 20 Creative and Viral TikTok Caption Strategies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-expand-your-reach-effective-business-tactics-on-tiktok/"><u>[Updated] In 2024, Expand Your Reach Effective Business Tactics on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-maximizing-tiktok-income-8-must-try-strategies/"><u>[Updated] In 2024, Maximizing TikTok Income 8 Must-Try Strategies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-jumpstart-your-cash-with-these-8-innovative-tiktok-methods-for-2024/"><u>[Updated] Jumpstart Your Cash with These 8 Innovative TikTok Methods for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/creative-alternatives-to-windowed-filmmaking-suite-for-2024/"><u>Creative Alternatives to Windowed Filmmaking Suite for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-guide-to-compositing-using-blending-modes-for-2024/"><u>Essential Guide to Compositing Using Blending Modes for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-the-best-of-both-worlds-fixing-wacom-pen-issues-in-modern-operating-systems-windows-11-and-10/"><u>Getting the Best of Both Worlds: Fixing Wacom Pen Issues in Modern Operating Systems - Windows 11 and 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-hp-monitor-malfunction/"><u>Troubleshooting Guide: Fixing HP Monitor Malfunction</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

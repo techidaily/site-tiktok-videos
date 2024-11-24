@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Stop Starcraft 2 From Freezing or Crashing on Your PC"
-date: 2024-11-11T06:02:43.897Z
-updated: 2024-11-15T00:07:43.985Z
+date: 2024-11-21T16:02:28.210Z
+updated: 2024-11-24T16:17:40.469Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
  It can be challenging, if not possible, to identify the core issue of the game crash since you all have your own game settings and use unique hardware, but no worries. This article provides 6 solutions to help you rule out common causes of this error and potentially resolve this problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -29,13 +33,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run the game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -58,10 +55,7 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-56-17-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -81,25 +75,11 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-24-59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-25-07.jpg)
 
  Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable your antivirus temporarily
 
@@ -119,16 +99,13 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-35-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click**Risk of Rain 2** and select**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
@@ -150,20 +127,21 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-55.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the list box below to select **Windows 7** , then click **Apply**  \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-39-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Relaunch your game to check if your issue has been resolved.
 
 If your problem still exists, go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Steam
 
@@ -172,6 +150,10 @@ If your problem still exists, go ahead with the fix below.
 **1)** Right-click the**Steam icon** and select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back it up.
 
@@ -182,10 +164,7 @@ If your problem still exists, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Under**View by** , select**Category.** Then, select**Uninstall a program** .
@@ -196,18 +175,15 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-52-47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the**Steam icon** and select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** Move the backup**steamapps** folder you created before to your current directory location.
 
@@ -236,15 +212,24 @@ If your problem still exists, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ow-to-setup-a-mac-studio-for-sports-content/"><u>[New] How to Setup a Mac Studio for Sports Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-pixels-perfection-leading-online-photo-correction-tech/"><u>[New] In 2024, Pixels Perfection Leading Online Photo Correction Tech</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-your-companion-in-choosing-high-grade-hdr-cameras/"><u>[New] Your Companion in Choosing High-Grade HDR Cameras</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-delivering-quality-imagery-applying-lut-techniques-in-adobes-tools/"><u>[Updated] Delivering Quality Imagery Applying LUT Techniques in Adobe's Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-chatgpt-master-the-art-of-crafting-perfect-cocktails/"><u>Can ChatGPT Master the Art of Crafting Perfect Cocktails?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/expert-insights-on-toms-hardware-choices/"><u>Expert Insights on Tom's Hardware Choices</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/fortnite-sound-issues-solved-expert-fixes-for-nonworking-game-mics/"><u>Fortnite Sound Issues Solved? Expert Fixes for Nonworking Game Mics</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/from-capture-to-creation-discover-the-best-montage-apps-for-smartphones/"><u>From Capture to Creation Discover the Best Montage Apps for Smartphones</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/insights-from-toms-computer-analysis-and-reviews/"><u>Insights From Tom's Computer Analysis and Reviews</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/troubleshooting-steps-fix-constant-system-failures-of-the-luna-desktop/"><u>Troubleshooting Steps: Fix Constant System Failures of the Luna Desktop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-alternative-video-editors-for-laptops/"><u>[New] Alternative Video Editors for Laptops</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-art-of-rebranding-online-expert-tips-for-transforming-your-tiktok-username/"><u>[New] The Art of Rebranding Online Expert Tips for Transforming Your TikTok Username</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unlocking-the-secrets-of-successful-tiktok-hashtags-for-2024/"><u>[New] Unlocking the Secrets of Successful TikTok Hashtags for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-daily-dose-of-tiktok-motivation-the-elite-fifteen/"><u>[Updated] 2024 Approved Daily Dose of TikTok Motivation The Elite Fifteen</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-optimal-mp4-extractor-from-tiktok-videos/"><u>[Updated] 2024 Approved Optimal MP4 Extractor From TikTok Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-from-sketches-to-scores-making-dance-videos-on-your-macos/"><u>[Updated] From Sketches to Scores Making Dance Videos on Your MacOS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-innovating-your-approach-a-compre-written-by-an-industry-expert-on-effective-youtube-banner-strategies-for-advertisers/"><u>[Updated] Innovating Your Approach A Compre Written by an Industry Expert on Effective YouTube Banner Strategies for Advertisers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-leaders-in-earnings-prediction-tiktoks-finest-tools-for-2024/"><u>[Updated] Leaders in Earnings Prediction TikTok's Finest Tools for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-luminance-hd-evaluation-the-ultimate-decision/"><u>[Updated] Luminance-HD Evaluation The Ultimate Decision?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-complete-tiktok-deletion-process/"><u>[Updated] Mastering Complete TikTok Deletion Process</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-get-your-free-holiday-e-book-collection-today/"><u>1. Get Your Free Holiday E-Book Collection Today!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-ios-meets-android-an-in-depth-look-at-facial-tech/"><u>2024 Approved IOS Meets Android An In-Depth Look at Facial Tech</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/1721456341342-cant-take-full-page-screenshots-with-safari-discover-easy-fixes-today/"><u>Can't Take Full-Page Screenshots With Safari? Discover Easy Fixes Today!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discover-10-premium-video-players-for-ultimate-hd-vids-android/"><u>Discover 10 Premium Video Players for Ultimate HD Vids, Android</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-harness-analytics-for-live-event-success-for-2024/"><u>How to Harness Analytics for Live Event Success for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-perfectly-record-and-preserve-your-ps3-games/"><u>How to Perfectly Record and Preserve Your PS3 Games</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-windows-keystroke-issues-enter-key/"><u>Resolving Windows Keystroke Issues: Enter Key</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/snap-income-trends-in-making-money-on-social-media/"><u>Snap Income Trends in Making Money on Social Media</u></a></li>
 </ul></div>
 

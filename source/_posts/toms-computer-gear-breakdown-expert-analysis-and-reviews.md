@@ -1,7 +1,7 @@
 ---
 title: Tom's Computer Gear Breakdown - Expert Analysis & Reviews
-date: 2024-11-12T03:34:30.173Z
-updated: 2024-11-15T03:24:21.689Z
+date: 2024-11-20T16:12:14.759Z
+updated: 2024-11-24T16:10:52.020Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -62,34 +66,19 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-elevating-your-presence-a-tiktok-desktop-guide-for-2024/"><u>[New] Elevating Your Presence A TikTok Desktop Guide for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-poll-power-play-best-election-strategy-games/"><u>[New] Poll Power Play Best Election Strategy Games</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-achieving-video-greatness-on-tiktok-with-smart-use-of-pre-made-templates/"><u>[Updated] Achieving Video Greatness on TikTok with Smart Use of Pre-Made Templates</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-top-15-reading-recommendations-from-booktok-stars/"><u>[Updated] In 2024, Top 15 Reading Recommendations From BookTok Stars</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-storing-image-frames-from-videos-on-windows-11/"><u>[Updated] Storing Image Frames From Videos on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/eas-cost-increase-my-gaming-path-changed/"><u>EA's Cost Increase, My Gaming Path Changed</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/generating-income-with-every-swipe-up/"><u>Generating Income with Every Swipe Up</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/hip-hop-frenzy-top-tiktok-rap-videos-of-today/"><u>Hip-Hop Frenzy Top TikTok Rap Videos of Today</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-15-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 15 Pro Max Apple ID on MacBook</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/how-to-screenshot-on-snapchat-without-them-knowing-5-ways/"><u>How to Screenshot on Snapchat without Them Knowing 5 Ways</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-eating-the-trend-top-food-moments-on-tiktok/"><u>In 2024, Eating the Trend Top Food Moments on TikTok</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-g2-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo G2 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/proactive-measures-for-validating-tiktok-copyright-status/"><u>Proactive Measures for Validating TikTok Copyright Status</u></a></li>
-<li><a href="https://extra-support.techidaily.com/simplifying-subtitle-access-three-ways-to-download-youtubes-srt-captions-for-2024/"><u>Simplifying Subtitle Access Three Ways to Download YouTube's SRT Captions for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/still-awaiting-score-your-discounted-512gb-oculus-quest-3-at-unbeatable-october-prime-day-rates-zdnets-pick-for-the-best-deal/"><u>Still Awaiting? Score Your Discounted 512GB Oculus Quest 3 at Unbeatable October Prime Day Rates – ZDNet's Pick for the Best Deal!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhancing-viewership-maintaining-youtubes-creative-commons-for-2024/"><u>[New] Enhancing Viewership Maintaining YouTube's Creative Commons for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-fixed-obs-audio-capture-issue/"><u>[New] In 2024, Fixed OBS Audio Capture Issue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-game-on-camera-strategies-for-videographers-in-sports/"><u>[New] In 2024, Game On, Camera! Strategies for Videographers in Sports</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-organizing-virtual-gatherings-setting-up-zoom-on-android-for-2024/"><u>[New] Organizing Virtual Gatherings Setting Up Zoom on Android for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-speed-up-video-on-tiktok-for-2024/"><u>[Updated] How to Speed Up Video on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-creating-clip-sensations-tiktoks-viral-guide/"><u>[Updated] In 2024, Creating Clip Sensations TikTok's Viral Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-maximizing-your-tiktok-intro-a-mac-guide/"><u>[Updated] In 2024, Maximizing Your TikTok Intro A Mac Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-youtubes-feature-switch-between-commenting-states/"><u>[Updated] Mastering YouTube's Feature Switch Between Commenting States</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-step-into-stardom-building-starry-eyed-tiktok-dances-on-macos/"><u>[Updated] Step Into Stardom Building Starry-Eyed TikTok Dances on MacOS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-dynamic-duels-ranking-the-top-street-fighter-titles/"><u>2024 Approved Dynamic Duels Ranking the Top Street Fighter Titles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-haptic-feedback-devices-providers/"><u>In 2024, Foremost Haptic Feedback Devices Providers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-samsung-galaxy-s23-ultra-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Samsung Galaxy S23 Ultra to Gmail | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/troubleshooting-usb-installation-failures-due-to-access-is-denied-alerts/"><u>Troubleshooting USB Installation Failures Due to Access Is Denied Alerts</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

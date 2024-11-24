@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Fixing Loading Errors in The Elder Scrolls Online Adventure
-date: 2024-11-08T00:02:39.212Z
-updated: 2024-11-14T23:06:09.797Z
+date: 2024-11-17T16:17:18.723Z
+updated: 2024-11-24T16:23:08.710Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ God of War
 
  Launch God of War and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patches available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Update your graphics driver
 
  One of the most common causes of game stuttering (or FPS dropping) is that the graphics driver on your computer is outdated or broken. If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, since in most cases, AAA titles like God of War work better with the latest graphics driver.
@@ -70,6 +63,10 @@ There are mainly two methods for you to update the graphics driver:
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
@@ -88,13 +85,14 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
 
@@ -105,6 +103,10 @@ There are mainly two methods for you to update the graphics driver:
 **`powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`**
 3. If you see a prompt similar to this, go back to the Power Options window in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
 
@@ -154,10 +156,7 @@ There are mainly two methods for you to update the graphics driver:
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -170,25 +169,19 @@ There are mainly two methods for you to update the graphics driver:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch God of War again after you disabled all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -202,13 +195,6 @@ There are mainly two methods for you to update the graphics driver:
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -236,20 +222,15 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-master-the-art-of-rapid-tiktok-videos/"><u>[New] 2024 Approved Master the Art of Rapid TikTok Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-quick-video-sharing-tweet-it-up-no-need-for-retweets/"><u>[New] 2024 Approved Quick Video Sharing Tweet It Up - No Need for Retweets</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-vision-and-flavor-shooting-the-best-food-videos/"><u>[New] 2024 Approved Vision and Flavor Shooting the Best Food Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-full-guide-erase-tiktok-footprints-forevermore/"><u>[New] Full Guide Erase TikTok Footprints Forevermore</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-enhancing-tiktok-content-5-proven-caption-tactics-explored/"><u>[New] In 2024, Enhancing TikTok Content 5 Proven Caption Tactics Explored</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-key-lights-and-soft-shadows-for-vloggers/"><u>[Updated] 2024 Approved Key Lights and Soft Shadows for Vloggers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-quick-start-capturing-high-quality-mov-videos-on-windows-11-for-2024/"><u>[Updated] Quick Start Capturing High-Quality MOV Videos on Windows 11 for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-maximize-creativity-10-no-cost-tiktok-editors-for-macos/"><u>2024 Approved Maximize Creativity 10 No-Cost TikTok Editors for MacOS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/all-access-fb-melodic-streaming/"><u>All-Access FB Melodic Streaming</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-smart-8-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Infinix Smart 8 Pro</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-se-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone SE?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-instantly-and-indefinitely-remove-yourself-from-tiktok-landscape/"><u>In 2024, Instantly and Indefinitely Remove Yourself From TikTok Landscape</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/instantaneous-creation-and-edits-of-dynamic-multi-snaps/"><u>Instantaneous Creation & Edits of Dynamic Multi-Snaps</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/mastering-simple-multi-snap-chat-video-creation-and-editing/"><u>Mastering Simple Multi-Snap Chat Video Creation & Editing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-tutorial-for-iphone-voice-memo/"><u>The Ultimate Tutorial for iPhone Voice Memo</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-masterful-voice-changes-without-cost-explore-these-options/"><u>[New] Masterful Voice Changes Without Cost - Explore These Options</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-speed-filled-guide-to-double-exposure-methods/"><u>[New] Speed-Filled Guide to Double Exposure Methods</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-strategies-to-overcome-unseen-tiktok-limitations-for-2024/"><u>[New] Strategies to Overcome Unseen TikTok Limitations for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-revealing-the-top-6-affordable-web-accessible-tiktok-to-mp3-apps-for-2024/"><u>[Updated] Revealing the Top 6 Affordable, Web-Accessible TikTok to MP3 Apps for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-step-by-step-macootd-tiktok-creation-process/"><u>[Updated] Step by Step MacOOTD TikTok Creation Process</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-content-by-merging-apple-music-to-videos/"><u>2024 Approved Maximize Content by Merging Apple Music to Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-realme-v30-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Realme V30 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/professioneller-leitfaden-zur-wiederherstellung-von-backups-auf-windows-servern-detaillierte-schritte-fur-einen-reibungslosen-prozess/"><u>Professioneller Leitfaden Zur Wiederherstellung Von Backups Auf Windows Servern: Detaillierte Schritte Für Einen Reibungslosen Prozess</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/trending-apps-battle-royale-wholl-win-over-users-likes-or-tiktok-in-2024/"><u>Trending Apps Battle Royale Who'll Win Over Users, Likes or TikTok, In 2024</u></a></li>
+<li><a href="https://tools.techidaily.com/virtualsetworks/products/"><u>Virtualsetworks's Products</u></a></li>
 </ul></div>
 

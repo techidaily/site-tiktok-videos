@@ -1,7 +1,7 @@
 ---
 title: "Decoding Market Mysteries: The Inadequacy of GPT Analysis"
-date: 2024-11-09T23:22:08.798Z
-updated: 2024-11-15T06:27:01.486Z
+date: 2024-11-22T16:22:43.867Z
+updated: 2024-11-24T16:13:18.553Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c07b7ea823a20fff0d48f1accc60826d6016566f3
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -59,21 +63,24 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-discovering-the-power-behind-youtube-statistics-interpretation/"><u>[Updated] Discovering the Power Behind YouTube Statistics Interpretation</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-explore-and-learn-personalized-tiktok-identifier-creation-for-2024/"><u>[Updated] Explore and Learn Personalized TikTok Identifier Creation for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-fast-track-to-using-ez-grabber-effectively-and-efficiently-for-2024/"><u>[Updated] Fast Track to Using EZ Grabber Effectively & Efficiently for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-choreographed-vocal-harmony-on-tiktok/"><u>2024 Approved Choreographed Vocal Harmony on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-plotting-the-perfect-tiktok-outro-journey/"><u>2024 Approved Plotting the Perfect TikTok Outro Journey</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-rapid-tiktok-filming-techniques-to-enhance-frame-rate/"><u>In 2024, Rapid TikTok Filming Techniques to Enhance Frame Rate</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/masterclass-diagnosing-and-repairing-the-infamous-bsod-issue/"><u>Masterclass: Diagnosing and Repairing the Infamous BSOD Issue</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723964489630-memorable-memorial-day-offer-premium-roccat-pyro-full-sized-mechanical-keyboard-at-only-34/"><u>Memorable Memorial Day Offer: Premium Roccat Pyro Full-Sized Mechanical Keyboard at Only $34</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-to-stop-titanfall-2-from-freezing-and-crashing-step-by-step-guide/"><u>Quick Solutions to Stop Titanfall 2 From Freezing & Crashing - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-smudge-free-sequence-eliminating-gopro-fog/"><u>[New] 2024 Approved The Smudge-Free Sequence Eliminating GoPro Fog</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-innovative-approaches-to-customize-your-igtv-content-size/"><u>[New] Innovative Approaches to Customize Your IGTV Content Size</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-proven-pathway-to-pure-sound/"><u>[New] Proven Pathway to Pure Sound</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/boost-your-health-journey-experience-a-new-level-of-motivation-and-tracking-with-the-fitbit-versa-s-3-featuring-inbuilt-gps-technology-and-fitness-applicati161/"><u>Boost Your Health Journey: Experience a New Level of Motivation and Tracking with the Fitbit Versa S 3, Featuring Inbuilt GPS Technology and Fitness Applications</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/cost-effective-power-play-investing-in-an-affordable-ibuypower-esports-gaming-pc/"><u>Cost-Effective Power Play: Investing in an Affordable iBUYPOWER Esports Gaming PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/examining-the-perks-and-pitfalls-of-vr-for-2024/"><u>Examining the Perks and Pitfalls of VR for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/get-started-for-free-browse-listings-with-oodles-local-ads-platform/"><u>Get Started for Free - Browse Listings with Oodle's Local Ads Platform</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hacks-for-skipping-edgenuity-video-lessons-fast-for-2024/"><u>Hacks for Skipping Edgenuity Video Lessons Fast for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/high-performance-meets-versatility-in-our-in-depth-look-at-the-dell-xps-dell-xps-13-9380-convertible-laptop-premium-power-and-sleek-design-unveiled/"><u>High Performance Meets Versatility in Our In-Depth Look at the Dell XPS Dell XPS 13 (9380) Convertible Laptop - Premium Power and Sleek Design Unveiled</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-motorola-moto-g-5g-2023-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Motorola Moto G 5G (2023)?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-prevent-arma-3-from-crashing-expert-advice-and-solutions/"><u>How to Prevent Arma 3 From Crashing - Expert Advice & Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-skills-for-efficient-zoom-podcasting/"><u>In 2024, Essential Skills for Efficient Zoom Podcasting</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-13-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 13 to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximizing-your-viewing-experience-top-10-ios-video-apps-for-2024/"><u>Maximizing Your Viewing Experience Top 10 iOS Video Apps for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/powerhouse-gaming-pc-resembles-laptop-design-ultra-mini-with-i9-14900hx-and-rtx/"><u>Powerhouse Gaming PC Resembles Laptop Design - Ultra Mini with I9-14900HX & RTX</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/resolved-troubleshooting-guide-to-stop-phoenix-point-from-crashing/"><u>Resolved: Troubleshooting Guide to Stop Phoenix Point From Crashing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-guide-to-high-performance-tech-by-toms-hardware-professionals/"><u>The Ultimate Guide to High-Performance Tech by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/upgrade-your-desktop-with-asuss-latest-creation-the-nuc-14-proplus-with-a-meteor-lake-processor/"><u>Upgrade Your Desktop with Asus's Latest Creation - The NUC 14 Pro+ With a Meteor Lake Processor</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

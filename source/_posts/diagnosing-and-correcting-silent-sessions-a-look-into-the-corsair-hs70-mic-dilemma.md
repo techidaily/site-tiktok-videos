@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Correcting Silent Sessions: A Look Into the Corsair HS70 Mic Dilemma"
-date: 2024-11-14T00:11:07.820Z
-updated: 2024-11-14T20:54:28.020Z
+date: 2024-11-22T16:04:25.096Z
+updated: 2024-11-24T16:15:12.614Z
 tags:
   - win11
   - win10
@@ -37,10 +37,7 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1 – Allow access to your microphone on your PC
@@ -51,24 +48,14 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
 2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
@@ -82,18 +69,19 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/volume-icon-sounds.jpg)
 2. Under the**Recording** tab, check to see if your headset microphone is set to disabled. If it is, right-click on it and select**Enable** . (If your mic is not the default device, click**Set Default** to set it as default)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this fix doesn’t give you the luck, try the next below to update your audio drives.
 
@@ -114,13 +102,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-5.7.2-SCAN.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
@@ -137,6 +118,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
 
@@ -144,15 +129,12 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 5. Select**iCUE** and then click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Restart your PC and replug your Corsair headset into your computer.
 8. Relaunch the iCUE software. You can click **[here](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Ficue&mktsrc=drivereasyen%5F166866)**  to download the latest version of iCUE.
@@ -193,6 +175,10 @@ Top Pick
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6 – Seek technical support or after-sales service
 
  If you’ve tried all of the above fixes and still can’t get your mic boom to function, the issue could be with your headset rather than your computer.**You can try connecting your headset to another PC** ; if it’s still not working, there may be an issue with your Corsair Mic. In this situation, you should **[contact Corsair for support](https://help.corsair.com/hc/en-us)**  or have your headset serviced.
@@ -216,20 +202,16 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-engaging-and-eye-catching-tiktok-videos-made-simple-for-2024/"><u>[New] Engaging and Eye-Catching TikTok Videos Made Simple for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-dull-to-dynamic-a-guide-to-chromatic-finesse/"><u>[New] From Dull to Dynamic A Guide to Chromatic Finesse</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-engaging-in-the-moment-of-a-tiktok-life/"><u>[Updated] 2024 Approved Engaging in the Moment of a TikTok Life</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-a-detailed-guide-to-crop-your-video-for-instagram-for-2024/"><u>[Updated] A Detailed Guide to Crop Your Video for Instagram for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-cutting-edge-anime-ideas-dominating-social-media-screens-for-2024/"><u>[Updated] Cutting-Edge Anime Ideas Dominating Social Media Screens for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-screenscapes-the-new-tech-frontier-for-2024/"><u>[Updated] Screenscapes The New Tech Frontier for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/beyond-activity-discover-enhanced-well-being-with-the-fitbit-sense-versus-apple-watch/"><u>Beyond Activity – Discover Enhanced Well-Being with the Fitbit Sense Versus Apple Watch</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/cambia-tu-archivo-de-video-de-mp4-a-m4a-gratis-con-convertidor-online-de-movavi/"><u>Cambia Tu Archivo De Vídeo De MP4 a M4A Gratis Con Convertidor Online De Movavi</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/comprehensive-guide-to-the-dreame-bot-l10-pro-revolutionizing-cleaning-with-high-tech-lidar-navigation/"><u>Comprehensive Guide to the Dreame Bot L10 Pro: Revolutionizing Cleaning with High-Tech LiDAR Navigation</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-8-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 8 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-samsung-galaxy-s23-fe-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Samsung Galaxy S23 FE to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ating-the-world-of-youtube-live-visuals-for-2024/"><u>Navigating the World of YouTube Live Visuals for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/sustained-soundwaves-a-list-of-tiktok-tracks-that-stick/"><u>Sustained Soundwaves A List of TikTok Tracks that Stick</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/reversal-tactics-unique-youtube-video-experiences-for-2024/"><u>Time-Reversal Tactics Unique YouTube Video Experiences for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/weekly-update-changes-coming-to-netflixs-basic-plan-and-enhanced-techniques-in-iphone-restoration/"><u>Weekly Update: Changes Coming to Netflix's Basic Plan & Enhanced Techniques in iPhone Restoration</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-10-free-tiktok-video-editors-compatible-with-macos/"><u>[New] In 2024, Top 10 FREE TikTok Video Editors Compatible with MacOS</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-ultimate-guide-10-tiktok-tactics-for-2024/"><u>[New] The Ultimate Guide 10 TikTok Tactics for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-discover-these-exciting-free-tools-to-elevate-your-tiktok-videos-top-10/"><u>[Updated] 2024 Approved Discover These Exciting Free Tools to Elevate Your TikTok Videos (Top 10)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-from-obscurity-to-popularity-harnessing-tiktok-hashtags-for-2024/"><u>[Updated] From Obscurity to Popularity Harnessing TikTok Hashtags for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-walkthrough-for-employing-codegpt-extension-on-your-visual-studio-project/"><u>A Comprehensive Walkthrough for Employing CodeGPT Extension on Your Visual Studio Project</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoid-pc-malfunctions-strategies-to-fix-frequent-super-pc-errors/"><u>Avoid PC Malfunctions: Strategies to Fix Frequent Super-PC Errors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ite-inspiration-cost-free-youtube-theming/"><u>Infinite Inspiration Cost-Free YouTube Theming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/liberate-lost-data-costless-recovery-package/"><u>Liberate Lost Data - Costless Recovery Package</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-speech-recognition-issues-top-5-fixes-for-iphone-users/"><u>Solving Speech Recognition Issues: Top 5 Fixes for iPhone Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/wallet-friendly-mirrorless-choices/"><u>Wallet-Friendly Mirrorless Choices</u></a></li>
 </ul></div>
 

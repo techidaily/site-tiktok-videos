@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Fix Unresponsive PUBG Gameplay on Windows"
-date: 2024-11-09T17:29:48.171Z
-updated: 2024-11-15T03:07:43.048Z
+date: 2024-11-20T16:17:35.928Z
+updated: 2024-11-24T16:08:26.926Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ Game crashing issues can really ruin a playful experience.
  If you’re playing Mordhau and it keeps crashing that you can’t even get through a whole match without the game closing to the desktop, you’re certainly not alone! Many players are reporting it.
 
 But the good news is that you can fix it. Here are 8 solutions to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8 simple fixes to try
 
@@ -68,10 +72,7 @@ Follow the instructions below to view your computer hardware information:
  Make sure your system specs meet the requirements, then move on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run the game as an administrator
@@ -88,22 +89,13 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_10-11-20.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-46.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Restart Mordhau.
 
@@ -119,13 +111,6 @@ If your issue persists, go ahead with the next fix.
 
 If this didn’t work for you, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Verify the integrity of game files
 
  If Mordhau still won’t launch properly or crashes every now and then, try verifying the integrity of game files to see if any files are damaged or missing. Here is how to do it:
@@ -140,6 +125,10 @@ If this didn’t work for you, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-57.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-01.jpg)
@@ -147,6 +136,10 @@ If this didn’t work for you, try the fix below.
 **5)** Relaunch Mordhau to test your issue.
 
 If Mordhau is still crashing, move on and check the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your graphics driver
 
@@ -203,13 +196,6 @@ If your problem persists, move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-59-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Restart your computer and Mordhau to test your issue.
 
 If your game is still unplayable, move on to the fix below.
@@ -233,10 +219,7 @@ If your game is still unplayable, move on to the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click the**Advanced** tab, and then click**Change** .
@@ -246,13 +229,6 @@ If your game is still unplayable, move on to the fix below.
 **5)** Uncheck the box next to**Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-22.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Click your**C drive** .
 
@@ -264,9 +240,17 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-34-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** Click**Set** , and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-41.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)** Restart your computer and Mordhau.
 
@@ -282,13 +266,6 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-51-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Mordhau**  and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-20-1.jpg)
@@ -298,15 +275,16 @@ If your game is still unplayable, move on to the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-14-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Type**%LocalAppData%** , then press the**Enter key** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_10-04-48.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Right-click the**Mordhau folder** , then select**Delete** .
 
@@ -339,14 +317,19 @@ If your game is still unplayable, move on to the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-ethical-buyers-of-tiktok-popularity-boost-for-2024/"><u>[New] Ethical Buyers of TikTok Popularity Boost for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streaming-stardom-versus-punch-driven-legends/"><u>[New] Streaming Stardom Versus Punch-Driven Legends</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-30-inspirational-ideas-fusing-animated-themes-and-social-media-for-2024/"><u>[New] Top 30 Inspirational Ideas Fusing Animated Themes and Social Media for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-streamline-webcam-use-on-modern-devices/"><u>[Updated] In 2024, Streamline Webcam Use on Modern Devices</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-strategic-approach-to-changing-your-tiktok-handle-seamlessly-for-2024/"><u>[Updated] The Strategic Approach to Changing Your TikTok Handle Seamlessly for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-pinnacle-of-1980s-movie-magic-in-editing/"><u>2024 Approved Pinnacle of 1980S Movie Magic in Editing</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/secrets-to-successful-tiktok-creation-using-android-pc-for-2024/"><u>Secrets to Successful TikTok Creation Using Android, PC for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Xiaomi Redmi K70? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/virtual-battles-real-money-gamer-prospects-2024/"><u>Virtual Battles, Real Money Gamer Prospects 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-mastering-your-mac-creating-captivating-style-videography-for-2024/"><u>[New] Mastering Your Mac Creating Captivating Style Videography for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-explore-affordable-mac-video-editing-tools-tiktok-edition/"><u>[Updated] 2024 Approved Explore Affordable Mac Video Editing Tools (TikTok Edition)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-optimizing-trailer-vibes-the-melody-essentials/"><u>[Updated] 2024 Approved Optimizing Trailer Vibes The Melody Essentials</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-how-to-embrace-tiktok-as-a-macbook-enthusiast/"><u>[Updated] In 2024, How to Embrace TikTok as a MacBook Enthusiast</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unlock-the-full-potential-of-tiktok-on-applewindows-devices/"><u>[Updated] In 2024, Unlock the Full Potential of TikTok on Apple/Windows Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unlocking-the-secrets-of-successful-tiktok-hashtags/"><u>[Updated] In 2024, Unlocking the Secrets of Successful TikTok Hashtags</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-yearbook-beatdowns-the-top-ten-tiktok-hits-of-the-new-decade/"><u>[Updated] In 2024, Yearbook Beatdowns The Top Ten TikTok Hits of the New Decade</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-ways-to-correct-magic-mouse-movement-problems/"><u>Effortless Ways to Correct Magic Mouse Movement Problems</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-restore-accidentally-removed-pictures-on-iphone-a-safe-and-proven-approach/"><u>How to Restore Accidentally Removed Pictures on iPhone: A Safe & Proven Approach</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-complete-guide-to-sourcing-elite-instagram-ringtones-and-designing-noteworthy-ringtone-alarms/"><u>In 2024, A Complete Guide to Sourcing Elite Instagram Ringtones & Designing Noteworthy Ringtone Alarms</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-sharing-knowledge-via-instagrams-hyperlink-haven/"><u>In 2024, Sharing Knowledge via Instagram's Hyperlink Haven</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-secret-to-professional-video-calls-on-zoom/"><u>In 2024, The Secret to Professional Video Calls on Zoom</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-narzo-60-5g-by-drfone-android/"><u>Universal Unlock Pattern for Realme Narzo 60 5G</u></a></li>
 </ul></div>
 

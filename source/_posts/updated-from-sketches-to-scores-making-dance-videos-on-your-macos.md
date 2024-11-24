@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Sketches to Scores  Making Dance Videos on Your MacOS\""
-date: 2024-11-10T19:43:25.586Z
-updated: 2024-11-14T20:07:09.303Z
+date: 2024-11-23T16:26:01.351Z
+updated: 2024-11-24T16:11:16.230Z
 tags:
   - ai video
   - ai tiktok
@@ -33,6 +33,10 @@ It started with Lil Nas X's song Old Town Road, which introduced a dance challen
 
 You May Also Like: [How to Make a Best Tiktok Intro Video on Mac?>>>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Special Effects That Can Make Your Tiktok Dance Routine Special
 
 Tik Tok comes with various options of different effects on its own. Whenever you make a video on Tik Tok, you can easily add effects from the app after you are done recording. Nevertheless, there is always a limit to the number of effects offered by the app.
@@ -51,24 +55,25 @@ Using the motion tracking function is extremely easy. Here is how you do it:
 
 ![import media files on filmorax](https://images.wondershare.com/filmora/Mac-articles/import-media-files-on-filmorax.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2.Now you will want to check that the main body of the subject is in the entire frame. If it is not, then you will need to cut and trim the video accordingly.
 
 3.The next step is to start the motion tracking. For this, you will need to make sure that your play head is at the point from where you want to start your motion tracking. The tracking will only start wherever your play head is.
 
 ![32motion track](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.motion-track.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4.Once that is done, you can open the tool used for motion tracking from the timeline toolbar. You can also do it by double-clicking your clip to find the motion tracking function in the editing menu.
 
 5.When you have done that, the motion tracking box will appear in the preview. Move and resize it according to the subject that you wish to track. Then, select the “render-effect” option so that Filmora can analyze the video.
 
 ![32box](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/32.box.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6.Now you can add the object you want to have to follow the track. You can choose that from the title menu or add a new image from your Mac.
 
@@ -90,38 +95,11 @@ With these easy steps, you have managed to make a normal Tik Tok Dance challenge
 
 Other than motion tracking several other effects can make your Tik Tok dance alluring and special. Here are some of them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Green Screen for TikTok Dance
 
 This is also one of the most famous effects that are used for the Tik Tok dance challenge. Green Screen in a built-in app effect that allows you to add any background to your current video. Tik Tok provides some default backgrounds to its users but you can also choose from your camera roll.
 
 ![green screen tik tok effect](https://images.wondershare.com/filmora/Mac-articles/green-screen-tik-tok-effect.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Disco effects for TikTok Dance
 
@@ -130,10 +108,7 @@ This is another one of the extremely fun built-in effects that allow you to add 
  ![add disco effect to your tik tok](https://images.wondershare.com/filmora/Mac-articles/add-disco-effect-to-your-tik-tok.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Double Screen Effect for TikTok Dance
@@ -141,6 +116,14 @@ This is another one of the extremely fun built-in effects that allow you to add 
  This effect allows you to have two screens at once. The brilliant thing about this effect is that you can perform different actions on both screens and also create an illusion of moving from one screen to another. This effect can help make some creative Tik Tok dance videos depending on your imagination.
 
 ![double screen effect in tik tok](https://images.wondershare.com/filmora/Mac-articles/double-screen-effect-in-tik-tok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Trio Effect for TikTok Dance
 
@@ -164,13 +147,6 @@ All of this can be achieved with just one top of the line video editing software
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -186,20 +162,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-effective-ways-how-to-block-facebook-video-ads/"><u>[New] 2024 Approved Effective Ways | How to Block Facebook Video Ads?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-cutting-edge-online-no-cost-converters-for-tiktok-to-mp3s-for-2024/"><u>[New] Cutting-Edge Online, No Cost Converters for TikTok to MP3s for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-visual-vibes-building-a-repertoire-of-shareable-fb-and-insta-videos-for-2024/"><u>[New] Visual Vibes Building a Repertoire of Shareable FB & Insta Videos for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-optimal-vision-with-the-best-4k-monitors-1-10/"><u>[Updated] 2024 Approved Optimal Vision with the Best 4K Monitors, #1-10</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unexpected-tiktok-refresh-how-to-restore-lost-content/"><u>[Updated] 2024 Approved Unexpected TikTok Refresh How to Restore Lost Content?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-maintaining-a-continuous-snapchat-connection/"><u>[Updated] In 2024, Maintaining a Continuous Snapchat Connection</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-top-6-web-based-tiktok-to-audio-converter-free/"><u>[Updated] Top 6 Web-Based TikTok to Audio Converter Free</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-choosing-reliable-partners-for-legitimate-tiktok-following/"><u>2024 Approved Choosing Reliable Partners for Legitimate TikTok Following</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-transforming-tiktok-videos-with-creative-and-relevant-captions/"><u>2024 Approved Transforming TikTok Videos with Creative and Relevant Captions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/a-beginners-guide-to-adding-text-in-tiktok-media-for-2024/"><u>A Beginner's Guide to Adding Text in TikTok Media for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/elevate-every-moment-mastering-snapchat-photo-edits-for-2024/"><u>Elevate Every Moment Mastering Snapchat Photo Edits for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/fresh-start-how-to-refresh-device-drivers-on-windows-10-without-hitches/"><u>Fresh Start: How to Refresh Device Drivers on Windows 10 Without Hitches</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-restore-the-missing-mfplatdll-file-and-solve-system-failures/"><u>How to Restore the Missing mfplat.dll File and Solve System Failures</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-delving-into-vimeo-your-ultimate-video-partner/"><u>In 2024, Delving Into Vimeo Your Ultimate Video Partner</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/swift-video-and-picture-retrieval-guide/"><u>Swift Video and Picture Retrieval Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-crafting-engaging-content-with-added-vocal-dimensions-in-tiktok-videos-for-2024/"><u>[New] Crafting Engaging Content with Added Vocal Dimensions in TikTok Videos for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-exclusive-guide-to-best-uhd-video-players-free-and-versatile-for-pcandmac/"><u>[Updated] 2024 Approved Exclusive Guide to Best UHD Video Players (Free & Versatile) for PC&Mac</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-estimated-video-monetization-totals/"><u>[Updated] In 2024, Estimated Video Monetization Totals</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-optimize-your-videos-the-quick-thumbnail-guide/"><u>[Updated] In 2024, Optimize Your Videos The Quick Thumbnail Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-innovating-your-way-through-tiktok-the-power-of-templated-content/"><u>[Updated] Innovating Your Way Through TikTok The Power of Templated Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-permanent-tiktok-account-elimination-guide/"><u>[Updated] Permanent TikTok Account Elimination Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-pro-level-screenshot-techniques-with-top-11-tools-for-2024/"><u>[Updated] Pro-Level Screenshot Techniques with Top 11 Tools for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-streamlining-your-iphones-video-loops-for-2024/"><u>[Updated] Streamlining Your iPhones Video Loops for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-splendid-scenery-crafting-visuals-with-strategic-lighting/"><u>2024 Approved Splendid Scenery Crafting Visuals with Strategic Lighting</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-assessment-of-vlc-screen-recording/"><u>In 2024, Assessment of VLC Screen Recording</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-take-your-home-videos-to-the-next-level-pro-editing-strategies/"><u>New Take Your Home Videos to the Next Level Pro Editing Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/tech-trends-unveiled-the-revival-and-growing-appeal-of-openstack-with-kata-containers-zdnet/"><u>Tech Trends Unveiled: The Revival and Growing Appeal of OpenStack with Kata Containers | ZDNet</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-art-of-targeting-optimizing-ad-reach-on-snap/"><u>The Art of Targeting Optimizing Ad Reach on Snap</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/top-iphones-and-androids-ultimate-tiktok-marker-erasers-for-2024/"><u>Top iPhones & Androids Ultimate TikTok Marker Erasers for 2024</u></a></li>
 </ul></div>
 
