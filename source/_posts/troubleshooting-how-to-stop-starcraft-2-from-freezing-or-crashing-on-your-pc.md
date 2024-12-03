@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Stop Starcraft 2 From Freezing or Crashing on Your PC"
-date: 2024-11-21T16:02:28.210Z
-updated: 2024-11-24T16:17:40.469Z
+date: 2024-11-27T21:40:30.953Z
+updated: 2024-12-02T16:58:21.883Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
 Encountering crashing issues while playing Risk of Rain 2 can be frustrating. These crashes may result from a variety of factors, such as outdated graphics drivers, software conflicts, corrupted game files, low RAM, or incompatible game settings.
 
  It can be challenging, if not possible, to identify the core issue of the game crash since you all have your own game settings and use unique hardware, but no worries. This article provides 6 solutions to help you rule out common causes of this error and potentially resolve this problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -55,7 +51,7 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-56-17-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -79,7 +75,15 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-25-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable your antivirus temporarily
 
@@ -100,16 +104,24 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-35-42.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click**Risk of Rain 2** and select**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
 
@@ -127,17 +139,9 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-55.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the list box below to select **Windows 7** , then click **Apply**  \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-39-05.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue has been resolved.
 
@@ -151,25 +155,25 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-48-00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Under**View by** , select**Category.** Then, select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-53-36.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Right-click**Steam** , and then click**Uninstall** .
 
@@ -180,10 +184,6 @@ If your problem still exists, go ahead with the fix below.
 **7)** Right-click the**Steam icon** and select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)** Move the backup**steamapps** folder you created before to your current directory location.
 
@@ -212,24 +212,18 @@ If your problem still exists, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-alternative-video-editors-for-laptops/"><u>[New] Alternative Video Editors for Laptops</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-art-of-rebranding-online-expert-tips-for-transforming-your-tiktok-username/"><u>[New] The Art of Rebranding Online Expert Tips for Transforming Your TikTok Username</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-unlocking-the-secrets-of-successful-tiktok-hashtags-for-2024/"><u>[New] Unlocking the Secrets of Successful TikTok Hashtags for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-daily-dose-of-tiktok-motivation-the-elite-fifteen/"><u>[Updated] 2024 Approved Daily Dose of TikTok Motivation The Elite Fifteen</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-optimal-mp4-extractor-from-tiktok-videos/"><u>[Updated] 2024 Approved Optimal MP4 Extractor From TikTok Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-from-sketches-to-scores-making-dance-videos-on-your-macos/"><u>[Updated] From Sketches to Scores Making Dance Videos on Your MacOS</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-innovating-your-approach-a-compre-written-by-an-industry-expert-on-effective-youtube-banner-strategies-for-advertisers/"><u>[Updated] Innovating Your Approach A Compre Written by an Industry Expert on Effective YouTube Banner Strategies for Advertisers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-leaders-in-earnings-prediction-tiktoks-finest-tools-for-2024/"><u>[Updated] Leaders in Earnings Prediction TikTok's Finest Tools for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-luminance-hd-evaluation-the-ultimate-decision/"><u>[Updated] Luminance-HD Evaluation The Ultimate Decision?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-complete-tiktok-deletion-process/"><u>[Updated] Mastering Complete TikTok Deletion Process</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-get-your-free-holiday-e-book-collection-today/"><u>1. Get Your Free Holiday E-Book Collection Today!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-ios-meets-android-an-in-depth-look-at-facial-tech/"><u>2024 Approved IOS Meets Android An In-Depth Look at Facial Tech</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/1721456341342-cant-take-full-page-screenshots-with-safari-discover-easy-fixes-today/"><u>Can't Take Full-Page Screenshots With Safari? Discover Easy Fixes Today!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discover-10-premium-video-players-for-ultimate-hd-vids-android/"><u>Discover 10 Premium Video Players for Ultimate HD Vids, Android</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/how-to-harness-analytics-for-live-event-success-for-2024/"><u>How to Harness Analytics for Live Event Success for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/how-to-perfectly-record-and-preserve-your-ps3-games/"><u>How to Perfectly Record and Preserve Your PS3 Games</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-windows-keystroke-issues-enter-key/"><u>Resolving Windows Keystroke Issues: Enter Key</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/snap-income-trends-in-making-money-on-social-media/"><u>Snap Income Trends in Making Money on Social Media</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-essential-earning-calculators-a-tiktok-creators-toolkit/"><u>[New] 2024 Approved Essential Earning Calculators A TikTok Creator's Toolkit</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-cracking-the-code-to-reinstating-your-tiktok-profile/"><u>[New] Cracking the Code to Reinstating Your TikTok Profile</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-everything-you-need-to-know-about-the-youtube-shorts-fund/"><u>[New] In 2024, Everything You Need to Know About the YouTube Shorts Fund</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-pinnacle-predictors-top-tiktok-income-calculators/"><u>[New] In 2024, Pinnacle Predictors Top TikTok Income Calculators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-locations-for-youtube-content-exposure/"><u>[New] Prime Locations for YouTube Content Exposure</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-efficient-vimeo-video-extraction-software/"><u>[Updated] 2024 Approved Efficient Vimeo Video Extraction Software</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-elevate-your-tiktok-presence-seamless-integration-of-voiceovers/"><u>2024 Approved Elevate Your TikTok Presence Seamless Integration of Voiceovers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-already-used-errors-in-windows-1011-152-chars/"><u>Eliminate 'Already Used' Errors in Windows 10/11 (152 Chars)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-tiktok-basics-for-macwindows-computers-explained/"><u>In 2024, TikTok Basics for Mac/Windows Computers Explained</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/live-streaming-on-tiktokmusically-for-2024/"><u>Live Streaming on TikTok/Musical.ly for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-load-failures-top-strategies-to-get-your-game-running-smoothly-again/"><u>Minecraft Load Failures? Top Strategies to Get Your Game Running Smoothly Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-class-not-registered-errors-in-windows-10-a-comprehensive-guide/"><u>Resolving 'Class Not Registered' Errors in Windows 10: A Comprehensive Guide</u></a></li>
 </ul></div>
 

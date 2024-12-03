@@ -1,7 +1,7 @@
 ---
 title: High Performance Meets Versatility in Our In-Depth Look at the Dell XPS Dell XPS 13 (9380) Convertible Laptop - Premium Power and Sleek Design Unveiled
-date: 2024-11-18T16:14:13.073Z
-updated: 2024-11-24T16:15:34.072Z
+date: 2024-11-30T07:14:10.659Z
+updated: 2024-12-03T07:50:18.051Z
 categories:
   - BestProducts
 description: This Article Describes High Performance Meets Versatility in Our In-Depth Look at the Dell XPS Dell XPS 13 (9380) Convertible Laptop - Premium Power and Sleek Design Unveiled
@@ -18,7 +18,7 @@ thumbnail: https://www.lifewire.com/thmb/XPTzdgkhY6bWmlWOIoF4mc1fv2M=/400x300/fi
 ![Dying Light](https://www.lifewire.com/thmb/ExEFo7aByvSphU-Qxeq8zUjf8lk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
@@ -45,10 +45,6 @@ Lifewire / Kelsey Simon
 
 ![Dying Light](https://www.lifewire.com/thmb/YWkGikwP23JK119N4M7J22dAPJY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/dp/B00D2ZK1IG/?tag=lifewire-onsite-prod-20&ascsubtag=4778324%7Cn8b17d62e028148938085d16c4455799211%7CB00D2ZK1IG) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/dying-light/10111372.html)
@@ -72,6 +68,10 @@ Lifewire / Kelsey Simon
 
 ![Dying Light](https://www.lifewire.com/thmb/_0yEidfS3S4dy57s584t378TZYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-5-4ec68914607c4b56acff25a78887af7f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 ## **Setup Process: Straight into the action**
@@ -79,10 +79,6 @@ Lifewire / Kelsey Simon
  The first time you launch the game you'll be treated to an artistic video over the background of a news report. It explains the situation in Harran, the city where the game takes place. The game proper starts with a cut scene that shows you on a plane, about to parachute out. There’s no character creation here, although once you get a little further into the game, you’ll be able to pick your clothes.
 
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -115,10 +111,14 @@ Harran is a whole different city at night.
 ![Dying Light](https://www.lifewire.com/thmb/YctEePpYKsIXQ5kU-hQ8w7o9CDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-4-1edeaf05c6ba435e9b81e68a13831ac6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Graphics: Attention to detail**
 
@@ -131,12 +131,16 @@ Harran is a whole different city at night.
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Worth the cost, especially with a friend**
 
  On PlayStation 4, you can purchase the game for $14, a fantastic value. You’ll get more than enough gameplay and fun to justify a purchase at that low cost. However, if you want to play on[PC](https://www.lifewire.com/best-desktop-pcs-4045927) , you’ll have to either wait for the game to go on sale, or you’ll have to pay $40\. Considering the game is older now, we’d suggest getting the game on sale (it goes on sale often through Steam). There’s a lot of fun to be had in Dying Light, especially if you have a friend to play with, so if you’re thinking about getting the game, we’d say go for it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Other zombie and parkour games**
 
@@ -149,10 +153,6 @@ Harran is a whole different city at night.
 **An original in the zombie survival genre.**
 
  Dying Light is a game that took an overdone trope and used it to create a fresh game. Its fun parkour and co-op gameplay make for a great gaming experience, particularly when shared with friends. The variety of zombie enemies combined with the excellent melee combat keep the experience fresh even in the late game―and if things feel too simple, doing a mission at night is a wholly different experience from daylight outings. Dying Light is a great game in the zombie survival genre that we would recommend to most players.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -175,16 +175,24 @@ Harran is a whole different city at night.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-direct-youtube-tunes-to-mp3s-online-and-offline-options-for-2024/"><u>[New] Direct YouTube Tunes to MP3s Online & Offline Options for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-elite-list-of-win11s-screen-recording-apps/"><u>[New] In 2024, The Elite List of Win11's Screen Recording Apps</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-bringing-jujutsu-kaisen-characters-to-life-online/"><u>[Updated] 2024 Approved Bringing Jujutsu Kaisen Characters to Life Online</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-best-tiktok-earning-tools-top-earnings-predictors/"><u>[Updated] Best TikTok Earning Tools Top Earnings Predictors</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-binge-worthy-battles-discovering-the-viral-tiktok-top-10-for-2024/"><u>[Updated] Binge-Worthy Battles Discovering the Viral TikTok Top 10 for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-the-art-of-expression-the-best-and-secret-tiktok-emojis/"><u>[Updated] Mastering the Art of Expression The Best & Secret TikTok Emojis</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-maximizing-money-smart-tactics-for-video-monetization/"><u>[Updated] Maximizing Money Smart Tactics for Video Monetization</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-simplifying-avi-gif-conversion-with-filmora-on-windowsmac/"><u>[Updated] Simplifying AVI-GIF Conversion with Filmora on Windows/Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-youtube-to-mp4mpeg-mastery/"><u>[Updated] Unveiling the Secrets of YouTube to MP4/MPEG Mastery</u></a></li>
-<li><a href="https://win-webster.techidaily.com/resolving-non-sync-errors-with-dropbox-in-windows-11-tips-for-a-smooth-recovery-or-upgrade-options/"><u>Resolving Non-Sync Errors with Dropbox in Windows 11: Tips for a Smooth Recovery or Upgrade Options</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unexpected-data-loss-when-shifting-documents-in-windows-os-explore-top-data-retrieval-solutions/"><u>Unexpected Data Loss When Shifting Documents in Windows OS? Explore Top Data Retrieval Solutions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-unleashing-instant-growth-on-tiktok-key-strategies-revealed/"><u>[New] In 2024, Unleashing Instant Growth on TikTok Key Strategies Revealed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-key-10-windows-software-for-superior-tiktok-editing-for-2024/"><u>[New] Key 10 Windows Software for Superior TikTok Editing for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-digital-nightmare-drawer/"><u>[Updated] 2024 Approved Digital Nightmare Drawer</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-from-observing-to-involved-the-tiktok-life-journey/"><u>[Updated] 2024 Approved From Observing to Involved The TikTok Life Journey</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-increase-your-content-reach-top-7-tools-for-tiktok-excellence/"><u>[Updated] 2024 Approved Increase Your Content Reach Top 7 Tools for TikTok Excellence</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-sending-your-creativity-soaring-pc-and-mac-tiktok-video-posts/"><u>[Updated] 2024 Approved Sending Your Creativity Soaring PC & Mac TikTok Video Posts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-guide-to-the-premier-tiktok-profit-estimators/"><u>[Updated] Guide to the Premier TikTok Profit Estimators</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-a-step-by-step-guide-to-masterful-editing/"><u>[Updated] In 2024, A Step-by-Step Guide to Masterful Editing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-expert-reviews-best-multi-user-call-services/"><u>[Updated] In 2024, Expert Reviews Best Multi-User Call Services</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-find-your-inner-peace-with-tiktoks-best-country-tracks/"><u>[Updated] In 2024, Find Your Inner Peace with TikTok's Best Country Tracks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-best-practices-for-configuring-and-measuring-fb-instream-ads/"><u>2024 Approved Best Practices for Configuring and Measuring FB Instream Ads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/copyright-conduct-for-instagram-artists/"><u>Copyright Conduct for Instagram Artists</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-offer-secure-your-apple-watch-series-10-from-best-buy-for-just-99-with-early-bird-discount/"><u>Exclusive Offer: Secure Your Apple Watch Series 10 From Best Buy for Just $99 with Early Bird Discount!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-power-of-music-in-engaging-video-content/"><u>In 2024, Unlocking the Power of Music in Engaging Video Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/jane-austens-pride-and-prejudice/"><u>Jane Austen's Pride and Prejudice</u></a></li>
+<li><a href="https://win-premium.techidaily.com/page-missing-404-error-code-indicates-unavailable-content/"><u>Page Missing! 404 Error Code Indicates Unavailable Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/shine-above-the-rest-creating-a-distinctive-mark-in-tiktok/"><u>Shine Above the Rest Creating a Distinctive Mark in TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tiktok-audio-enhancement-made-easy-for-2024/"><u>TikTok Audio Enhancement Made Easy for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-poco-m6-pro-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Poco M6 Pro 5G Phone Network-Ready</u></a></li>
 </ul></div>
 

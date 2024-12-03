@@ -1,7 +1,7 @@
 ---
 title: Can't Take Full-Page Screenshots With Safari? Discover Easy Fixes Today!
-date: 2024-11-20T16:11:22.175Z
-updated: 2024-11-24T16:29:02.576Z
+date: 2024-11-27T22:56:20.455Z
+updated: 2024-12-03T05:08:29.589Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 
  Unfortunately, full-page screenshots don't always work how they're supposed to. But we'll show you how to fix that below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Take a Full-Page Screenshot
 
  To take a full-page, scrolling screenshot of a webpage, take a screenshot as you normally would while on Safari, then tap the preview and select**Full Page** at the top. You can then choose**Save PDF to Files** or the Share icon to send it elsewhere.
@@ -25,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
  Related:[How to Take Full-Page Screenshots in Safari on iOS](https://www.makeuseof.com/how-to-screenshot-full-webpage-safari-ios/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to Do When Full-Page Screenshots Aren't Working
@@ -33,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 Try these tips if you can't take full-page screenshots in Safari.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Check Your iOS Version
@@ -48,14 +52,10 @@ Try these tips if you can't take full-page screenshots in Safari.
 
 ![Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Full-page-screenshots.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Save Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Save-Full-page-screenshots.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -71,7 +71,7 @@ Close
  Related:[What Is the iPhone App Library and How Do I Use It?](https://www.makeuseof.com/iphone-app-library-use/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Take Screenshots Again
@@ -93,21 +93,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-10-pro-rated-secrets-for-stunning-viral-tiktok-edits/"><u>[New] 10 Pro-Rated Secrets for Stunning Viral TikTok Edits</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-achieving-video-greatness-on-tiktok-with-smart-use-of-pre-made-templates/"><u>[New] Achieving Video Greatness on TikTok with Smart Use of Pre-Made Templates</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-ultimate-tiktok-live-jump-a-how-to-guide/"><u>[New] In 2024, The Ultimate TikTok Live Jump A How-To Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-zany-zephyrs-top-10-hilariously-wild-tiktok-game-sessions/"><u>[Updated] 2024 Approved Zany Zephyrs Top 10 Hilariously Wild TikTok Game Sessions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-illuminating-insights-for-iphone-night-photos/"><u>[Updated] Illuminating Insights for iPhone Night Photos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-windows-hdri-tools-for-editors/"><u>[Updated] Windows HDRI Tools for Editors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-tecno-camon-30-pro-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Tecno Camon 30 Pro 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-motorola-defy-2-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Motorola Defy 2 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210356013-9781250797421-be-the-love/"><u>Be the Love | Free Book</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/effortless-tiktok-video-downloads-on-iphone-no-watermark-for-2024/"><u>Effortless TikTok Video Downloads on iPhone, No Watermark for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/essential-guide-keeping-your-memories-of-snapchats-intact/"><u>Essential Guide Keeping Your Memories of Snapchats Intact</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-15-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 15 Stuck at attempting data recovery Loop | Stellar</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-nokia-130-music-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Nokia 130 Music Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/quick-and-easy-snapchat-image-manipulation-techniques/"><u>Quick and Easy Snapchat Image Manipulation Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/sale-alert-save-nearly-half-on-the-4tb-samsung-t5-nvme-ssd-now-available-on-amazon-insights/"><u>Sale Alert: Save Nearly Half on the 4TB Samsung T5 NVMe SSD - Now Available on Amazon! Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-empowering-tiktok-sharing-on-twitter-networks-for-2024/"><u>[New] Empowering TikTok Sharing on Twitter Networks for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-your-pathway-to-audio-mastery-download-and-install-vrecorder/"><u>[New] In 2024, Your Pathway to Audio Mastery - Download & Install VRecorder</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-legal-lens-for-tiktoks-pre-upload-rights-and-compliance/"><u>[New] Legal Lens for TikToks Pre-Upload Rights & Compliance</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-safe-and-trusted-tiktok-fan-buyers-for-2024/"><u>[New] Safe and Trusted TikTok Fan Buyers for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-leading-lights-in-the-world-of-game-tiktoks/"><u>[Updated] 2024 Approved Leading Lights in the World of Game TikToks</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-sneak-into-a-friends-tiktok-live-unnoticed/"><u>[Updated] 2024 Approved Sneak Into a Friend’s TikTok Live Unnoticed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-formulating-imaginative-tiktok-credit-graphics-for-2024/"><u>[Updated] Formulating Imaginative TikTok Credit Graphics for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-innovative-techniques-for-self-duplication-on-social-medias-star-platform-tiktok/"><u>[Updated] Innovative Techniques for Self-Duplication on Social Media's Star Platform, TikTok</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-smaller-is-better-top-drone-brands-reviewed/"><u>[Updated] Smaller Is Better Top Drone Brands Reviewed</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-ergonomic-and-durable-x-chair-x4-executive-office-seat/"><u>Comprehensive Review of the Ergonomic and Durable X-Chair X4 Executive Office Seat</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/finding-someone-fast-check-out-these-8-search-tools/"><u>Finding Someone Fast? Check Out These 8 Search Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-pop-8-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Pop 8 Phones with/without a PC</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unleashing-creativity-in-tiktok-intros-your-ultimate-macguide/"><u>In 2024, Unleashing Creativity in TikTok Intros Your Ultimate MacGuide</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-guide-solve-your-sims-4-launching-issues-today/"><u>Quick Guide: Solve Your Sims 4 Launching Issues Today!</u></a></li>
 </ul></div>
 

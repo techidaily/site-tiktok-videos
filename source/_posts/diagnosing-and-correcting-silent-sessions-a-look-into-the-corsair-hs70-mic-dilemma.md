@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Correcting Silent Sessions: A Look Into the Corsair HS70 Mic Dilemma"
-date: 2024-11-22T16:04:25.096Z
-updated: 2024-11-24T16:15:12.614Z
+date: 2024-11-27T23:13:28.032Z
+updated: 2024-12-02T21:20:54.598Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1 – Allow access to your microphone on your PC
@@ -48,18 +48,22 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
 2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2 – Check the audio settings
 
@@ -69,10 +73,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/volume-icon-sounds.jpg)
 2. Under the**Recording** tab, check to see if your headset microphone is set to disabled. If it is, right-click on it and select**Enable** . (If your mic is not the default device, click**Set Default** to set it as default)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
 
@@ -80,7 +80,7 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix doesn’t give you the luck, try the next below to update your audio drives.
@@ -102,6 +102,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-5.7.2-SCAN.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
@@ -118,12 +122,12 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
@@ -131,10 +135,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Restart your PC and replug your Corsair headset into your computer.
 8. Relaunch the iCUE software. You can click **[here](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Ficue&mktsrc=drivereasyen%5F166866)**  to download the latest version of iCUE.
@@ -176,7 +176,7 @@ Top Pick
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6 – Seek technical support or after-sales service
@@ -202,16 +202,20 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-10-free-tiktok-video-editors-compatible-with-macos/"><u>[New] In 2024, Top 10 FREE TikTok Video Editors Compatible with MacOS</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-ultimate-guide-10-tiktok-tactics-for-2024/"><u>[New] The Ultimate Guide 10 TikTok Tactics for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-discover-these-exciting-free-tools-to-elevate-your-tiktok-videos-top-10/"><u>[Updated] 2024 Approved Discover These Exciting Free Tools to Elevate Your TikTok Videos (Top 10)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-from-obscurity-to-popularity-harnessing-tiktok-hashtags-for-2024/"><u>[Updated] From Obscurity to Popularity Harnessing TikTok Hashtags for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-comprehensive-walkthrough-for-employing-codegpt-extension-on-your-visual-studio-project/"><u>A Comprehensive Walkthrough for Employing CodeGPT Extension on Your Visual Studio Project</u></a></li>
-<li><a href="https://win-blog.techidaily.com/avoid-pc-malfunctions-strategies-to-fix-frequent-super-pc-errors/"><u>Avoid PC Malfunctions: Strategies to Fix Frequent Super-PC Errors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ite-inspiration-cost-free-youtube-theming/"><u>Infinite Inspiration Cost-Free YouTube Theming</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/liberate-lost-data-costless-recovery-package/"><u>Liberate Lost Data - Costless Recovery Package</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-speech-recognition-issues-top-5-fixes-for-iphone-users/"><u>Solving Speech Recognition Issues: Top 5 Fixes for iPhone Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/wallet-friendly-mirrorless-choices/"><u>Wallet-Friendly Mirrorless Choices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-2023s-must-have-tiktok-items-available-on-amazon/"><u>[New] 2024 Approved 2023'S Must-Have TikTok Items Available on Amazon</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-mastering-the-art-of-tiktok-intros-on-mac-devices/"><u>[New] 2024 Approved Mastering the Art of TikTok Intros on Mac Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-comprehensible-guide-to-mac-based-ootd-videography/"><u>[New] 2024 Approved The Comprehensible Guide to Mac-Based OOTD Videography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship-in-2024/"><u>[New] Financial Insights for Vids How Much Do YouTubers Earn Per Sponsorship, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-grasp-the-basics-of-sub4sub-success-our-guide-lays-it-out-clearly-for-2024/"><u>[New] Grasp the Basics of Sub4sub Success - Our Guide Lays It Out Clearly for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-social-media-showdown-which-platform-dominates-likes-or-tiktok/"><u>[New] In 2024, Social Media Showdown Which Platform Dominates, Likes or TikTok?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-edge-wireless-cameras-the-hottest-18-on-the-market/"><u>[New] Leading-Edge Wireless Cameras The Hottest 18 On The Market</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-depth-analysis-of-inshots-features-and-rankings/"><u>[Updated] In-Depth Analysis of InShot's Features and Rankings</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-ethical-buyers-of-tiktok-popularity-boost/"><u>2024 Approved Ethical Buyers of TikTok Popularity Boost</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unlocking-virality-on-tiktok-through-strategic-hashtags/"><u>2024 Approved Unlocking Virality on TikTok Through Strategic Hashtags</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-from-simple-designs-to-compelling-animated-graphics/"><u>In 2024, From Simple Designs to Compelling Animated Graphics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-artificial-intelligence-a-better-future-seer-than-the-classic-magazine-zodiac-forecasts/"><u>Is Artificial Intelligence a Better Future Seer Than the Classic Magazine Zodiac Forecasts?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterful-transitioning-8-leading-convertors-for-sub-and-srt-for-2024/"><u>Masterful Transitioning 8 Leading Convertors for Sub and SRT for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/must-have-10-tiktok-video-editor-apps-for-windows-pc/"><u>Must-Have 10 TikTok Video Editor Apps for Windows PC</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-a2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi A2 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

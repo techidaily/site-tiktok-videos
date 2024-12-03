@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: Building an Ultra Compact, Fanless 'Retro Futuristic' Desktop Powered by High-Performance USB4 Solid State Drives"
-date: 2024-11-22T16:13:44.501Z
-updated: 2024-11-24T16:05:23.198Z
+date: 2024-12-01T09:52:38.527Z
+updated: 2024-12-03T07:47:48.141Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,16 +89,18 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-gastronomy-in-action-a-guide-to-high-quality-food-videos/"><u>[New] 2024 Approved Gastronomy in Action A Guide to High-Quality Food Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-discovering-the-yuneec-typhoon-hs-potential/"><u>[New] Discovering the Yuneec Typhoon H's Potential</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-hot-tiktok-picks-for-your-amazon-shopping-spree/"><u>[Updated] Hot TikTok Picks for Your Amazon Shopping Spree</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-ignite-interest-top-20-creative-and-viral-tiktok-caption-strategies/"><u>[Updated] Ignite Interest Top 20 Creative and Viral TikTok Caption Strategies</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-expand-your-reach-effective-business-tactics-on-tiktok/"><u>[Updated] In 2024, Expand Your Reach Effective Business Tactics on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-maximizing-tiktok-income-8-must-try-strategies/"><u>[Updated] In 2024, Maximizing TikTok Income 8 Must-Try Strategies</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-jumpstart-your-cash-with-these-8-innovative-tiktok-methods-for-2024/"><u>[Updated] Jumpstart Your Cash with These 8 Innovative TikTok Methods for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/creative-alternatives-to-windowed-filmmaking-suite-for-2024/"><u>Creative Alternatives to Windowed Filmmaking Suite for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-guide-to-compositing-using-blending-modes-for-2024/"><u>Essential Guide to Compositing Using Blending Modes for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-the-best-of-both-worlds-fixing-wacom-pen-issues-in-modern-operating-systems-windows-11-and-10/"><u>Getting the Best of Both Worlds: Fixing Wacom Pen Issues in Modern Operating Systems - Windows 11 and 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-hp-monitor-malfunction/"><u>Troubleshooting Guide: Fixing HP Monitor Malfunction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-compelling-mp4-player-selections-reviewed/"><u>[New] Compelling MP4 Player Selections Reviewed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-10-tiktok-campaigns-and-how-to-make-a-successful-campaign/"><u>[New] In 2024, Top 10 TikTok Campaigns and How to Make a Successful Campaign</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastering-the-art-of-screen-recording-on-snapchat-devices-for-2024/"><u>[New] Mastering the Art of Screen Recording on Snapchat Devices for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-sizzling-social-hot-food-trends-on-tiktok-for-2024/"><u>[New] Sizzling Social Hot Food Trends on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-ultimate-hits-for-tiktok-stardom-for-2024/"><u>[New] The Ultimate Hits for TikTok Stardom for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-complete-tiktok-termination-protocol-unveiled/"><u>[Updated] 2024 Approved Complete TikTok Termination Protocol Unveiled</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unlock-your-tiktok-experience-with-top-7-emoji-hacks/"><u>[Updated] 2024 Approved Unlock Your TikTok Experience with Top 7 Emoji Hacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-event-preview-anticipate-revolutionary-features-in-m4-mac-mini-enhanced-ipads-and-advanced-ai/"><u>Apple Event Preview: Anticipate Revolutionary Features in M4 Mac Mini, Enhanced iPads, and Advanced AI</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-solutions-for-correcting-missing-python-240-dynamic-link-library-issues/"><u>Easy Solutions for Correcting Missing 'Python 2.4.0' Dynamic Link Library Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-disappeared-mouse-icon-for-windows-10-users/"><u>How to Restore Disappeared Mouse Icon for Windows 10 Users</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/pro-tips-for-captivating-snapchat-stories/"><u>Pro Tips for Captivating Snapchat Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-the-mechanics-of-vlc-media-player-on-macos/"><u>Understanding the Mechanics of VLC Media Player on macOS</u></a></li>
 </ul></div>
 
