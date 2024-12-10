@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Arma 3 From Crashing - Expert Advice & Solutions
-date: 2024-12-02T04:50:51.711Z
-updated: 2024-12-02T16:39:09.068Z
+date: 2024-12-06T21:42:46.894Z
+updated: 2024-12-10T04:40:12.541Z
 tags:
   - win11
   - win10
@@ -30,12 +30,16 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
  Before you move on to the troubleshooting steps below, check if your PC specs surpass the[minimum requirements](https://www.epicgames.com/store/en-US/product/hitman-3/home) of Hitman 3\. If not, you’ll have to upgrade your components to play the game normally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Stop overclocking
 
  An unstable overclocking will lead to excessive energy consumption and cause your programs to malfunction. So if you’ve overclocked your CPU or GPU and then Hitman 3 crashes, try**disabling overclocking utilities like MSI Afterburner** and **setting the clock speed back to the default** . If this doesn’t help, have a look at the second fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Use the dedicated GPU
 
@@ -45,35 +49,31 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-1.jpg)
 2. Select**3D settings** \>**Manage 3D settings** from the left pane.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-2.jpg)
 3. Go to the**Programs Settings** tab. Then, click the**Add** button.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-3.jpg)
 4. Select**HITMAN 3** from the list and click**Add Selected Program** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-4.jpg)
 5. Choose**High-performance NVIDIA processor** as the preferred graphics processor for Hitman 3.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-5.jpg)
 6. Exit the NVIDIA Control Panel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Launch Hitman 3 and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-6.jpg)
 8. Select your**dedicated graphics card** instead of the integrated one next to Graphics Processing Unit, and click**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have an AMD graphics card, you could refer to this[official guide](https://www.amd.com/en/support/kb/faq/dh-017) to configure the Radeon settings.
 
@@ -92,6 +92,10 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
  Does the game works the right way or does it still crash? If the latter, don’t frustrate and check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Update your graphics driver
 
  Graphics driver is essential to your gaming experience. If you’re using a faulty or outdated graphics driver, Hitman 3 is more likely to crash at startup and during the gameplay. To fix this, you should update your graphics driver to the latest, and here are two options for you:
@@ -105,10 +109,6 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the_flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
@@ -116,6 +116,10 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, you should see Hitman 3 runs more smoothly. But if this method doesn’t work, continue to the last fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Increase virtual memory
 
@@ -125,6 +129,10 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-3.jpg)
 2. Click**Settings** under Performance.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-2.jpg)
 3. Navigate to the**Advanced** tab. Then, click**Change** .  
 
@@ -132,22 +140,14 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 4. Untick**Automatically manage paging file size for all drives** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-3.jpg)
 5. Select the**C drive** and click**Custom size** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-5.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has. Then, click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : According to Microsoft, you should set virtual memory no less than**1.5 times** and no more than **3 times** the amount of RAM on your computer. For example, if you have 8 GB RAM, the**Initial size** should be 8 x 1024 x 1.5 = 12288 MB while the **Maximum size** should be 8 x 1024 x 3 = 24576 MB. If you don’t know how much RAM you have, read our post to[check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-6.jpg)
@@ -176,24 +176,15 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-boosting-viewership-responsibly-strategies-that-work-for-2024/"><u>[New] Boosting Viewership Responsibly Strategies That Work for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-seamless-iphone-recording-creating-fb-shareable-reels/"><u>[New] In 2024, Seamless iPhone Recording Creating FB Shareable Reels</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-freeze-frame-collection-for-mac-max-156-chars/"><u>[New] In 2024, Ultimate Freeze Frame Collection for Mac (Max 156 Chars)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-innovative-concepts-for-youtube-success-and-inspiration/"><u>[New] Innovative Concepts for YouTube Success and Inspiration</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-digital-media-xmlttml-conversion-guide-for-srt/"><u>[New] Mastering Digital Media XML/TTML Conversion Guide for SRT</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-sidestep-social-media-sponsored-videos-for-2024/"><u>[New] Sidestep Social Media Sponsored Videos for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unlock-advanced-techniques-to-record-and-edit-videos-on-adobe-connect/"><u>[New] Unlock Advanced Techniques to Record & Edit Videos on Adobe Connect</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-daily-dose-of-tiktok-motivation-the-elite-fifteen/"><u>[Updated] 2024 Approved Daily Dose of TikTok Motivation The Elite Fifteen</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-ultimate-guide-to-tiktok-video-editors/"><u>[Updated] 2024 Approved Ultimate Guide to TikTok Video Editors</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-amplify-video-speeds-the-ultimate-tiktok-guide-for-2024/"><u>[Updated] Amplify Video Speeds The Ultimate TikTok Guide for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-creative-charisma-unprecedented-bio-concepts-to-captivate-filmo-tiktok-audiences-for-2024/"><u>[Updated] Creative Charisma Unprecedented Bio Concepts to Captivate Filmo-TikTok Audiences for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-from-sketches-to-scores-making-dance-videos-on-your-macos/"><u>[Updated] From Sketches to Scores Making Dance Videos on Your MacOS</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-easy-steps-to-dance-and-unwind-with-these-top-20-songs-country-edition/"><u>[Updated] In 2024, Easy Steps to Dance & Unwind with These Top 20 Songs (Country Edition)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-leading-edge-technology-15-high-quality-recorders/"><u>[Updated] In 2024, Leading Edge Technology 15 High-Quality Recorders</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-join-in-fun-this-weeks-top-10-challenges/"><u>[Updated] Join in Fun This Week's Top 10 Challenges</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-leaders-in-earnings-prediction-tiktoks-finest-tools-for-2024/"><u>[Updated] Leaders in Earnings Prediction TikTok's Finest Tools for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-complete-tiktok-deletion-process/"><u>[Updated] Mastering Complete TikTok Deletion Process</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Oppo Find X7? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/thrifty-aetherspace-vault-massive-files-affordably/"><u>Thrifty Aetherspace Vault Massive Files Affordably</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-capture-and-save-fb-videos-on-windows-mac/"><u>[New] Capture and Save FB Videos on Windows, Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-streamlined-screen-recording-on-mac-best-apps-of-choice/"><u>[New] In 2024, Streamlined Screen Recording on Mac Best Apps of Choice</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-winning-over-viewers-the-top-20-must-try-tiktok-caption-strategies/"><u>[New] Winning Over Viewers The Top 20 Must-Try TikTok Caption Strategies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-insights-into-whatsapp-sound-calls/"><u>[Updated] 2024 Approved Insights Into WhatsApp Sound Calls</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-bridge-the-gap-to-your-friends-live-broadcast/"><u>[Updated] Bridge the Gap to Your Friend's Live Broadcast</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-catchy-tracks-the-20-top-rapping-beats-you-cant-miss-on-tiktok/"><u>[Updated] In 2024, Catchy Tracks The 20 Top Rapping Beats You Can't Miss on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-top-25-anime-visionaries-on-tiktok-changing-content-norms-for-2024/"><u>[Updated] Top 25 Anime Visionaries on TikTok Changing Content Norms for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-getting-started-with-snapchats-new-spotlight/"><u>In 2024, Getting Started with Snapchat's New Spotlight</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-why-wont-my-usb-composite-device-work-with-usb-30-troubleshooting-tips-inside/"><u>Solved! Why Won't My USB Composite Device Work with USB 3.0? Troubleshooting Tips Inside</u></a></li>
+<li><a href="https://blog-min.techidaily.com/wmvvlcwindows-1110/"><u>WMVファイルをVLCメディアプレーヤー上でWindows 11/10で再生するための解決方法</u></a></li>
 </ul></div>
 

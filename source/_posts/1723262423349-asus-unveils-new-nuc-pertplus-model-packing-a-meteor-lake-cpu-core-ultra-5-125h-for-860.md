@@ -1,7 +1,7 @@
 ---
 title: "Asus Unveils New NUC Pert+ Model: Packing a Meteor Lake CPU, Core Ultra-5 125H for $860!"
-date: 2024-11-25T22:04:50.419Z
-updated: 2024-12-03T09:23:25.058Z
+date: 2024-12-05T02:44:54.131Z
+updated: 2024-12-10T00:42:08.350Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,16 +54,20 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-crafting-engagement-top-5-typeface-tools-to-amplify-your-tiktok-reach/"><u>[New] In 2024, Crafting Engagement Top 5 Typeface Tools to Amplify Your TikTok Reach</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unveiling-the-finest-no-cost-recording-software-today/"><u>[New] Unveiling the Finest No-Cost Recording Software Today</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-quick-and-quiet-recording-of-games/"><u>[Updated] 2024 Approved Quick and Quiet Recording of Games</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/accelerating-your-tiktok-content-a-quick-guide-for-2024/"><u>Accelerating Your TikTok Content A Quick Guide for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/beating-the-market-top-file-managers-for-2024/"><u>Beating the Market Top File Managers for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/capture-attention-with-top-mobile-video-editing-software-for-snapchats/"><u>Capture Attention with Top Mobile Video Editing Software for Snapchats</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/essential-skills-for-efficient-teamsnap-photo-taking/"><u>Essential Skills for Efficient TeamSnap Photo Taking</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-embarking-on-a-shared-tiktok-experience-your-instructional-path/"><u>In 2024, Embarking on a Shared TikTok Experience Your Instructional Path</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-simple-guide-updating-your-gtx-1660-graphics-card-drivers/"><u>Quick and Simple Guide: Updating Your GTX 1660 Graphics Card Drivers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ful-conversion-of-youtube-videos-to-interactive-gif-artistry/"><u>Skillful Conversion of YouTube Videos to Interactive GIF Artistry</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-finest-under-1000-laptops-of-2024-rigorously-evaluated-and-reviewed-pcmag/"><u>Ultimate Guide to the Finest Under $1,000 Laptops of 2024 – Rigorously Evaluated and Reviewed | PCMag</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-art-of-music-laced-tiktok-production-for-2024/"><u>[New] The Art of Music-Laced TikTok Production for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-transformative-tiktok-techniques-for-business-expansion/"><u>[Updated] 2024 Approved Transformative TikTok Techniques for Business Expansion</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-developing-persuasive-podcast-hooklines-for-2024/"><u>[Updated] Developing Persuasive Podcast Hooklines for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-essential-steps-for-top-tier-tiktok-intros-mac-edition/"><u>[Updated] In 2024, Essential Steps for Top-Tier TikTok Intros - Mac Edition</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-gentle-grooves-a-selection-of-chill-country-songs-for-relaxing-dancing-tiktok/"><u>[Updated] In 2024, Gentle Grooves A Selection of Chill Country Songs for Relaxing Dancing (TikTok)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-skyrocket-your-earnings-on-tiktok-discover-the-top-8-ways/"><u>[Updated] In 2024, Skyrocket Your Earnings on TikTok Discover the Top 8 Ways</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/androidwmv/"><u>Android端末で簡単にWMVファイル再生：追加のツール無しで</u></a></li>
+<li><a href="https://win-net.techidaily.com/ensuring-perfect-fit-a-step-by-step-guide-to-verify-hardware-compatibility-pre-purchase-tips-from-yl-computing/"><u>Ensuring Perfect Fit: A Step-by-Step Guide to Verify Hardware Compatibility Pre-Purchase - Tips From YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/highlighted-happenings-bold-italic-for-impactful-talk/"><u>Highlighted Happenings: Bold, Italic for Impactful Talk</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-integrate-the-endzone-extension-onto-your-kodi-platform-versions-20-and-19/"><u>How To Integrate The Endzone Extension Onto Your Kodi Platform (Versions 20 & 19)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-7-plus-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 7 Plus You Should Try Out</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-essential-guide-to-win-compatible-tiktok-editing-software/"><u>The Essential Guide to Win-Compatible TikTok Editing Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-iphone-audio-issues-enhancing-call-volume-effectively/"><u>Troubleshooting iPhone Audio Issues: Enhancing Call Volume Effectively</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Fixing Loading Errors in The Elder Scrolls Online Adventure
-date: 2024-12-02T09:04:45.743Z
-updated: 2024-12-02T18:18:09.024Z
+date: 2024-12-06T04:54:03.617Z
+updated: 2024-12-10T02:12:53.105Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ God of War
  Initially locked away on the PS4 as a console-exclusive game,**God of War** , the famous action-adventure game from Santa Monica Studio, is now available on Windows PC via Steam and the Epic Games Store! According to Santa Monica Studio, with the option of unlocked framerates and true 4k resolution on supported devices, PC gamers will be able to enjoy the full potential of their cinematic, no-cut camera as it follows Kratos and Atreus across the realms. However, shortly after the game was released, **many players are reporting that God of War FPS drops or stutters on their PC.**
 
  If you find yourself in the same boat, don’t worry. You’ve landed on the right page. After reading this article, you should be able to fix the game fps drops, stuttering, and other performance issues easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -61,11 +65,15 @@ There are mainly two methods for you to update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -73,7 +81,7 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Change Windows power plan
@@ -89,7 +97,7 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
@@ -105,10 +113,6 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -153,10 +157,6 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -171,12 +171,16 @@ There are mainly two methods for you to update the graphics driver:
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch God of War again after you disabled all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
@@ -188,10 +192,6 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key** and **I** key at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
@@ -222,16 +222,24 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-instantaneous-inspector-of-images-on-windows-for-2024/"><u>[New] Instantaneous Inspector of Images on Windows for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-quickmemes-your-meme-toolkit/"><u>[Updated] 2024 Approved QuickMemes Your Meme Toolkit</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-the-top-8-services-to-amplify-video-content-for-2024/"><u>[Updated] Discover the Top 8 Services to Amplify Video Content for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-likes-vs-ticks-can-likes-outshine-tiktoks-popularity/"><u>[Updated] In 2024, Likes Vs. Ticks Can Likes Outshine TikTok's Popularity?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-liberating-your-account-beyond-the-shadowban-for-2024/"><u>[Updated] Liberating Your Account Beyond the Shadowban for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-seamlessly-integrate-into-others-tiktok-livestreams-for-2024/"><u>[Updated] Seamlessly Integrate Into Others’ TikTok Livestreams for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transform-your-thought-processes-mematic-app/"><u>[Updated] Transform Your Thought Processes - Mematic App</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-videographers-playbook-for-game-coverage-excellence/"><u>2024 Approved The Videographer’s Playbook for Game Coverage Excellence</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/quick-load-techniques-to-enhance-tiktok-videography-for-2024/"><u>Quick-Load Techniques to Enhance TikTok Videography for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-rhythm-revolution-crafting-mesmerizing-tiktok-dances-with-mac-for-2024/"><u>The Rhythm Revolution Crafting Mesmerizing TikTok Dances with Mac for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726030652166-dvddvd/"><u>リージョン制限なしDVDプレイヤー設定ガイド:全てのDVDを自由に楽しめる</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-elevate-your-content-a-compreranial-guide-to-template-driven-tiktok-videos/"><u>[New] 2024 Approved Elevate Your Content A Compreranial Guide to Template-Driven TikTok Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-engineering-a-memorable-tiktok-close-screen-for-2024/"><u>[New] Engineering A Memorable TikTok Close Screen for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-record-gameplay-in-samsung-galaxy-phones/"><u>[New] In 2024, How to Record Gameplay in Samsung Galaxy Phones</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-navigating-tiktok-lives-your-step-by-step-guide/"><u>[New] In 2024, Navigating TikTok Lives Your Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-innovators-crafting-next-gen-virtual-worlds/"><u>[New] Innovators Crafting Next-Gen Virtual Worlds</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-master-the-art-of-influence-with-trending-tiktok-hashes-for-2024/"><u>[New] Master the Art of Influence with Trending TikTok Hashes for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclass-in-visual-enhancement-from-muted-sdr-to-stunning-hdri/"><u>[New] Masterclass in Visual Enhancement From Muted SDR to Stunning HDRI</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-safe-sharing-starts-here-the-copyright-check-for-tiktok-videos/"><u>[New] Safe Sharing Starts Here The Copyright Check for TikTok Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-27-hilarious-tiktok-skits-for-smiles-for-2024/"><u>[Updated] 27 Hilarious TikTok Skits for Smiles for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-hasten-through-tiktok-content-efficiently-for-2024/"><u>[Updated] Hasten Through TikTok Content Efficiently for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-bringing-anime-characters-to-life-jujutsu-kaisen-for-tiktok/"><u>[Updated] In 2024, Bringing Anime Characters to Life Jujutsu Kaisen for TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-secrets-of-seamlessly-sharing-in-tiktok-livestreams/"><u>[Updated] In 2024, Secrets of Seamlessly Sharing in TikTok Livestreams</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-merging-markets-youtube-and-brand-collaboration-concepts/"><u>[Updated] Merging Markets YouTube and Brand Collaboration Concepts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-through-fbs-in-stream-ad-landscape-configuration-and-evaluation-techniques/"><u>[Updated] Navigating Through FB's In-Stream Ad Landscape Configuration and Evaluation Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-screen-selection-secrets-7-top-monitors-for-graphic-artists-2024/"><u>[Updated] Screen Selection Secrets – 7 Top Monitors for Graphic Artists, 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-transforming-tweets-into-audio-based-archives/"><u>[Updated] Transforming Tweets Into Audio-Based Archives</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-bite-sized-broadcasting-maintaining-quality-in-quick-posts/"><u>2024 Approved Bite-Sized Broadcasting Maintaining Quality in Quick Posts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-facebooks-premier-evolution-the-five-must-know-features/"><u>In 2024, Facebook's Premier Evolution The Five Must-Know Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-role-of-vector-databases-in-advancing-ai-technology/"><u>The Role of Vector Databases in Advancing AI Technology</u></a></li>
 </ul></div>
 

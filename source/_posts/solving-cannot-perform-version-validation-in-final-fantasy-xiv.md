@@ -1,7 +1,7 @@
 ---
 title: Solving 'Cannot Perform Version Validation' In Final Fantasy XIV
-date: 2024-12-02T04:34:33.888Z
-updated: 2024-12-03T04:27:52.939Z
+date: 2024-12-02T22:52:16.681Z
+updated: 2024-12-09T18:11:11.438Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  Also make sure you have downloaded **[the latest Java version](https://java.com/en/download/manual.jsp)**  , which is important for your Minecraft to run smoothly. Note that you should download the Java file according to your operating system (32-bit or 64-bit).[How to check my computer specs?](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 6 fixes that proved very helpful for many users. You donâ€™t have to try them all; just work your way down the list until you find the one that works for you.
@@ -68,7 +64,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Remove incompatible software
@@ -80,10 +76,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  If youâ€™ve removed all these conflicting applications but your Minecraft is still not responding, you can try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -122,6 +114,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easyâ€™s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  4) After updating the drivers, you need to restart your computer to take effect.
@@ -140,17 +136,21 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Run Minecraft again to see if this works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable Mods
 
@@ -162,10 +162,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall your Minecraft
 
  If none of these fixes above works for you, you may need to try reinstalling the game to solve this problem.
@@ -176,19 +172,23 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click**Minecraft** and select**Uninstall** .
 
  4) Press the Windows logo key and R again to open the Run box again, then type**%appdata%** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/remove-minecraft-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After uninstalling, restart your computer. Go to the[**official Minecraft website**](https://www.minecraft.net/en-us/) to download and install Minecraft again.
 
@@ -218,18 +218,22 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/hannel-identity-made-simple-discover-the-10-best-banner-maker-apps-for-2024/"><u>[New] Channel Identity Made Simple Discover the 10 Best Banner Maker Apps for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-20-tiktok-captions-for-captivating-viewers/"><u>[New] In 2024, Top 20 TikTok Captions for Captivating Viewers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-fresh-filmmaking-innovative-biographical-ideas-to-triple-your-tiktok-following-on-filmora/"><u>[Updated] 2024 Approved Fresh Filmmaking Innovative Biographical Ideas to Triple Your TikTok Following on Filmora</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-insta-gone-locating-the-disappeared-fans/"><u>[Updated] 2024 Approved Insta Gone? Locating the Disappeared Fans</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-mastering-tiktok-crafting-high-impact-marketing-moves/"><u>[Updated] 2024 Approved Mastering TikTok Crafting High-Impact Marketing Moves</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-proactive-copyright-verification-for-your-tiktok-videos/"><u>[Updated] 2024 Approved Proactive Copyright Verification for Your TikTok Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-essential-tips-for-bigger-head-visual-effects-on-tiktok-clips-3-key-techniques-for-2024/"><u>[Updated] Essential Tips for Bigger-Head Visual Effects on TikTok Clips (3 Key Techniques) for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-seamless-creativity-free-mac-apps-for-tiktok-video-edits-for-2024/"><u>[Updated] Seamless Creativity Free Mac Apps for TikTok Video Edits for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-tutorial-unlocking-the-power-of-group-policies-in-windows-11/"><u>Easy Tutorial: Unlocking the Power of Group Policies in Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-professional-posting-hacks-for-instagram-tv/"><u>In 2024, Professional Posting Hacks for Instagram TV</u></a></li>
-<li><a href="https://facebook.techidaily.com/sovereign-suing-social-giants-trump-vs-google-facebook/"><u>Sovereign Suing Social Giants: Trump Vs. Google, Facebook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-3d-lut-design-techniques-for-2024/"><u>Unveiling 3D LUT Design Techniques for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-harnessing-the-power-of-dynamic-images-in-ios/"><u>[New] Harnessing the Power of Dynamic Images in iOS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-free-youtube-channel-art-templates-find-them-here/"><u>[New] In 2024, Free YouTube Channel Art Templates - Find Them Here</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-tiktoks-new-wave-popular-rap-songs-to-sync-with/"><u>[Updated] 2024 Approved TikTok's New Wave Popular Rap Songs to Sync With</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-creative-anime-characters-and-scenes-for-viral-tiktoks-for-2024/"><u>[Updated] Creative Anime Characters & Scenes for Viral TikToks for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-captivating-viewers-with-tiktoks-best-captioning-practices-top-5/"><u>[Updated] In 2024, Captivating Viewers with TikTok's Best Captioning Practices (Top 5)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-dual-performance-the-tiktok-duet-trend/"><u>[Updated] In 2024, Dual Performance The TikTok Duet Trend</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-jump-into-action-how-to-start-someones-tiktok-session-for-2024/"><u>[Updated] Jump Into Action How To Start Someone's TikTok Session for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-stellar-tiktok-handles-the-ultimate-guide-to-30-impactful-names/"><u>[Updated] Stellar TikTok Handles The Ultimate Guide to 30 Impactful Names</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-boost-your-finances-with-these-8-essential-tiktok-strategies/"><u>2024 Approved Boost Your Finances with These 8 Essential TikTok Strategies</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-infinix-hot-30i-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Infinix Hot 30i FRP Bypass Instantly</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-verify-rights-before-sharing-on-tiktok-platforms/"><u>How to Verify Rights Before Sharing on TikTok Platforms</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-breaking-barriers-worlds-best-and-largest-shorts-downloaders/"><u>In 2024, Breaking Barriers Worldâ€™s Best & Largest Shorts Downloaders</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-transformative-tones-expert-chromatic-conversion/"><u>In 2024, Transformative Tones Expert Chromatic Conversion</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-uncovering-methods-for-preserving-social-media-moments-status-videos/"><u>In 2024, Uncovering Methods for Preserving Social Media Moments - Status Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/charge-your-videos-with-these-proven-keyword-analyst-tools-for-2024/"><u>Supercharge Your Videos with These Proven Keyword Analyst Tools for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ltimate-checklist-to-successful-video-marketing-with-tags-for-2024/"><u>The Ultimate Checklist to Successful Video Marketing with Tags for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973353932-updated-hp-scanjet-printer-drivers-for-windows-1087-free-download-now/"><u>Updated HP Scanjet Printer Drivers for Windows 10/8/7: Free Download Now!</u></a></li>
 </ul></div>
 

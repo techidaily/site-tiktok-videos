@@ -1,7 +1,7 @@
 ---
 title: "Code Vein Crashing Solutions: Effective Methods to Resolve Game Stutter"
-date: 2024-11-25T16:24:20.964Z
-updated: 2024-12-02T22:55:54.770Z
+date: 2024-12-02T23:24:02.925Z
+updated: 2024-12-10T09:07:14.596Z
 tags:
   - win11
   - win10
@@ -32,7 +32,7 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
@@ -48,7 +48,7 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Make sure your computer is not overheating
@@ -75,7 +75,7 @@ To do so:
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then run your game again and see if the FPS dropping issue is fixed. If the problem still remains, please move on to the next fix below.
@@ -108,17 +108,21 @@ To do so:
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4.2 Switch to a public DNS server
 
@@ -131,24 +135,24 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
 
@@ -190,10 +194,6 @@ and your network card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -204,6 +204,10 @@ and your network card manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Modify the Power Mode
 
  The default power plan by Windows strikes a balance between power consumption and PC performance, which is a good choice most of the time, especially when you’re not using resource-hungry applications a lot. But games usually need more resources than other regular software programs, so it’s not a bad idea to switch to the **High performance**  plan to improve your game performance. This is even more true when you’re dealing with the FPS dropping problem.
@@ -213,10 +217,6 @@ To change the power mode:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
@@ -250,20 +250,18 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevate-video-aesthetics-to-meet-instagram-standards/"><u>[New] 2024 Approved Elevate Video Aesthetics to Meet Instagram Standards</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-must-know-basics-for-mac-users-on-tiktok/"><u>[New] Must-Know Basics for Mac Users on TikTok</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-simplified-guide-youtube-and-facebook-integration/"><u>[New] Simplified Guide YouTube and Facebook Integration</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-step-by-step-macootd-tiktok-creation-process/"><u>[New] Step by Step MacOOTD TikTok Creation Process</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-unleash-your-fun-with-todays-favorite-tiktoks/"><u>[New] Unleash Your Fun with Today's Favorite TikToks</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-elite-list-tiktoks-most-accurate-earning-analyzers/"><u>[Updated] 2024 Approved Elite List TikTok's Most Accurate Earning Analyzers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-blueprint-to-top-notch-tiktok-marketing-mastery/"><u>[Updated] Blueprint to Top-Notch TikTok Marketing Mastery</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-essential-ingredients-for-triumphant-tiktok-marketing-plans/"><u>[Updated] In 2024, Essential Ingredients for Triumphant TikTok Marketing Plans</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-get-tiktoks-best-videos-in-a-flash/"><u>[Updated] In 2024, Get TikTok's Best Videos in a Flash</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-tailor-your-text-to-voice-top-5-cloud-services-for-chrome-os-sound-transformation/"><u>[Updated] Tailor Your Text to Voice Top 5 Cloud Services for Chrome OS Sound Transformation</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-top-videographers-toolkit-for-easy-downloads/"><u>[Updated] Top Videographers' Toolkit for Easy Downloads</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfect-chat-harmony-how-to-download-and-tailor-whatsapp-tones/"><u>In 2024, Perfect Chat Harmony How to Download and Tailor WhatsApp Tones</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-ultimate-list-10-must-have-video-editing-tools/"><u>New 2024 Approved The Ultimate List 10 Must-Have Video Editing Tools</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tiktop-to-mp4-prime-video-conversion-tools-for-2024/"><u>TikTop to MP4 Prime Video Conversion Tools for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-streamlining-sound-sync-how-to-implement-audio-ducking-for-dynamic-volume-control-in-powerdirector/"><u>Updated Streamlining Sound Sync How to Implement Audio Ducking for Dynamic Volume Control in PowerDirector</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-enhancing-user-experience-with-responsive-html-designs/"><u>[New] 2024 Approved Enhancing User Experience with Responsive HTML Designs</u></a></li>
+<li><a href="https://article-files.techidaily.com/15-things-to-do-while-listening-to-podcasts/"><u>15 Things to Do While Listening to Podcasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-cost-effective-asmr-recording-devices-unveiled/"><u>Elite Cost-Effective ASMR Recording Devices Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-access-securing-your-spot-for-amazons-prime-day-early-bird-offers-complete-guide/"><u>Exclusive Access: Securing Your Spot for Amazon's Prime Day Early Bird Offers - Complete Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-most-advanced-and-user-friendly-smart-speakers-of-2024/"><u>Exploring The Most Advanced and User-Friendly Smart Speakers of 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-unbeatable-face-editing-tools-for-iphone-and-samsungs/"><u>In 2024, 10 Unbeatable Face-Editing Tools for iPhone & Samsungs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-vivo-s17e-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Vivo S17e to Another | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-depth-look-at-the-zmi-powerpack-20000-your-go-to-compact-power-provider-reviewed/"><u>In-Depth Look at the ZMI PowerPack 20000 - Your Go-To Compact Power Provider Reviewed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/introducing-lenovos-new-global-yoga-portable-ai-37l-mini-pc-with-14th-gen-intel-processor-and-thinkcentre-inspired-design/"><u>Introducing Lenovo's New Global Yoga Portable AI: 3.7L Mini PC with 14Th Gen Intel Processor & ThinkCentre-Inspired Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-invalid-profile-warning-on-pc-win1011-advice/"><u>Remedying 'Invalid Profile' Warning on PC: Win10/11 Advice</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sky-high-security-for-your-photos-explore-free-and-paid-options/"><u>Sky-High Security for Your Photos Explore Free and Paid Options</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gear/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gear</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/win-back-control-successful-remedies-for-troublesome-steam-game-starts-in-windows-10/"><u>Win Back Control: Successful Remedies for Troublesome Steam Game Starts in Windows 10</u></a></li>
 </ul></div>
 

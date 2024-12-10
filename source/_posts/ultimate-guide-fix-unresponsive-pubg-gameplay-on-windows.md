@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Fix Unresponsive PUBG Gameplay on Windows"
-date: 2024-11-26T23:09:49.156Z
-updated: 2024-12-02T19:20:14.378Z
+date: 2024-12-03T09:49:35.432Z
+updated: 2024-12-09T18:12:14.179Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ Game crashing issues can really ruin a playful experience.
  If you’re playing Mordhau and it keeps crashing that you can’t even get through a whole match without the game closing to the desktop, you’re certainly not alone! Many players are reporting it.
 
 But the good news is that you can fix it. Here are 8 solutions to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8 simple fixes to try
 
@@ -53,13 +57,13 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Type**dxdiag** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-28.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Check your **operating system, processor, and memory** .
 
@@ -69,11 +73,11 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-37.jpg)
 
- Make sure your system specs meet the requirements, then move on and try the fix below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Make sure your system specs meet the requirements, then move on and try the fix below.
 
 ### Fix 2: Run the game as an administrator
 
@@ -85,13 +89,25 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the**Steam icon** and select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_10-11-20.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-46.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Restart Mordhau.
 
@@ -107,6 +123,10 @@ If your issue persists, go ahead with the next fix.
 
 If this didn’t work for you, try the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Verify the integrity of game files
 
  If Mordhau still won’t launch properly or crashes every now and then, try verifying the integrity of game files to see if any files are damaged or missing. Here is how to do it:
@@ -121,24 +141,16 @@ If this didn’t work for you, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-57.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Relaunch Mordhau to test your issue.
 
 If Mordhau is still crashing, move on and check the fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Update your graphics driver
@@ -157,15 +169,15 @@ If Mordhau is still crashing, move on and check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-02-25-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -204,10 +216,6 @@ If your problem persists, move on to Fix 6.
 
 If your game is still unplayable, move on to the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Configure your virtual memory
 
 **Virtual memory** is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage.
@@ -217,10 +225,6 @@ If your game is still unplayable, move on to the fix below.
 **1)** On your keyboard, press the**Windows logo** key and type**advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Click**View advanced system settings.**
 
@@ -234,6 +238,10 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Uncheck the box next to**Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-22.jpg)
@@ -241,10 +249,6 @@ If your game is still unplayable, move on to the fix below.
 **6)** Click your**C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-29.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Click the option button next to**Custom size** , and then type**4096** in the text box next to**Initial size (MB)** and**Maximum size (MB)** .
 
@@ -259,10 +263,6 @@ If your game is still unplayable, move on to the fix below.
 **9)** Restart your computer and Mordhau.
 
  If you’re still having trouble running Mordhau, don’t fret. There is still 1 more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall Mordhau
 
@@ -317,17 +317,24 @@ If your game is still unplayable, move on to the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-state-of-the-art-gaming-capture-systems-not-just-fbx-files/"><u>[New] State-of-the-Art Gaming Capture Systems, Not Just FBX Files</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unveiling-the-true-winner-in-apples-m1-competition/"><u>[New] Unveiling the True Winner in Apple's M1 Competition</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-earning-success-on-tiktok-unraveling-the-top-8-pathways/"><u>[Updated] 2024 Approved Earning Success on TikTok Unraveling the Top 8 Pathways</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-innovate-your-tiktok-intro-video-a-mac-perspective/"><u>[Updated] 2024 Approved How to Innovate Your TikTok Intro Video - A Mac Perspective</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-audiovisual-cooperation-the-duet-phenomenon-for-2024/"><u>[Updated] Audiovisual Cooperation The Duet Phenomenon for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-boost-engagement-with-effective-video-loops-on-instagram/"><u>[Updated] In 2024, Boost Engagement with Effective Video Loops on Instagram</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-full-screen-perfection-the-top-4-pcmac-screen-recorders/"><u>[Updated] In 2024, Full-Screen Perfection The Top 4 PC/Mac Screen Recorders</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-radiant-realities-setting-up-for-standout-videos/"><u>[Updated] Radiant Realities Setting Up for Standout Videos</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-mini-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 12 mini Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/top-10-free-tiktok-video-editors-compatible-with-macos-for-2024/"><u>Top 10 FREE TikTok Video Editors Compatible with MacOS for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-failed-windows-10-version-1903-updates/"><u>Troubleshooting Tips: Fixing Failed Windows 10 Version 1903 Updates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hdr-mastery-transforming-your-portrait-journey/"><u>[New] HDR Mastery Transforming Your Portrait Journey</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-lut-lovers-delight-complimentary-sets-for-djis-miniair2/"><u>[New] In 2024, LUT Lovers Delight Complimentary Sets for DJI's Mini/Air2</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elevate-your-zoom-sessions-utilizing-filters-effectively-for-2024/"><u>[Updated] Elevate Your Zoom Sessions Utilizing Filters Effectively for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-pathway-to-professional-pc-livestreams-with-tiktok-for-2024/"><u>[Updated] The Pathway to Professional PC Livestreams with TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-updated-list-of-tiktok-competitors-for-the-savvy-user/"><u>[Updated] The Updated List of TikTok Competitors for the Savvy User</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-tiktok-teases-amazon-offers-the-ultimate-deals-to-know-now-for-2024/"><u>[Updated] TikTok Teases, Amazon Offers The Ultimate Deals to Know Now for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unveiling-top-7-tiktok-devices-for-peak-performance/"><u>[Updated] Unveiling Top 7 TikTok Devices for Peak Performance</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-vocalizing-your-visual-content-a-complete-tiktok-manual/"><u>[Updated] Vocalizing Your Visual Content A Complete TikTok Manual</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/decoding-market-mysteries-the-inadequacy-of-gpt-analysis/"><u>Decoding Market Mysteries: The Inadequacy of GPT Analysis</u></a></li>
+<li><a href="https://win-forum.techidaily.com/defeating-the-persistent-problem-of-unrecognized-usb-devices/"><u>Defeating the Persistent Problem of Unrecognized USB Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/exploring-the-new-features-and-enhancements-in-microsoft-surface-pro-7-performance-vs-innovation-balance/"><u>Exploring the New Features and Enhancements in Microsoft Surface Pro 7: Performance vs Innovation Balance</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/fast-track-your-downloads-solve-yahoos-slow-speeds-with-our-2024-guide/"><u>Fast Track Your Downloads: Solve Yahoo's Slow Speeds with Our 2024 Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209780778-9781984854889-love-is-greater-than-pain/"><u>Love Is Greater Than Pain | Free Book</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/master-your-devices-the-ultimate-resource-for-tech-enthusiasts-at-toms-hardware/"><u>Master Your Devices: The Ultimate Resource for Tech Enthusiasts at Tom's Hardware</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009926438-no-more-crashes-in-multiversus-the-ultimate-8-fix-strategies-revealed/"><u>No More Crashes in MultiVersus - The Ultimate 8 Fix Strategies Revealed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/spectacular-stop-motion-animations-15-list/"><u>Spectacular Stop-Motion Animations #15 List</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-internet-interrupted-6-hour-tech-takedown/"><u>The Internet Interrupted: 6-Hour Tech Takedown</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/standing-your-profit-revenue-per-thousand-from-youtubes-adsense-income/"><u>Understanding Your Profit Revenue Per Thousand From YouTube's AdSense Income</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-the-potential-of-written-expression/"><u>Unleash the Potential of Written Expression</u></a></li>
 </ul></div>
 
