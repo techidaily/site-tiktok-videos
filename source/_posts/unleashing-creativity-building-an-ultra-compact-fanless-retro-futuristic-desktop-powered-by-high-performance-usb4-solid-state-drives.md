@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: Building an Ultra Compact, Fanless 'Retro Futuristic' Desktop Powered by High-Performance USB4 Solid State Drives"
-date: 2024-12-09T03:17:41.048Z
-updated: 2024-12-10T06:26:07.102Z
+date: 2024-12-09T20:26:24.937Z
+updated: 2024-12-16T12:23:03.687Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,21 +89,22 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/iscovering-the-top-5-smarter-url-lengtheners-for-youtube-for-2024/"><u>[New] Discovering the Top 5 Smarter URL Lengtheners for YouTube for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-essential-tips-for-magix-video-pro-x-users/"><u>[New] Essential Tips for Magix Video Pro X Users</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-pioneering-your-place-with-premium-desktop-tiktok-videos-for-2024/"><u>[New] Pioneering Your Place with Premium Desktop TikTok Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-make-every-minute-count-for-view-growth-with-youtube-shorts/"><u>[Updated] How to Make Every Minute Count for View Growth with YouTube Shorts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-cutting-edge-communication-strategies-merging-slack-with-filmoras-capabilities/"><u>[Updated] In 2024, Cutting-Edge Communication Strategies Merging Slack with Filmora's Capabilities</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-times-up-rapid-tiktok-video-extraction-techniques/"><u>[Updated] Time's Up Rapid TikTok Video Extraction Techniques</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-transform-your-tiktok-videos-stunning-templates-at-hand-for-2024/"><u>[Updated] Transform Your TikTok Videos Stunning Templates at Hand for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-culinary-waves-top-10-flavorful-tiktok-recipes/"><u>2024 Approved Culinary Waves Top 10 Flavorful TikTok Recipes</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-step-by-step-for-mastering-voice-commands-in-tiktok-videos-with-siri/"><u>2024 Approved Step-by-Step for Mastering Voice Commands in TikTok Videos with Siri</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-connectivity-how-to-fetch-and-update-usb-bluetooth-driver-software-on-windows-systems/"><u>Enhance Connectivity: How to Fetch and Update USB Bluetooth Driver Software on Windows Systems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210275264-9781989838426-guided-meditations-for-overthinking-anxiety-depression-mindfulness/"><u>Guided Meditations For Overthinking, Anxiety, Depression& Mindfulness | Free Book</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-brighten-up-video-on-iphone-five-practical-steps/"><u>In 2024, Brighten Up Video on iPhone Five Practical Steps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pixelated-panorama-vr-cinematic-odyssey/"><u>In 2024, Pixelated Panorama VR Cinematic Odyssey</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/navigating-the-world-of-tiktok-video-mastery-with-mac-tools/"><u>Navigating the World of TikTok Video Mastery with Mac Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/unveiling-the-ultimate-top-10-tiktok-gaming-squad-for-2024/"><u>Unveiling the Ultimate Top 10 TikTok Gaming Squad for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-a-practical-handbook-for-recording-virtual-play-battles-for-2024/"><u>[New] A Practical Handbook for Recording Virtual Play Battles for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-is-sns-hdr-pro-the-gold-standard-for-hdr-editors/"><u>[New] Is SNS HDR Pro the Gold Standard for HDR Editors?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-melodies-meet-movements-creating-tiktok-videos-with-music-for-2024/"><u>[New] Melodies Meet Movements Creating TikTok Videos with Music for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-discover-new-social-horizons-beyond-the-popularity-of-tiktok/"><u>[Updated] 2024 Approved Discover New Social Horizons Beyond the Popularity of TikTok</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-step-by-step-guide-building-high-quality-windows-11-videos/"><u>[Updated] 2024 Approved Step-by-Step Guide Building High-Quality Windows 11 Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-best-of-country-top-20-tunes-for-dancing-stress-free-vibes-tiktok/"><u>[Updated] In 2024, Best of Country Top 20 Tunes for Dancing, Stress-Free Vibes (TikTok)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-likes-vs-ticks-can-likes-outshine-tiktoks-popularity/"><u>[Updated] In 2024, Likes Vs. Ticks Can Likes Outshine TikTok's Popularity?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-permanent-tiktok-account-elimination-guide-for-2024/"><u>[Updated] Permanent TikTok Account Elimination Guide for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-sending-your-creativity-soaring-pc-and-mac-tiktok-video-posts/"><u>[Updated] Sending Your Creativity Soaring PC & Mac TikTok Video Posts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-top-10-no-cost-digital-photography-tools/"><u>2024 Approved Explore Top 10 No-Cost Digital Photography Tools</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1728462367591-onedrive/"><u>重新同步OneDrive文件：完全指南</u></a></li>
+<li><a href="https://win-able.techidaily.com/guilty-gear-strive-eliminating-lag-issues-with-new-optimizations/"><u>Guilty Gear Strive - Eliminating Lag Issues with New Optimizations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2528017-9780811748742-haunted-minnesota/"><u>Haunted Minnesota | Free Book</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/quick-load-techniques-to-enhance-tiktok-videography-for-2024/"><u>Quick-Load Techniques to Enhance TikTok Videography for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-great-video-app-race-will-likeeclipses-tiktoks-dominance-for-2024/"><u>The Great Video App Race Will LikeEclipses TikTok’s Dominance for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-mastering-audio-transitions-2-methods-in-final-cut-pro-for-2024/"><u>Updated Mastering Audio Transitions 2 Methods in Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

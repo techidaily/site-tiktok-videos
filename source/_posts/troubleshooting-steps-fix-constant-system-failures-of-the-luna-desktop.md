@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Fix Constant System Failures of the Luna Desktop"
-date: 2024-12-04T04:19:54.776Z
-updated: 2024-12-10T09:21:02.501Z
+date: 2024-12-14T13:55:01.323Z
+updated: 2024-12-16T06:48:33.565Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Cortana not working?
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 3. [Make sure your Windows 10 system is up-to-date](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Reboot your Windows 10 PC
 
@@ -49,9 +45,17 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Region & language.**
 
@@ -62,10 +66,14 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -79,17 +87,9 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -117,11 +117,11 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Reboot your Windows 10 and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -159,18 +159,24 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-picks-top-10-rated-gopro-cases-revisited/"><u>[New] Expert Picks - Top 10 Rated GoPro Cases Revisited</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-rapid-route-learning-the-ins-and-outs-of-insta-talks-for-2024/"><u>[New] Rapid Route Learning the Ins and Outs of Insta Talks for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-convert-and-share-optimal-tools-for-youtube-to-avi-transfers-for-2024/"><u>[Updated] Convert & Share Optimal Tools for YouTube-to-AVI Transfers for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-speed-up-video-on-tiktok-for-2024/"><u>[Updated] How to Speed Up Video on TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-creating-clip-sensations-tiktoks-viral-guide/"><u>[Updated] In 2024, Creating Clip Sensations TikTok's Viral Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-essential-tips-for-efficient-camera-roll-upload-to-snapchat/"><u>[Updated] In 2024, Essential Tips for Efficient Camera Roll Upload to Snapchat</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-maximizing-your-tiktok-intro-a-mac-guide/"><u>[Updated] In 2024, Maximizing Your TikTok Intro A Mac Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/androids-roadmap-to-supremacy-key-areas-of-enhancement-against-ios-identified/"><u>Android's Roadmap to Supremacy: Key Areas of Enhancement Against iOS Identified</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conceptual-flowchart-mindmaps-meet-chatai/"><u>Conceptual Flowchart: Mindmaps Meet ChatAI</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-intels-top-tier-nvme-drivers-quick-simple-steps-inside/"><u>Download Intel's Top-Tier NVMe Drivers - Quick, Simple Steps Inside</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-y28-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo Y28 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-converting-pdf-files-into-images-across-pc-mac-and-chromebook/"><u>Step-by-Step Guide: Converting PDF Files Into Images Across PC, Mac and Chromebook</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/troubleshooting-usb-installation-failures-due-to-access-is-denied-alerts/"><u>Troubleshooting USB Installation Failures Due to Access Is Denied Alerts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-boosting-tiktok-video-playback-speeds/"><u>[New] 2024 Approved Boosting TikTok Video Playback Speeds</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-9-swift-solutions-for-boosting-your-tiktok-community-for-2024/"><u>[New] 9 Swift Solutions for Boosting Your TikTok Community for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-crafting-engagement-top-5-typeface-tools-to-amplify-your-tiktok-reach/"><u>[New] In 2024, Crafting Engagement Top 5 Typeface Tools to Amplify Your TikTok Reach</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-explore-the-power-of-visuals-mastery-over-tiktok-video-backgrounds/"><u>[New] In 2024, Explore the Power of Visuals Mastery over TikTok Video Backgrounds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earning-in-the-limelight-without-ads-a-comprehensive-guide-to-youtube-income/"><u>[Updated] 2024 Approved Earning in the Limelight without Ads A Comprehensive Guide to YouTube Income</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-budding-photographers-guide-to-enhanced-gopro-capabilities/"><u>2024 Approved Budding Photographers' Guide to Enhanced GoPro Capabilities</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/accelerating-your-tiktok-content-a-quick-guide-for-2024/"><u>Accelerating Your TikTok Content A Quick Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-manycam-app-top-live-streaming-software-with-virtual-webcam-features/"><u>Best ManyCam App: Top Live Streaming Software with Virtual Webcam Features</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/capture-attention-with-top-mobile-video-editing-software-for-snapchats/"><u>Capture Attention with Top Mobile Video Editing Software for Snapchats</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/essential-skills-for-efficient-teamsnap-photo-taking/"><u>Essential Skills for Efficient TeamSnap Photo Taking</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976822942-get-your-free-epson-et-2750-drivers-installed-on-windows-pcs-today/"><u>Get Your Free Epson ET-2750 Drivers Installed on Windows PCs Today</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonizing-usbasp-driver-functionality-across-generations-windows/"><u>Harmonizing USBasp Driver Functionality Across Generations (Windows)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-embarking-on-a-shared-tiktok-experience-your-instructional-path/"><u>In 2024, Embarking on a Shared TikTok Experience Your Instructional Path</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quirky-expressions-in-text-master-meme-creation/"><u>In 2024, Quirky Expressions in Text Master Meme Creation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unlocking-tiktoks-secrets-to-skyrocketing-engagement/"><u>In 2024, Unlocking TikTok's Secrets to Skyrocketing Engagement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-quick-and-seamless-macbook-data-migration-surprising-secrets-unveiled/"><u>Mastering Quick & Seamless MacBook Data Migration: Surprising Secrets Unveiled!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-s24-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy S24 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-creating-impactful-ae-titles-for-2024/"><u>The Art of Creating Impactful AE Titles for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-cmd-connoisseurs-guide-to-five-fun-hacks/"><u>The Cmd Connoisseur's Guide to Five Fun Hacks</u></a></li>
 </ul></div>
 

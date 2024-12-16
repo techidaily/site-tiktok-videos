@@ -1,7 +1,7 @@
 ---
 title: Solving 'Cannot Perform Version Validation' In Final Fantasy XIV
-date: 2024-12-02T22:52:16.681Z
-updated: 2024-12-09T18:11:11.438Z
+date: 2024-12-10T05:34:53.471Z
+updated: 2024-12-16T04:36:12.267Z
 tags:
   - win11
   - win10
@@ -63,10 +63,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Remove incompatible software
 
  Norton anti-virus software is known to cause issues with Minecraft. It can be a little too protective and will block things you donâ€™t want to block even when youâ€™ve disabled it. You can install the software or replace it to avoid bumping into the same problem.
@@ -76,6 +72,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  If youâ€™ve removed all these conflicting applications but your Minecraft is still not responding, you can try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -106,6 +106,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
 
 **Or**
@@ -113,10 +117,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  Click the**Update All** button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  â€” you will be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easyâ€™s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -141,16 +141,12 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Run Minecraft again to see if this works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable Mods
 
@@ -161,6 +157,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  Donâ€™t forget to restart your computer before you play the game again.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall your Minecraft
 
@@ -173,7 +173,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click**Minecraft** and select**Uninstall** .
@@ -182,13 +182,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/remove-minecraft-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After uninstalling, restart your computer. Go to the[**official Minecraft website**](https://www.minecraft.net/en-us/) to download and install Minecraft again.
 
@@ -218,22 +218,20 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-harnessing-the-power-of-dynamic-images-in-ios/"><u>[New] Harnessing the Power of Dynamic Images in iOS</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-free-youtube-channel-art-templates-find-them-here/"><u>[New] In 2024, Free YouTube Channel Art Templates - Find Them Here</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-tiktoks-new-wave-popular-rap-songs-to-sync-with/"><u>[Updated] 2024 Approved TikTok's New Wave Popular Rap Songs to Sync With</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-creative-anime-characters-and-scenes-for-viral-tiktoks-for-2024/"><u>[Updated] Creative Anime Characters & Scenes for Viral TikToks for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-captivating-viewers-with-tiktoks-best-captioning-practices-top-5/"><u>[Updated] In 2024, Captivating Viewers with TikTok's Best Captioning Practices (Top 5)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-dual-performance-the-tiktok-duet-trend/"><u>[Updated] In 2024, Dual Performance The TikTok Duet Trend</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-jump-into-action-how-to-start-someones-tiktok-session-for-2024/"><u>[Updated] Jump Into Action How To Start Someone's TikTok Session for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-stellar-tiktok-handles-the-ultimate-guide-to-30-impactful-names/"><u>[Updated] Stellar TikTok Handles The Ultimate Guide to 30 Impactful Names</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-boost-your-finances-with-these-8-essential-tiktok-strategies/"><u>2024 Approved Boost Your Finances with These 8 Essential TikTok Strategies</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-infinix-hot-30i-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Infinix Hot 30i FRP Bypass Instantly</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/how-to-verify-rights-before-sharing-on-tiktok-platforms/"><u>How to Verify Rights Before Sharing on TikTok Platforms</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-breaking-barriers-worlds-best-and-largest-shorts-downloaders/"><u>In 2024, Breaking Barriers Worldâ€™s Best & Largest Shorts Downloaders</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-transformative-tones-expert-chromatic-conversion/"><u>In 2024, Transformative Tones Expert Chromatic Conversion</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-uncovering-methods-for-preserving-social-media-moments-status-videos/"><u>In 2024, Uncovering Methods for Preserving Social Media Moments - Status Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/charge-your-videos-with-these-proven-keyword-analyst-tools-for-2024/"><u>Supercharge Your Videos with These Proven Keyword Analyst Tools for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ltimate-checklist-to-successful-video-marketing-with-tags-for-2024/"><u>The Ultimate Checklist to Successful Video Marketing with Tags for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722973353932-updated-hp-scanjet-printer-drivers-for-windows-1087-free-download-now/"><u>Updated HP Scanjet Printer Drivers for Windows 10/8/7: Free Download Now!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-backdrop-bassline-tunes-to-enhance-media/"><u>[New] 2024 Approved Backdrop Bassline Tunes to Enhance Media</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-outsmarting-tiktoks-unseen-ban-a-recovery-plan/"><u>[New] Outsmarting TikTok's Unseen Ban A Recovery Plan</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/treaming-tunes-quick-methods-for-youtube-videos-in-imovie/"><u>[New] Streaming Tunes Quick Methods for Youtube Videos in iMovie</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-tapping-into-the-digital-fortune-filmmoras-role-in-tiktok-success-for-2024/"><u>[New] Tapping Into the Digital Fortune Filmmora's Role in TikTok Success for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unleashing-your-creative-potential-with-siri-on-tiktok-apps/"><u>[Updated] 2024 Approved Unleashing Your Creative Potential with Siri on TikTok Apps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-essential-elements-to-design-a-victory-winning-tiktok-advertisement-for-2024/"><u>[Updated] Essential Elements to Design a Victory-Winning TikTok Advertisement for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-faithful-melodies-downloaded-tips-for-personalization/"><u>[Updated] Faithful Melodies Downloaded Tips for Personalization</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-elevate-your-tiktok-impact-through-masterful-cloning/"><u>[Updated] In 2024, Elevate Your TikTok Impact Through Masterful Cloning</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-step-by-step-guide-to-using-tiktok-hashtags-wisely/"><u>[Updated] In 2024, Step-by-Step Guide to Using TikTok Hashtags Wisely</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-ethical-strategies-for-ai-in-writing-and-editing/"><u>7 Ethical Strategies for AI in Writing and Editing</u></a></li>
+<li><a href="https://games-able.techidaily.com/eradicate-epic-game-crashes-on-windows-systems/"><u>Eradicate Epic Game Crashes on Windows Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kobo-clara-colour-e-reader-breakdown-a-detailed-review/"><u>Kobo Clara Colour E-Reader Breakdown - A Detailed Review</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-stuttering-issues-while-gaming-on-systems-with-high-frames-per-second-fps/"><u>Resolving Stuttering Issues While Gaming on Systems with High Frames Per Second (FPS)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722872278203-securing-gmail-with-an-extra-layer-of-safety-turn-on-2fa-now/"><u>Securing Gmail with an Extra Layer of Safety: Turn On 2FA Now</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/top-6-tiktok-money-calculators-earnings-estimator/"><u>Top 6 TikTok Money Calculators [Earnings Estimator]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Inside Lenovo's Game Plan: Integrating Domestically-Crafted CPUs Into Its Acclaimed Legion 7000K Gaming Series in China"
-date: 2024-12-04T16:36:43.780Z
-updated: 2024-12-09T18:25:31.711Z
+date: 2024-12-12T04:23:08.371Z
+updated: 2024-12-15T23:39:59.288Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,20 +78,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-ultimate-2023-checklist-for-camstudio-video-recording/"><u>[New] 2024 Approved The Ultimate 2023 Checklist for CamStudio Video Recording</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-a-blueprint-building-an-individualistic-tiktok-identifier/"><u>[New] In 2024, A Blueprint Building an Individualistic TikTok Identifier</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-mastering-tiktok-streams-top-4-methods-on-pc-for-2024/"><u>[New] Mastering TikTok Streams Top 4 Methods on PC for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-crafting-a-new-digital-persona-comprehensible-steps-for-changing-tiktok-handle-for-2024/"><u>[Updated] Crafting a New Digital Persona Comprehensible Steps for Changing TikTok Handle for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-safe-purchase-high-quality-tiktok-followers/"><u>[Updated] Safe Purchase High-Quality TikTok Followers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-digital-dawnings-of-insight-augmented-metaverse-mantras/"><u>2024 Approved Digital Dawnings of Insight Augmented Metaverse Mantras</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-play-40c-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor Play 40C.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-universe-with-vive-cosmos-top-contender-in-todays-virtual-reality-arena/"><u>Exploring the Universe with Vive Cosmos - Top Contender in Today's Virtual Reality Arena</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/gratuit-online-mp2-to-wav-konverteren-professioneel-resultaat-movavi/"><u>Gratuit Online Mp2 To Wav Konverteren - Professioneel Resultaat - Movavi</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-crafting-captivating-tiktoks-mastering-the-use-of-pre-designed-templates/"><u>In 2024, Crafting Captivating TikToks Mastering the Use of Pre-Designed Templates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-msvcr80dll-not-found-errors-with-ease/"><u>Overcoming MSVCR80.DLL Not Found Errors with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-usb-failures-unraveling-the-descriptor-request-failed-issue/"><u>Solving the Mystery of USB Failures: Unraveling the 'Descriptor Request Failed' Issue</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/top-30-trending-tiktok-anime-inspirations-for-2024/"><u>Top 30 Trending TikTok Anime Inspirations for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-full-disk-utilization-in-windows-10-a-step-by-step-tutorial/"><u>Troubleshooting Full Disk Utilization in Windows 10 - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pacing-presentations-with-ease-speedy-slides/"><u>[New] Pacing Presentations with Ease Speedy Slides</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-cutting-edge-of-content-tips-for-the-trendy-tiktoker-for-2024/"><u>[New] The Cutting Edge of Content Tips for the Trendy TikToker for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-turning-challenges-into-paydays-top-8-tiktok-money-making-ways/"><u>[New] Turning Challenges Into Paydays Top 8 TikTok Money-Making Ways</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unveiling-the-art-of-digital-broadcasting-in-real-time/"><u>[New] Unveiling the Art of Digital Broadcasting in Real Time</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-7-low-cost-tiktok-video-enhancements-on-macos/"><u>[Updated] 2024 Approved 7 Low-Cost TikTok Video Enhancements on MacOS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-a-compreehensive-guide-to-youtube-thumbnail-creation-mac/"><u>[Updated] 2024 Approved A Compreehensive Guide to YouTube Thumbnail Creation (Mac)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-maximizing-your-tiktok-intro-a-mac-guide/"><u>[Updated] 2024 Approved Maximizing Your TikTok Intro A Mac Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-essential-earning-calculators-a-tiktok-creators-toolkit/"><u>[Updated] Essential Earning Calculators A TikTok Creator's Toolkit</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ios-choice-premium-psp-emulators-ranked-1-5/"><u>[Updated] In 2024, IOS Choice Premium PSP Emulators Ranked #1-5</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-reliable-tool-for-quick-high-quality-tiktok-to-mp4-extraction/"><u>[Updated] In 2024, Reliable Tool for Quick, High-Quality TikTok to MP4 Extraction</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-social-media-showdown-triller-vs-tiktok-head-to-head-analysis-max-156-chars/"><u>[Updated] In 2024, Social Media Showdown Triller VS TikTok Head-to-Head Analysis (Max 156 Chars)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-swift-playback-in-tiktok-enhancing-performance-for-2024/"><u>[Updated] Swift Playback in TikTok Enhancing Performance for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-unlock-the-full-potential-of-windows-photos-app-with-visual-and-audio-tweaks/"><u>In 2024, Unlock the Full Potential of Windows Photos App with Visual & Audio Tweaks</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Razr 40 | Dr.fone</u></a></li>
 </ul></div>
 

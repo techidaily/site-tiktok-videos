@@ -1,7 +1,7 @@
 ---
 title: "Asus Unveils New NUC Pert+ Model: Packing a Meteor Lake CPU, Core Ultra-5 125H for $860!"
-date: 2024-12-05T02:44:54.131Z
-updated: 2024-12-10T00:42:08.350Z
+date: 2024-12-15T02:32:45.910Z
+updated: 2024-12-15T16:54:36.985Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,20 +54,24 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-art-of-music-laced-tiktok-production-for-2024/"><u>[New] The Art of Music-Laced TikTok Production for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-transformative-tiktok-techniques-for-business-expansion/"><u>[Updated] 2024 Approved Transformative TikTok Techniques for Business Expansion</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-developing-persuasive-podcast-hooklines-for-2024/"><u>[Updated] Developing Persuasive Podcast Hooklines for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-essential-steps-for-top-tier-tiktok-intros-mac-edition/"><u>[Updated] In 2024, Essential Steps for Top-Tier TikTok Intros - Mac Edition</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-gentle-grooves-a-selection-of-chill-country-songs-for-relaxing-dancing-tiktok/"><u>[Updated] In 2024, Gentle Grooves A Selection of Chill Country Songs for Relaxing Dancing (TikTok)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-skyrocket-your-earnings-on-tiktok-discover-the-top-8-ways/"><u>[Updated] In 2024, Skyrocket Your Earnings on TikTok Discover the Top 8 Ways</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/androidwmv/"><u>Android端末で簡単にWMVファイル再生：追加のツール無しで</u></a></li>
-<li><a href="https://win-net.techidaily.com/ensuring-perfect-fit-a-step-by-step-guide-to-verify-hardware-compatibility-pre-purchase-tips-from-yl-computing/"><u>Ensuring Perfect Fit: A Step-by-Step Guide to Verify Hardware Compatibility Pre-Purchase - Tips From YL Computing</u></a></li>
-<li><a href="https://facebook.techidaily.com/highlighted-happenings-bold-italic-for-impactful-talk/"><u>Highlighted Happenings: Bold, Italic for Impactful Talk</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-integrate-the-endzone-extension-onto-your-kodi-platform-versions-20-and-19/"><u>How To Integrate The Endzone Extension Onto Your Kodi Platform (Versions 20 & 19)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-7-plus-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 7 Plus You Should Try Out</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-essential-guide-to-win-compatible-tiktok-editing-software/"><u>The Essential Guide to Win-Compatible TikTok Editing Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-iphone-audio-issues-enhancing-call-volume-effectively/"><u>Troubleshooting iPhone Audio Issues: Enhancing Call Volume Effectively</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-how-to-do-siri-voice-on-tiktok/"><u>[New] 2024 Approved How to Do Siri Voice on TikTok?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-optimizing-content-creation-on-tiktok-incorporating-siri-speech-functions/"><u>[New] 2024 Approved Optimizing Content Creation on TikTok Incorporating Siri Speech Functions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-skyrocket-your-earnings-on-tiktok-discover-the-top-8-ways/"><u>[New] 2024 Approved Skyrocket Your Earnings on TikTok Discover the Top 8 Ways</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-command-attention-with-these-powerful-20-tiktok-caption-ideas-for-2024/"><u>[New] Command Attention with These Powerful 20 TikTok Caption Ideas for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-elevating-your-tiktok-pics-with-simple-edits/"><u>[New] In 2024, Elevating Your TikTok Pics with Simple Edits</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-navigating-the-sea-of-stars-standing-out-in-tiktoks-world/"><u>[New] In 2024, Navigating the Sea of Stars Standing Out in TikTok's World</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-social-scanning-shorthand-efficient-profile-hunting-on-fb/"><u>[Updated] Social Scanning Shorthand Efficient Profile Hunting on FB</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fundamental-skills-for-producing-emotionally-driven-testimonials/"><u>2024 Approved Fundamental Skills for Producing Emotionally-Driven Testimonials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-10-free-jpg-to-gif-conversion-tools-for-2024/"><u>Best 10 Free JPG to GIF Conversion Tools for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-10-best-lightroom-alternatives-free-and-paid/"><u>In 2024, 10 Best Lightroom Alternatives [Free & Paid]</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-delightful-yuletide-cinema-on-youtube-savor-nine-whole-film-gems/"><u>In 2024, Delightful Yuletide Cinema on YouTube Savor Nine Whole-Film Gems</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-secure-increase-in-your-tiktok-clout/"><u>In 2024, Secure Increase in Your TikTok Clout</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-guide-to-bigger-head-vfx-for-tiktok-creators-3-ways/"><u>In 2024, The Ultimate Guide to Bigger-Head VFX for TikTok Creators (3 Ways)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/invisible-snapcapture-mastering-the-art-of-stealthy-picture-recording/"><u>Invisible SnapCapture Mastering the Art of Stealthy Picture Recording</u></a></li>
+<li><a href="https://win-hot.techidaily.com/leading-replacement-software-for-itunes-on-windows-expert-recommendations-for-iphone-users/"><u>Leading Replacement Software for iTunes on Windows - Expert Recommendations for iPhone Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oneplus-nord-n30-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on OnePlus Nord N30 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-swift-elgato-driver-software-installation/"><u>Simple Steps: Swift Elgato Driver Software Installation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/starcraft-2-pc-compatibility-fixing-instances-of-the-game-shutting-down-unexpectedly/"><u>Starcraft 2 PC Compatibility: Fixing Instances of the Game Shutting Down Unexpectedly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/step-by-step-to-emoji-stickers-a-complete-tutorial-for-telegram-and-beyond/"><u>Step-by-Step to Emoji Stickers A Complete Tutorial for Telegram and Beyond</u></a></li>
 </ul></div>
 
