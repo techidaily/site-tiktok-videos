@@ -1,7 +1,7 @@
 ---
 title: "Riding on Innovation: Discover How Lenovo Is Boosting Its Legion #7000K Towers with Locally Developed Processor Technology in China"
-date: 2024-12-14T11:03:16.551Z
-updated: 2024-12-16T00:08:06.624Z
+date: 2024-12-18T18:19:49.766Z
+updated: 2024-12-25T06:59:55.000Z
 tags:
   - desktop
 categories:
@@ -27,17 +27,9 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Also note that we don't include the cost of an operating system, because you can get[Windows for Free or Cheap](https://www.tomshardware.com/reviews/get-windows-10-free-or-cheap,5717.html) . Nor do we include the price of peripherals such as the[best gaming monitors](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html) ,[best gaming keyboards](https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards) or[best gaming mouse](https://www.tomshardware.com/best-picks/best-gaming-mouse) . And if you've never made a computer before, see our article on[how to build a PC](https://www.tomshardware.com/how-to/build-a-pc) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best $500 PC Build for Gaming
 
 ![Cooler Master MasterBox Q300L](https://cdn.mos.cms.futurecdn.net/Zoebn2FkWQprjxmm7jKxZS-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -75,6 +67,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
   
  Finally, we need something to power the whole system, and this is an area where we opted to compromise in pursuit of the $500 price point. The $40 500W PSU should be fine for this basic build, which will likely peak at around 200W of power use, but the Thermaltake Smart series isn't exactly highly regarded, and the listing mentions Haswell support (circa 2014) and it only has 80 Plus certification, which are clear drawbacks. If you want a quality PSU, check out the[Thermaltake Toughpower GX2 600W](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB087CDR14Z%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2901418645577992029-20) that costs $20 more. It's an 80 Plus Gold certified PSU, from a reputable brand, albeit overkill for a build like this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best $800 PC Build for Gaming
 
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
@@ -110,7 +106,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![1080p GPUs Ranked](https://cdn.mos.cms.futurecdn.net/ktyz8PAoeeySeFAwDS7RGh-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -130,10 +126,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ## Best $1,000 PC Build for Gaming
 
 ![Phanteks XT Pro](https://cdn.mos.cms.futurecdn.net/AeCzMV4DUqQFiBnV2hPQuf-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -159,6 +151,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![CPU 1080p performance for Ryzen 7 5700X3D](https://cdn.mos.cms.futurecdn.net/FubLpBjdNUCy6aXRouBReZ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Newegg)
 
  To support our Ryzen 7 57003XD, we're using a Gigabyte B550 UD AC motherboard. This board has built-in Wi-Fi 6 and it also has Q-Flash, which allows you to[update the BIOS](https://www.tomshardware.com/how-to/update-bios-on-a-pc) , before you install the CPU. This may be necessary as the 5700X3D just came out a few months ago.
@@ -176,10 +172,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  We're going with the[Phanteks XT Pro](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-3971734713525887260%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252F11-854-132) as our case, because it has a quality, mesh design, room for up to a 360mm AIO up top and the ability to support back-connecting motherboards, should you get one in the future. For $20, you can get the[Phanteks XT Pro Ultra](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2132366878660750340%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252FN82E16811854133) , which comes with four ARGB fans.
 
  Finally, we've stepped up to a 750-watt power supply and we're going with Corsair CX750M, which is 80+ Bronze certified and semi-modular. You can get a modular PSU or one that's 80+ Gold certified for a bit more, but that's money you don't need to spend at this price point.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best $1,500 PC Build for Gaming
 
@@ -221,6 +213,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![WD SN850X](https://cdn.mos.cms.futurecdn.net/Zgbo67f5diWaNQg29SQ3nQ-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Our case for this build is the $99[Lian Li Lancool 216](https://www.tomshardware.com/reviews/lian-li-lancool-216-review) . When we reviewed the Lancool 216, we praised its included dual RGB 160mm front and single 140mm exhaust fans, excellent cable management and attractive looks. There's also plenty of room for a top-mounted radiator that's up to 360mm.
@@ -254,7 +250,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![RTX 4070 Ti Super Charts](https://cdn.mos.cms.futurecdn.net/xLHYFZLdk36D2Rmd2iLYFa-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -264,6 +260,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  On our suite of[Windows 11](https://www.tomshardware.com/tag/windows-11) tests, running at 1080p with an RTX 4090 card, the 7800X3D averaged 224 fps, putting it slightly ahead of the Ryzen 9 7950X3D (222 fps) and way ahead of Intel's top-ranked Core i9-13900K (200 fps).
 
 ![Ryzen 7 7800X3D 1080p gaming tests](https://cdn.mos.cms.futurecdn.net/c5TiEiPPHBkLtGTfkp3Tyh-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -286,7 +286,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Fractal Design North XL](https://cdn.mos.cms.futurecdn.net/gohZoiw9QykbPm5kgrhfbi-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -322,7 +322,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Ryzen 7 7950X3D Charts](https://cdn.mos.cms.futurecdn.net/DiWoGh9Fc2ovFWFiYuJeuG-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -336,7 +336,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Samsung 990 Pro 4TB Benchmarks](https://cdn.mos.cms.futurecdn.net/GArKvY8BSc22ZhDRwWyr2C-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -364,21 +364,24 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-10-best-online-video-cutters-on-youtube-for-2024/"><u>[New] 10 Best Online Video Cutters on YouTube for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-in-search-of-perfection-gopros-1-10-case-review/"><u>[New] 2024 Approved In Search of Perfection - GoPro's #1-10 Case Review</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-unlocking-tiktok-a-comprehensive-guide-for-macpc/"><u>[New] In 2024, Unlocking TikTok A Comprehensive Guide for Mac/PC</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-clone-game-amplifying-your-presence-on-tiktok/"><u>[New] The Clone Game Amplifying Your Presence on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-5-essentials-for-mastering-tiktok-on-macos-for-2024/"><u>[New] Top 5 Essentials for Mastering TikTok on macOS for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-archivists-arsenal-pivotal-80s-vhs-tricks-for-editors/"><u>[Updated] 2024 Approved The Archivist’s Arsenal Pivotal 80S VHS Tricks for Editors</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-hashing-it-out-best-tags-to-transform-views-and-profit/"><u>[Updated] In 2024, Hashing It Out Best Tags to Transform Views & Profit</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-rhythm-and-precision-crafting-tiktok-moves-on-a-mac/"><u>[Updated] In 2024, Rhythm & Precision Crafting TikTok Moves on a Mac</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-quick-pick-tricks-mastering-tiktok-photo-hacks/"><u>[Updated] Quick-Pick Tricks Mastering TikTok Photo Hacks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-navigating-itunes-to-listen-to-podcasts/"><u>2024 Approved Navigating iTunes to Listen to Podcasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revealing-the-quintessential-5-titling-visionaries-online/"><u>2024 Approved Revealing the Quintessential 5 Titling Visionaries Online</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/investigating-magix-audio-mixer-mastery-for-2024/"><u>Investigating MAGIX Audio Mixer Mastery for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/streamlining-your-video-creation-ootd-on-a-mac-for-2024/"><u>Streamlining Your Video Creation OOTD on a Mac for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-elite-10-secrets-for-tiktok-sensations-for-2024/"><u>The Elite 10 Secrets for TikTok Sensations for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-complex-communication-how-chatgpt-can-help-you-navigate-tricky-email-situations-at-work/"><u>Transforming Complex Communication: How ChatGPT Can Help You Navigate Tricky Email Situations at Work</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-performance-issues-how-to-fix-low-fps-in-nier-gestalt-and-nier-replicant/"><u>Troubleshooting Performance Issues: How to Fix Low FPS in NieR: Gestalt and NieR: Replicant</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cademic-avenue-leading-educators-on-youtube/"><u>[New] Academic Avenue Leading Educators on YouTube</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-jujutsu-kaisen-making-waves-tiktok-edition/"><u>[New] In 2024, Jujutsu Kaisen Making Waves TikTok Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-8-youtube-rank-tracker-to-track-your-video/"><u>[New] Top 8 YouTube Rank Tracker to Track Your Video</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-tiktok-savvy-snag-videos-in-minutes/"><u>[Updated] 2024 Approved TikTok Savvy - Snag Videos in Minutes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-top-15-virtual-classrooms-for-aspiring-scientists/"><u>[Updated] 2024 Approved Top 15 Virtual Classrooms for Aspiring Scientists</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-standing-out-on-tiktok-masterful-pfp-techniques-and-concepts/"><u>[Updated] Standing Out on TikTok Masterful PFP Techniques and Concepts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unlocking-tiktok-the-ultimate-guide-to-joining-lives-for-2024/"><u>[Updated] Unlocking TikTok The Ultimate Guide to Joining Lives for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/direct-download-wizardry-turning-tiktok-to-perfect-mp4s/"><u>Direct Download Wizardry Turning TikTok to Perfect MP4s</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/expert-tips-for-radial-blur-techniques-in-photoshop/"><u>Expert Tips for Radial Blur Techniques in Photoshop</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/finding-the-right-wordmark-for-your-personalized-tiktok-stream-for-2024/"><u>Finding the Right Wordmark for Your Personalized TikTok Stream for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/improved-video-function-win10-and-asus-webcam-collaboration/"><u>Improved Video Function: Win10 & Asus Webcam Collaboration</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-boost-your-video-virality-essential-tiktok-lyrics/"><u>In 2024, Boost Your Video Virality Essential TikTok Lyrics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-review-of-asuss-4k-hdr-powerhouse/"><u>In 2024, The Ultimate Review of ASUS's 4K HDR Powerhouse</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-tiktok-photo-editing-hack-how-to-ace-the-viral-hacks-easily/"><u>In 2024, TikTok Photo Editing Hack How to Ace the Viral Hacks Easily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-blur-techniques-in-visual-editing/"><u>Master Blur Techniques in Visual Editing</u></a></li>
+<li><a href="https://win-updates.techidaily.com/msi-upgrades-versus-msp-navigating-through-microsofts-system-package-options/"><u>MSI Upgrades Versus MSP: Navigating Through Microsoft's System Package Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-corsair-hs60-mic-solutions-for-when-it-stops-working/"><u>Reviving Your Corsair HS60 Mic - Solutions for When It Stops Working</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/systematic-guide-unearthing-youtubes-concealed-content/"><u>Systematic Guide Unearthing YouTube's Concealed Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/teaming-up-for-duet-video-on-tiktok-for-2024/"><u>Teaming Up for Duet Video on TikTok for 2024</u></a></li>
 </ul></div>
 

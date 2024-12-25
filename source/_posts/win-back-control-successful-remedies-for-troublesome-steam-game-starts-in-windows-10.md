@@ -1,7 +1,7 @@
 ---
 title: "Win Back Control: Successful Remedies for Troublesome Steam Game Starts in Windows 10"
-date: 2024-12-10T16:17:24.259Z
-updated: 2024-12-15T17:52:32.788Z
+date: 2024-12-24T02:04:53.793Z
+updated: 2024-12-24T22:51:13.814Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/927eab612ca9394a8dc7ea238a2f885f7ea9117fa
 
 **Control keeps crashing on your PC?** Don’t worry…  
  Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/927eab612ca9394a8dc7ea238a2f885f7ea9117fa
 11. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics drivers
@@ -80,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/927eab612ca9394a8dc7ea238a2f885f7ea9117fa
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here are the system requirements for Control:
@@ -94,7 +90,7 @@ Here are the system requirements for Control:
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
@@ -113,12 +109,12 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
@@ -131,23 +127,11 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Modify Intel graphics card
 
@@ -164,8 +148,16 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
@@ -173,10 +165,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Delete the “render.ini” file
 
@@ -189,6 +177,10 @@ Here are the system requirements for Control:
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Perform a Windows Update
 
  According to the game developers, if MS Visual C++ is missing or corrupted, you may also run into the Control crash issue. To resolve this problem, you need to reinstall Official Microsoft Visual C++ 2013 and .NET Framework.
@@ -200,7 +192,7 @@ Here are the system requirements for Control:
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
@@ -228,7 +220,15 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
@@ -279,22 +279,22 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-techniques-streaming-hulu-on-win-mac-and-mobile/"><u>[New] In 2024, Ultimate Techniques Streaming Hulu on Win, Mac, and Mobile</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-mastering-your-mac-creating-captivating-style-videography-for-2024/"><u>[New] Mastering Your Mac Creating Captivating Style Videography for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-explore-affordable-mac-video-editing-tools-tiktok-edition/"><u>[Updated] 2024 Approved Explore Affordable Mac Video Editing Tools (TikTok Edition)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-how-to-embrace-tiktok-as-a-macbook-enthusiast/"><u>[Updated] In 2024, How to Embrace TikTok as a MacBook Enthusiast</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-mastering-tiktok-essential-factors-for-mac-users/"><u>[Updated] In 2024, Mastering TikTok Essential Factors for Mac Users</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unlock-the-full-potential-of-tiktok-on-applewindows-devices/"><u>[Updated] In 2024, Unlock the Full Potential of TikTok on Apple/Windows Devices</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unlocking-the-secrets-of-successful-tiktok-hashtags/"><u>[Updated] In 2024, Unlocking the Secrets of Successful TikTok Hashtags</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-yearbook-beatdowns-the-top-ten-tiktok-hits-of-the-new-decade/"><u>[Updated] In 2024, Yearbook Beatdowns The Top Ten TikTok Hits of the New Decade</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-writing-skills-through-chatgpt-practice/"><u>Enhancing Writing Skills Through ChatGPT Practice</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-personalized-video-setups-a-beginners-guide-to-selfies-on-youtube/"><u>In 2024, Personalized Video Setups A Beginner's Guide to Selfies on YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pc-windows-11/"><u>PC画面動画キャプチャツールをお勧めする - Windows 11で使う方法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-mitigate-internal-error-in-windows-remote-desktop/"><u>Steps to Mitigate Internal Error in Windows Remote Desktop</u></a></li>
-<li><a href="https://video-capture.techidaily.com/techniques-to-enhance-your-video-gaming-archive/"><u>Techniques to Enhance Your Video Gaming Archive</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tiktoks-hidden-treasures-grab-em-all-for-free-for-2024/"><u>TikTok's Hidden Treasures Grab 'Em All for Free for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-managing-registry-keys-with-ease-tips-from-revo-uninstaller/"><u>Ultimate Guide: Managing Registry Keys with Ease – Tips From Revo Uninstaller</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/uncovering-plugins-that-create-realistic-flatulent-effects-for-games-and-films/"><u>Uncovering Plugins That Create Realistic Flatulent Effects for Games and Films</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-and-install-synaptics-drivers-in-no-time-a-step-by-step-tutorial-for-windows-users/"><u>Update & Install Synaptics Drivers in No Time: A Step-by-Step Tutorial for Windows Users</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-charting-a-course-to-your-personalized-tiktok-marker/"><u>[New] 2024 Approved Charting a Course to Your Personalized TikTok Marker</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-streamline-your-tiktok-creativity-how-to-upload-videos-seamlessly/"><u>[New] 2024 Approved Streamline Your TikTok Creativity How to Upload Videos Seamlessly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-tips-to-shield-your-viewing-experience-from-unwanted-ads/"><u>[New] 2024 Approved Tips to Shield Your Viewing Experience From Unwanted Ads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-quick-steps-for-effective-double-take-filming/"><u>[New] In 2024, Essential Quick Steps for Effective Double Take Filming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-copyrights-and-creatives-uploading-tiktoks-safely/"><u>[Updated] Copyrights and Creatives Uploading TikToks Safely</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-post-processing-with-effective-use-of-luts-in-pscc/"><u>[Updated] Streamlining Post-Processing with Effective Use of LUTs in PSCC</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-tiktok-mastery-on-chrome-android-iphone-platforms/"><u>[Updated] TikTok Mastery on Chrome, Android, iPhone Platforms</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-best-of-country-top-20-tunes-for-dancing-stress-free-vibes-tiktok/"><u>2024 Approved Best of Country Top 20 Tunes for Dancing, Stress-Free Vibes (TikTok)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/captivating-creations-the-best-video-effects-on-tiktok/"><u>Captivating Creations The Best Video Effects on TikTok</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/flip-it-a-step-by-step-guide-to-rotating-clips-in-fcp/"><u>Flip It! A Step-by-Step Guide to Rotating Clips in FCP</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oneplus-nord-ce-3-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of OnePlus Nord CE 3 5G Through Google Earth?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/quick-load-techniques-to-enhance-tiktok-videography/"><u>Quick-Load Techniques to Enhance TikTok Videography</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/transform-ordinary-pictures-into-viral-masterpieces-on-tiktok-for-2024/"><u>Transform Ordinary Pictures Into Viral Masterpieces on TikTok for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultimate-selection-of-apple-watches-for-2-a-detailed-expert-analysis-and-comparisons-digitaltechnet/"><u>Unveiling the Ultimate Selection of Apple Watches for 2지날: A Detailed Expert Analysis and Comparisons | DigitalTechNet</u></a></li>
 </ul></div>
 

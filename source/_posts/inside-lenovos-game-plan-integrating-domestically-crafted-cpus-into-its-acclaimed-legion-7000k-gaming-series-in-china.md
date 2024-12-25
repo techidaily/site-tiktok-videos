@@ -1,7 +1,7 @@
 ---
 title: "Inside Lenovo's Game Plan: Integrating Domestically-Crafted CPUs Into Its Acclaimed Legion 7000K Gaming Series in China"
-date: 2024-12-12T04:23:08.371Z
-updated: 2024-12-15T23:39:59.288Z
+date: 2024-12-22T22:23:47.630Z
+updated: 2024-12-24T18:49:28.056Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,20 +78,22 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-pacing-presentations-with-ease-speedy-slides/"><u>[New] Pacing Presentations with Ease Speedy Slides</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-cutting-edge-of-content-tips-for-the-trendy-tiktoker-for-2024/"><u>[New] The Cutting Edge of Content Tips for the Trendy TikToker for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-turning-challenges-into-paydays-top-8-tiktok-money-making-ways/"><u>[New] Turning Challenges Into Paydays Top 8 TikTok Money-Making Ways</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-unveiling-the-art-of-digital-broadcasting-in-real-time/"><u>[New] Unveiling the Art of Digital Broadcasting in Real Time</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-7-low-cost-tiktok-video-enhancements-on-macos/"><u>[Updated] 2024 Approved 7 Low-Cost TikTok Video Enhancements on MacOS</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-a-compreehensive-guide-to-youtube-thumbnail-creation-mac/"><u>[Updated] 2024 Approved A Compreehensive Guide to YouTube Thumbnail Creation (Mac)</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-maximizing-your-tiktok-intro-a-mac-guide/"><u>[Updated] 2024 Approved Maximizing Your TikTok Intro A Mac Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-essential-earning-calculators-a-tiktok-creators-toolkit/"><u>[Updated] Essential Earning Calculators A TikTok Creator's Toolkit</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ios-choice-premium-psp-emulators-ranked-1-5/"><u>[Updated] In 2024, IOS Choice Premium PSP Emulators Ranked #1-5</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-reliable-tool-for-quick-high-quality-tiktok-to-mp4-extraction/"><u>[Updated] In 2024, Reliable Tool for Quick, High-Quality TikTok to MP4 Extraction</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-social-media-showdown-triller-vs-tiktok-head-to-head-analysis-max-156-chars/"><u>[Updated] In 2024, Social Media Showdown Triller VS TikTok Head-to-Head Analysis (Max 156 Chars)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-swift-playback-in-tiktok-enhancing-performance-for-2024/"><u>[Updated] Swift Playback in TikTok Enhancing Performance for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-unlock-the-full-potential-of-windows-photos-app-with-visual-and-audio-tweaks/"><u>In 2024, Unlock the Full Potential of Windows Photos App with Visual & Audio Tweaks</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-harnessing-potential-how-to-excel-in-desktop-tiktok-videos/"><u>[New] 2024 Approved Harnessing Potential How to Excel in Desktop TikTok Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-integrating-words-in-tiktok-videos-made-simple/"><u>[New] 2024 Approved Integrating Words in TikTok Videos Made Simple</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ite-size-beats-characters-in-soundscape/"><u>[New] Bite-Size Beats Characters in Soundscape</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-dialing-up-the-drama-captivating-tiktok-intros-via-mac/"><u>[New] Dialing Up the Drama Captivating TikTok Intros via Mac</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ptimize-video-pace-on-youtube-for-devices-speed-adjustments/"><u>[New] Optimize Video Pace on YouTube for Devices (Speed Adjustments)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-efficient-strategies-to-record-ppt-sessions-for-2024/"><u>[Updated] Efficient Strategies to Record PPT Sessions for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here-for-2024/"><u>[Updated] How to Transcribe Speech to Text in Microsoft Word Learn It Here for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-20-timeless-anime-themes-making-a-mark-on-tiktok/"><u>[Updated] In 2024, 20 Timeless Anime Themes Making a Mark on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-effortless-enchantment-make-your-mark-with-striking-templates-for-tiktok/"><u>2024 Approved Effortless Enchantment Make Your Mark with Striking Templates for TikTok</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/androidiphone-instruction-adding-music-files-to-fb-profile-for-2024/"><u>Android/iPhone Instruction Adding Music Files to FB Profile for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/bite-size-flavors-top-eating-moments-on-tiktok/"><u>Bite-Size Flavors Top Eating Moments on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/effortless-steps-for-switching-user-statuses-on-discord/"><u>Effortless Steps for Switching User Statuses on Discord</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enshrouded-game-stability-on-desktop-computers-tips-and-fixes-for-pc-gamers/"><u>Enshrouded Game Stability on Desktop Computers: Tips and Fixes for PC Gamers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-safeguard-snapchat-videos-in-devices-and-oses/"><u>How to Safeguard Snapchat Videos in Devices & OSes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-hashtags-to-challenges-bridging-instaplustiktok-worlds/"><u>In 2024, From Hashtags to Challenges Bridging Insta+TikTok Worlds</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-digital-connections-a-guide-to-facebook-twitter-instagram-and-you-tube/"><u>Mastering Digital Connections: A Guide to Facebook, Twitter, Instagram & You Tube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/k-the-potential-of-your-videos-with-profitable-advertising/"><u>Unlock the Potential of Your Videos with Profitable Advertising</u></a></li>
 </ul></div>
 

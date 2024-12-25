@@ -1,7 +1,7 @@
 ---
 title: "Asus Unveils New NUC Pert+ Model: Packing a Meteor Lake CPU, Core Ultra-5 125H for $860!"
-date: 2024-12-15T02:32:45.910Z
-updated: 2024-12-15T16:54:36.985Z
+date: 2024-12-24T03:55:42.117Z
+updated: 2024-12-25T00:07:51.302Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,24 +54,14 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-how-to-do-siri-voice-on-tiktok/"><u>[New] 2024 Approved How to Do Siri Voice on TikTok?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-optimizing-content-creation-on-tiktok-incorporating-siri-speech-functions/"><u>[New] 2024 Approved Optimizing Content Creation on TikTok Incorporating Siri Speech Functions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-skyrocket-your-earnings-on-tiktok-discover-the-top-8-ways/"><u>[New] 2024 Approved Skyrocket Your Earnings on TikTok Discover the Top 8 Ways</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-command-attention-with-these-powerful-20-tiktok-caption-ideas-for-2024/"><u>[New] Command Attention with These Powerful 20 TikTok Caption Ideas for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-elevating-your-tiktok-pics-with-simple-edits/"><u>[New] In 2024, Elevating Your TikTok Pics with Simple Edits</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-navigating-the-sea-of-stars-standing-out-in-tiktoks-world/"><u>[New] In 2024, Navigating the Sea of Stars Standing Out in TikTok's World</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-social-scanning-shorthand-efficient-profile-hunting-on-fb/"><u>[Updated] Social Scanning Shorthand Efficient Profile Hunting on FB</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fundamental-skills-for-producing-emotionally-driven-testimonials/"><u>2024 Approved Fundamental Skills for Producing Emotionally-Driven Testimonials</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-10-free-jpg-to-gif-conversion-tools-for-2024/"><u>Best 10 Free JPG to GIF Conversion Tools for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-10-best-lightroom-alternatives-free-and-paid/"><u>In 2024, 10 Best Lightroom Alternatives [Free & Paid]</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-delightful-yuletide-cinema-on-youtube-savor-nine-whole-film-gems/"><u>In 2024, Delightful Yuletide Cinema on YouTube Savor Nine Whole-Film Gems</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-secure-increase-in-your-tiktok-clout/"><u>In 2024, Secure Increase in Your TikTok Clout</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-guide-to-bigger-head-vfx-for-tiktok-creators-3-ways/"><u>In 2024, The Ultimate Guide to Bigger-Head VFX for TikTok Creators (3 Ways)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/invisible-snapcapture-mastering-the-art-of-stealthy-picture-recording/"><u>Invisible SnapCapture Mastering the Art of Stealthy Picture Recording</u></a></li>
-<li><a href="https://win-hot.techidaily.com/leading-replacement-software-for-itunes-on-windows-expert-recommendations-for-iphone-users/"><u>Leading Replacement Software for iTunes on Windows - Expert Recommendations for iPhone Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oneplus-nord-n30-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on OnePlus Nord N30 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/simple-steps-swift-elgato-driver-software-installation/"><u>Simple Steps: Swift Elgato Driver Software Installation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/starcraft-2-pc-compatibility-fixing-instances-of-the-game-shutting-down-unexpectedly/"><u>Starcraft 2 PC Compatibility: Fixing Instances of the Game Shutting Down Unexpectedly</u></a></li>
-<li><a href="https://fox-links.techidaily.com/step-by-step-to-emoji-stickers-a-complete-tutorial-for-telegram-and-beyond/"><u>Step-by-Step to Emoji Stickers A Complete Tutorial for Telegram and Beyond</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-anime-and-music-mixing-up-the-next-big-tiktok-hits-for-2024/"><u>[New] Anime and Music Mixing Up the Next Big TikTok Hits for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-fb-video-retrieval-the-top-5-software-compared-for-2024/"><u>[New] FB Video Retrieval The Top 5 Software Compared for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-explore-and-understand-what-does-pfp-mean-on-tiktok/"><u>[New] In 2024, Explore and Understand What Does PFP Mean on TikTok?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000585923-frozen-in-action-solve-warframes-freezing-problem-once-and-for-all/"><u>Frozen in Action? Solve Warframe's Freezing Problem Once & For All!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-notice-unregistered-users-on-snapchat/"><u>How to Notice Unregistered Users on Snapchat</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-itel-s23-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Itel S23 Phone that is Locked?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-guide-to-decoding-tiktoks-pfp-emoji/"><u>In 2024, The Ultimate Guide to Decoding TikTok's PFP Emoji</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-creative-potential-macs-top-free-drawing-tools/"><u>In 2024, Unlock Creative Potential Mac's Top Free Drawing Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macos-icons-and-colors-made-simple-customizing-folders-with-ease/"><u>MacOS Icons and Colors Made Simple: Customizing Folders with Ease</u></a></li>
 </ul></div>
 

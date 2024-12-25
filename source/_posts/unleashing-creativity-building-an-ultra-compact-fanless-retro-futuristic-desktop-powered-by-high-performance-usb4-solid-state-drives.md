@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: Building an Ultra Compact, Fanless 'Retro Futuristic' Desktop Powered by High-Performance USB4 Solid State Drives"
-date: 2024-12-09T20:26:24.937Z
-updated: 2024-12-16T12:23:03.687Z
+date: 2024-12-19T18:20:34.444Z
+updated: 2024-12-25T05:28:00.851Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,22 +89,24 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-a-practical-handbook-for-recording-virtual-play-battles-for-2024/"><u>[New] A Practical Handbook for Recording Virtual Play Battles for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-is-sns-hdr-pro-the-gold-standard-for-hdr-editors/"><u>[New] Is SNS HDR Pro the Gold Standard for HDR Editors?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-melodies-meet-movements-creating-tiktok-videos-with-music-for-2024/"><u>[New] Melodies Meet Movements Creating TikTok Videos with Music for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-discover-new-social-horizons-beyond-the-popularity-of-tiktok/"><u>[Updated] 2024 Approved Discover New Social Horizons Beyond the Popularity of TikTok</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-step-by-step-guide-building-high-quality-windows-11-videos/"><u>[Updated] 2024 Approved Step-by-Step Guide Building High-Quality Windows 11 Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-best-of-country-top-20-tunes-for-dancing-stress-free-vibes-tiktok/"><u>[Updated] In 2024, Best of Country Top 20 Tunes for Dancing, Stress-Free Vibes (TikTok)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-likes-vs-ticks-can-likes-outshine-tiktoks-popularity/"><u>[Updated] In 2024, Likes Vs. Ticks Can Likes Outshine TikTok's Popularity?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-permanent-tiktok-account-elimination-guide-for-2024/"><u>[Updated] Permanent TikTok Account Elimination Guide for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-sending-your-creativity-soaring-pc-and-mac-tiktok-video-posts/"><u>[Updated] Sending Your Creativity Soaring PC & Mac TikTok Video Posts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-top-10-no-cost-digital-photography-tools/"><u>2024 Approved Explore Top 10 No-Cost Digital Photography Tools</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1728462367591-onedrive/"><u>重新同步OneDrive文件：完全指南</u></a></li>
-<li><a href="https://win-able.techidaily.com/guilty-gear-strive-eliminating-lag-issues-with-new-optimizations/"><u>Guilty Gear Strive - Eliminating Lag Issues with New Optimizations</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2528017-9780811748742-haunted-minnesota/"><u>Haunted Minnesota | Free Book</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/quick-load-techniques-to-enhance-tiktok-videography-for-2024/"><u>Quick-Load Techniques to Enhance TikTok Videography for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-great-video-app-race-will-likeeclipses-tiktoks-dominance-for-2024/"><u>The Great Video App Race Will LikeEclipses TikTok’s Dominance for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-mastering-audio-transitions-2-methods-in-final-cut-pro-for-2024/"><u>Updated Mastering Audio Transitions 2 Methods in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-charting-the-course-of-youtube-success-through-social-blade-analysis/"><u>[New] 2024 Approved Charting the Course of YouTube Success Through Social Blade Analysis</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-expedite-your-videos-on-tiktok-secrets-revealed-for-2024/"><u>[New] Expedite Your Videos on TikTok Secrets Revealed for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-navigating-the-fast-track-expert-tips-on-tiktok-skip-function/"><u>[New] Navigating the Fast Track Expert Tips on TikTok Skip Function</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-top-30-unique-pfps-for-a-stellar-tiktok-presence-for-2024/"><u>[New] Top 30 Unique PFPs for a Stellar TikTok Presence for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-ultimate-edge-top-10-wild-tiktok-gaming-adventures/"><u>[New] Ultimate Edge Top 10 Wild TikTok Gaming Adventures</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-essential-tips-for-mac-based-tiktok-video-edits/"><u>[Updated] 2024 Approved Essential Tips for Mac-Based TikTok Video Edits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-tools-for-high-quality-schedule-captures/"><u>[Updated] 2024 Approved Top Tools for High-Quality Schedule Captures</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-your-first-impression-matters-8-must-try-youtube-tools-for-thumbnails/"><u>[Updated] 2024 Approved Your First Impression Matters 8 Must-Try YouTube Tools for Thumbnails</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-giggle-generators-online/"><u>[Updated] Giggle Generators Online</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-chill-music-playlist-20-relaxing-country-melodies-tiktok-version/"><u>[Updated] In 2024, Chill Music Playlist 20 Relaxing Country Melodies (TikTok Version)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-professional-video-editing-simplified-with-mac-mp4-cutters/"><u>[Updated] In 2024, Professional Video Editing Simplified with Mac MP4 Cutters</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-your-ultimate-guide-to-deciphering-tiktoks-pfp-emoji/"><u>[Updated] In 2024, Your Ultimate Guide to Deciphering TikTok's PFP Emoji</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-finding-the-right-wordmark-for-your-personalized-tiktok-stream/"><u>2024 Approved Finding the Right Wordmark for Your Personalized TikTok Stream</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-jujutsu-kaisens-impact-the-tiktok-challenge-perspective/"><u>2024 Approved Jujutsu Kaisen's Impact The TikTok Challenge Perspective</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-motorola-g24-power-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Motorola G24 Power FRP Bypass Instantly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enhancing-dji-flights-20-free-color-adjustments-dji-mini-and-air/"><u>Enhancing DJI Flights 20 Free Color Adjustments (DJI Mini & Air)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-8-solutions-to-prevent-hogwarts-legacy-from-crashing-at-launch/"><u>Top 8 Solutions to Prevent Hogwarts Legacy From Crashing at Launch</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-video-shooting-equipment-a-comprehensive-review-for-2024/"><u>Top Video Shooting Equipment A Comprehensive Review for 2024</u></a></li>
 </ul></div>
 

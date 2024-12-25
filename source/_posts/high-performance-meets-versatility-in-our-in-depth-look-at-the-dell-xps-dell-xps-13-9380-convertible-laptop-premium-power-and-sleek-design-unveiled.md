@@ -1,7 +1,7 @@
 ---
 title: High Performance Meets Versatility in Our In-Depth Look at the Dell XPS Dell XPS 13 (9380) Convertible Laptop - Premium Power and Sleek Design Unveiled
-date: 2024-12-11T20:07:36.904Z
-updated: 2024-12-16T09:25:58.733Z
+date: 2024-12-19T01:33:09.286Z
+updated: 2024-12-25T06:49:13.486Z
 categories:
   - BestProducts
 description: This Article Describes High Performance Meets Versatility in Our In-Depth Look at the Dell XPS Dell XPS 13 (9380) Convertible Laptop - Premium Power and Sleek Design Unveiled
@@ -13,13 +13,13 @@ thumbnail: https://www.lifewire.com/thmb/XPTzdgkhY6bWmlWOIoF4mc1fv2M=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dying Light
 
 ![Dying Light](https://www.lifewire.com/thmb/ExEFo7aByvSphU-Qxeq8zUjf8lk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -44,6 +44,10 @@ Lifewire / Kelsey Simon
 ## Dying Light
 
 ![Dying Light](https://www.lifewire.com/thmb/YWkGikwP23JK119N4M7J22dAPJY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -76,11 +80,11 @@ Lifewire / Kelsey Simon
 
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Plot: A character torn between obligation and friendship**
 
@@ -96,10 +100,6 @@ Harran is a whole different city at night.
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Gameplay: Parkour and zombies galore**
 
  You won’t have to wait long in the game before you’re introduced to its main unique mechanic: parkour. Other zombie games focus on having slow zombies you can run away from, or dumb zombies you sneak past, but Dying Light takes a completely different approach. Instead, the basic zombies are fast and almost always know where you are―but they can’t climb or jump. This means you can stay safe by leaping between rooftops, running up ramps, balancing across bars, etc. The parkour feature is the biggest thing that makes Dying Light unique in an oversaturated genre, and also part of what makes the game so much fun. It’s entertaining to cross the city running as fast as you can without pausing, challenging yourself to get from point A to point B without ever touching the ground.
@@ -114,6 +114,10 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/YctEePpYKsIXQ5kU-hQ8w7o9CDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-4-1edeaf05c6ba435e9b81e68a13831ac6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 ## **Graphics: Attention to detail**
@@ -124,14 +128,10 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/sy9NHLj8JNe2eaeS9HJJdejt6QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-6-56ef808272b544e6a1038f4a5d0280f1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Worth the cost, especially with a friend**
@@ -151,7 +151,7 @@ Harran is a whole different city at night.
  Dying Light is a game that took an overdone trope and used it to create a fresh game. Its fun parkour and co-op gameplay make for a great gaming experience, particularly when shared with friends. The variety of zombie enemies combined with the excellent melee combat keep the experience fresh even in the late game―and if things feel too simple, doing a mission at night is a wholly different experience from daylight outings. Dying Light is a great game in the zombie survival genre that we would recommend to most players.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -175,21 +175,19 @@ Harran is a whole different city at night.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-10-tiktok-campaigns-and-how-to-make-a-successful-campaign/"><u>[New] In 2024, Top 10 TikTok Campaigns and How to Make a Successful Campaign</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-sizzling-social-hot-food-trends-on-tiktok-for-2024/"><u>[New] Sizzling Social Hot Food Trends on TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-8-proven-methods-for-earnings-on-tiktok/"><u>[New] Top 8 Proven Methods for Earnings on TikTok</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-breakthrough-techniques-for-outstanding-youtube-openers-technique-1plus2/"><u>[Updated] 2024 Approved Breakthrough Techniques for Outstanding YouTube Openers (Technique 1+2)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-complete-tiktok-termination-protocol-unveiled/"><u>[Updated] 2024 Approved Complete TikTok Termination Protocol Unveiled</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unlock-your-tiktok-experience-with-top-7-emoji-hacks/"><u>[Updated] 2024 Approved Unlock Your TikTok Experience with Top 7 Emoji Hacks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-free-easy-and-fast-youtubes-best-subtitle-getters/"><u>2024 Approved Free, Easy and Fast YouTube's Best Subtitle Getters</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-itel-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Itel Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-wallet-by-mastering-chatgpt-opportunutes-crafting-personal-computers-and-collecting-retro-handheld-games/"><u>Boost Your Wallet by Mastering ChatGPT Opportunutes, Crafting Personal Computers & Collecting Retro Handheld Games</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-g2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo G2 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone 15 Plus</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/pro-tips-for-captivating-snapchat-stories/"><u>Pro Tips for Captivating Snapchat Stories</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-oleaut32dll-file-not-detected-a-comprehensive-guide/"><u>Solving the oleAut32.dll File Not Detected: A Comprehensive Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-science-of-scaling-characters-in-digital-creativity-for-2024/"><u>The Science of Scaling Characters in Digital Creativity for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-mac-software-expert-picks-and-reviews/"><u>Top-Rated Mac Software : Expert Picks and Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-mac-compatible-hd-video-converter-seamlessly-convert-avchd-mkv-mov-to-mp4-and-more/"><u>Ultimate Mac-Compatible HD Video Converter: Seamlessly Convert AVCHD, MKV, MOV to MP4 and More!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-prime-zero-dollar-webcam-recorder-app/"><u>[New] 2024 Approved Prime Zero-Dollar Webcam Recorder App</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-x-record-pc-suite-release/"><u>[New] In 2024, X-Record PC Suite Release</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-melodic-memberships-leading-online-hubs-for-got-ringtone-purchases/"><u>[New] Melodic Memberships Leading Online Hubs for GoT Ringtone Purchases</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unwinding-on-your-device-easy-phone-games-for-2024/"><u>[New] Unwinding on Your Device Easy Phone Games for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevating-your-video-content-for-a-fanbase-boom/"><u>[Updated] In 2024, Elevating Your Video Content for a Fanbase Boom</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2023-how-to-check-tiktok-video-copyright-before-uploading/"><u>2023 | How to Check Tiktok Video Copyright Before Uploading?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rev-up-with-these-top-10-srt-power-up-tools-for-pc-and-mac/"><u>2024 Approved Rev Up with These Top 10 SRT Power-Up Tools for PC and Mac</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-take-control-how-to-involve-yourself-in-a-friends-live-on-tiktok/"><u>2024 Approved Take Control How to Involve Yourself in a Friend's Live on TikTok</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone X</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-top-30-inspirational-ideas-fusing-animated-themes-and-social-media/"><u>In 2024, Top 30 Inspirational Ideas Fusing Animated Themes and Social Media</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/making-a-lasting-impact-with-office-meetings-via-snap-camera/"><u>Making a Lasting Impact with Office Meetings via Snap Camera</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-confirms-engineers-enthusiasm-for-windows-11-insights-from-zdnet/"><u>Microsoft Confirms Engineers' Enthusiasm for Windows 11: Insights From ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-xr-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone XR You Should Try Out</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-guide-to-revamping-your-tiktok-profile-for-2024/"><u>The Ultimate Guide to Revamping Your TikTok Profile for 2024</u></a></li>
 </ul></div>
 
