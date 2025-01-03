@@ -1,7 +1,7 @@
 ---
 title: "Asus Unveils New NUC Pert+ Model: Packing a Meteor Lake CPU, Core Ultra-5 125H for $860!"
-date: 2024-12-24T03:55:42.117Z
-updated: 2024-12-25T00:07:51.302Z
+date: 2025-01-01T16:42:02.498Z
+updated: 2025-01-03T16:09:38.204Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,14 +54,20 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-anime-and-music-mixing-up-the-next-big-tiktok-hits-for-2024/"><u>[New] Anime and Music Mixing Up the Next Big TikTok Hits for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-fb-video-retrieval-the-top-5-software-compared-for-2024/"><u>[New] FB Video Retrieval The Top 5 Software Compared for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-explore-and-understand-what-does-pfp-mean-on-tiktok/"><u>[New] In 2024, Explore and Understand What Does PFP Mean on TikTok?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723000585923-frozen-in-action-solve-warframes-freezing-problem-once-and-for-all/"><u>Frozen in Action? Solve Warframe's Freezing Problem Once & For All!</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/how-to-notice-unregistered-users-on-snapchat/"><u>How to Notice Unregistered Users on Snapchat</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-itel-s23-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Itel S23 Phone that is Locked?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-guide-to-decoding-tiktoks-pfp-emoji/"><u>In 2024, The Ultimate Guide to Decoding TikTok's PFP Emoji</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-creative-potential-macs-top-free-drawing-tools/"><u>In 2024, Unlock Creative Potential Mac's Top Free Drawing Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/macos-icons-and-colors-made-simple-customizing-folders-with-ease/"><u>MacOS Icons and Colors Made Simple: Customizing Folders with Ease</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-spectacular-gopro-time-lapses-made-easy/"><u>[New] Crafting Spectacular GoPro Time-Lapses Made Easy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-building-mental-armor-against-online-critics/"><u>[Updated] 2024 Approved Building Mental Armor Against Online Critics</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-elevating-self-presence-expert-guidance-to-duplicating-oneself-on-tiktok/"><u>[Updated] 2024 Approved Elevating Self-Presence Expert Guidance to Duplicating Oneself on TikTok</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-breaking-down-the-new-normal-facebook-short-videos/"><u>[Updated] Breaking Down the New Normal Facebook Short Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-speed-up-video-on-tiktok-for-2024/"><u>[Updated] How to Speed Up Video on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-creating-clip-sensations-tiktoks-viral-guide/"><u>[Updated] In 2024, Creating Clip Sensations TikTok's Viral Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-elevating-your-macs-tiktok-opener-quality/"><u>[Updated] In 2024, Elevating Your Mac's TikTok Opener Quality</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-maximizing-your-tiktok-intro-a-mac-guide/"><u>[Updated] In 2024, Maximizing Your TikTok Intro A Mac Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-step-into-stardom-building-starry-eyed-tiktok-dances-on-macos/"><u>[Updated] Step Into Stardom Building Starry-Eyed TikTok Dances on MacOS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-linux-on-a-chromebook-the-ultimate-setup-tutorial/"><u>New In 2024, Linux on a Chromebook The Ultimate Setup Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-and-easy-the-top-ten-for-youtube-mpeg-transformation/"><u>Quick and Easy The Top Ten for YouTube MPEG Transformation</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-taskbar-pinning-on-w11/"><u>Streamline Taskbar: Pinning on W11</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/troubleshooting-usb-installation-failures-due-to-access-is-denied-alerts/"><u>Troubleshooting USB Installation Failures Due to Access Is Denied Alerts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-smart-7-hd-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Infinix Smart 7 HD Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

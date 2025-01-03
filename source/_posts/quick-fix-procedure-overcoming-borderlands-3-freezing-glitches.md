@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix Procedure: Overcoming Borderlands 3 Freezing Glitches"
-date: 2024-12-20T08:45:10.183Z
-updated: 2024-12-24T17:53:44.733Z
+date: 2024-12-30T16:15:10.534Z
+updated: 2025-01-03T16:34:18.088Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience.
@@ -60,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -74,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
  If a patch is available, just download and install it to see if it can fix the crash issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Perform a Windows Update
@@ -87,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there are no updates related to MS Visual C++ or .NET Framework, you can download their installation files via the links below on your own and manually install them on your PC.
 
 **Visual C++ Redistributable 2013:**
@@ -96,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 [https://www.microsoft.com/en-us/download/details.aspx?id=30653](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Borderlands 3 to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify the graphics settings in the game
 
@@ -109,11 +113,19 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 
  Launch the game again in a reduced settings to see it it crashes or not. If the game still crashes, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent game crashes, you should reset the CPU or the graphics card to the manufacturer specifications.
 
  Some players reported that the game may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Verify the game file
 
@@ -125,11 +137,11 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
- Launch Borderlands 3 after verifying the game file to see if this fix works. If not, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch Borderlands 3 after verifying the game file to see if this fix works. If not, try the next fix, below.
 
 ### Fix 7: Add Borderland 3 as an exception to your 3rd party antivirus software
 
@@ -150,32 +162,20 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Restart** your PC and run Borderlands 3 to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
@@ -207,20 +207,19 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/hannel-transformation-through-strategic-use-of-youtube-outros/"><u>[New] Channel Transformation Through Strategic Use of YouTube Outros</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-duo-ing-melodies-for-virtual-fame-for-2024/"><u>[New] Duo-Ing Melodies for Virtual Fame for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-best-chips-for-immersive-4k-video-workflows/"><u>[Updated] Best Chips for Immersive 4K Video Workflows</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-infusing-life-into-jujutsu-kaisen-with-tiktok-videos-for-2024/"><u>[Updated] Infusing Life Into Jujutsu Kaisen with TikTok Videos for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-professional-stability-essentials-for-youtube-videographers/"><u>[Updated] Professional Stability Essentials for YouTube Videographers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-comprehensive-guide-to-avoid-copyright-breaches-in-tiktok-videos/"><u>2024 Approved Comprehensive Guide to Avoid Copyright Breaches in TikTok Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-secrets-of-crafting-an-exclusive-identifier-on-tiktok/"><u>2024 Approved Secrets of Crafting an Exclusive Identifier on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/enhancing-tiktoks-with-customizable-video-subtitles/"><u>Enhancing TikToks with Customizable Video Subtitles</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-optimizing-video-speed-on-tiktok-platform/"><u>In 2024, Optimizing Video Speed on TikTok Platform</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-patchwork-pros-how-to-assemble-engaging-tiktoks/"><u>In 2024, Patchwork Pros How to Assemble Engaging TikToks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-nubia-red-magic-9-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Nubia Red Magic 9 Pro Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/labor-day-dell-bargains-for-students-premium-screens-laptops-at-great-prices-viewed-by-tech-enthusiasts/"><u>Labor Day Dell Bargains for Students: Premium Screens, Laptops at Great Prices - Viewed by Tech Enthusiasts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ng-youtube-influencers-the-elite-top-ten-list/"><u>Leading YouTube Influencers The Elite Top Ten List</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-resolving-valheim-pc-game-crash-issues/"><u>Ultimate Troubleshooting Guide: Resolving Valheim PC Game Crash Issues</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-androids-5-prime-photo-tools-ultimate-editing-companion/"><u>[New] In 2024, Android's 5 Prime Photo Tools Ultimate Editing Companion</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-pioneering-your-place-with-premium-desktop-tiktok-videos-for-2024/"><u>[New] Pioneering Your Place with Premium Desktop TikTok Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-firefoxs-finest-leading-video-downloads-and-addons-for-facebook-for-2024/"><u>[Updated] Firefox's Finest Leading Video Downloads & Addons for Facebook for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-times-up-rapid-tiktok-video-extraction-techniques/"><u>[Updated] Time's Up Rapid TikTok Video Extraction Techniques</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-transform-your-tiktok-videos-stunning-templates-at-hand-for-2024/"><u>[Updated] Transform Your TikTok Videos Stunning Templates at Hand for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-culinary-waves-top-10-flavorful-tiktok-recipes/"><u>2024 Approved Culinary Waves Top 10 Flavorful TikTok Recipes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-step-by-step-for-mastering-voice-commands-in-tiktok-videos-with-siri/"><u>2024 Approved Step-by-Step for Mastering Voice Commands in TikTok Videos with Siri</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-method-to-personalize-iphone-ringtones/"><u>2024 Approved Step-By-Step Method to Personalize iPhone Ringtones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/at-the-apple-store-today-unveiling-the-ultra-sleek-ipads-with-just-008-inches-of-girth/"><u>At the Apple Store Today: Unveiling the Ultra-Sleek iPads with Just 0.08 Inches of Girth!</u></a></li>
+<li><a href="https://facebook.techidaily.com/does-clearing-faceprints-endanger-social-media-privacy-for-fb-users/"><u>Does Clearing Faceprints Endanger Social Media Privacy for FB Users?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-deciphering-the-innovative-world-of-youtube-studio/"><u>In 2024, Deciphering the Innovative World of YouTube Studio</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-x50iplus-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor X50i+ Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722861631699-kid-friendly-gaming-discover-7-amazing-online-adventures/"><u>Kid-Friendly Gaming: Discover 7 Amazing Online Adventures!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unveiling-the-ultimate-top-10-tiktok-gaming-squad-for-2024/"><u>Unveiling the Ultimate Top 10 TikTok Gaming Squad for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Code Vein Crashing Solutions: Effective Methods to Resolve Game Stutter"
-date: 2024-12-21T01:27:42.532Z
-updated: 2024-12-24T23:24:49.900Z
+date: 2025-01-01T16:14:12.381Z
+updated: 2025-01-03T16:42:06.441Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
 Stop blaming yourself for losing your temper when the FPS (frame per second) drops in games: only saints can keep calm and cool in that situation. As luck would have it, there are some proven fixes that can help to stop or at least reduce the FPS drops in games, and we’ve gathered them here so you can try them as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes for FPS drops in games
 
  You don’t have to try all 7 methods listed here: simply work your way down the list until you find the one that helps to stop the FPS drops in games for you.
@@ -30,10 +34,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 7. **[Consider hardware upgrade](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
 
@@ -70,6 +70,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then run your game again and see if the FPS dropping issue is fixed. If the problem still remains, please move on to the next fix below.
 
 ---
@@ -90,10 +94,6 @@ To do so:
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4.1 Flush your DNS
 
  By flushing your DNS, your DNS cache will be cleared. When your PC needs to access a website, it’ll need to obtain the address from the DNS server again. This may fix the FPS dropping issue if the DNS cache data was invalid or corrupt. Here’s how:
@@ -103,18 +103,18 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4.2 Switch to a public DNS server
 
@@ -124,12 +124,12 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
@@ -137,22 +137,22 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Update graphics card and network card drivers
 
@@ -191,7 +191,7 @@ and your network card manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -217,11 +217,11 @@ To change the power mode:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Consider hardware upgrade
 
@@ -250,24 +250,20 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-master-the-art-of-tiktok-video-making-with-ease-and-flair/"><u>[New] 2024 Approved Master the Art of TikTok Video Making with Ease & Flair</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-ultimate-noise-free-recording-strategy/"><u>[New] 2024 Approved The Ultimate Noise-Free Recording Strategy</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-crossing-over-attending-tiktok-live-gigs-easily/"><u>[New] Crossing Over Attending TikTok Live Gigs Easily</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ffective-strategies-for-removing-youtube-media-from-computers-for-2024/"><u>[New] Effective Strategies for Removing YouTube Media From Computers for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-discover-the-magic-of-jujutsu-kaisen-with-tiktok-videos-for-2024/"><u>[Updated] Discover the Magic of Jujutsu Kaisen with TikTok Videos for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mycams-journey-from-concept-to-reality-explored/"><u>[Updated] In 2024, MyCam's Journey From Concept to Reality Explored</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-rhythm-and-pixels-recording-in-a-mac-studio-for-2024/"><u>[Updated] Rhythm and Pixels Recording in a Mac Studio for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-top-7-free-apps-for-tiktok-creations-on-macos-devices/"><u>2024 Approved Top 7 Free Apps for TikTok Creations on MacOS Devices</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/be-the-best-lifeguard-at-your-friends-tiktok-shores-for-2024/"><u>Be the Best Lifeguard at Your Friends’ TikTok Shores for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ting-your-place-in-youtube-by-mastering-creative-studio-techniques-for-2024/"><u>Cementing Your Place in YouTube by Mastering Creative Studio Techniques for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-stop-0x0000001d-errors/"><u>How to Fix STOP 0X0000001D Errors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-vistas-for-digital-viewership/"><u>In 2024, Superior Vistas for Digital Viewership</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-trustful-growth-how-to-properly-buy-tiktok-followers/"><u>In 2024, Trustful Growth How to Properly Buy TikTok Followers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/navigating-the-landscape-of-snapchat-for-enterprise/"><u>Navigating the Landscape of Snapchat for Enterprise</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-black-screen-dilemma-with-your-asus-webcam-in-windows-11/"><u>Solving the Black Screen Dilemma with Your ASUS Webcam in Windows 11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/stepwise-guide-integrating-subtitles-into-your-vimeo-content-for-2024/"><u>Stepwise Guide Integrating Subtitles Into Your Vimeo Content for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-art-of-revisiting-your-private-snap-history/"><u>The Art of Revisiting Your Private Snap History</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/top-15-must-read-tiktok-favorites-for-2024/"><u>Top 15 Must-Read TikTok Favorites for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-split-screen-audio-logging/"><u>[Updated] Split Screen Audio Logging</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-tiktok-mastery-securing-your-content-with-android-and-ios-tools-for-2024/"><u>[Updated] TikTok Mastery Securing Your Content with Android & iOS Tools for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-transform-ordinary-pictures-into-viral-masterpieces-on-tiktok-for-2024/"><u>[Updated] Transform Ordinary Pictures Into Viral Masterpieces on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unlock-your-creative-potential-top-7-hidden-tiktok-emojis/"><u>[Updated] Unlock Your Creative Potential Top 7 Hidden TikTok Emojis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-photo-enhancer-online-and-app-for-mobile-phone/"><u>2024 Approved Free Photo Enhancer Online and App for Mobile Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-laughter-logic-kapwings-humor-engine/"><u>2024 Approved Laughter Logic Kapwing's Humor Engine</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/comment-recouvrer-votre-mondo-minecraft-elimine-guide-exhaustif-et-pratique/"><u>Comment Recouvrer Votre Mondo Minecraft Éliminé : Guide Exhaustif Et Pratique</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-mp3-files-to-wav-format-at-no-cost-in-windows/"><u>Convert MP3 Files to WAV Format at No Cost in Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/elevate-your-thought-process-integrating-mind-maps-and-chatgpt-for-productivity-in-ideation/"><u>Elevate Your Thought Process: Integrating Mind Maps and ChatGPT for Productivity in Ideation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/instructions-for-disabling-the-ai-writing-assistant-on-your-windows-11-pc/"><u>Instructions for Disabling the AI Writing Assistant on Your Windows 11 PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-oneplus-ebon-review-where-improvement-is-yet-to-be-calculated/"><u>The OnePlus Ebon Review: Where Improvement Is Yet to Be Calculated</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212108452-troubleshooting-guide-fixing-a-non-responsive-laptop-trackpad/"><u>Troubleshooting Guide: Fixing a Non-Responsive Laptop TrackPad</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unraveling-the-surprising-adventures-within-yokus-island-express-gaming-redefined/"><u>Unraveling the Surprising Adventures Within Yoku's Island Express - Gaming Redefined</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/vocal-ensemble-in-the-digital-age-tiktok-edition/"><u>Vocal Ensemble in the Digital Age TikTok Edition</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/your-easy-route-to-tiktok-bliss-on-a-macbook/"><u>Your Easy Route to TikTok Bliss on a MacBook</u></a></li>
 </ul></div>
 

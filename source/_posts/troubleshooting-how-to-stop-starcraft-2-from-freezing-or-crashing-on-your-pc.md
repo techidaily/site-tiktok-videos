@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Stop Starcraft 2 From Freezing or Crashing on Your PC"
-date: 2024-12-19T17:57:45.830Z
-updated: 2024-12-25T05:05:09.946Z
+date: 2024-12-27T16:36:16.136Z
+updated: 2025-01-03T16:40:15.337Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
  It can be challenging, if not possible, to identify the core issue of the game crash since you all have your own game settings and use unique hardware, but no worries. This article provides 6 solutions to help you rule out common causes of this error and potentially resolve this problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -29,6 +33,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run the game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -50,16 +58,16 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-56-17-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 **4)** Restart your computer and the game to test your issue.
 
  If this didn’t resolve your issue, then go ahead with the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run Steam as an administrator
 
@@ -85,6 +93,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Verify the integrity of game files
 
  Occasionally, game files can become corrupted or altered due to malware on your PC. If your game is crashing for no obvious reason, consider verifying the integrity of your game files through Steam.
@@ -95,16 +107,12 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-35-42.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Right-click**Risk of Rain 2** and select**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
@@ -112,6 +120,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-19.jpg)
 
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run your game in compatibility mode
 
@@ -127,25 +139,17 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-55.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the list box below to select **Windows 7** , then click **Apply**  \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-39-05.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue has been resolved.
 
 If your problem still exists, go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Steam
 
@@ -162,10 +166,6 @@ If your problem still exists, go ahead with the fix below.
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Under**View by** , select**Category.** Then, select**Uninstall a program** .
 
@@ -186,7 +186,7 @@ If your problem still exists, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-55-00.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After these steps, your game should run without crashing. If you have any questions or suggestions, please feel free to leave a comment below.
@@ -212,16 +212,22 @@ If your problem still exists, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-innovative-strategies-for-capturing-live-lectures-a-mac-centric-approach/"><u>[New] In 2024, Innovative Strategies for Capturing Live Lectures A Mac-Centric Approach</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-easiest-way-to-download-and-use-tiktok-on-your-macbook/"><u>[New] In 2024, The Easiest Way to Download and Use TikTok on Your MacBook</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-from-novice-to-pro-using-templates-for-stellar-tiktok-videos-for-2024/"><u>[Updated] From Novice to Pro Using Templates for Stellar TikTok Videos for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-hashtag-bites-10-viral-recipes-on-tiktok/"><u>[Updated] In 2024, Hashtag Bites 10 Viral Recipes on TikTok</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-market-precision-strategic-package-interpretations/"><u>[Updated] In 2024, Market Precision Strategic Package Interpretations</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/accelerate-your-pc-performance-by-optimizing-startup-applications-and-services-expert-tips-from-yl-computing/"><u>Accelerate Your PC Performance by Optimizing Startup Applications & Services - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/dont-miss-out-this-weeks-tiktok-trials/"><u>Don't Miss Out This Week’s TikTok Trials</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-becoming-an-instagrammable-replica-a-comprehensive-guide-to-duplicating-oneself-on-tiktok/"><u>In 2024, Becoming an Instagrammable Replica A Comprehensive Guide to Duplicating Oneself on TikTok</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-of-a-disappearing-avcodecdll-a-step-by-step-guide/"><u>Solving the Mystery of a Disappearing Avcodec.dll: A Step-by-Step Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-guide-to-choosing-between-vidma-and-rivals-for-2024/"><u>The Ultimate Guide to Choosing Between Vidma and Rivals for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/tiktoks-secret-to-offering-users-a-no-cost-experience/"><u>TikTok's Secret to Offering Users a No-Cost Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-elite-smartphones-reigning-in-ultra-clarity-video-recording-for-2024/"><u>[New] Elite Smartphones Reigning in Ultra-Clarity Video Recording for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-smartphone-cinematography-mastery-designing-impactful-youtube-thumbnails/"><u>[Updated] 2024 Approved Smartphone Cinematography Mastery Designing Impactful YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-transforming-views-into-brand-loyalty/"><u>[Updated] 2024 Approved Transforming Views Into Brand Loyalty</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-hot-tiktok-picks-for-your-amazon-shopping-spree/"><u>[Updated] Hot TikTok Picks for Your Amazon Shopping Spree</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-ignite-interest-top-20-creative-and-viral-tiktok-caption-strategies/"><u>[Updated] Ignite Interest Top 20 Creative and Viral TikTok Caption Strategies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-expand-your-reach-effective-business-tactics-on-tiktok/"><u>[Updated] In 2024, Expand Your Reach Effective Business Tactics on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-maximizing-tiktok-income-8-must-try-strategies/"><u>[Updated] In 2024, Maximizing TikTok Income 8 Must-Try Strategies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-jumpstart-your-cash-with-these-8-innovative-tiktok-methods-for-2024/"><u>[Updated] Jumpstart Your Cash with These 8 Innovative TikTok Methods for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-leap-to-the-top-with-these-8-fast-track-tiktok-steps-for-2024/"><u>[Updated] Leap to the Top with These 8 Fast-Track TikTok Steps for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-the-art-of-imitation-for-a-unique-and-authentic-tiktok-presence/"><u>[Updated] Mastering the Art of Imitation for a Unique and Authentic TikTok Presence</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-comprehensive-guide-to-adding-sound-in-tiktok-videos/"><u>[Updated] The Comprehensive Guide to Adding Sound in TikTok Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unmatched-gaming-broadcasts-set-up-with-obs/"><u>[Updated] Unmatched Gaming Broadcasts - Set Up with OBS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-prime-stabilization-techniques-for-youtubers/"><u>In 2024, Prime Stabilization Techniques for YouTubers</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/innovation-en-ia-comment-la-plateforme-flexicapture-dabbyy-utilise-le-machine-learning-pour-loptimisation/"><u>Innovation en IA: Comment La Plateforme FlexiCapture D'ABBYY Utilise Le Machine Learning Pour L'optimisation</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-controller-emulation-for-nintendo/"><u>Master Controller Emulation for Nintendo</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-iphone-sound-controls-discover-7-reliable-solutions/"><u>Trouble with iPhone Sound Controls? Discover 7 Reliable Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-the-best-2024-apple-watches-expert-ratings-and-in-depth-analysis/"><u>Ultimate Guide to the Best 2024 Apple Watches: Expert Ratings and In-Depth Analysis</u></a></li>
 </ul></div>
 

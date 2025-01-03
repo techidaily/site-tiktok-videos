@@ -1,7 +1,7 @@
 ---
 title: "Fast Track Your Downloads: Solve Yahoo's Slow Speeds with Our 2024 Guide"
-date: 2024-12-19T02:35:13.897Z
-updated: 2024-12-24T22:16:45.979Z
+date: 2024-12-29T16:07:20.238Z
+updated: 2025-01-03T16:24:29.856Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
 Game crashing issues can occur for a variety of reasons, such as a faulty graphics driver, software conflicts, improper game settings, low RAM, etc. If you’re experiencing the**Garry’s Mod(GMod) crashing** issue on your PC, before contacting the game’s developer, try the following solutions first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works.
@@ -29,6 +33,10 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 6. **[Disable automatic downloads from the server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reseat PC components](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your PC specs
 
@@ -60,9 +68,17 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-46-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Check your**Display Memory** here.
 
@@ -71,7 +87,7 @@ Follow the instructions below to view your computer hardware information:
  Make sure your computer meets the requirements, then read on and try the fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restart your computer
@@ -79,10 +95,6 @@ Follow the instructions below to view your computer hardware information:
  If you’re running multiple programs at the same time, hogging your system’s resources, that could cause your game to crash. In this case, try restarting your computer to end unwanted programs completely, then relaunch your game.
 
 If your problem still exists after the reboot, check Fix 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -132,10 +144,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
@@ -143,10 +151,6 @@ OR
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Relaunch GMod.
 
@@ -166,6 +170,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
@@ -174,13 +182,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
 
@@ -196,15 +204,15 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the list box under When a game server tries to download custom content to your computer, and select**Do not download any custom files** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Steam
 
@@ -214,17 +222,9 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
@@ -235,12 +235,16 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
@@ -255,10 +259,6 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
 **10)**  Relaunch Steam and your game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8:**Reseat PC components**
 
@@ -327,18 +327,22 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[Updated] 2024 Approved From Concept to Creation YouTube Trailer Production via Filmora</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-mastering-fast-video-filming-on-tiktok/"><u>[Updated] 2024 Approved Mastering Fast Video Filming on TikTok</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-automate-calendar-events-to-zoom-on-mobile-devices/"><u>[Updated] Automate Calendar Events to Zoom on Mobile Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lifelike-broadcasts-which-aspect-holds-the-high-ground/"><u>[Updated] Lifelike Broadcasts Which Aspect Holds the High Ground?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-conquered-creativity-unleashing-photo-potential-on-snapchat/"><u>2024 Approved Conquered Creativity Unleashing Photo Potential on Snapchat</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-professionals-palette-prowess-color-command-secrets/"><u>2024 Approved Professionals' Palette Prowess - Color Command Secrets</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-ultimate-tiktok-boosting-playbook-strategies-to-grow-your-community/"><u>2024 Approved The Ultimate TikTok Boosting Playbook Strategies to Grow Your Community</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-gionee-f3-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Gionee F3 Pro Phone Screen?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-mastering-viral-videos-top-50plus-quotes-guide/"><u>In 2024, Mastering Viral Videos Top 50+ Quotes Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/ingenious-fp-designs-strategies-for-an-outstanding-tiktok-profile/"><u>Ingenious FP Designs Strategies for an Outstanding TikTok Profile</u></a></li>
-<li><a href="https://facebook.techidaily.com/ios-145-the-unexpected-consequence-for-facebook/"><u>IOS 14.5: The Unexpected Consequence for Facebook?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-7-password-creation-software-that-cost-nothing/"><u>Top 7 Password Creation Software That Cost Nothing</u></a></li>
-<li><a href="https://games-able.techidaily.com/unpacking-idevices-entertainment-apple-arcades-role/"><u>Unpacking iDevices Entertainment: Apple Arcade's Role</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-addressing-stalled-video-transmission-tips-and-tricks-for-messenger-users-iosandroid-for-2024/"><u>[New] Addressing Stalled Video Transmission Tips and Tricks for Messenger Users iOS/Android for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-auditory-adventure-navigating-soundtracks-for-unboxing-content/"><u>[New] Auditory Adventure Navigating Soundtracks for Unboxing Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-leading-the-charge-top-10-gaming-bloggers-on-tiktok/"><u>[New] Leading The Charge Top 10 Gaming Bloggers on TikTok</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-stellar-visuals-enhancing-google-meet-collaboration/"><u>[New] Stellar Visuals Enhancing Google Meet Collaboration</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-uniting-voices-in-a-tiktok-duo/"><u>[New] Uniting Voices in a TikTok Duo</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-cutting-edge-creativity-on-tiktok-mastering-video-designs-in-minutes-for-2024/"><u>[Updated] Cutting-Edge Creativity on TikTok Mastering Video Designs in Minutes for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-decoding-your-own-tiktok-trend-identifier-key-for-2024/"><u>[Updated] Decoding Your Own TikTok Trend Identifier Key for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-dual-performance-the-tiktok-duet-trend/"><u>[Updated] In 2024, Dual Performance The TikTok Duet Trend</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-for-daily-use-determining-the-top-contender-between-claude-and-chatgpt/"><u>AI for Daily Use: Determining the Top Contender Between Claude and ChatGPT</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/end-code-vein-freeze-woes-effective-troubleshooting-methods-revealed/"><u>End Code Vein Freeze Woes: Effective Troubleshooting Methods Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-twitch-hacks-for-newbies-understanding-chat-culture-and-more/"><u>Essential Twitch Hacks for Newbies: Understanding Chat Culture and More</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-verify-rights-before-sharing-on-tiktok-platforms/"><u>How to Verify Rights Before Sharing on TikTok Platforms</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-a-compreenasion-of-siri-integration-into-tiktok-filmmaking/"><u>In 2024, A Compreenasion of Siri Integration Into TikTok Filmmaking</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/orderly-enjoyment-a-step-by-step-process-for-viewing-full-dragon-ball-series/"><u>Orderly Enjoyment: A Step-by-Step Process for Viewing Full Dragon Ball Series</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-honor-90-gt-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Honor 90 GT has been deleted.</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/swift-clearing-of-tiktok-imprints-on-mobile-devices-for-2024/"><u>Swift Clearing of TikTok Imprints on Mobile Devices for 2024</u></a></li>
 </ul></div>
 
