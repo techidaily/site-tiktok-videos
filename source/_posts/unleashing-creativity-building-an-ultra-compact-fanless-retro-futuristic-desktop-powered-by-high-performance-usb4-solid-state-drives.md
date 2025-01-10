@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: Building an Ultra Compact, Fanless 'Retro Futuristic' Desktop Powered by High-Performance USB4 Solid State Drives"
-date: 2024-12-28T16:33:45.879Z
-updated: 2025-01-03T16:36:47.917Z
+date: 2025-01-08T01:07:28.959Z
+updated: 2025-01-09T16:43:55.645Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,24 +89,18 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-exploring-the-best-converters-for-tiktok-graphics/"><u>[New] 2024 Approved Exploring the Best Converters for TikTok Graphics</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-elevate-your-social-media-presence-mastering-tiktok-hashtag-techniques/"><u>[New] Elevate Your Social Media Presence Mastering TikTok Hashtag Techniques</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-what-if-i-accidentally-refreshed-tiktok-in-2024/"><u>[New] What If I Accidentally Refreshed TikTok, In 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-embarking-on-a-shared-tiktok-experience-your-instructional-path/"><u>[Updated] 2024 Approved Embarking on a Shared TikTok Experience Your Instructional Path</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-mastering-twitch-instant-replay-techniques/"><u>[Updated] 2024 Approved Mastering Twitch Instant Replay Techniques</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-video-posts-on-tiktok-your-guide-for-mac-and-pc-users-for-2024/"><u>[Updated] Mastering Video Posts on TikTok Your Guide for MAC & PC Users for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-navigating-tiktoks-guest-entry-guide/"><u>[Updated] Navigating TikTok's Guest Entry Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quantum-megadesk-pure-4k-multi-touch/"><u>[Updated] Quantum MegaDesk Pure 4K Multi-Touch</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-lyric-videos-using-lyric-video-maker-software-for-2024/"><u>[Updated] The Art of Lyric Videos Using Lyric Video Maker Software for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-mirthful-mayhem-a-top-20-list-of-hilarious-tiktok-jokes-and-riddles/"><u>2024 Approved Mirthful Mayhem A Top 20 List of Hilarious TikTok Jokes & Riddles</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/affordable-tech-upgrade-alert-score-premium-microsoft-project-and-visio-pro-licenses-for-a-steal-at-only-20-hot-deal-featured-on-zdnet/"><u>Affordable Tech Upgrade Alert: Score Premium Microsoft Project and Visio Pro Licenses for a Steal at Only $20 – Hot Deal Featured on ZDNET!</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/convert-your-files-easily-using-microsoft-windows-insights-by-yl-software-specialists/"><u>Convert Your Files Easily Using Microsoft Windows: Insights by YL Software Specialists</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-the-enigma-unraveling-wacatacbmls-mechanism-on-windows/"><u>Deciphering the Enigma: Unraveling Wacatac.B!ml's Mechanism on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-game-crashes-and-lag-expert-solutions-for-smooth-play/"><u>Fix Your Game Crashes and Lag - Expert Solutions for Smooth Play</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-quest-for-your-own-specialized-tiktok-hash-code/"><u>In 2024, The Quest for Your Own Specialized TikTok Hash Code</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-12-pro-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 12 Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/order-matters-how-to-watch-the-entire-conjuring-saga-properly/"><u>Order Matters! How to Watch the Entire Conjuring Saga Properly</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/pinpointing-your-own-signature-tiktok-tag/"><u>Pinpointing Your Own Signature TikTok Tag</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-by-accident-tiktok-rewind-restore-lost-content-for-2024/"><u>[New] By Accident, TikTok Rewind Restore Lost Content for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ateways-to-googles-advertising-on-youtube-platforms/"><u>[New] Gateways to Google's Advertising on YouTube Platforms</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-ignite-interest-top-20-creative-and-viral-tiktok-caption-strategies/"><u>[New] In 2024, Ignite Interest Top 20 Creative and Viral TikTok Caption Strategies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-unveiling-your-own-distinctive-tiktok-stream-key/"><u>[New] In 2024, Unveiling Your Own Distinctive TikTok Stream Key</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-professional-gear-tips-gopro-edition/"><u>[New] Professional Gear Tips GoPro Edition</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-secrets-unveiled-creating-standout-tiktok-intros-on-mac-for-2024/"><u>[New] Secrets Unveiled Creating Standout TikTok Intros on Mac for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/edit-like-a-pro-with-top-android-apps/"><u>Edit Like a Pro with Top Android Apps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/enhance-your-photography-journey-mastering-the-art-of-snap-editing/"><u>Enhance Your Photography Journey Mastering the Art of Snap Editing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/framing-frontiers-cutting-edge-app-innovations-24-for-2024/"><u>Framing Frontiers Cutting-Edge App Innovations '24 for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x8b-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor X8b Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-art-of-accompaniment-crafting-a-harmonious-blend-between-video-and-music-for-2024/"><u>New The Art of Accompaniment Crafting a Harmonious Blend Between Video and Music for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-apple-homepod-mini-a-deep-dive-into-audio-performance-and-intelligent-voice-control/"><u>Unveiling the Apple HomePod Mini: A Deep Dive Into Audio Performance and Intelligent Voice Control</u></a></li>
 </ul></div>
 

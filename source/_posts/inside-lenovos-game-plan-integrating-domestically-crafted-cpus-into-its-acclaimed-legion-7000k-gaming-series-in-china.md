@@ -1,7 +1,7 @@
 ---
 title: "Inside Lenovo's Game Plan: Integrating Domestically-Crafted CPUs Into Its Acclaimed Legion 7000K Gaming Series in China"
-date: 2024-12-31T16:19:38.005Z
-updated: 2025-01-03T16:37:38.701Z
+date: 2025-01-08T19:06:29.374Z
+updated: 2025-01-09T21:49:38.730Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,20 +78,14 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-enjoy-dual-views-expert-tips-for-utilizing-picture-in-picture-on-netflix/"><u>[New] 2024 Approved Enjoy Dual Views Expert Tips for Utilizing Picture-in-Picture on Netflix</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-masterful-insights-the-top-6-video-snaggers-on-mac/"><u>[New] 2024 Approved Masterful Insights The Top 6 Video Snaggers on Mac</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-essential-tips-for-effective-instagram-video-conversations-for-2024/"><u>[New] Essential Tips for Effective Instagram Video Conversations for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-elevating-your-business-navigating-tiktok-trends-and-techniques/"><u>[New] In 2024, Elevating Your Business Navigating TikTok Trends & Techniques</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-unlimited-tiktok-videos-no-watermarks-free-downloads/"><u>[New] In 2024, Unlimited TikTok Videos No Watermarks, Free Downloads</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-20-timeless-anime-themes-making-a-mark-on-tiktok/"><u>[Updated] 2024 Approved 20 Timeless Anime Themes Making a Mark on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-copyrights-and-creatives-uploading-tiktoks-safely-for-2024/"><u>[Updated] Copyrights and Creatives Uploading TikToks Safely for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-select-best-tiktok-video-apps-reviewed/"><u>[Updated] In 2024, Select Best TikTok Video Apps Reviewed</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-pioneering-desktop-livestreams-with-tiktoks-features/"><u>[Updated] Pioneering Desktop Livestreams with TikTok's Features</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-hidden-history-in-your-browser-how-to-tackle/"><u>[Updated] The Hidden History in Your Browser How to Tackle?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-the-beats-try-these-free-web-scanners/"><u>[Updated] Unleash the Beats Try These Free Web Scanners</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-ultimate-guide-to-crafting-compelling-tiktok-captions-5-must-knows/"><u>2024 Approved The Ultimate Guide to Crafting Compelling TikTok Captions (5 Must-Knows)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/chuckle-census-latest-stars-and-trends-in-tiktok-laughter/"><u>Chuckle Census Latest Stars and Trends in TikTok Laughter</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722997888357-rainbow-six-siege-not-opening-heres-how-to-resolve-it/"><u>Rainbow Six Siege Not Opening? Here's How to Resolve It</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/spectacular-20-anime-openers-hits-for-2024/"><u>Spectacular 20 Anime Openers' Hits for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-elevate-to-a-custom-hashtag-mastery-on-tiktok-for-2024/"><u>[New] Elevate to a Custom Hashtag Mastery on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-immerse-in-tiktok-entertainment-with-ease-and-grace-for-2024/"><u>[New] Immerse in TikTok Entertainment with Ease and Grace for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-spinning-jujutsu-kaisen-stories-on-tiktok-for-2024/"><u>[New] Spinning Jujutsu Kaisen Stories on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-perfect-your-tiktok-presence-with-siri-commands-and-features/"><u>[Updated] In 2024, Perfect Your TikTok Presence with Siri Commands and Features</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-breakdown-xstudio-video-production-mastery/"><u>2024 Approved The Ultimate Breakdown XStudio Video Production Mastery</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/comprehensive-guide-for-free-video-translator-downloading-for-2024/"><u>Comprehensive Guide for Free Video Translator Downloading for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-5-smart-interactive-crime-game-adventures-with-artificnial-intelligence/"><u>Discover 5 Smart, Interactive Crime Game Adventures with Artificnial Intelligence</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/profitability-increase/"><u>Profitability Increase</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-25-hashtags-that-will-make-you-a-social-media-star-on-instagram-for-2024/"><u>Top 25 Hashtags That Will Make You a Social Media Star on Instagram for 2024</u></a></li>
 </ul></div>
 

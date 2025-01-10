@@ -1,7 +1,7 @@
 ---
 title: Tom's Computer Gear Breakdown - Expert Analysis & Reviews
-date: 2024-12-31T16:42:57.763Z
-updated: 2025-01-03T16:41:09.229Z
+date: 2025-01-05T11:31:01.609Z
+updated: 2025-01-09T21:14:02.995Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,16 +66,22 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-gaming-channel-evolution-best-14-video-ideas-on-youtube/"><u>[New] 2024 Approved Gaming Channel Evolution Best 14 Video Ideas on YouTube</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-elevate-your-creative-expression-with-smart-caption-techniques-for-tiktoks-for-2024/"><u>[New] Elevate Your Creative Expression with Smart Caption Techniques for TikToks for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-winning-over-viewers-the-top-20-must-try-tiktok-caption-strategies/"><u>[New] Winning Over Viewers The Top 20 Must-Try TikTok Caption Strategies</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-catchy-tracks-the-20-top-rapping-beats-you-cant-miss-on-tiktok/"><u>[Updated] In 2024, Catchy Tracks The 20 Top Rapping Beats You Can't Miss on TikTok</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-essential-collection-of-high-speed-monitor-tools/"><u>[Updated] In 2024, The Essential Collection of High-Speed Monitor Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-best-gamers-audio-selection-guide/"><u>[Updated] YouTube's Best Gamers' Audio Selection Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-hidden-gem-best-free-text-to-speech-macapps/"><u>2024 Approved Unveiling the Hidden Gem Best Free Text to Speech macApps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-build-your-own-4k-video-editing-pc/"><u>How To Build Your Own 4K Video Editing PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/terminal-and-powershell-a-study-on-their-contrasting-traits/"><u>Terminal & PowerShell: A Study on Their Contrasting Traits</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-poco-c65-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Poco C65 Device</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/troubled-tiktoks-learn-how-to-reactivate-them-for-2024/"><u>Troubled TikToks? Learn How to Reactivate Them for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-discover-the-secret-to-friends-livestream-participation/"><u>[New] 2024 Approved Discover the Secret to Friend's Livestream Participation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-channel-your-tiktok-talent-chromeandroidios-guide/"><u>[New] Channel Your TikTok Talent Chrome/Android/iOS Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-perfecting-your-tiktok-audio-voice-editing-secrets-revealed-for-2024/"><u>[New] Perfecting Your TikTok Audio Voice Editing Secrets Revealed for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-elite-circle-top-gamers-on-tiktok-for-2024/"><u>[New] The Elite Circle Top Gamers on TikTok for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-uncovering-budget-friendly-video-communication-apps-pcmac/"><u>[New] Uncovering Budget-Friendly Video Communication Apps PC/MAC</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-the-ultimate-collection-of-popular-tiktok-reactions/"><u>[Updated] 2024 Approved The Ultimate Collection of Popular TikTok Reactions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-crafting-an-epic-tiktok-farewell-sequence-for-2024/"><u>[Updated] Crafting An Epic TikTok Farewell Sequence for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-youtube-titles-crafted-by-ai/"><u>2024 Approved Top YouTube Titles Crafted by AI</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/achieve-business-excellence-collaborate-with-aomei-backup-experts/"><u>Achieve Business Excellence: Collaborate with AOMEI Backup Experts!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/bold-and-creative-pfp-options-for-a-unique-tiktok-look/"><u>Bold & Creative PFP Options for a Unique TikTok Look</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-wi-fi-drivers-in-windows-11-and-10/"><u>How to Update Wi-Fi Drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-expertise-overstated-5-cautionary-tales/"><u>Human Expertise Overstated? 5 Cautionary Tales</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-audio-integration-in-canva-videos/"><u>In 2024, Mastering Audio Integration in Canva Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-graphics-conflict-intel-and-nvidia-fix-on-windows-10-systems/"><u>Tackling Graphics Conflict: Intel & NVIDIA Fix on Windows 10 Systems</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-role-and-relevance-of-pfp-in-tiktok-culture/"><u>The Role and Relevance of PFP in TikTok Culture</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Itel A60 | Dr.fone</u></a></li>
 </ul></div>
 

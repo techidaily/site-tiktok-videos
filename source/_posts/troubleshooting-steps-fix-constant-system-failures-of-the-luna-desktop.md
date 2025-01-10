@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Fix Constant System Failures of the Luna Desktop"
-date: 2025-01-02T16:39:48.911Z
-updated: 2025-01-03T16:38:30.185Z
+date: 2025-01-03T02:09:32.054Z
+updated: 2025-01-09T19:46:22.044Z
 tags:
   - win11
   - win10
@@ -29,13 +29,13 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
 
@@ -49,13 +49,13 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
 
@@ -71,6 +71,10 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
@@ -80,7 +84,7 @@ Check your region and language settings on your computer:
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -103,10 +107,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -114,14 +114,10 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -134,6 +130,10 @@ Or click  **Update All** to automatically download and install the correct versi
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
@@ -159,19 +159,17 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-vocalizing-your-tiktok-content/"><u>[New] In 2024, The Ultimate Guide to Vocalizing Your TikTok Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-streamers-dilemma-deciding-between-obs-and-shadowplay/"><u>[New] Streamers' Dilemma Deciding Between OBS and ShadowPlay</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-unleash-potential-in-tiktok-videos-free-editors-for-mac-for-2024/"><u>[New] Unleash Potential in TikTok Videos - Free Editors for Mac for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-dynamic-palette-skills-in-color-adjustment-for-2024/"><u>[Updated] Dynamic Palette Skills in Color Adjustment for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-boosting-tiktok-video-playback-speeds/"><u>[Updated] In 2024, Boosting TikTok Video Playback Speeds</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-secrets-unveiled-creating-standout-tiktok-intros-on-mac/"><u>[Updated] In 2024, Secrets Unveiled Creating Standout TikTok Intros on Mac</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-navigating-hashtag-use-for-maximum-marketing-reach/"><u>[Updated] Navigating Hashtag Use for Maximum Marketing Reach</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-skyrocketing-your-tiktok-content-speed-for-2024/"><u>[Updated] Skyrocketing Your TikTok Content Speed for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-approved-yts-game-changers-the-elite-ladies-in-gaming/"><u>2024 Approved YT's Game Changers The Elite Ladies in Gaming</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620199973-free-guide-perfectly-formatting-and-uploading-your-mixtape-to-datpiff/"><u>Free Guide: Perfectly Formatting & Uploading Your Mixtape to DatPiff!</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/perfecting-the-sync-siri-voice-control-for-tiktok-users-for-2024/"><u>Perfecting the Sync Siri Voice Control for TikTok Users for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revealing-ms-bda-through-visual-rendering-insight/"><u>Revealing MS BDA Through Visual Rendering Insight</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-tablet-reviews-and-comparisons-zdnets-comprehensive-guide/"><u>Top Rated Tablet Reviews & Comparisons - ZDNet's Comprehensive Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-nokia-xr21-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Nokia XR21? Fixed | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-discovering-the-most-admirable-podcast-microphones/"><u>[New] 2024 Approved Discovering the Most Admirable Podcast Microphones</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-streamline-your-tiktok-lives-4-essential-desktop-practices/"><u>[New] 2024 Approved Streamline Your TikTok Lives 4 Essential Desktop Practices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-sudden-tiktok-reset-restoring-your-content/"><u>[Updated] Sudden TikTok Reset Restoring Your Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-victorious-ventures-in-the-top-12-tycoons-your-ultimate-gaming-goal/"><u>[Updated] Victorious Ventures in the Top 12 Tycoons - Your Ultimate Gaming Goal</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-how-to-go-live-on-tiktok-on-computer/"><u>2024 Approved How to Go Live On TikTok On Computer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-ultimate-laptops-your-go-to-machine-for-expert-video-editing/"><u>2024 Approved Ultimate Laptops Your Go-To Machine for Expert Video Editing</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728474325625-hdd/"><u>東芝外付けHDDデータ復元手順:説明とガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-chatgpt-cutting-edge-communication-companions/"><u>Beyond ChatGPT: Cutting-Edge Communication Companions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratis-convertidor-de-archivos-3gp-en-linea-movavi/"><u>Gratis Convertidor De Archivos 3GP en Línea - Movavi</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-no-marking-tiktok-mp4-downloader-for-high-quality-clips/"><u>In 2024, No Marking TikTok MP4 Downloader for High-Quality Clips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-rapid-fire-fb-videos-guide-premium-apps-to-fasten-your-content/"><u>In 2024, Rapid-Fire FB Videos Guide - Premium Apps to Fasten Your Content</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-windows-10-with-new-nvidia-geforce-210-graphics-drivers/"><u>Update Your Windows 10 with New NVIDIA GeForce 210 Graphics Drivers</u></a></li>
 </ul></div>
 

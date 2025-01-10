@@ -1,7 +1,7 @@
 ---
 title: Solving 'Cannot Perform Version Validation' In Final Fantasy XIV
-date: 2024-12-28T16:24:38.972Z
-updated: 2025-01-03T16:38:03.521Z
+date: 2025-01-07T05:17:38.958Z
+updated: 2025-01-09T16:22:46.840Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 ## Overcome Lag and Hang-Ups in Minecraft on Personal Computers Easily
 
 The infinite world in Minecraft is waiting for you to explore, but you just canâ€™t get in. It keeps not responding forever. How annoying it is! Donâ€™t worry, Minecraft not responding is nothing new. Thousands of players are reporting the same issue. The good news is that you can solve it easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why is Minecraft not responding?
 
@@ -49,10 +45,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 5. **[Disable Mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Disable Discord Overlay
 
  Many users are reporting that Discord overlay can cause Minecraft not to respond. To fix it, you need to**disable Discord Overlay** or**close Discord completely** .
@@ -65,10 +57,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Launch your Minecraft again.
 
  See if the issue still persists. If your Minecraft is still not responding, you can move on to the next fix.
@@ -76,7 +64,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Remove incompatible software
@@ -135,7 +123,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Minecraft as administrator
@@ -148,6 +136,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
@@ -155,6 +147,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 4) Run Minecraft again to see if this works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable Mods
 
@@ -165,6 +161,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  Donâ€™t forget to restart your computer before you play the game again.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall your Minecraft
 
@@ -182,13 +182,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/remove-minecraft-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After uninstalling, restart your computer. Go to the[**official Minecraft website**](https://www.minecraft.net/en-us/) to download and install Minecraft again.
 
@@ -218,21 +218,18 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-engineering-a-memorable-tiktok-close-screen-for-2024/"><u>[New] Engineering A Memorable TikTok Close Screen for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-navigating-tiktok-lives-your-step-by-step-guide/"><u>[New] In 2024, Navigating TikTok Lives Your Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-master-the-art-of-influence-with-trending-tiktok-hashes-for-2024/"><u>[New] Master the Art of Influence with Trending TikTok Hashes for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-safe-sharing-starts-here-the-copyright-check-for-tiktok-videos/"><u>[New] Safe Sharing Starts Here The Copyright Check for TikTok Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-screen-casting-features-in-vlc-examined/"><u>[New] Screen Casting Features in VLC Examined</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-transformative-colors-in-video-editing-workflows-for-2024/"><u>[New] Transformative Colors in Video Editing Workflows for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-27-hilarious-tiktok-skits-for-smiles-for-2024/"><u>[Updated] 27 Hilarious TikTok Skits for Smiles for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-contrasting-youtubes-ownership-norms-with-cc-ideals-for-2024/"><u>[Updated] Contrasting YouTube's Ownership Norms with CC Ideals for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-hasten-through-tiktok-content-efficiently-for-2024/"><u>[Updated] Hasten Through TikTok Content Efficiently for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-secrets-of-seamlessly-sharing-in-tiktok-livestreams/"><u>[Updated] In 2024, Secrets of Seamlessly Sharing in TikTok Livestreams</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/a-beginners-insight-into-av1-encoding/"><u>A Beginner's Insight Into AV1 Encoding</u></a></li>
-<li><a href="https://fox-links.techidaily.com/beyond-basic-how-hdr-transforms-video-editing-processes/"><u>Beyond Basic How HDR Transforms Video Editing Processes</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-execute-a-budget-friendly-youtube-seminar-for-2024/"><u>How to Execute a Budget-Friendly Youtube Seminar for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-camera-apps-error-0xa00f425d-in-windows-10-and-11/"><u>How to Fix the Camera Appâ€™s Error 0xA00F425D in Windows 10 & 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-startup-errors-in-helldivers-2-on-steam-a-step-by-estep-guide/"><u>Overcoming Startup Errors in Helldivers 2 on Steam - A Step-by-eStep Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/pioneering-6-networks-supporting-business-development-for-2024/"><u>Pioneering 6 Networks Supporting Business Development for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-ecstasy-of-entertainment-top-10-insane-tiktok-gaming-quests-for-2024/"><u>[New] Ecstasy of Entertainment Top 10 Insane TikTok Gaming Quests for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-becoming-a-star-spectator-on-the-social-stage/"><u>[Updated] In 2024, Becoming a Star Spectator on the Social Stage</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-discovering-tiktoks-most-popular-gamers/"><u>2024 Approved Discovering TikTok's Most Popular Gamers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-top-10-trending-tiktok-battles-you-should-join-in/"><u>2024 Approved Top 10 Trending TikTok Battles You Should Join In</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-restoring-spotify-functionality-while-driving-with-android-auto/"><u>Essential Tips: Restoring Spotify Functionality While Driving With Android Auto</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/harmonizing-in-tiktoks-duo-videos/"><u>Harmonizing in TikTok's Duo Videos</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audiovisual-harmony-perfecting-voiceover-in-videos/"><u>In 2024, Audiovisual Harmony Perfecting Voiceover in Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-moto-e13-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Moto E13 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-a24-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy A24? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/orchestrating-a-harmonious-tiktok-finale-for-2024/"><u>Orchestrating a Harmonious TikTok Finale for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quickcapture-lite-basic-chromecasting-tool-for-2024/"><u>QuickCapture Lite Basic Chromecasting Tool for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 6 | Dr.fone</u></a></li>
 </ul></div>
 
