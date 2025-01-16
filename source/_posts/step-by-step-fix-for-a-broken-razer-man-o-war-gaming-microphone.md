@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for a Broken Razer Man O' War Gaming Microphone
-date: 2025-01-06T10:02:40.211Z
-updated: 2025-01-10T08:13:46.310Z
+date: 2025-01-15T01:30:33.868Z
+updated: 2025-01-16T04:49:11.453Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
 Having a headphone crackling problem? You’re certainly not alone. But don’t worry, it can be quite easy to fix…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 fixes for Headphones Crackling
@@ -47,6 +47,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
@@ -54,21 +58,17 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
@@ -82,10 +82,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -98,10 +94,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
@@ -119,8 +111,16 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
 
@@ -151,22 +151,24 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-deciphering-tiktoks-pfp-code-a-thorough-analysis/"><u>[New] 2024 Approved Deciphering TikTok's PFP Code - A Thorough Analysis</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-cheat-sheet-to-ez-grabber-usage/"><u>[New] 2024 Approved The Ultimate Cheat Sheet to EZ Grabber Usage</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-cutting-edge-approaches-to-in-game-auditory-logging/"><u>[New] In 2024, Cutting-Edge Approaches to In-Game Auditory Logging</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-unraveling-youtubes-monetization-shifts/"><u>[New] In 2024, Unraveling YouTube's Monetization Shifts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-optimal-strategy-for-integrating-linktree-in-tiktok-profiles/"><u>[New] Optimal Strategy for Integrating Linktree in TikTok Profiles</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-quest-for-your-own-specialized-tiktok-hash-code/"><u>[New] The Quest for Your Own Specialized TikTok Hash Code</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-metaverse-expedition-leading-vr-accessories-reviewed/"><u>[Updated] Metaverse Expedition Leading VR Accessories Reviewed</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-free-vimeo-tutorial-to-craft-engaging-videos/"><u>2024 Approved Free Vimeo Tutorial to Craft Engaging Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premiere-music-collections-for-visual-media/"><u>2024 Approved Premiere Music Collections for Visual Media</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-regain-lost-content-after-an-unexpected-tiktok-reload/"><u>2024 Approved Regain Lost Content After an Unexpected TikTok Reload</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/mastering-cartoon-expressions-with-snapchats-fun-filter/"><u>Mastering Cartoon Expressions with Snapchat's Fun Filter</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/piecing-together-a-unique-tiktok-outro-elements-for-2024/"><u>Piecing Together A Unique TikTok Outro Elements for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/secret-snapsnapping-techniques-unseen-screen-captures/"><u>Secret SnapSnapping Techniques Unseen Screen Captures</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-problems-fixes-for-when-discord-app-wont-launch/"><u>Solve Your Problems: Fixes for When Discord App Wont Launch</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/start-streaming-the-simple-method-for-mac-book-air-recording/"><u>Start Streaming The Simple Method for Mac Book Air Recording</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tiktok-hashtag-techniques-to-boost-your-post-visibility/"><u>TikTok Hashtag Techniques to Boost Your Post Visibility</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/unbroken-song-livestreams-on-qyoutube/"><u>Unbroken Song Livestreams on QYoutube</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-crafting-an-engaging-tiktok-closing-credits-for-2024/"><u>[New] Crafting An Engaging TikTok Closing Credits for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-best-yt-storytellers-for-enthralling-viewing-experience/"><u>[New] In 2024, Best YT Storytellers for Enthralling Viewing Experience</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-freely-collect-tiktok-masterpieces-no-marks-included/"><u>[New] In 2024, Freely Collect TikTok Masterpieces - No Marks Included</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-syncopated-sing-sessions-tiktok-style/"><u>[New] In 2024, Syncopated Sing-Sessions TikTok Style</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-30-anime-inspired-videos-reshaping-online-culture/"><u>[New] In 2024, Top 30 Anime-Inspired Videos Reshaping Online Culture</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-sketching-your-signature-tiktok-end-note/"><u>[New] Sketching Your Signature TikTok End-Note</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-bridging-iphone-and-tiktok-the-ultimate-siri-filming-technique/"><u>[Updated] 2024 Approved Bridging iPhone and TikTok The Ultimate Siri Filming Technique</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-ignite-discussion-with-custom-creative-story-inquiries-for-2024/"><u>[Updated] Ignite Discussion with Custom, Creative Story Inquiries for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-depth-review-unveiling-bublcams-full-potential-for-2024/"><u>[Updated] In-Depth Review Unveiling Bublcam's Full Potential for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-the-art-of-tiktok-closing-scenes-for-2024/"><u>[Updated] Mastering the Art of TikTok Closing Scenes for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-seamless-youtube-experience-facebooks-autoplay-solution/"><u>[Updated] Seamless YouTube Experience Facebook's Autoplay Solution</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-secrets-of-seamlessly-sharing-in-tiktok-livestreams-for-2024/"><u>[Updated] Secrets of Seamlessly Sharing in TikTok Livestreams for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-system-prerequisites-for-running-big-sur-on-macs/"><u>[Updated] System Prerequisites for Running Big Sur on Macs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-realme-gt-5-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Realme GT 5 Pro.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-amd-radeon-r5-graphics-driver-download-for-windows-11-10-8-7/"><u>Latest AMD Radeon R5 Graphics Driver Download for Windows 11, 10, 8, 7</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/laugh-outloud-a-curation-of-the-funniest-tiktok-videos-and-joke-threads/"><u>Laugh Outloud A Curation of the Funniest TikTok Videos and Joke Threads</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/seamlessly-integrate-into-others-tiktok-livestreams/"><u>Seamlessly Integrate Into Others’ TikTok Livestreams</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-guide-to-playing-all-avi-videos-on-a-mac-no-need-for-conversions-with-this-superior-avi-player/"><u>Ultimate Guide to Playing ALL AVI Videos on a Mac: No Need for Conversions with This Superior AVI Player!</u></a></li>
 </ul></div>
 

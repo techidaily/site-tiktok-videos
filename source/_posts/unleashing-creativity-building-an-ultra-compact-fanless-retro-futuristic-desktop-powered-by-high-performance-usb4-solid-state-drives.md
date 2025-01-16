@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: Building an Ultra Compact, Fanless 'Retro Futuristic' Desktop Powered by High-Performance USB4 Solid State Drives"
-date: 2025-01-08T01:07:28.959Z
-updated: 2025-01-09T16:43:55.645Z
+date: 2025-01-09T20:47:55.463Z
+updated: 2025-01-15T17:31:13.265Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,18 +89,24 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-by-accident-tiktok-rewind-restore-lost-content-for-2024/"><u>[New] By Accident, TikTok Rewind Restore Lost Content for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ateways-to-googles-advertising-on-youtube-platforms/"><u>[New] Gateways to Google's Advertising on YouTube Platforms</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-ignite-interest-top-20-creative-and-viral-tiktok-caption-strategies/"><u>[New] In 2024, Ignite Interest Top 20 Creative and Viral TikTok Caption Strategies</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-unveiling-your-own-distinctive-tiktok-stream-key/"><u>[New] In 2024, Unveiling Your Own Distinctive TikTok Stream Key</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-professional-gear-tips-gopro-edition/"><u>[New] Professional Gear Tips GoPro Edition</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-secrets-unveiled-creating-standout-tiktok-intros-on-mac-for-2024/"><u>[New] Secrets Unveiled Creating Standout TikTok Intros on Mac for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/edit-like-a-pro-with-top-android-apps/"><u>Edit Like a Pro with Top Android Apps</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/enhance-your-photography-journey-mastering-the-art-of-snap-editing/"><u>Enhance Your Photography Journey Mastering the Art of Snap Editing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/framing-frontiers-cutting-edge-app-innovations-24-for-2024/"><u>Framing Frontiers Cutting-Edge App Innovations '24 for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x8b-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor X8b Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-art-of-accompaniment-crafting-a-harmonious-blend-between-video-and-music-for-2024/"><u>New The Art of Accompaniment Crafting a Harmonious Blend Between Video and Music for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-apple-homepod-mini-a-deep-dive-into-audio-performance-and-intelligent-voice-control/"><u>Unveiling the Apple HomePod Mini: A Deep Dive Into Audio Performance and Intelligent Voice Control</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-choosing-the-right-partners-for-a-safer-tiktok-expansion-for-2024/"><u>[New] Choosing the Right Partners for a Safer TikTok Expansion for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-collaborative-sing-along-tiktok-feature-for-2024/"><u>[New] Collaborative Sing-Along TikTok Feature for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-craze-on-be-a-star-viral-tiktok-challenges-you-cant-miss/"><u>[New] Craze on, Be a Star! Viral TikTok Challenges You Can't Miss</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-google-meet-for-non-paying-professionals-complete-insights-and-tips/"><u>[New] Google Meet for Non-Paying Professionals Complete Insights and Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-quick-tips-for-overcoming-adobe-premieres-srt-export-issues/"><u>[New] In 2024, Quick Tips for Overcoming Adobe Premiere's SRT Export Issues</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-revitalize-your-content-3-advanced-methods-for-changing-tiktok-backdrops/"><u>[New] Revitalize Your Content 3 Advanced Methods for Changing TikTok Backdrops</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-laugh-riot-on-tiktok-unveiling-the-best-jokes-and-riddles/"><u>[Updated] 2024 Approved Laugh Riot on TikTok Unveiling the Best Jokes and Riddles</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-pull-in-viewers-with-the-best-tiktok-caption-ideas-for-engagement/"><u>[Updated] 2024 Approved Pull in Viewers With The Best TikTok Caption Ideas for Engagement</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-ultimate-guide-to-avoiding-fees-in-fcp/"><u>[Updated] 2024 Approved The Ultimate Guide to Avoiding Fees in FCP</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-mastering-text-in-visuals-the-top-5-tips-for-tiktok-captions/"><u>[Updated] In 2024, Mastering Text in Visuals The Top 5 Tips for TikTok Captions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigating-windows-11-a-deep-dive-into-zoom-usage/"><u>[Updated] In 2024, Navigating Windows 11 A Deep Dive Into Zoom Usage</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/formulating-a-heartfelt-tiktok-epilogue/"><u>Formulating a Heartfelt TikTok Epilogue</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-redmi-note-13-proplus-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi Redmi Note 13 Pro+ 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-master-tiktok-snap-enhancers-quickly-and-virally/"><u>In 2024, Master TikTok Snap Enhancers Quickly & Virally</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-critical-system-crashes-on-windows-10-a-comprehensive-guide/"><u>Resolving Critical System Crashes on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-synologys-rt2600ac-exceptional-long-range-wi-fi-and-built-in-parental-controls-unveiled/"><u>The Ultimate Guide to Synology's RT2600ac: Exceptional Long Range Wi-Fi & Built-In Parental Controls Unveiled</u></a></li>
 </ul></div>
 

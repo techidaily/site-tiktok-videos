@@ -1,7 +1,7 @@
 ---
 title: "Asus Unveils New NUC Pert+ Model: Packing a Meteor Lake CPU, Core Ultra-5 125H for $860!"
-date: 2025-01-02T19:17:16.180Z
-updated: 2025-01-10T01:29:18.291Z
+date: 2025-01-09T00:59:39.589Z
+updated: 2025-01-15T22:09:40.129Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,20 +54,17 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-accidental-tiktok-reset-how-to-restore-content/"><u>[New] Accidental TikTok Reset How to Restore Content</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-tiktok-video-steal-mode-iphone-edition/"><u>[Updated] 2024 Approved TikTok Video Steal Mode IPhone Edition</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-dive-into-tiktoks-freshest-and-quirkiest-trends-for-2024/"><u>[Updated] Dive Into TikTok’s Freshest and Quirkiest Trends for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-astronaut-eyes-choosing-the-finest-fps-games/"><u>[Updated] In 2024, Astronaut Eyes Choosing the Finest FPS Games</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-essential-tactics-capturing-high-quality-sports-streams-online/"><u>[Updated] In 2024, Essential Tactics Capturing High-Quality Sports Streams Online</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-highlighted-top-5-minimalist-action-camera-picks/"><u>[Updated] In 2024, Highlighted Top 5 Minimalist Action Camera Picks</u></a></li>
-<li><a href="https://games-able.techidaily.com/addressing-steam-offline-and-unreachable-servers/"><u>Addressing Steam Offline and Unreachable Servers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-linksys-ea8300-driver-download-and-setup-instructions-secure-and-speedy-connection/"><u>Easy Linksys EA8300 Driver Download & Setup Instructions | Secure & Speedy Connection</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-crafting-a-tiktok-twosome-film/"><u>In 2024, Crafting a TikTok Twosome Film</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-elevate-your-tiktok-game-expert-mac-video-editing-guide/"><u>In 2024, Elevate Your TikTok Game Expert Mac Video Editing Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-sound-sanctuary-simple-ways-to-remove-background-buzzing-from-your-recordings-using-audacity-and-filmorapro-for-2024/"><u>New Sound Sanctuary Simple Ways to Remove Background Buzzing From Your Recordings Using Audacity & FilmoraPro for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/slash-prices-get-250-discount-on-high-end-rtx-4090-gamers-dream-pc/"><u>Slash Prices! Get $250 Discount on High-End RTX 4090 Gamer's Dream PC</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tiktok-transformation-hacks-best-filter-strategies-uncovered/"><u>TikTok Transformation Hacks Best Filter Strategies Uncovered</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-elevate-your-tiktok-videos-with-compelling-captions/"><u>[New] In 2024, Elevate Your TikTok Videos with Compelling Captions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-pinpoint-the-perfect-tag-for-your-personalized-tiktok-stream/"><u>[New] In 2024, How to Pinpoint the Perfect Tag for Your Personalized TikTok Stream</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-insiders-path-to-joining-others-tiktok-gigs/"><u>[New] In 2024, The Insider's Path to Joining Others' TikTok Gigs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-reimagining-your-tiktok-presence-step-by-step-renaming-process-for-2024/"><u>[Updated] Reimagining Your TikTok Presence Step-by-Step Renaming Process for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-list-mobile-camera-utilities-for-iphone-for-2024/"><u>A-List Mobile Camera Utilities for iPhone for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-insight-vigilance-chatgpt-analysis-tools-for-professionals/"><u>AI Insight Vigilance: ChatGPT Analysis Tools for Professionals</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-powerhouse-expert-evaluation-of-the-tp-link-archer-a6-ac1200-wireless-router/"><u>Budget-Friendly Powerhouse: Expert Evaluation of the TP-Link Archer A6 AC1200 Wireless Router</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/essential-propeller-choices-mastering-flight-excellence-for-2024/"><u>Essential Propeller Choices Mastering Flight Excellence for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fallout-3-launch-errors-demystified-proven-tips-and-tricks/"><u>Fallout 3 Launch Errors Demystified - Proven Tips & Tricks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/how-to-create-metaverse-avatar-easily-an-ultimate-guide/"><u>How to Create Metaverse Avatar Easily An Ultimate Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-11-pro-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 11 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-nokia-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Nokia Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 
