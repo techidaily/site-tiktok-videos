@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: Building an Ultra Compact, Fanless 'Retro Futuristic' Desktop Powered by High-Performance USB4 Solid State Drives"
-date: 2025-01-09T20:47:55.463Z
-updated: 2025-01-15T17:31:13.265Z
+date: 2025-01-15T22:46:01.681Z
+updated: 2025-01-22T09:11:00.029Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,24 +89,18 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-choosing-the-right-partners-for-a-safer-tiktok-expansion-for-2024/"><u>[New] Choosing the Right Partners for a Safer TikTok Expansion for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-collaborative-sing-along-tiktok-feature-for-2024/"><u>[New] Collaborative Sing-Along TikTok Feature for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-craze-on-be-a-star-viral-tiktok-challenges-you-cant-miss/"><u>[New] Craze on, Be a Star! Viral TikTok Challenges You Can't Miss</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-google-meet-for-non-paying-professionals-complete-insights-and-tips/"><u>[New] Google Meet for Non-Paying Professionals Complete Insights and Tips</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-quick-tips-for-overcoming-adobe-premieres-srt-export-issues/"><u>[New] In 2024, Quick Tips for Overcoming Adobe Premiere's SRT Export Issues</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-revitalize-your-content-3-advanced-methods-for-changing-tiktok-backdrops/"><u>[New] Revitalize Your Content 3 Advanced Methods for Changing TikTok Backdrops</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-laugh-riot-on-tiktok-unveiling-the-best-jokes-and-riddles/"><u>[Updated] 2024 Approved Laugh Riot on TikTok Unveiling the Best Jokes and Riddles</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-pull-in-viewers-with-the-best-tiktok-caption-ideas-for-engagement/"><u>[Updated] 2024 Approved Pull in Viewers With The Best TikTok Caption Ideas for Engagement</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-ultimate-guide-to-avoiding-fees-in-fcp/"><u>[Updated] 2024 Approved The Ultimate Guide to Avoiding Fees in FCP</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-mastering-text-in-visuals-the-top-5-tips-for-tiktok-captions/"><u>[Updated] In 2024, Mastering Text in Visuals The Top 5 Tips for TikTok Captions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigating-windows-11-a-deep-dive-into-zoom-usage/"><u>[Updated] In 2024, Navigating Windows 11 A Deep Dive Into Zoom Usage</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/formulating-a-heartfelt-tiktok-epilogue/"><u>Formulating a Heartfelt TikTok Epilogue</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-redmi-note-13-proplus-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi Redmi Note 13 Pro+ 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-master-tiktok-snap-enhancers-quickly-and-virally/"><u>In 2024, Master TikTok Snap Enhancers Quickly & Virally</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-critical-system-crashes-on-windows-10-a-comprehensive-guide/"><u>Resolving Critical System Crashes on Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-synologys-rt2600ac-exceptional-long-range-wi-fi-and-built-in-parental-controls-unveiled/"><u>The Ultimate Guide to Synology's RT2600ac: Exceptional Long Range Wi-Fi & Built-In Parental Controls Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-gamers-paradise-our-candidate-7-best-fps-titles-for-2024/"><u>[New] Gamer's Paradise Our Candidate 7 Best FPS Titles for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-who-are-tiktoks-gaming-visionaries/"><u>[New] In 2024, Who Are TikTok’s Gaming Visionaries?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-leading-non-zoom-remote-work-solutions-for-pc-and-mobile-for-2024/"><u>[New] Leading Non-Zoom Remote Work Solutions for PC & Mobile for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-explore-top-10-apples-affordable-and-free-image-collage-applications/"><u>[Updated] 2024 Approved Explore Top 10 Apple's Affordable & Free Image Collage Applications</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-easy-steps-to-screen-recording-across-oses-and-devices/"><u>[Updated] In 2024, Easy Steps to Screen Recording Across OSes & Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/enhancing-video-longeayer-androidmac-app-utilization/"><u>Enhancing Video Longeayer Android/Mac App Utilization</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-gratuite-konvertierter-aac-in-formats-aiff-professionnelle-software-de-movavi/"><u>Gratuit Gratuite Konvertierter AAC in Formats AIFF - Professionnelle Software De Movavi</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/installing-tiktok-made-easy-for-mac-users-for-2024/"><u>Installing TikTok Made Easy for Mac Users for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/premier-guidance-leading-ringtone-artisans-iphone/"><u>Premier Guidance Leading Ringtone Artisans iPhone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/save-your-android-and-mac-snapchat-footage-effectively/"><u>Save Your Android & Mac Snapchat Footage Effectively</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/snapchat-enhancements-the-most-acclaimed-video-editing-tools/"><u>Snapchat Enhancements The Most Acclaimed Video Editing Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tips-and-tricks-mastering-voiceover-on-tiktok/"><u>Tips and Tricks Mastering Voiceover on TikTok</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/transform-your-pcs-look-a-step-by-step-guide-to-customizing-windows-11-display-preferences-tips-from-yl-computing/"><u>Transform Your PC's Look: A Step-by-Step Guide to Customizing Windows 11 Display Preferences - Tips From YL Computing</u></a></li>
 </ul></div>
 

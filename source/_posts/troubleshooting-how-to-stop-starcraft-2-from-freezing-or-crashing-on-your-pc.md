@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Stop Starcraft 2 From Freezing or Crashing on Your PC"
-date: 2025-01-08T21:46:42.232Z
-updated: 2025-01-15T19:49:36.533Z
+date: 2025-01-19T02:17:37.992Z
+updated: 2025-01-21T23:12:51.495Z
 tags:
   - win11
   - win10
@@ -44,15 +44,15 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/scan-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-56-17-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -75,11 +75,11 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-25-07.jpg)
 
- Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
 
 ### Fix 3: Disable your antivirus temporarily
 
@@ -88,10 +88,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
  If disabling your antivirus resolves the issue, consider contacting the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
 
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of game files
 
@@ -107,12 +103,16 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-19.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
@@ -128,7 +128,7 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-49.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
@@ -136,16 +136,12 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-55.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 7** , then click **Apply**  \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-39-05.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue has been resolved.
 
@@ -163,17 +159,21 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-48-00.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Under**View by** , select**Category.** Then, select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-53-36.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Right-click**Steam** , and then click**Uninstall** .
 
@@ -212,22 +212,18 @@ If your problem still exists, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-erase-your-tiktok-signatures-with-apps-on-devices-for-2024/"><u>[New] Erase Your TikTok Signatures with Apps on Devices for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-step-by-step-guide-to-reinventing-your-tiktok-look/"><u>[New] Step-by-Step Guide to Reinventing Your TikTok Look</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-trending-triumphs-your-guide-to-the-top-tiktok-game-frenzy/"><u>[Updated] 2024 Approved Trending Triumphs Your Guide to the Top TikTok Game Frenzy</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-dissecting-the-marketplace-does-inshot-dominate-editing/"><u>[Updated] Dissecting the Marketplace Does InShot Dominate Editing?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-downloading-the-latest-tiktok-features-on-your-macbook/"><u>[Updated] Downloading the Latest TikTok Features on Your MacBook</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-be-a-part-of-the-hype-hot-10-tiktok-challenges-to-join/"><u>[Updated] In 2024, Be a Part of the Hype Hot 10 TikTok Challenges to Join</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-expert-iphone-techniques-downloading-tiktok-videos-watermark-free/"><u>[Updated] In 2024, Expert iPhone Techniques Downloading TikTok Videos, Watermark-Free</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-nostalgia-reimagined-transforming-your-vintage-photos-into-cutting-edge-videos/"><u>[Updated] Nostalgia Reimagined Transforming Your Vintage Photos Into Cutting-Edge Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-proven-strategies-safe-and-effective-tiktok-following-for-2024/"><u>[Updated] Proven Strategies Safe and Effective TikTok Following for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-master-your-typing-experience-tailor-your-keyboard-setup-with-yl-software/"><u>1. Master Your Typing Experience: Tailor Your Keyboard Setup with YL Software</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-quintessential-guide-top-5-tiktok-gif-creation-software/"><u>2024 Approved The Quintessential Guide Top 5 TikTok GIF Creation Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-google-pixel-7a-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Google Pixel 7a to iPod | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-4k-resolution-unveiled-in-chroma-focused-lenses/"><u>In 2024, 4K Resolution Unveiled in Chroma-Focused Lenses</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-windows-cant-access-printer-problem-quickly-and-effectively/"><u>Resolve 'Windows Can't Access Printer' Problem Quickly & Effectively</u></a></li>
-<li><a href="https://techidaily.com/sign-docx-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .docx file Online for Free</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-free-vfx-websites-for-2024/"><u>The Ultimate List of FREE VFX Websites for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-review-of-monoprices-dt-3bt-sound-perfection-for-under-100-expert-advice-by-zdnet/"><u>Top Review of Monoprice's DT-3BT Sound Perfection for Under $100 - Expert Advice by ZDNet</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-iconic-pfp-ideas-make-a-mark-in-the-world-of-tiktok/"><u>[New] 2024 Approved Iconic PFP Ideas Make a Mark in the World of TikTok</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-5-methods-for-capturing-sound-in-windows-11/"><u>[New] 2024 Approved Top 5 Methods for Capturing Sound in Windows 11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-becoming-a-star-spectator-on-the-social-stage/"><u>[New] Becoming a Star Spectator on the Social Stage</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-pioneering-editing-techniques-for-immediate-background-transformations-in-tiktok-for-2024/"><u>[New] Pioneering Editing Techniques for Immediate Background Transformations in TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-embrace-freedom-with-easy-watermark-free-tiktok-videos/"><u>[Updated] In 2024, Embrace Freedom with Easy, Watermark-Free TikTok Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-effortlessly-download-every-tiktok-video/"><u>2024 Approved Effortlessly Download Every TikTok Video</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/how-can-i-upgrade-the-firmware-on-my-scanning-device-expert-advice-from-yl-computings-software-solutions/"><u>How Can I Upgrade the Firmware on My Scanning Device? Expert Advice From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-v30-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo V30</u></a></li>
+<li><a href="https://win-answers.techidaily.com/iphone-wont-pair-with-itunes-heres-what-you-need-to-know-about-windows-nx/"><u>IPhone Won't Pair with iTunes? Here's What You Need to Know About Windows nX</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-nba-game-streaming-a-comprehensive-guide-for-2024/"><u>Mastering NBA Game Streaming A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-dxgierrordevicehung-0x887a0006-on-win-1011/"><u>Resolving DXGI_ERROR_DEVICE_HUNG (0X887A0006) on Win 10/11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nubia-red-magic-8s-proplus-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nubia Red Magic 8S Pro+ with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y100i-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo Y100i Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

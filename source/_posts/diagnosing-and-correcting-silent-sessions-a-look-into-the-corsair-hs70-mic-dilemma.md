@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Correcting Silent Sessions: A Look Into the Corsair HS70 Mic Dilemma"
-date: 2025-01-11T17:47:27.286Z
-updated: 2025-01-16T00:52:46.154Z
+date: 2025-01-15T09:09:12.475Z
+updated: 2025-01-22T07:31:36.151Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1 – Allow access to your microphone on your PC
 
  If your Corsair HS35 is not activated in the Window settings, your PC will lack the access to your microphone and so the mic just won’t start to work at all. Follow these steps to allow access to your microphone:
@@ -50,16 +54,12 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2 – Check the audio settings
 
@@ -70,14 +70,14 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 2. Under the**Recording** tab, check to see if your headset microphone is set to disabled. If it is, right-click on it and select**Enable** . (If your mic is not the default device, click**Set Default** to set it as default)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
@@ -90,6 +90,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
  If this fix doesn’t give you the luck, try the next below to update your audio drives.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3 – Update your audio driver
 
@@ -110,10 +114,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
 
 ---
@@ -128,6 +128,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
@@ -175,10 +179,6 @@ Top Pick
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6 – Seek technical support or after-sales service
 
  If you’ve tried all of the above fixes and still can’t get your mic boom to function, the issue could be with your headset rather than your computer.**You can try connecting your headset to another PC** ; if it’s still not working, there may be an issue with your Corsair Mic. In this situation, you should **[contact Corsair for support](https://help.corsair.com/hc/en-us)**  or have your headset serviced.
@@ -202,17 +202,16 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-tiktok-feasts-current-favorites-explored/"><u>[New] In 2024, TikTok Feasts Current Favorites Explored</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-breathing-new-life-into-anime-with-impactful-tiktoks/"><u>[Updated] Breathing New Life Into Anime with Impactful TikToks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-bypassing-youtubes-copyright-strike-legal-strategies-and-precautions-for-2024/"><u>[Updated] Bypassing YouTube's Copyright Strike Legal Strategies and Precautions for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/align-gaming-with-regions-update-sx-series-time/"><u>Align Gaming with Regions: Update SX Series Time</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/decoding-silent-snapchat-user-possible-block/"><u>Decoding Silent Snapchat User Possible Block</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/digiarty-reach-out-now-your-ultimate-contact-solution/"><u>Digiarty: Reach Out Now - Your Ultimate Contact Solution</u></a></li>
-<li><a href="https://fox-access.techidaily.com/first-time-action-cam-purchases-decoded/"><u>First-Time Action Cam Purchases Decoded</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-conversion-wizards-turning-vids-into-audible-files-on-pinterest/"><u>In 2024, Conversion Wizards Turning Vids Into Audible Files on Pinterest</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-expedite-your-videos-on-tiktok-secrets-revealed/"><u>In 2024, Expedite Your Videos on TikTok Secrets Revealed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/practicality-at-its-best-a-critique-on-the-lamicall-s-tablet-supports-ergonomic-design/"><u>Practicality at Its Best: A Critique on the Lamicall S Tablet Support's Ergonomic Design</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-a-guide-on-addressing-msvcr80dll-file-missing-issues/"><u>Solving the Mystery: A Guide on Addressing msvcr80.dll File Missing Issues</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-realme-c33-2023-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Realme C33 2023 for Parents | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-tips-and-tricks-for-editing-your-way-to-greatness-in-facebook-reels/"><u>[New] 2024 Approved Tips and Tricks for Editing Your Way to Greatness in Facebook Reels</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-explore-new-territory-your-guide-to-live-streaming-tiktoks/"><u>[New] Explore New Territory Your Guide to Live-Streaming TikToks</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-top-25-anime-visionaries-on-tiktok-changing-content-norms/"><u>[Updated] 2024 Approved Top 25 Anime Visionaries on TikTok Changing Content Norms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-effortless-laptop-viewing-with-top-ranked-apps/"><u>[Updated] In 2024, Effortless Laptop Viewing with Top-Ranked Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-wistia-user-introduction-size-format-duration/"><u>[Updated] Wistia User Introduction Size, Format, Duration</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-from-one-self-portrait-to-a-thousand-mastering-the-art-of-repeating-yourself-on-tiktok/"><u>2024 Approved From One Self-Portrait to a Thousand Mastering the Art of Repeating Yourself on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-perfecting-your-digital-doppelganger-a-complete-guide-to-cloning-oneself-on-tiktok/"><u>2024 Approved Perfecting Your Digital Doppelgänger A Complete Guide to Cloning Oneself on TikTok</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-zte-axon-40-lite-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track ZTE Axon 40 Lite without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/jive-into-action-creating-engaging-tiktok-dances-on-a-mac/"><u>Jive Into Action Creating Engaging TikTok Dances on a Mac</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-asus-rog-phone-7-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Asus ROG Phone 7 Location | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/transforma-tus-imagenes-con-efectos-de-vineta-profesionales/"><u>Transforma Tus Imágenes Con Efectos De Viñeta Profesionales</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Asus Unveils New NUC Pert+ Model: Packing a Meteor Lake CPU, Core Ultra-5 125H for $860!"
-date: 2025-01-09T00:59:39.589Z
-updated: 2025-01-15T22:09:40.129Z
+date: 2025-01-16T22:21:30.375Z
+updated: 2025-01-22T04:36:02.935Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,17 +54,16 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-elevate-your-tiktok-videos-with-compelling-captions/"><u>[New] In 2024, Elevate Your TikTok Videos with Compelling Captions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-pinpoint-the-perfect-tag-for-your-personalized-tiktok-stream/"><u>[New] In 2024, How to Pinpoint the Perfect Tag for Your Personalized TikTok Stream</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-insiders-path-to-joining-others-tiktok-gigs/"><u>[New] In 2024, The Insider's Path to Joining Others' TikTok Gigs</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-reimagining-your-tiktok-presence-step-by-step-renaming-process-for-2024/"><u>[Updated] Reimagining Your TikTok Presence Step-by-Step Renaming Process for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-list-mobile-camera-utilities-for-iphone-for-2024/"><u>A-List Mobile Camera Utilities for iPhone for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-insight-vigilance-chatgpt-analysis-tools-for-professionals/"><u>AI Insight Vigilance: ChatGPT Analysis Tools for Professionals</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-powerhouse-expert-evaluation-of-the-tp-link-archer-a6-ac1200-wireless-router/"><u>Budget-Friendly Powerhouse: Expert Evaluation of the TP-Link Archer A6 AC1200 Wireless Router</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/essential-propeller-choices-mastering-flight-excellence-for-2024/"><u>Essential Propeller Choices Mastering Flight Excellence for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fallout-3-launch-errors-demystified-proven-tips-and-tricks/"><u>Fallout 3 Launch Errors Demystified - Proven Tips & Tricks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/how-to-create-metaverse-avatar-easily-an-ultimate-guide/"><u>How to Create Metaverse Avatar Easily An Ultimate Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-11-pro-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 11 Pro Max? How to Fix it?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-nokia-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Nokia Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-breaking-the-mold-unique-anime-creatives-dominating-tiktok/"><u>[New] Breaking the Mold Unique Anime Creatives Dominating TikTok</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-dive-into-freeware-for-precise-music-tempo-tracking/"><u>[New] In 2024, Dive Into Freeware for Precise Music Tempo Tracking</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-proactive-copyright-checking-for-safe-tiktok-sharing-for-2024/"><u>[New] Proactive Copyright Checking for Safe TikTok Sharing for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-strengthen-your-footage-using-a-tripod-in-vlogging/"><u>[New] Strengthen Your Footage Using a Tripod in Vlogging</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-auto-hdr-techniques-in-modern-cameras/"><u>[New] Understanding Auto HDR Techniques in Modern Cameras</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-a-comprehensive-guide-to-understanding-tiktoks-pfp-terminology/"><u>[Updated] A Comprehensive Guide to Understanding TikTok’s PFP Terminology</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-master-the-art-of-virality-on-tiktok-with-50plus-powerful-lyrics/"><u>[Updated] Master the Art of Virality on TikTok with 50+ Powerful Lyrics</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/gif-geniuses-selection-top-tiktok-conversion-software/"><u>GIF Geniuses' Selection Top TikTok Conversion Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-correct-hp-officejet-pro-6978s-driver-issues-quickly/"><u>Guide to Correct HP OfficeJet Pro 6978'S Driver Issues Quickly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

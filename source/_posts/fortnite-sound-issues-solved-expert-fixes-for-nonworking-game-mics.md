@@ -1,7 +1,7 @@
 ---
 title: Fortnite Sound Issues Solved? Expert Fixes for Nonworking Game Mics
-date: 2025-01-12T23:10:05.621Z
-updated: 2025-01-15T22:11:02.765Z
+date: 2025-01-16T00:51:11.770Z
+updated: 2025-01-21T18:43:53.668Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ Read on and follow the easy-doing images below!
 3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1: Try the generic audio driver
@@ -40,29 +40,17 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
@@ -86,6 +74,10 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -94,19 +86,27 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try your computer sound again to see if it still cuts out. If so, please move on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -116,15 +116,15 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
@@ -154,14 +154,18 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-from-digital-sketches-to-dynamic-lives-the-pc-guide-for-tiktok-broadcasting/"><u>[New] 2024 Approved From Digital Sketches to Dynamic Lives The PC Guide for TikTok Broadcasting</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-beating-the-blues-of-overly-green-a-mac-video-editors-handbook-for-2024/"><u>[New] Beating the Blues of Overly Green A Mac Video Editor's Handbook for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-mastering-podcast-dialogue-tips-and-practical-script-examples/"><u>[New] In 2024, Mastering Podcast Dialogue Tips & Practical Script Examples</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-savory-stories-tiktoks-10-culinary-craze-for-2024/"><u>[New] Savory Stories #Tiktok's 10 Culinary Craze for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-strategies-for-smooth-clear-sound-in-zoom-powered-podcasts-for-2024/"><u>[New] Strategies for Smooth, Clear Sound in Zoom-Powered Podcasts for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-discover-the-secret-to-friends-livestream-participation/"><u>[Updated] 2024 Approved Discover the Secret to Friend's Livestream Participation</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-elevate-your-content-with-advanced-tiktok-symbol-knowledge/"><u>[Updated] Elevate Your Content with Advanced TikTok Symbol Knowledge</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-itel-p55-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Itel P55 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726220145638-movavi/"><u>새로운 Movavi 비디오 지원을 구매하세요: 전문가들에게 선호하는 기대진인 클라우드 스트로머</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-country-rhythms-for-relaxation-and-danceside-bliss-tiktok-playlist/"><u>[New] 2024 Approved Country Rhythms for Relaxation and Danceside Bliss (TikTok Playlist)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-shift-your-tiktok-style-dive-into-background-selection/"><u>[New] Shift Your TikTok Style Dive Into Background Selection</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unveiling-the-best-tiktok-to-gif-converter-software-for-2024/"><u>[New] Unveiling the Best TikTok to GIF Converter Software for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-successful-in-stream-fb-ads/"><u>[Updated] 2024 Approved The Ultimate Checklist for Successful In-Stream FB Ads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-whispers-from-the-past-secrets-unveiled-in-age-old-texts/"><u>[Updated] 2024 Approved Whispers From the Past Secrets Unveiled in Age-Old Texts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-fix-the-tiktok-refresh-error-instantly/"><u>[Updated] In 2024, Fix the TikTok Refresh Error Instantly</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-essential-steps-for-clearance-prior-to-tiktok-uploads/"><u>[Updated] The Essential Steps for Clearance Prior to TikTok Uploads</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-passport-photo-generator-download-print-for-free-for-2024/"><u>10 Passport Photo Generator Download, Print for Free for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-speedy-photographers-guide-to-google-collage-crafting/"><u>2024 Approved The Speedy Photographer's Guide to Google Collage Crafting</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-a15-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/leveraging-visuals-easy-guide-to-integrating-snap-camera-on-teams/"><u>Leveraging Visuals Easy Guide to Integrating Snap Camera on Teams</u></a></li>
+<li><a href="https://win-answers.techidaily.com/update-your-graphic-drivers-a-complete-guide-for-improving-forza-horizon-5-performance/"><u>Update Your Graphic Drivers: A Complete Guide for Improving Forza Horizon 5 Performance</u></a></li>
 </ul></div>
 

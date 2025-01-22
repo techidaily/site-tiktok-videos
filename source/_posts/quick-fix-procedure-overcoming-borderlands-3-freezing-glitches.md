@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix Procedure: Overcoming Borderlands 3 Freezing Glitches"
-date: 2025-01-11T23:46:24.220Z
-updated: 2025-01-15T20:43:41.024Z
+date: 2025-01-18T00:49:06.199Z
+updated: 2025-01-22T06:10:57.775Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 ## Quick Fixes: Stop Borderlands 3 From Crashing Instantly
 
 **Borderlands 3 keeps crashing on your PC?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 9. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -59,13 +59,13 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Install the latest game patch
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework, you can download their installation files via the links below on your own and manually install them on your PC.
@@ -96,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 [https://www.microsoft.com/en-us/download/details.aspx?id=30653](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Borderlands 3 to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify the graphics settings in the game
 
@@ -110,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
  Launch the game again in a reduced settings to see it it crashes or not. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Stop overclocking
@@ -127,14 +131,10 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-26_11-12-38.png)
 2. Click **Verify** to start verifying the game files.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Borderlands 3 after verifying the game file to see if this fix works. If not, try the next fix, below.
@@ -147,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8: Perform a clean boot
 
  You may need to **perform a clean boot**  if the Borderlands 3 crashing issue persists. The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can   **find out the problematic software that makes your game keep crashing** . Once you find it out, just uninstall it, and then the this issue will be solved. Here’s how to do it:
@@ -162,15 +158,15 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -180,6 +176,10 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 **Restart** your PC and run Borderlands 3 to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall the game
 
@@ -207,20 +207,24 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-from-silence-to-soundtrack-making-music-centric-tiktoks/"><u>[New] In 2024, From Silence to Soundtrack Making Music-Centric TikToks</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-license-free-meditation-songs-your-ultimate-selection-for-2024/"><u>[New] License-Free Meditation Songs – Your Ultimate Selection for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-crossing-into-a-shared-tiktok-space-easy-ways/"><u>[Updated] 2024 Approved Crossing Into a Shared TikTok Space Easy Ways</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-satirical-images-jestjokes-studio/"><u>[Updated] Satirical Images JestJokes Studio</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-notable-top-5-superlight-action-camera-picks/"><u>2024 Approved Notable Top 5 Superlight Action Camera Picks</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-unlock-viewer-interest-with-these-5-effective-tiktok-captions/"><u>2024 Approved Unlock Viewer Interest with These 5 Effective TikTok Captions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/best-free-mac-apps-for-professional-tiktok-cuts-for-2024/"><u>Best Free Mac Apps for Professional TikTok Cuts for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/ensuring-permanent-absence-from-tiktok-platform-for-2024/"><u>Ensuring Permanent Absence From TikTok Platform for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/how-to-check-your-videos-legal-status-before-tiktok-upload/"><u>How to Check Your Video's Legal Status Before TikTok Upload</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-learn-the-art-of-pairing-captions-with-visuals-for-tiktoks/"><u>In 2024, Learn the Art of Pairing Captions with Visuals for TikToks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-productivity-strategic-techniques-for-crafting-efficient-slack-reminder-systems/"><u>Mastering Productivity: Strategic Techniques for Crafting Efficient Slack Reminder Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/motorola-edgeplus-2023-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge+ (2023) Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/thorough-scrutiny-bublcams-panoramic-innovation/"><u>Thorough Scrutiny Bublcam's Panoramic Innovation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-youtube-titles-crafted-by-ai-for-2024/"><u>Top YouTube Titles Crafted by AI for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-secrets-of-cybersecurity-buy-a-phone-for-just-50-and-learn-ransomware-solutions-via-our-podcast/"><u>Unlock Secrets of Cybersecurity: Buy a Phone for Just $50 and Learn Ransomware Solutions via Our Podcast</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-bringing-jujutsu-kaisen-characters-to-life-online/"><u>[New] 2024 Approved Bringing Jujutsu Kaisen Characters to Life Online</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-boost-your-tiktok-presence-with-strategic-captioning-methods-for-2024/"><u>[New] Boost Your TikTok Presence with Strategic Captioning Methods for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-from-sketchpad-to-screen-a-guide-to-starting-live-on-tiktok-from-desktop-for-2024/"><u>[New] From Sketchpad to Screen – A Guide to Starting LIVE on TikTok From Desktop for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-no-nonsense-guide-to-lively-tiktok-live-visits/"><u>[New] In 2024, The No-Nonsense Guide to Lively TikTok Live Visits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-windows-11-wallpaper-upgrade-tips/"><u>[New] Mastering Windows 11 Wallpaper Upgrade Tips</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-commanding-attention-with-the-most-powerful-tiktok-caption-strategies/"><u>[Updated] 2024 Approved Commanding Attention with the Most Powerful TikTok Caption Strategies</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-rapidly-crafting-valorant-image-highlights-for-gamers/"><u>[Updated] In 2024, Rapidly Crafting Valorant Image Highlights for Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovating-through-virtual-experiences/"><u>[Updated] Innovating Through Virtual Experiences</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/20-best-tiktok-caption-ideas-to-engage-your-next-audience/"><u>20 Best TikTok Caption Ideas to Engage Your Next Audience</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-how-to-go-live-on-tiktokmusically/"><u>2024 Approved How to Go Live on TikTok/Musical.ly</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-leading-10-innovative-tiktok-filters-boosting-visibility/"><u>2024 Approved Leading 10 Innovative TikTok Filters Boosting Visibility</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-home-entertainment-amazing-amazon-basics-soundbar/"><u>Budget-Friendly Home Entertainment: Amazing Amazon Basics Soundbar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratuit-mp3-converter-w64-en-ligne-solutions-de-convertisseur-video-rapides-avec-movavi/"><u>Gratuit MP3 Converter W64 en Ligne: Solutions De Convertisseur Vidéo Rapides Avec Movavi</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-discover-the-best-of-photo-stickering-ios-and-android-leaders/"><u>In 2024, Discover the Best of Photo Stickering IOS & Android Leaders</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-swiftly-resolve-freeze-and-crash-issues-with-tiktok-androidios/"><u>In 2024, Swiftly Resolve Freeze and Crash Issues with TikTok (Android/iOS)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/long-lasting-performance-tested-a-detailed-look-at-uniden-r3s-solid-structure-and-radar-coverage/"><u>Long-Lasting Performance Tested: A Detailed Look at Uniden R3’s Solid Structure & Radar Coverage</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-transition-from-original-pictures-to-standout-youtube-thumbnails/"><u>Quick Transition From Original Pictures To Standout YouTube Thumbnails</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-constant-dead-by-daylight-game-crashes/"><u>Ultimate Fix for Constant Dead by Daylight Game Crashes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/visionboost-converter-windows-mac-online-version/"><u>VisionBoost Converter – Windows, Mac, Online Version</u></a></li>
 </ul></div>
 

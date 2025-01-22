@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Making a Mark  Jujutsu Kaisen on the TikTok Scene\""
-date: 2025-01-05T02:22:22.449Z
-updated: 2025-01-10T04:27:45.462Z
+date: 2025-01-18T16:35:30.704Z
+updated: 2025-01-21T23:22:25.854Z
 tags:
   - ai video
   - ai tiktok
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 Have you ever watched Jujutsu Kaisen? It is a Japanese manga series that got a lot of fame recently. A massive fan of anime might recognize the anime series for its intriguing fight sequences. Recently we have seen a huge trend of Jujutsu Kaisen videos on TikTok where she says "Anime is Trash," and suddenly the scene turns into an anime fight scene. Technically, this is the filming term "jump cut." You would likely want to create your own of these videos after watching them.
 
 If you are one of the Jujutsu Kaisen fans and looking to create your TikTok montage, then you just landed on the right page. You can easily make such videos by using a video editor like Filmora X. In this article, we will walk through the steps involved in creating Jujutsu Kaisen TikTok montage videos. Now you can create your own scenes and connect them with Jutusu Kaisen fight scenes. Trust me, this is so much fun while editing it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step By Step Guide For Creating Jujutsu Kaisen TikTok Videos**
 
@@ -61,18 +65,14 @@ Once you have both video clips, the next step is editing the video and joining t
 3. Now select both clips and import them to Filmora X.![jujutsu2](https://images.wondershare.com/filmora/article-images/jujutsu2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Drag and drop your own video and bring it to the first track. Then drag and drop the anime video and place it next to your video in the track.![jujutsu3](https://images.wondershare.com/filmora/article-images/jujutsu3.png)
 5. You may need to make some adjustments to both video clips so that the scenes perfectly match each other. The most important step in creating videos matches the sound where a person says, "Anime is trash," and then the action happens.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Play the video to make sure everything is in position. If you feel that it still requires adjusting, then go back to the previous step and make the needed adjustments.
@@ -81,19 +81,19 @@ Once you have both video clips, the next step is editing the video and joining t
 9. Click on the export button and select the desired video format from the list, i.e. (MP4, Gif, WMV, FLV, etc.).![jujutsu4](https://images.wondershare.com/filmora/article-images/jujutsu4.png)
 10. Once you have selected the desired format, click on export, and the video will take some time to render. Once rendered, you can now share the video with your friends and wow them. ![jujutsu5](https://images.wondershare.com/filmora/article-images/jujutsu5.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Conclusion: These are some simple steps using which you can create your own Jujutsu Kaisen TikTok Montage. Now it's up to you to create new ideas and make interesting videos. We recommend using the Filmora X video editor because it is easy to use and can do wonders for you. Even if you don't have any prior experience in video editing, you can follow these steps and create amazing videos. It may take some time, but you will get better eventually.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -110,24 +110,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-mastering-video-to-gif-conversion-top-5-software-insights/"><u>[New] 2024 Approved Mastering Video-to-GIF Conversion Top 5 Software Insights</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-discreet-audio-modulation-strategies-with-audacity/"><u>[New] Discreet Audio Modulation Strategies with Audacity</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-live-cutting-edge-strategies-audiences/"><u>[New] Facebook Live Cutting-Edge Strategies Audiences</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-master-real-time-video-sharing-on-facebook-for-2024/"><u>[New] How to Master Real-Time Video Sharing on Facebook for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-cutting-edge-design-inspirations-for-distinctive-tiktok-presence/"><u>[New] In 2024, Cutting-Edge Design Inspirations for Distinctive TikTok Presence</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-insights-on-asmr-videos-unveiled/"><u>[New] In 2024, Essential Insights on ASMR Videos Unveiled</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-ten-instagram-feeds-blending-funny-and-sentimental-posts/"><u>[New] In 2024, Ten Instagram Feeds Blending Funny & Sentimental Posts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-snapchat-spotlight-feature/"><u>[New] Navigating Snapchat Spotlight Feature</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-spotlight-on-todays-viral-tiktok-experiments-for-2024/"><u>[New] Spotlight on Today’s Viral TikTok Experiments for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-top-30-unique-pfps-for-a-stellar-tiktok-presence/"><u>[Updated] 2024 Approved Top 30 Unique PFPs for a Stellar TikTok Presence</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-memorable-personal-frames-for-tiktok-profiles-top-ideas/"><u>[Updated] In 2024, Memorable Personal Frames for TikTok Profiles Top Ideas</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-unveiling-the-secrets-of-effective-video-captioning-for-tiktoks-for-2024/"><u>[Updated] Unveiling the Secrets of Effective Video Captioning for TikToks for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-exclusive-free-mcb-visual-tools/"><u>2024 Approved Exclusive Free MCB Visual Tools</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-strategic-approach-to-changing-your-tiktok-handle-seamlessly/"><u>2024 Approved The Strategic Approach to Changing Your TikTok Handle Seamlessly</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/clear-the-clutter-essential-tiktok-emblem-removers/"><u>Clear the Clutter Essential TikTok Emblem Removers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-se-2022-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone SE (2022) Apple ID and Apple Pay</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-how-runtime-brokers-affect-system-performance/"><u>Understanding How Runtime Brokers Affect System Performance</u></a></li>
-<li><a href="https://facebook.techidaily.com/unraveling-the-move-to-kill-facial-id-at-meta-and-facebook/"><u>Unraveling the Move to Kill Facial ID at Meta and Facebook</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/unveiling-tiktoks-secrets-a-guide-for-macpc-owners/"><u>Unveiling TikTok's Secrets A Guide for Mac/PC Owners</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-harnessing-potential-how-to-excel-in-desktop-tiktok-videos/"><u>[New] 2024 Approved Harnessing Potential How to Excel in Desktop TikTok Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-integrating-words-in-tiktok-videos-made-simple/"><u>[New] 2024 Approved Integrating Words in TikTok Videos Made Simple</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-learn-to-harness-funimates-downloading-power/"><u>[New] 2024 Approved Learn to Harness Funimate's Downloading Power</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-dialing-up-the-drama-captivating-tiktok-intros-via-mac/"><u>[New] Dialing Up the Drama Captivating TikTok Intros via Mac</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-complete-youtube-video-editor-reference-manual/"><u>[New] The Complete YouTube Video Editor Reference Manual</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-20-timeless-anime-themes-making-a-mark-on-tiktok/"><u>[Updated] In 2024, 20 Timeless Anime Themes Making a Mark on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-effortless-enchantment-make-your-mark-with-striking-templates-for-tiktok/"><u>2024 Approved Effortless Enchantment Make Your Mark with Striking Templates for TikTok</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-comprehensive-guide-to-rectifying-the-ls-0013-fault-in-borderlands-3/"><u>A Comprehensive Guide to Rectifying the LS-0013 Fault in Borderlands 3</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accelerated-sound-adjustment-apps-overview/"><u>Accelerated Sound Adjustment Apps Overview</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/bite-size-flavors-top-eating-moments-on-tiktok/"><u>Bite-Size Flavors Top Eating Moments on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/effortless-steps-for-switching-user-statuses-on-discord/"><u>Effortless Steps for Switching User Statuses on Discord</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oppo-reno-10-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo Reno 10 5G Phone Screen?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-safeguard-snapchat-videos-in-devices-and-oses/"><u>How to Safeguard Snapchat Videos in Devices & OSes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-avi-viewer-mobile-and-desktop-edition/"><u>Ideal AVI Viewer Mobile & Desktop Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722890421500-matrix-movie-marathon-enjoy-them-in-their-official-release-order/"><u>Matrix Movie Marathon: Enjoy Them in Their Official Release Order</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/modern-warfare-2-stability-guide-fixing-six-critical-crashes-on-pc-systems/"><u>Modern Warfare 2 Stability Guide: Fixing Six Critical Crashes on PC Systems</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/ultimate-media-unpacking-duo-winx-dvd-ripper-and-winx-video-ai-bundle/"><u>Ultimate Media Unpacking Duo: WinX DVD Ripper & WinX Video AI Bundle</u></a></li>
 </ul></div>
 

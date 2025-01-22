@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Repair Tips for a Smooth Phasmophobia Virtual Reality Gameplay
-date: 2025-01-13T21:33:36.390Z
-updated: 2025-01-16T05:05:21.070Z
+date: 2025-01-20T20:47:43.349Z
+updated: 2025-01-21T22:28:30.721Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 
 Compared to the first game, The Division 2 presents a much stronger campaign experience. But players would still wish to maximize FPS and hopefully get rid of any performance issues to smooth the gameplay. This is definitely achievable. In this tutorial, we’ll show you how to boost FPS and fix the stuttering issues on The Division 2.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -32,10 +28,6 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 5. **[Set the game’s priority to high](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Optimize in-game settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Close unnecessary programs
 
  Programs such as Google Chrome and Adobe apps are resource-heavy and will most likely drain your system. If you have many programs running in the background when playing The Division 2, issues such as the game stutters and framerate drops can occur. To prevent these issues from happening, you’re supposed to disable those programs running in the background:
@@ -46,15 +38,27 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
   
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing The Division 2 and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Also, too many startup apps can be a drag on your computer’s performance. In this case, you can prevent some apps from automatically starting when you sign into Windows:
 
  1) Select the**Startup** tab. Right-click the apps that you want to stop from running automatically at startup and select**Disable** .  
   
 ![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve done these, play The Division 2 and check if your game looks better.
 
@@ -70,25 +74,13 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
 ![disable windows 10 gaming features disable game mode](https://images.drivereasy.com/wp-content/uploads/2021/01/gaming-in-the-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After applying the changes, play The Division 2 to check if your issues persist. If disabling Windows 10 Game Mode didn’t do the trick, proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable overlays
 
@@ -110,20 +102,20 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
   
 ![disable GeForce Experience overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/settings-icon.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the GENERAL tab, toggle off**IN-GAME OVERLAY** and exit.  
   
 ![disable GeForce Experience overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/toggle-off-in-game-overlay.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After disabling in-game overlays, launch The Division 2 to check if this mitigates your problems. If you’re still getting low framerate and experiencing constant stutters during gameplay, try the next fix below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Update your graphics driver
@@ -131,6 +123,10 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
  Most video games are graphics-intensive. If you run into any performance issues such as low FPS and constant stutters during the gameplay, your outdated or faulty graphics driver can be the culprit. To pinpoint the root cause, you should try updating your graphics driver. This is essential as driver updates come with bug fixes and bring new features.
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[**automatically**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -140,6 +136,10 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -164,10 +164,6 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Set the game’s priority to high
 
  By default, every program runs on “normal” which means Windows handles the system resources automatically. But you can tell your computer that your game, The Division 2 should have a higher priority than others to make sure that it uses system resources first. This may give you a considerable framerate boost.
@@ -183,6 +179,10 @@ To set your game’s priority to high, you can take these steps:
  3) Under the**Processes** tab, find your game title. Right-click it and select**Go to details** and you’ll be directed to the**Details** tab.  
   
 ![set The Division 2 priority to high](https://images.drivereasy.com/wp-content/uploads/2021/04/Task-Manager-Go-to-details.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Your game should be highlighted. Make sure to right-click it and select**Set priority > High** .  
   
@@ -228,17 +228,24 @@ To set your game’s priority to high, you can take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fixed-youtube-shorts-just-watch-and-enjoy/"><u>[New] 2024 Approved Fixed YouTube Shorts - Just Watch and Enjoy</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-accessing-live-spaces-on-tiktok-your-pathway/"><u>[New] Accessing Live Spaces on TikTok Your Pathway</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-from-novice-to-pro-using-templates-for-stellar-tiktok-videos-for-2024/"><u>[New] From Novice to Pro Using Templates for Stellar TikTok Videos for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-making-memorable-content-a-macos-approach-to-ootds/"><u>[New] Making Memorable Content A MacOS Approach to OOTDs</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-start-broadcasting-now-instagram-live-guide/"><u>2024 Approved Start Broadcasting Now Instagram Live Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-premium-displays-the-ultimate-guide-for-xbox-s-series-x/"><u>2024 Approved Unveiling Premium Displays The Ultimate Guide for Xbox S Series X</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/buy-top-10-gaming-gpus-for-high-quality-online-viewing-for-2024/"><u>Best Buy Top 10 Gaming GPUs for High-Quality Online Viewing for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/best-practices-for-keeping-your-windows-computers-printer-fingerprint-software-current/"><u>Best Practices for Keeping Your Windows Computer's Printer Fingerprint Software Current</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/como-cambiar-a-una-unidad-ssd-en-tu-lenovo-thinkpad-t13-bajo-sistemas-operativos-windows-7-8-o-10/"><u>Cómo Cambiar a Una Unidad SSD en Tu Lenovo ThinkPad T13 Bajo Sistemas Operativos Windows 7, 8 O 10</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/erfolgreich-windows-11-auf-ssd-installieren-die-effizientesten-methoden-erklart/"><u>Erfolgreich Windows 11 Auf SSD Installieren: Die Effizientesten Methoden Erklärt</u></a></li>
-<li><a href="https://extra-information.techidaily.com/full-spectrum-analysis-understanding-xmedia-suite-workshop-details/"><u>Full Spectrum Analysis Understanding XMedia Suite Workshop Details</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/how-to-change-voice-on-tiktok/"><u>How to Change Voice on TikTok?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-transform-your-tiktok-videos-immediate-backdrop-changes-explored/"><u>[New] 2024 Approved Transform Your TikTok Videos Immediate Backdrop Changes Explored</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-dive-into-the-world-of-caption-creation-a-tiktok-video-guidebook/"><u>[New] In 2024, Dive Into the World of Caption Creation A TikTok Video Guidebook</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-navigating-the-social-sphere-of-tiktok-lives-for-2024/"><u>[New] Navigating the Social Sphere of TikTok Lives for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-complete-playbook-to-conquer-spotify-advertising/"><u>[New] The Complete Playbook to Conquer Spotify Advertising</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-digging-into-sharex-assessment-and-choices-for-2024/"><u>[Updated] Digging Into ShareX Assessment & Choices for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-learn-the-art-of-pairing-captions-with-visuals-for-tiktoks/"><u>[Updated] Learn the Art of Pairing Captions with Visuals for TikToks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-peak-of-digital-preservation-elite-storage-guide/"><u>[Updated] Peak of Digital Preservation Elite Storage Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-navigating-tiktok-lives-as-a-virtual-attendee/"><u>2024 Approved Navigating TikTok Lives as a Virtual Attendee</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-pro-chromebook-record-unmatched-screen-capture/"><u>2024 Approved Pro Chromebook Record Unmatched Screen Capture</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/elevate-your-snap-game-15-must-try-tactics/"><u>Elevate Your Snap Game 15 Must-Try Tactics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-quality-power-units-for-gopro-hero5-genuine-sources-and-copycats-for-2024/"><u>High-Quality Power Units for GoPro Hero5 Genuine Sources & Copycats for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-usb-install-failures-due-to-access-denied-errors/"><u>How to Overcome USB Install Failures Due to Access Denied Errors</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-blueprinting-a-dynamic-tiktok-end-credits-rollout/"><u>In 2024, Blueprinting a Dynamic TikTok End-Credits Rollout</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-how-to-use-windows-movie-maker-to-make-animation/"><u>In 2024, How to Use Windows Movie Maker to Make Animation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-maximizing-your-tiktok-intro-a-mac-guide/"><u>In 2024, Maximizing Your TikTok Intro A Mac Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/love-the-cut-filmoras-top-10-edits-unveiled/"><u>Love the Cut Filmora's Top 10 Edits Unveiled</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/scripting-a-powerful-tiktok-outro-statement/"><u>Scripting a Powerful TikTok Outro Statement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/syncing-with-serenity-listening-to-podcasts-on-iphone/"><u>Syncing With Serenity Listening to Podcasts on iPhone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolving-stutters-and-improve-frame-rate-on-naraka-bladepoint/"><u>Ultimate Guide to Resolving Stutters & Improve Frame Rate on Naraka: Bladepoint</u></a></li>
 </ul></div>
 

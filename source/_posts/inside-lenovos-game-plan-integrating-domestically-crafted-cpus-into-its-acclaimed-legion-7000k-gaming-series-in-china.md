@@ -1,7 +1,7 @@
 ---
 title: "Inside Lenovo's Game Plan: Integrating Domestically-Crafted CPUs Into Its Acclaimed Legion 7000K Gaming Series in China"
-date: 2025-01-13T04:02:02.594Z
-updated: 2025-01-15T17:47:24.758Z
+date: 2025-01-17T20:51:17.125Z
+updated: 2025-01-22T04:56:29.180Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,22 +78,24 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-seamlessly-integrate-into-others-tiktok-livestreams/"><u>[New] 2024 Approved Seamlessly Integrate Into Others’ TikTok Livestreams</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-unlocking-creativity-in-youtube-video-splitting/"><u>[New] 2024 Approved Unlocking Creativity in YouTube Video Splitting</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-editing-tips-and-tricks-for-shorter-videos/"><u>[New] 2024 Approved YouTube Editing Tips and Tricks for Shorter Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-elevate-your-content-tiktoks-top-10-filter-winners/"><u>[New] Elevate Your Content TikTok's Top 10 Filter Winners</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-foodie-festivals-viral-virtues-of-tiktok-meals-for-2024/"><u>[New] Foodie Festivals Viral Virtues of TikTok Meals for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-maximizing-your-mac-preview-experience-step-by-step/"><u>[New] In 2024, Maximizing Your Mac Preview Experience Step-by-Step</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-explore-30-anime-concepts-dominating-tiktok-feed/"><u>[Updated] 2024 Approved Explore 30 Anime Concepts Dominating TikTok Feed</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-navigating-the-launch-of-tiktok-videos-from-pc/"><u>[Updated] In 2024, Navigating the Launch of TikTok Videos From PC</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-your-cheat-sheet-for-auditing-friends-vibrant-livestrances/"><u>[Updated] In 2024, Your Cheat Sheet for Auditing Friends’ Vibrant Livestrances</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/earn-on-the-go-snapchats-money-tips/"><u>Earn on the Go Snapchat's Money Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-intel-82579v-graphics-card-up-to-date-free-driver-download-now/"><u>Get Your Intel 82579V Graphics Card Up-to-Date: Free Driver Download Now</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/how-to-upgrade-from-a-hard-disk-to-an-ssd-compatibility-with-sandisk-drives-on-windows-1087/"><u>How to Upgrade From a Hard Disk to an SSD: Compatibility with Sandisk Drives on Windows 10/8/7</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/jujutsu-kaisens-tiktok-a-creative-journey-for-2024/"><u>Jujutsu Kaisen's TikTok A Creative Journey for 2024</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-camon-20-pro-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Camon 20 Pro 5G</u></a></li>
-<li><a href="https://article-helps.techidaily.com/zoom-meets-tiktok-streamlining-video-sharing/"><u>Zoom Meets TikTok Streamlining Video Sharing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-a-beginners-guide-to-adding-text-in-tiktok-media/"><u>[New] A Beginner's Guide to Adding Text in TikTok Media</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-country-rhythms-for-relaxation-and-danceside-bliss-tiktok-playlist-for-2024/"><u>[New] Country Rhythms for Relaxation and Danceside Bliss (TikTok Playlist) for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-navigating-tiktok-web-efficiently-as-a-mac-user/"><u>[New] In 2024, Navigating TikTok Web Efficiently as a Mac User</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-safe-and-respectful-strategies-for-growing-on-tiktok/"><u>[Updated] 2024 Approved Safe and Respectful Strategies for Growing on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-crafting-perfect-tiktok-captions-the-ultimate-20-guide/"><u>[Updated] In 2024, Crafting Perfect TikTok Captions The Ultimate 20 Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-navigating-through-fbs-in-stream-ad-landscape-configuration-and-evaluation-techniques/"><u>[Updated] In 2024, Navigating Through FB's In-Stream Ad Landscape Configuration and Evaluation Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-cultivate-connections-top-10-agrigames-for-farm-tastic-fun/"><u>2024 Approved Cultivate Connections Top 10 AgriGames for Farm-Tastic Fun</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-the-kids-choice-awards-with-live-streaming-on-the-new-us-based-nickwatch-service/"><u>Experience the Kids' Choice Awards with Live Streaming on the New U.S.-based NickWatch Service</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-7-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 7 to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-mastering-the-art-of-creating-an-original-tiktok-hashtag/"><u>In 2024, Mastering the Art of Creating an Original TikTok Hashtag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-level-chatbots-is-claude-outdoing-gpt/"><u>Next Level ChatBots: Is Claude Outdoing GPT?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/remedy-device-compatibility-hurdles-for-youtube-apps-on-iphone/"><u>Remedy Device Compatibility Hurdles for YouTube Apps on iPhone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/steps-to-confirm-and-secure-your-tiktok-videos-for-posting-for-2024/"><u>Steps to Confirm and Secure Your TikTok Videos for Posting for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-beat-of-the-future-top-emerging-raps-on-tiktok-for-2024/"><u>The Beat of the Future Top Emerging Raps on TikTok for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-video-editors-for-youtube-on-the-houseno-cost-included/"><u>Top Video Editors for YouTube on the House—No Cost Included</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-latest-in-computers-and-peripherals-at-toms-hardware-insights/"><u>Unraveling the Latest in Computers & Peripherals at Tom's Hardware Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-a-missing-graphics-driver/"><u>Unraveling the Mystery of a Missing Graphics Driver</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-s-leading-online-vertical-video-editor-platforms-for-2024/"><u>Updated S Leading Online Vertical Video Editor Platforms for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/what-if-my-tiktok-not-working-on-androidiphonechrome/"><u>What If My TikTok Not Working on Android/iPhone/Chrome?</u></a></li>
 </ul></div>
 
