@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: Building an Ultra Compact, Fanless 'Retro Futuristic' Desktop Powered by High-Performance USB4 Solid State Drives"
-date: 2025-01-15T22:46:01.681Z
-updated: 2025-01-22T09:11:00.029Z
+date: 2025-01-22T17:30:36.778Z
+updated: 2025-01-29T18:21:16.648Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,18 +89,21 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-gamers-paradise-our-candidate-7-best-fps-titles-for-2024/"><u>[New] Gamer's Paradise Our Candidate 7 Best FPS Titles for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-who-are-tiktoks-gaming-visionaries/"><u>[New] In 2024, Who Are TikTok’s Gaming Visionaries?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-leading-non-zoom-remote-work-solutions-for-pc-and-mobile-for-2024/"><u>[New] Leading Non-Zoom Remote Work Solutions for PC & Mobile for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-explore-top-10-apples-affordable-and-free-image-collage-applications/"><u>[Updated] 2024 Approved Explore Top 10 Apple's Affordable & Free Image Collage Applications</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-easy-steps-to-screen-recording-across-oses-and-devices/"><u>[Updated] In 2024, Easy Steps to Screen Recording Across OSes & Devices</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/enhancing-video-longeayer-androidmac-app-utilization/"><u>Enhancing Video Longeayer Android/Mac App Utilization</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuit-gratuite-konvertierter-aac-in-formats-aiff-professionnelle-software-de-movavi/"><u>Gratuit Gratuite Konvertierter AAC in Formats AIFF - Professionnelle Software De Movavi</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/installing-tiktok-made-easy-for-mac-users-for-2024/"><u>Installing TikTok Made Easy for Mac Users for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/premier-guidance-leading-ringtone-artisans-iphone/"><u>Premier Guidance Leading Ringtone Artisans iPhone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/save-your-android-and-mac-snapchat-footage-effectively/"><u>Save Your Android & Mac Snapchat Footage Effectively</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/snapchat-enhancements-the-most-acclaimed-video-editing-tools/"><u>Snapchat Enhancements The Most Acclaimed Video Editing Tools</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tips-and-tricks-mastering-voiceover-on-tiktok/"><u>Tips and Tricks Mastering Voiceover on TikTok</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/transform-your-pcs-look-a-step-by-step-guide-to-customizing-windows-11-display-preferences-tips-from-yl-computing/"><u>Transform Your PC's Look: A Step-by-Step Guide to Customizing Windows 11 Display Preferences - Tips From YL Computing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-mastering-the-game-tiktoks-most-notable-players/"><u>[New] In 2024, Mastering the Game TikTok's Most Notable Players</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-art-of-needlework-learning-from-tiktok-stars/"><u>[New] In 2024, The Art of Needlework Learning From TikTok Stars</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-innovate-and-create-on-tiktok-the-complete-list/"><u>[Updated] 2024 Approved Innovate and Create on TikTok The Complete List</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-choreographing-an-impactful-tiktok-finale-dance/"><u>[Updated] In 2024, Choreographing an Impactful TikTok Finale Dance</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-enhancing-engagement-onestream-streaming-best-practices/"><u>[Updated] In 2024, Enhancing Engagement OneStream Streaming Best Practices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-initiate-into-a-tiktok-live-with-ease/"><u>[Updated] Initiate Into a TikTok Live with Ease</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-exploring-the-significance-of-pfp-on-tiktok-platform/"><u>2024 Approved Exploring the Significance of PFP on TikTok Platform</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/crafting-unique-instagrams-with-flawless-image-borders-for-2024/"><u>Crafting Unique Instagrams with Flawless Image Borders for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-vivo-v30-lite-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Vivo V30 Lite 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-memory-to-moments-share-images-seamlessly-today/"><u>From Memory to Moments Share Images Seamlessly Today</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-12-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 12 Without Previous Owner?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-itel-a60-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Itel A60 Screen | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-windows-stuck-at-error-e8024002e/"><u>Quick Fixes for Windows Stuck at Error E:8024002E</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/textual-brilliance-in-media-exploring-the-best-effects/"><u>Textual Brilliance in Media Exploring the Best Effects</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/transform-your-video-footage-shape-size-and-more/"><u>Transform Your Video Footage Shape, Size, and More</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-6s-plus-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 6s Plus</u></a></li>
 </ul></div>
 

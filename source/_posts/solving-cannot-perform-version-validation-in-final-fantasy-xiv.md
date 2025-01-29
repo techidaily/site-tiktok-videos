@@ -1,7 +1,7 @@
 ---
 title: Solving 'Cannot Perform Version Validation' In Final Fantasy XIV
-date: 2025-01-21T01:32:04.543Z
-updated: 2025-01-21T20:12:44.691Z
+date: 2025-01-28T18:13:54.843Z
+updated: 2025-01-29T16:59:51.453Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  Also make sure you have downloaded **[the latest Java version](https://java.com/en/download/manual.jsp)**  , which is important for your Minecraft to run smoothly. Note that you should download the Java file according to your operating system (32-bit or 64-bit).[How to check my computer specs?](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 6 fixes that proved very helpful for many users. You donâ€™t have to try them all; just work your way down the list until you find the one that works for you.
@@ -61,6 +57,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Launch your Minecraft again.
 
  See if the issue still persists. If your Minecraft is still not responding, you can move on to the next fix.
@@ -76,6 +76,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  If youâ€™ve removed all these conflicting applications but your Minecraft is still not responding, you can try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -133,23 +137,19 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Run Minecraft again to see if this works.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable Mods
@@ -162,6 +162,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall your Minecraft
 
  If none of these fixes above works for you, you may need to try reinstalling the game to solve this problem.
@@ -172,23 +176,19 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click**Minecraft** and select**Uninstall** .
 
  4) Press the Windows logo key and R again to open the Run box again, then type**%appdata%** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/remove-minecraft-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After uninstalling, restart your computer. Go to the[**official Minecraft website**](https://www.minecraft.net/en-us/) to download and install Minecraft again.
 
@@ -218,24 +218,21 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-strategies-for-a-rising-number-of-youtubers-fans/"><u>[New] Strategies for a Rising Number of Youtubers' Fans</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-top-15-trending-hashtags-in-tiktok/"><u>[Updated] In 2024, The Top 15 Trending Hashtags in TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-resolved-unintended-tiktok-reboot-how-to-fix/"><u>[Updated] Resolved Unintended TikTok Reboot â€“ How to Fix</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/120-top-comedic-tiktok-content-for-2024/"><u>120 Top Comedic TikTok Content for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-of-the-best-10-recorders-for-your-device/"><u>2024 Approved Best of the Best #10 Recorders for Your Device</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-elite-9-directors-cuts-downloader/"><u>2024 Approved Elite 9 Directors' Cuts Downloader</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/brief-blotter-for-film-blueprint-for-2024/"><u>Brief Blotter for Film Blueprint for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discover-top-tier-cost-effective-mobile-imaging-enhancers/"><u>Discover Top-Tier, Cost-Effective Mobile Imaging Enhancers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/fixed-what-if-i-accidentally-refreshed-tiktok-for-2024/"><u>Fixed! What If I Accidentally Refreshed Tiktok for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/foodie-frenzy-top-10-viral-eats-on-tiktok-for-2024/"><u>Foodie Frenzy Top 10 Viral Eats on TikTok for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-a-paired-bluetooth-gadget-fixed/"><u>How to Restore Audio on a Paired Bluetooth Gadget [FIXED]</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-beat-fiends-exploring-the-most-popular-rap-songs-on-tiktok/"><u>In 2024, Beat Fiends Exploring the Most Popular Rap Songs on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-effortlessly-enhance-your-tiktok-aesthetic-guide-inside/"><u>In 2024, Effortlessly Enhance Your TikTok Aesthetic Guide Inside</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/pth-guide-on-using-annotations-for-marketing/"><u>In-Depth Guide on Using Annotations for Marketing</u></a></li>
-<li><a href="https://solve-help.techidaily.com/step-by-step-guide-capturing-audio-from-your-pc/"><u>Step-by-Step Guide: Capturing Audio From Your PC</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/step-by-step-process-to-create-big-heads-on-your-tiktok-content-3-methods/"><u>Step-By-Step Process to Create Big Heads on Your TikTok Content (3 Methods)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2081559-9781885928283-the-practice-of-magical-evocation/"><u>The Practice of Magical Evocation | Free Book</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-guide-to-tiktoks-most-engaging-rap-songs-for-2024/"><u>The Ultimate Guide to TikTok's Most Engaging Rap Songs for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-uniting-voices-for-virtual-fame-on-tiktok/"><u>[New] 2024 Approved Uniting Voices for Virtual Fame on TikTok</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-experience-retro-gaming-glory-with-best-pc-ps1-emulation-software/"><u>[New] Experience Retro Gaming Glory with Best PC PS1 Emulation Software</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-foodie-festivals-viral-virtues-of-tiktok-meals-for-2024/"><u>[New] Foodie Festivals Viral Virtues of TikTok Meals for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unraveling-tiktoks-symbolic-use-of-pfp/"><u>[New] Unraveling TikTok's Symbolic Use of 'PFP'</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-cutting-edge-creativity-on-tiktok-mastering-video-designs-in-minutes/"><u>[Updated] 2024 Approved Cutting-Edge Creativity on TikTok Mastering Video Designs in Minutes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/1716483957882-updated-2024-approved-how-to-join-someones-live-on-tiktok-as-a-guest/"><u>[Updated] 2024 Approved How to Join Someoneâ€™s Live on TikTok as a Guest</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-real-time-music-sessions-on-douyin/"><u>[Updated] In 2024, Real-Time Music Sessions on Douyin</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-your-cheat-sheet-for-auditing-friends-vibrant-livestrances/"><u>[Updated] In 2024, Your Cheat Sheet for Auditing Friendsâ€™ Vibrant Livestrances</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-science-behind-catching-fire-on-instagram-for-2024/"><u>[Updated] The Science Behind Catching Fire on Instagram for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-complete-zoomers-guide-achieving-exceptional-video-and-audio-recordings-on-zoom/"><u>2024 Approved The Complete Zoomer's Guide Achieving Exceptional Video & Audio Recordings on Zoom</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acurite-pro-01036m-weather-station-unveiled-seamless-configuration-and-solid-design-features/"><u>AcuRite Pro 01036M Weather Station Unveiled - Seamless Configuration & Solid Design Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-wordsmith-whispers-picks-for-the-best-transcription-programs/"><u>In 2024, Wordsmith Whispers Picks for the Best Transcription Programs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1770704-9781782794752-naming-the-goddess/"><u>Naming the Goddess | Free Book</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-get-splice-video-editing-software-for-macos/"><u>New In 2024, Get Splice Video Editing Software for macOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-causes-for-look-up-app-failure-on-your-apple-device/"><u>Top Causes for Look Up App Failure on Your Apple Device</u></a></li>
 </ul></div>
 

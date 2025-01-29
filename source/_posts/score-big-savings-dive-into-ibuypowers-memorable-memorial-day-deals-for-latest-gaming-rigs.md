@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Dive Into iBUYPOWER’s Memorable Memorial Day Deals for Latest Gaming Rigs"
-date: 2025-01-20T02:24:01.521Z
-updated: 2025-01-21T21:16:55.985Z
+date: 2025-01-26T16:29:59.554Z
+updated: 2025-01-29T22:30:18.014Z
 tags:
   - desktop
 categories:
@@ -18,7 +18,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
  To help you assemble the best PC build for gaming or productivity that you can get, we've created recommended parts lists for every budget: from a super-cheap sub-$500 system to an affordable sub-$1,000 build to a $4,000+ dream machine for those with deep pockets.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Picking and Pricing the Best PC Builds
@@ -30,6 +30,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  We are also going to recommend GPUs rather than specific makes and models of graphics cards. For example, we'd recommend an RTX 4070 Ti and link to a list of available cards rather than, for example, the[Zotac RTX 4070 Ti](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FZOTAC-Graphics-IceStorm-Advanced-ZT-D40710J-10P%2Fdp%2FB0BQCVTSR3%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1261595583226646282-20) [.](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FZOTAC-Graphics-IceStorm-Advanced-ZT-D40810B-10P%2Fdp%2FB0BKK3RFT6%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8032896364299685703-20) Given frequent price and stock changes in the space, you should get whichever third or first-party card is available with the GPU you want for the best price at the time you read this.
 
  Also note that we don't include the cost of an operating system, because you can get[Windows for Free or Cheap](https://www.tomshardware.com/reviews/get-windows-10-free-or-cheap,5717.html) . Nor do we include the price of peripherals such as the[best gaming monitors](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html) ,[best gaming keyboards](https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards) or[best gaming mouse](https://www.tomshardware.com/best-picks/best-gaming-mouse) . And if you've never made a computer before, see our article on[how to build a PC](https://www.tomshardware.com/how-to/build-a-pc) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best $500 PC Build for Gaming
 
@@ -71,12 +75,16 @@ If you want a computer that meets your exact needs and budget, you need to put i
   
  Finally, we need something to power the whole system, and this is an area where we opted to compromise in pursuit of the $500 price point. The $40 500W PSU should be fine for this basic build, which will likely peak at around 200W of power use, but the Thermaltake Smart series isn't exactly highly regarded, and the listing mentions Haswell support (circa 2014) and it only has 80 Plus certification, which are clear drawbacks. If you want a quality PSU, check out the[Thermaltake Toughpower GX2 600W](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB087CDR14Z%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2901418645577992029-20) that costs $20 more. It's an 80 Plus Gold certified PSU, from a reputable brand, albeit overkill for a build like this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best $800 PC Build for Gaming
 
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Amazon)
@@ -117,6 +125,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Crucial P5 Plus Tests](https://cdn.mos.cms.futurecdn.net/dVtKieHEMPgzXkpEJa7jcm-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We're going with 32GB of TeamGroup T-Force Zeus DDR4 RAM and we're stepping up to a 700W version of the[Thermaltake](https://www.tomshardware.com/tag/thermaltake) Smart power supply so we can support our higher wattage CPU and GPU.
@@ -126,6 +138,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ## Best $1,000 PC Build for Gaming
 
 ![Phanteks XT Pro](https://cdn.mos.cms.futurecdn.net/AeCzMV4DUqQFiBnV2hPQuf-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -164,7 +180,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![3DMark Storage for WD SN580](https://cdn.mos.cms.futurecdn.net/YduTXHRsvK8iHR2sEsSWHH-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -173,17 +189,9 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Finally, we've stepped up to a 750-watt power supply and we're going with Corsair CX750M, which is 80+ Bronze certified and semi-modular. You can get a modular PSU or one that's 80+ Gold certified for a bit more, but that's money you don't need to spend at this price point.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best $1,500 PC Build for Gaming
 
 ![Lian Li Lancool 216](https://cdn.mos.cms.futurecdn.net/Km4g6hf6hy2XkxhB88oxBR-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -220,10 +228,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  We're going with one of the best PCIe 4.0 SSDs you can buy, WD's Black SN850X at 2TB. In our tests, it was neck and neck with the other top drives, including the SK hynix Platinum P41 and the Samsung 990 Pro.
 
 ![WD SN850X](https://cdn.mos.cms.futurecdn.net/Zgbo67f5diWaNQg29SQ3nQ-320-80.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -273,6 +277,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Memory Latency](https://cdn.mos.cms.futurecdn.net/ew9VS2PUuTupX8YSvcyb5X-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Future)
 
  For the SSD, we're sticking with the WD Black SN850X at 2TB. You really can't do much better without spending a lot more money on a PCIe 5 drive or a 4TB capacity.
@@ -280,6 +288,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our case is Hyte Y40, which is a great showcase for our components. It has beautiful wraparound glass that extends from the front to the left side. The case is available in three colors but we really like it in red.
 
  To power all these high-end components, we're using a Corsair RM750e PSU which is 80+ Gold certified and fully modular.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best $4000+ PC Build for Gaming
 
@@ -309,10 +321,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4090 Performance](https://cdn.mos.cms.futurecdn.net/mKv5emaUBYKBRQ8URPsxCY-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  Our CPU is AMD's Ryzen 9 7950X3D, which offers faster gaming than any Intel CPU on the market, including the Core i9-14900K. It has a whopping 140MB of cache, thanks to AMDs innovative 3D V-Cache and it boasts 16 full-power cores and 32 threads, which is more regular cores than the 13900K's set of 8 (to go with 16 E-Cores).
@@ -320,10 +328,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  On our tests, the Ryzen 9 7950X3D beat Intel's flagship, the 14900K by a full 21 fps on our 1440p suite of gaming tests. The cheaper, Ryzen 7 7800X3D is also really good at gaming, but does have as many cores for productivity.
 
 ![Ryzen 7 7950X3D Charts](https://cdn.mos.cms.futurecdn.net/DiWoGh9Fc2ovFWFiYuJeuG-320-80.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -334,10 +338,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  We're going with a 4TB Samsung 990 Pro, which has plenty of capacity and is the fastest PCIe 4.0 drive you can buy. Sure, we can go up to a PCIe 5.0 drive but we don't see enough performance gains to justify one, even in this high end build right now.
 
 ![Samsung 990 Pro 4TB Benchmarks](https://cdn.mos.cms.futurecdn.net/GArKvY8BSc22ZhDRwWyr2C-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -364,18 +364,20 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-cutting-edge-pfp-trends-enhancing-your-tiktok-impact-for-2024/"><u>[New] Cutting-Edge PFP Trends Enhancing Your TikTok Impact for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-cutting-edge-techniques-for-google-meet-aesthetic-enhancement-for-2024/"><u>[New] Cutting-Edge Techniques for Google Meet Aesthetic Enhancement for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-determining-a-bespoke-keyword-for-your-tiktok-feed/"><u>[New] Determining a Bespoke Keyword for Your TikTok Feed</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-high-quality-video-capture-for-tech-enthusiasts-for-2024/"><u>[New] High-Quality Video Capture for Tech Enthusiasts for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-hashtags-with-leading-apps-on-fb-twitter-and-instagram-for-2024/"><u>[New] Mastering Hashtags with Leading Apps on FB, Twitter & Instagram for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-streamline-tiktok-to-mp4-conversion-process/"><u>[New] Streamline TikTok to MP4 Conversion Process</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tips-for-smoothing-out-quake-in-captured-movement/"><u>[New] Tips for Smoothing Out Quake in Captured Movement</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-7-essential-free-online-tiktok-converters-for-mp3s/"><u>[Updated] In 2024, 7 Essential Free Online TikTok Converters for MP3s</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-live-choreo-streaming-on-shouqi-media/"><u>[Updated] In 2024, Live Choreo Streaming on Shouqi Media</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-compre-cookies-guide-to-marketing-magic-with-20-terms-for-2024/"><u>A Compre Cookie's Guide to Marketing Magic with 20 Terms for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-8-windows-audio-apps-compared/"><u>Premier 8-Windows Audio Apps Compared</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pro-techniques-for-exceptional-iphone-hdr-results/"><u>Pro Techniques for Exceptional iPhone HDR Results</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-power-of-words-in-viral-videos-top-20-tiktok-caption-picks/"><u>The Power of Words in Viral Videos Top 20 TikTok Caption Picks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-engaging-content-the-ultimate-6-video-strategies/"><u>[New] Engaging Content The Ultimate 6 Video Strategies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-decoding-tiktoks-profile-picture-phenomenon/"><u>[New] In 2024, Decoding TikTok's Profile Picture Phenomenon</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-mastering-a-new-identity-the-complete-tiktok-username-transformation/"><u>[Updated] 2024 Approved Mastering a New Identity The Complete TikTok Username Transformation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-a-countdown-of-the-most-memorable-animated-tiktoks-for-2024/"><u>[Updated] A Countdown of the Most Memorable Animated TikToks for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-choreographing-a-memorable-tiktok-fade-out/"><u>[Updated] Choreographing a Memorable TikTok Fade-Out</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-co-singers-capturing-hearts-online/"><u>[Updated] Co-Singers Capturing Hearts Online</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enhancing-outreach-with-strategic-partner-selection-on-youtube-for-2024/"><u>[Updated] Enhancing Outreach with Strategic Partner Selection on YouTube for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-new-users-on-the-road-to-zoom-room-mastery/"><u>[Updated] In 2024, New Users on the Road to Zoom Room Mastery</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-5-creative-tiktok-caption-ideas-for-maximum-impact/"><u>2024 Approved 5 Creative TikTok Caption Ideas for Maximum Impact</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-critical-7-tiktok-apps-to-amplify-your-influence/"><u>2024 Approved The Critical 7 TikTok Apps to Amplify Your Influence</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-free-4k-video-player-software-top-picks-compatible-with-windows-1011-and-macos/"><u>Best Free 4K Video Player Software: Top Picks Compatible with Windows 10/11 & macOS</u></a></li>
+<li><a href="https://discover-data.techidaily.com/high-definition-shark-themed-wallpapers-and-image-collections-download-from-yl-computing/"><u>High-Definition Shark Themed Wallpapers & Image Collections - Download From YL Computing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-se-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone SE Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/influencers-at-the-forefront-of-covid-19-mythology/"><u>Influencers at the Forefront of Covid-19 Mythology</u></a></li>
 </ul></div>
 

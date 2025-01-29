@@ -1,7 +1,7 @@
 ---
 title: "Asus Unveils New NUC Pert+ Model: Packing a Meteor Lake CPU, Core Ultra-5 125H for $860!"
-date: 2025-01-16T22:21:30.375Z
-updated: 2025-01-22T04:36:02.935Z
+date: 2025-01-22T19:19:47.524Z
+updated: 2025-01-29T19:08:46.709Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,16 +54,24 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-breaking-the-mold-unique-anime-creatives-dominating-tiktok/"><u>[New] Breaking the Mold Unique Anime Creatives Dominating TikTok</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-dive-into-freeware-for-precise-music-tempo-tracking/"><u>[New] In 2024, Dive Into Freeware for Precise Music Tempo Tracking</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-proactive-copyright-checking-for-safe-tiktok-sharing-for-2024/"><u>[New] Proactive Copyright Checking for Safe TikTok Sharing for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-strengthen-your-footage-using-a-tripod-in-vlogging/"><u>[New] Strengthen Your Footage Using a Tripod in Vlogging</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-understanding-auto-hdr-techniques-in-modern-cameras/"><u>[New] Understanding Auto HDR Techniques in Modern Cameras</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-a-comprehensive-guide-to-understanding-tiktoks-pfp-terminology/"><u>[Updated] A Comprehensive Guide to Understanding TikTok’s PFP Terminology</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-master-the-art-of-virality-on-tiktok-with-50plus-powerful-lyrics/"><u>[Updated] Master the Art of Virality on TikTok with 50+ Powerful Lyrics</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/gif-geniuses-selection-top-tiktok-conversion-software/"><u>GIF Geniuses' Selection Top TikTok Conversion Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-correct-hp-officejet-pro-6978s-driver-issues-quickly/"><u>Guide to Correct HP OfficeJet Pro 6978'S Driver Issues Quickly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-comprehensive-guide-to-avoid-copyright-breaches-in-tiktok-videos/"><u>[New] Comprehensive Guide to Avoid Copyright Breaches in TikTok Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-rhythmic-rendezvous-combining-beat-and-visuals-on-tiktok-for-2024/"><u>[New] Rhythmic Rendezvous Combining Beat and Visuals on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-from-watcher-to-participant-tiktok-live-integration/"><u>[Updated] 2024 Approved From Watcher to Participant TikTok Live Integration</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-revolutionizing-your-fpv-flight-with-optimal-blades/"><u>[Updated] 2024 Approved Revolutionizing Your FPV Flight with Optimal Blades</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-crafting-the-perfect-close-youtubes-free-end-screen-tools/"><u>[Updated] Crafting the Perfect Close YouTube's Free End Screen Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-laughs-galore-a-curated-collection-of-funny-tiktok-content-for-2024/"><u>[Updated] Laughs Galore A Curated Collection of Funny TikTok Content for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-pioneer-your-personal-brand-in-tiktok-with-dynamic-backgrounds-for-2024/"><u>[Updated] Pioneer Your Personal Brand in TikTok with Dynamic Backgrounds for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-flawless-path-to-popularizing-tiktok-imagery-for-2024/"><u>[Updated] The Flawless Path to Popularizing TikTok Imagery for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unlocking-the-secrets-to-swapping-out-your-tiktok-handle/"><u>2024 Approved Unlocking the Secrets to Swapping Out Your TikTok Handle</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-voiceover-on-tiktok-enhancing-your-presence/"><u>2024 Approved Voiceover on TikTok Enhancing Your Presence</u></a></li>
+<li><a href="https://win-able.techidaily.com/crack-the-code-to-beat-constant-loading-problems-in-among-us-step-by-step-guide/"><u>Crack the Code to Beat Constant Loading Problems in Among Us - Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/effective-methods-unlinking-from-your-discord-servers/"><u>Effective Methods Unlinking From Your Discord Servers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-features-and-benefits-of-rtx-video-cards/"><u>Exploring the Features and Benefits of RTX Video Cards</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebooks-viral-video-hits-compilation-for-2024/"><u>Facebook's Viral Video Hits Compilation for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967127472-get-your-lenovo-t430-running-on-windows-free-drivers-for-win-11-8-and-7-no-hassles/"><u>Get Your Lenovo T430 Running on Windows: Free Drivers for Win 11, 8 & 7 - No Hassles</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-11-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 11 when Phone is Broken?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-a2-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo A2 Activity | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-alienware-command-center-malfunctions/"><u>Step-by-Step Solution for Alienware Command Center Malfunctions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/superior-visual-experience-ranking-the-best-12-html5-players/"><u>Superior Visual Experience Ranking the Best 12 HTML5 Players</u></a></li>
 </ul></div>
 

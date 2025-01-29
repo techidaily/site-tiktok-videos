@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Stop Starcraft 2 From Freezing or Crashing on Your PC"
-date: 2025-01-19T02:17:37.992Z
-updated: 2025-01-21T23:12:51.495Z
+date: 2025-01-22T22:23:25.197Z
+updated: 2025-01-29T18:54:03.512Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
 Encountering crashing issues while playing Risk of Rain 2 can be frustrating. These crashes may result from a variety of factors, such as outdated graphics drivers, software conflicts, corrupted game files, low RAM, or incompatible game settings.
 
  It can be challenging, if not possible, to identify the core issue of the game crash since you all have your own game settings and use unique hardware, but no worries. This article provides 6 solutions to help you rule out common causes of this error and potentially resolve this problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -51,7 +55,7 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-56-17-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -71,13 +75,13 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-24-59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-25-07.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
 
@@ -88,6 +92,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
  If disabling your antivirus resolves the issue, consider contacting the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
 
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of game files
 
@@ -103,17 +111,9 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
 
@@ -127,16 +127,12 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-49.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-55.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 7** , then click **Apply**  \> **OK** .
@@ -147,6 +143,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 If your problem still exists, go ahead with the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Steam
 
  Uninstalling and reinstalling Steam will remove and replace the files that run the game. If none of the fixes worked for you, reinstalling Steam and the game is very likely the solution to your problem. Here is how to do it:
@@ -155,20 +155,20 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-48-00.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Under**View by** , select**Category.** Then, select**Uninstall a program** .
@@ -212,18 +212,22 @@ If your problem still exists, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-iconic-pfp-ideas-make-a-mark-in-the-world-of-tiktok/"><u>[New] 2024 Approved Iconic PFP Ideas Make a Mark in the World of TikTok</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-5-methods-for-capturing-sound-in-windows-11/"><u>[New] 2024 Approved Top 5 Methods for Capturing Sound in Windows 11</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-becoming-a-star-spectator-on-the-social-stage/"><u>[New] Becoming a Star Spectator on the Social Stage</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-pioneering-editing-techniques-for-immediate-background-transformations-in-tiktok-for-2024/"><u>[New] Pioneering Editing Techniques for Immediate Background Transformations in TikTok for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-embrace-freedom-with-easy-watermark-free-tiktok-videos/"><u>[Updated] In 2024, Embrace Freedom with Easy, Watermark-Free TikTok Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-effortlessly-download-every-tiktok-video/"><u>2024 Approved Effortlessly Download Every TikTok Video</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/how-can-i-upgrade-the-firmware-on-my-scanning-device-expert-advice-from-yl-computings-software-solutions/"><u>How Can I Upgrade the Firmware on My Scanning Device? Expert Advice From YL Computing's Software Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-v30-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo V30</u></a></li>
-<li><a href="https://win-answers.techidaily.com/iphone-wont-pair-with-itunes-heres-what-you-need-to-know-about-windows-nx/"><u>IPhone Won't Pair with iTunes? Here's What You Need to Know About Windows nX</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mastering-nba-game-streaming-a-comprehensive-guide-for-2024/"><u>Mastering NBA Game Streaming A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-dxgierrordevicehung-0x887a0006-on-win-1011/"><u>Resolving DXGI_ERROR_DEVICE_HUNG (0X887A0006) on Win 10/11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nubia-red-magic-8s-proplus-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nubia Red Magic 8S Pro+ with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y100i-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo Y100i Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-accelerate-your-income-on-tiktok-with-these-8-profitable-methods/"><u>[New] Accelerate Your Income on TikTok with These 8 Profitable Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-elevate-engagement-10-effective-facebook-video-tips-for-2024/"><u>[New] Elevate Engagement 10 Effective Facebook Video Tips for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-culinary-quests-tiktoks-best-food-content/"><u>[New] In 2024, Culinary Quests TikTok's Best Food Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-downloading-the-latest-tiktok-features-on-your-macbook/"><u>[New] In 2024, Downloading the Latest TikTok Features on Your MacBook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-affordable-minecraft-video-graphics-for-2024/"><u>[Updated] Affordable Minecraft Video Graphics for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-capture-stellar-tiktoks-easily-and-effectively-for-2024/"><u>[Updated] Capture Stellar TikToks Easily & Effectively for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-becoming-an-active-participant-in-tiktok-lives/"><u>2024 Approved Becoming an Active Participant in TikTok Lives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-review-of-syma-x5c-the-ultimate-drone-guide-for-new-users/"><u>2024 Approved Review of Syma X5C – The Ultimate Drone Guide for New Users</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/guide-ensuring-your-emails-stay-private-secure-sending-techniques-with-gmail-and-outlook/"><u>Guide: Ensuring Your Emails Stay Private - Secure Sending Techniques with Gmail & Outlook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-adjust-windows-activity-lock/"><u>How to Adjust Windows Activity Lock</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/how-trustworthy-is-windows-defender-insights-from-yl-computings-expert-review/"><u>How Trustworthy Is Windows Defender - Insights From YL Computing's Expert Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-jujutsu-kaisen-tiktok-a-step-by-step-guide/"><u>In 2024, Jujutsu Kaisen TikTok A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-navigating-a-fresh-start-guide-to-altering-your-tiktok-username/"><u>In 2024, Navigating a Fresh Start Guide to Altering Your TikTok Username</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/melodious-memories-capturing-songs-in-your-snaps/"><u>Melodious Memories Capturing Songs in Your Snaps</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-a-complete-guide-of-top-7-video-language-translators/"><u>New A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-insiders-guide-to-recording-on-itunes/"><u>The Insider's Guide to Recording on iTunes</u></a></li>
 </ul></div>
 

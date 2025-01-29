@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Fix Constant System Failures of the Luna Desktop"
-date: 2025-01-16T00:48:59.543Z
-updated: 2025-01-21T23:05:36.901Z
+date: 2025-01-22T16:51:48.060Z
+updated: 2025-01-29T21:53:10.111Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -45,20 +41,20 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
@@ -76,7 +72,7 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Check for updates** .
@@ -86,6 +82,10 @@ Check your region and language settings on your computer:
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -107,15 +107,15 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
@@ -127,13 +127,13 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
@@ -159,24 +159,24 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-srt-file-integration-on-digital-platforms/"><u>[New] Streamlining SRT File Integration on Digital Platforms</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-syncing-your-presence-in-real-time-tiktoks-for-2024/"><u>[New] Syncing Your Presence in Real-Time TikToks for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-perfect-tiktok-start-mac-based-production-strategies/"><u>[Updated] 2024 Approved Perfect TikTok Start Mac-Based Production Strategies</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unlock-the-potential-of-your-films-with-final-cut-pro/"><u>[Updated] 2024 Approved Unlock the Potential of Your Films with Final Cut Pro</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-feathery-symphony-bebop-parrot-2-dissected/"><u>[Updated] A Feathery Symphony – Bebop Parrot 2 Dissected</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-eliminate-background-noise-from-online-video-content/"><u>[Updated] In 2024, Eliminate Background Noise From Online Video Content</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-transforming-tiktok-videos-a-guide-to-audio-amplification-techniques-for-2024/"><u>[Updated] Transforming TikTok Videos A Guide to Audio Amplification Techniques for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/20-timeless-anime-themes-making-a-mark-on-tiktok-for-2024/"><u>20 Timeless Anime Themes Making a Mark on TikTok for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-top-podcast-apps-showdown-6-innovators-revealed/"><u>2024 Approved Android's Top Podcast Apps Showdown 6 Innovators Revealed</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-reworking-your-online-identity-comprehensive-tiktok-username-change-protocols/"><u>2024 Approved Reworking Your Online Identity Comprehensive TikTok Username Change Protocols</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-webcams-for-enhanced-podcast-production/"><u>2024 Approved Ultimate Webcams for Enhanced Podcast Production</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unveiling-the-secrets-of-big-head-effects-for-professional-tiktoks-3-ways/"><u>2024 Approved Unveiling the Secrets of Big Head Effects for Professional TikToks (3 Ways)</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-chromatic-brilliance-for-video-enthusiasts/"><u>In 2024, Chromatic Brilliance for Video Enthusiasts</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-comprehensive-tiktok-video-upload-strategies-for-chrome-android-and-ios-users/"><u>In 2024, Comprehensive TikTok Video Upload Strategies for Chrome, Android, and iOS Users</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-dive-deep-into-the-world-of-customizable-tiktok-video-backgrounds/"><u>In 2024, Dive Deep Into the World of Customizable TikTok Video Backgrounds</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-guide-to-success-on-desktop-for-tiktok-videos/"><u>In 2024, The Ultimate Guide to Success on Desktop for TikTok Videos</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-changing-icons-in-your-flipboard-toolbar/"><u>Step-by-Step Guide: Changing Icons in Your FlipBoard Toolbar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-buzz-around-the-next-big-thing-from-apple-ai-home-robot-price-forecast-release-schedule-and-specs-unveiled/"><u>The Buzz Around the Next Big Thing From Apple: AI Home Robot, Price Forecast, Release Schedule and Specs Unveiled</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-samsung-galaxy-m34-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Samsung Galaxy M34 Location | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-a-compreeved-look-at-effective-spotify-ad-implementation/"><u>[New] 2024 Approved A Compreeved Look at Effective Spotify Ad Implementation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-whats-the-best-orientation-horizontalvertical-on-facebook-for-2024/"><u>[New] What's The Best Orientation Horizontal/Vertical on Facebook for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-navigating-tiktok-lives-as-a-virtual-attendee/"><u>[Updated] 2024 Approved Navigating TikTok Lives as a Virtual Attendee</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-efficient-video-exporting-on-chrome-to-enhance-tiktok-for-2024/"><u>[Updated] Efficient Video Exporting on Chrome to Enhance TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-syncopation-spotlight-hits-that-have-hit-the-high-note-on-tiktok/"><u>[Updated] In 2024, Syncopation Spotlight Hits That Have Hit the High Note on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-top-players-showcased-10-mvps-on-tiktok/"><u>[Updated] In 2024, Top Players Showcased 10 MVPs on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-ultimate-pathway-for-redefining-your-tiktok-signature-for-2024/"><u>[Updated] The Ultimate Pathway for Redefining Your TikTok Signature for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-make-your-mark-with-the-hottest-tiktok-tags-and-trends-now/"><u>2024 Approved Make Your Mark with the Hottest TikTok Tags & Trends Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-approach-assessing-your-priorities-beyond-steam-points/"><u>A New Approach: Assessing Your Priorities Beyond Steam Points</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-agni-2-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava Agni 2 5G</u></a></li>
+<li><a href="https://article-tips.techidaily.com/concoct-clever-caricatures/"><u>Concoct Clever Caricatures</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-tiktok-with-your-tv-ultimate-tricks-for-social-media-content-display/"><u>Connecting TikTok with Your TV: Ultimate Tricks for Social Media Content Display</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-checks-when-windows-obs-studio-wont-launch/"><u>Essential Checks When Windows' OBS Studio Won't Launch</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-11-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 11 Pro Max without Password?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-immerse-in-tiktok-entertainment-with-ease-and-grace/"><u>In 2024, Immerse in TikTok Entertainment with Ease and Grace</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-jointly-experience-live-content-on-tiktok-platform/"><u>In 2024, Jointly Experience Live Content on TikTok Platform</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-most-popular-anime-themed-tiktok-videos-of-all-time/"><u>The Most Popular Anime-Themed TikTok Videos of All Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-deadly-mystery-of-windows-c0000022-failure/"><u>Unraveling the Deadly Mystery of Windows' C0000022 Failure</u></a></li>
 </ul></div>
 
