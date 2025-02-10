@@ -1,7 +1,7 @@
 ---
 title: High Performance Meets Versatility in Our In-Depth Look at the Dell XPS Dell XPS 13 (9380) Convertible Laptop - Premium Power and Sleek Design Unveiled
-date: 2025-01-24T21:14:09.609Z
-updated: 2025-01-29T20:52:58.668Z
+date: 2025-02-04T03:16:29.482Z
+updated: 2025-02-10T01:24:40.765Z
 categories:
   - BestProducts
 description: This Article Describes High Performance Meets Versatility in Our In-Depth Look at the Dell XPS Dell XPS 13 (9380) Convertible Laptop - Premium Power and Sleek Design Unveiled
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/XPTzdgkhY6bWmlWOIoF4mc1fv2M=/400x300/fi
 ## Survive the Night with Friends in 'Dying Light': A Thrilling First-Person Parkour and Cooperative Gameplay Experience
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Dying Light
 
@@ -37,16 +41,12 @@ Lifewire / Kelsey Simon
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dying Light
 
 ![Dying Light](https://www.lifewire.com/thmb/YWkGikwP23JK119N4M7J22dAPJY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Dying-Light-Zombie-Game-PS4-1-f2e898d54052439c9e158d01dc3d691a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
@@ -72,10 +72,6 @@ Lifewire / Kelsey Simon
 
 ![Dying Light](https://www.lifewire.com/thmb/_0yEidfS3S4dy57s584t378TZYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-5-4ec68914607c4b56acff25a78887af7f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Kelsey Simon
 
 ## **Setup Process: Straight into the action**
@@ -85,7 +81,7 @@ Lifewire / Kelsey Simon
 ![Dying Light](https://www.lifewire.com/thmb/P3rXmBBI1GdQfgi0vVT9xKcFw90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-2-db5990d1f64341eaae79e22a71bb8f95.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -101,10 +97,6 @@ Harran is a whole different city at night.
  This is a fairly linear game with regards to the plot. There's a main storyline for you to follow, with some optional side quests that you can take or leave. The narrative does a decent job of building up the circumstances for Kyle feeling torn between his mission and these people, and you’ll learn more about the virus as you go, as well as Antizin, the fictional drug that could lead to a cure.
 
 ![Dying Light](https://www.lifewire.com/thmb/8G35q3VsoSEuht_3bqsGm0Pwz-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-7-d9d2bbe8881e476f8dfb3c13059634ed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -132,11 +124,19 @@ Harran is a whole different city at night.
 
 ![Dying Light](https://www.lifewire.com/thmb/sy9NHLj8JNe2eaeS9HJJdejt6QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dying-Light-Zombie-Game-PS4-6-56ef808272b544e6a1038f4a5d0280f1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 ## **Price: Worth the cost, especially with a friend**
 
  On PlayStation 4, you can purchase the game for $14, a fantastic value. You’ll get more than enough gameplay and fun to justify a purchase at that low cost. However, if you want to play on[PC](https://www.lifewire.com/best-desktop-pcs-4045927) , you’ll have to either wait for the game to go on sale, or you’ll have to pay $40\. Considering the game is older now, we’d suggest getting the game on sale (it goes on sale often through Steam). There’s a lot of fun to be had in Dying Light, especially if you have a friend to play with, so if you’re thinking about getting the game, we’d say go for it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Other zombie and parkour games**
 
@@ -151,7 +151,7 @@ Harran is a whole different city at night.
  Dying Light is a game that took an overdone trope and used it to create a fresh game. Its fun parkour and co-op gameplay make for a great gaming experience, particularly when shared with friends. The variety of zombie enemies combined with the excellent melee combat keep the experience fresh even in the late game―and if things feel too simple, doing a mission at night is a wholly different experience from daylight outings. Dying Light is a great game in the zombie survival genre that we would recommend to most players.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -175,20 +175,20 @@ Harran is a whole different city at night.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-15-best-booktok-picks-you-cant-miss/"><u>[New] 2024 Approved 15 Best BookTok Picks You Can't Miss</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-free-tool-for-tiktok-to-mp4-conversion/"><u>[New] 2024 Approved Free Tool for TikTok to MP4 Conversion</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-for-altering-and-personalizing-iphone-ringtones/"><u>[New] Expert Tips for Altering & Personalizing iPhone Ringtones</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-check-your-videos-legal-status-before-tiktok-upload/"><u>[New] In 2024, How to Check Your Video's Legal Status Before TikTok Upload</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-easter-eggs-unlocking-the-secretive-tricks-and-tips/"><u>[New] Instagram Easter Eggs Unlocking the Secretive Tricks and Tips</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-discover-the-power-of-voice-in-tiktok-videos/"><u>[Updated] 2024 Approved Discover the Power of Voice in TikTok Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-a-beginners-guide-to-jujutsu-kaisen-on-tiktok/"><u>[Updated] In 2024, A Beginner’s Guide to Jujutsu Kaisen on TikTok</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streamlining-zoom-sessions-with-invisible-edges/"><u>[Updated] In 2024, Streamlining Zoom Sessions with Invisible Edges</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-become-a-video-virtuoso-on-tiktok-by-leveraging-template-artistry/"><u>2024 Approved Become a Video Virtuoso on TikTok by Leveraging Template Artistry</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-why-magix-video-pro-x-is-a-game-changer/"><u>2024 Approved Why Magix Video Pro X Is a Game-Changer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/breaking-down-gopros-burst-capture-feature/"><u>Breaking Down GoPro's Burst Capture Feature</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-5-elite-apps-for-creating-gifs-from-tiktok-videos-quickly/"><u>In 2024, 5 Elite Apps for Creating GIFs From TikTok Videos Quickly</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-realme-c67-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Realme C67 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210861009-9781454952589-tarot-basics/"><u>Tarot Basics | Free Book</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/ultimate-guide-to-best-youtube-banner-size-and-channel-art-dimension/"><u>Ultimate Guide to Best YouTube Banner Size and Channel Art Dimension</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-5-rapid-ways-to-access-obliviated-reddit-content/"><u>[New] 2024 Approved 5 Rapid Ways to Access Obliviated Reddit Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-toptiktok-eats-10-famous-feast-fads/"><u>[New] In 2024, TopTiktok Eats 10 Famous Feast Fads</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-revolutionize-your-tiktok-videos-streamlined-methods-for-new-borders-for-2024/"><u>[New] Revolutionize Your TikTok Videos Streamlined Methods for New Borders for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-50plus-trending-tiktok-hashtags-to-get-more-views-and-likes/"><u>[Updated] 50+ Trending TikTok Hashtags to Get More Views and Likes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-nokia-c300-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Nokia C300 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/bridge-gap-fixing-laptop-and-phone-connection-discrepancies/"><u>Bridge Gap: Fixing Laptop and Phone Connection Discrepancies</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-features-of-the-moto-g-stylus-robust-execution-and-reasonable-energy-life/"><u>Exploring the Features of the Moto G Stylus: Robust Execution and Reasonable Energy Life</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/fuel-your-film-rate-with-these-easy-tiktok-tricks-for-2024/"><u>Fuel Your Film Rate with These Easy TikTok Tricks for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-maximize-engine-power-the-best-windows-and-mac-srt-mods-countdown/"><u>In 2024, Maximize Engine Power The Best Windows & Mac SRT Mods Countdown</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-photo-refinement-essentials-expert-tips-for-efficient-background-clearance/"><u>In 2024, Photo Refinement Essentials Expert Tips for Efficient Background Clearance</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-stand-out-tiktok-profiles-innovative-frame-design-ideas/"><u>In 2024, Stand-Out TikTok Profiles Innovative Frame Design Ideas</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-facetune-an-authoritative-review-for-improved-images-for-2024/"><u>Inside Facetune An Authoritative Review for Improved Images for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-the-skies-with-dji-phantom-cuarto-pro-v20-a-comprehensive-review-revealed/"><u>Mastering the Skies with DJI Phantom Cuarto Pro v2.0 - A Comprehensive Review Revealed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/preserving-your-snapshots-mobile-and-desktop-compatible/"><u>Preserving Your Snapshots Mobile & Desktop Compatible</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-playlist-tiktoks-hotspots-for-rhythmic-flows-and-beats-for-2024/"><u>The Playlist TikTok's Hotspots for Rhythmic Flows and Beats for 2024</u></a></li>
 </ul></div>
 

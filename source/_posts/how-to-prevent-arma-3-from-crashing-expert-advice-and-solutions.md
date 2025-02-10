@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Arma 3 From Crashing - Expert Advice & Solutions
-date: 2025-01-27T19:04:31.831Z
-updated: 2025-01-29T16:44:30.192Z
+date: 2025-02-06T16:16:39.966Z
+updated: 2025-02-09T19:50:56.974Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 ## Ultimate Guide to Prevent Hitman 3 From Freezing on PC - Expert Tips Inside
 
 Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story mission is exquisite and aesthetic design is stunning. However, many players are reporting the Hitman 3 crashing issue and complained they can’t enjoy the game at all. If you’re one of them, don’t worry. After reading this post, you’ll be able to rule out the common causes and get your issue fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,12 +45,12 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-1.jpg)
 2. Select**3D settings** \>**Manage 3D settings** from the left pane.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-2.jpg)
 3. Go to the**Programs Settings** tab. Then, click the**Add** button.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-3.jpg)
 4. Select**HITMAN 3** from the list and click**Add Selected Program** .  
@@ -62,7 +66,7 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 8. Select your**dedicated graphics card** instead of the integrated one next to Graphics Processing Unit, and click**Save** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-7.jpg)
@@ -72,7 +76,7 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
  Now see if Hitman 3 works properly. If not, there are two more fixes to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Verify the integrity of game files
@@ -83,18 +87,14 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Mouse over the**Hitman 3 tile** and click**the icon with three dots** at the lower right corner. Then, select**Verify** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 3. After the process completes, launch Hitman 3 to test.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Does the game works the right way or does it still crash? If the latter, don’t frustrate and check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
 
@@ -108,6 +108,10 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the_flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -125,12 +129,12 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-3.jpg)
 2. Click**Settings** under Performance.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-2.jpg)
 3. Navigate to the**Advanced** tab. Then, click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-2.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
@@ -138,19 +142,15 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-3.jpg)
 5. Select the**C drive** and click**Custom size** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-5.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has. Then, click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : According to Microsoft, you should set virtual memory no less than**1.5 times** and no more than **3 times** the amount of RAM on your computer. For example, if you have 8 GB RAM, the**Initial size** should be 8 x 1024 x 1.5 = 12288 MB while the **Maximum size** should be 8 x 1024 x 3 = 24576 MB. If you don’t know how much RAM you have, read our post to[check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart the computer for changes to take effect. Once you’ve done that, run Hitman 3 and the crashes should be resolved now.
 
@@ -176,24 +176,20 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-30-innovative-anime-concepts-for-viral-video-creators/"><u>[New] In 2024, Top 30 Innovative Anime Concepts for Viral Video Creators</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-5-alternatives-to-tiktok-you-should-know-updated-for-2024/"><u>[New] Top 5 Alternatives to TikTok You Should Know [Updated ] for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-from-novice-to-pro-a-comprehensive-tiktok-toolset-2023/"><u>[Updated] 2024 Approved From Novice to Pro A Comprehensive TikTok Toolset, 2023</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-visual-beats-combining-photography-and-audio/"><u>[Updated] 2024 Approved Visual Beats Combining Photography and Audio</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-behind-the-screen-tiktoks-10-gaming-visionaries-for-2024/"><u>[Updated] Behind the Screen TikTok’s 10 Gaming Visionaries for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-insightful-guide-to-using-showmore-for-professional-screen-recording-for-2024/"><u>[Updated] Insightful Guide to Using ShowMore for Professional Screen Recording for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-making-a-trendy-jujutsu-kaisen-tiktok-video-for-2024/"><u>[Updated] Making a Trendy Jujutsu Kaisen TikTok Video for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mold-mirthful-media/"><u>[Updated] Mold Mirthful Media</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-tiktok-captioning-guide-adding-descriptive-texts-for-2024/"><u>[Updated] TikTok Captioning Guide Adding Descriptive Texts for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streaming-success-latest-updates-on-earnings-guidelines/"><u>2024 Approved Streaming Success Latest Updates on Earnings Guidelines</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725287545895-dvdiso/"><u>完全ガイド: DVDからISOイメージへのエラー無し変換方法 - 徹底解説</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/crafting-connection-from-fabric-to-followers-a-tiktokers-journey-for-2024/"><u>Crafting Connection From Fabric to Followers, a TikToker's Journey for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/enhancing-your-multimedia-interaction-with-vlc-mac-for-2024/"><u>Enhancing Your Multimedia Interaction with VLC (Mac) for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-a78-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A78 5G Fingerprint Lock</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-leading-the-charge-in-pc-livestreams-with-tiktok-features/"><u>In 2024, Leading the Charge in PC Livestreams with TikTok Features</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/navigating-snapchats-call-feature-in-three-steps/"><u>Navigating Snapchat's Call Feature in Three Steps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-guide-to-ioss-best-psp-gaming-tools/"><u>The Ultimate Guide to iOS's Best PSP Gaming Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-tools-for-compressing-mov-files-compare-pcmac-solutions-and-online-options/"><u>Top 5 Tools for Compressing MOV Files: Compare PC/Mac Solutions & Online Options</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-savings-secure-your-ultimate-power-strip-at-20-discount-only-on-amazon-featured-by-zdnet/"><u>Unleash Savings: Secure Your Ultimate Power Strip at 20% Discount Only on Amazon - Featured by ZDNet</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-how-to-use-tiktok-on-mac-and-pc-computers/"><u>[New] 2024 Approved How to Use TikTok on Mac and PC Computers?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-stay-ahead-in-the-stream-top-5-video-capture-platforms-reviewed/"><u>[New] In 2024, Stay Ahead in the Stream Top 5 Video Capture Platforms Reviewed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-becoming-a-star-spectator-on-the-social-stage/"><u>[Updated] Becoming a Star Spectator on the Social Stage</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-secrets-behind-compelling-captions-for-captivating-tiktok-content-for-2024/"><u>[Updated] The Secrets Behind Compelling Captions for Captivating TikTok Content for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715860481417-updated-utilizing-inbuilt-cameras-for-screen-recording-on-mate-and-p-series-smartphones-mate-10-mate-20-p20-p10/"><u>[Updated] Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10).</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-discover-50plus-creative-words-that-make-tiktoks-go-viral/"><u>2024 Approved Discover 50+ Creative Words That Make TikToks Go Viral</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unleash-your-full-potential-in-tiktok-video-making-with-templates/"><u>2024 Approved Unleash Your Full Potential in TikTok Video Making with Templates</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/easy-steps-to-locate-recently-viewed-videos-by-you-on-fb/"><u>Easy Steps to Locate Recently Viewed Videos by You on FB</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-nubia-red-magic-8s-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nubia Red Magic 8S Pro in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/illustrating-a-novel-tiktok-end-slide-for-2024/"><u>Illustrating A Novel TikTok End Slide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-elevate-your-gaming-experience-with-smart-use-of-xbox-zoom/"><u>In 2024, Elevate Your Gaming Experience with Smart Use of Xbox Zoom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-showtime-media-centre-all-media-in-one-app/"><u>In 2024, SHOWTIME Media Centre All Media in One App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimal-fixes-and-tweaks-for-a-smooth-run-of-star-wars-jedi-fallen-order-on-pc/"><u>Optimal Fixes & Tweaks for a Smooth Run of Star Wars Jedi: Fallen Order on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-the-rapid-rise-chatgpts-prime-mover-factors/"><u>Unleashing the Rapid Rise: ChatGPT's Prime Mover Factors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-free-top-10-green-screen-apps-for-androidios/"><u>Updated 2024 Approved FREE Top 10 Green Screen APPs for Android/iOS</u></a></li>
 </ul></div>
 

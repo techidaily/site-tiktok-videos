@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Repair Tips for a Smooth Phasmophobia Virtual Reality Gameplay
-date: 2025-01-28T22:23:07.047Z
-updated: 2025-01-29T20:13:41.303Z
+date: 2025-02-05T23:18:44.607Z
+updated: 2025-02-10T06:13:24.925Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 
 Compared to the first game, The Division 2 presents a much stronger campaign experience. But players would still wish to maximize FPS and hopefully get rid of any performance issues to smooth the gameplay. This is definitely achievable. In this tutorial, we’ll show you how to boost FPS and fix the stuttering issues on The Division 2.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -31,10 +27,6 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set the game’s priority to high](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Optimize in-game settings](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Close unnecessary programs
 
@@ -47,12 +39,16 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing The Division 2 and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Also, too many startup apps can be a drag on your computer’s performance. In this case, you can prevent some apps from automatically starting when you sign into Windows:
 
@@ -73,6 +69,10 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
  2) Click **Gaming** .
 
 ![disable windows 10 gaming features disable game mode](https://images.drivereasy.com/wp-content/uploads/2021/01/gaming-in-the-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
@@ -96,6 +96,10 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-ubisoft-connect-overlay-1200x655.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **To disable GeForce Experience Overlay, take these steps:**
 
  1) From the GeForce Experience app, click on the**Settings icon** located on the top right corner.  
@@ -111,7 +115,7 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Update your graphics driver
@@ -146,15 +150,15 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer and launch your game to check if the problem is solved. If not, then continue trying the fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Set the game’s priority to high
 
@@ -169,20 +173,20 @@ To set your game’s priority to high, you can take these steps:
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Under the**Processes** tab, find your game title. Right-click it and select**Go to details** and you’ll be directed to the**Details** tab.  
   
 ![set The Division 2 priority to high](https://images.drivereasy.com/wp-content/uploads/2021/04/Task-Manager-Go-to-details.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Your game should be highlighted. Make sure to right-click it and select**Set priority > High** .  
   
 ![set The Division 2 priority to high](https://images.drivereasy.com/wp-content/uploads/2021/04/set-priority-to-high.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After applying the changes, launch The Division 2 and it should be running with high priority.
 
@@ -202,10 +206,6 @@ To set your game’s priority to high, you can take these steps:
 **Spot Shadows: Low**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After applying the changes, play The Division 2 and you should be able to notice the difference.
 
@@ -228,16 +228,24 @@ To set your game’s priority to high, you can take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-from-basic-to-breathtaking-elevate-your-tiktok-videos-today/"><u>[New] 2024 Approved From Basic to Breathtaking Elevate Your TikTok Videos Today</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-essential-list-8-leading-tools-for-video-translation-mastery-for-2024/"><u>[New] Essential List 8 Leading Tools for Video Translation Mastery for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-extract-and-convert-fb-videos-to-mp3-files-efficiently/"><u>[New] Extract and Convert FB Videos to MP3 Files Efficiently</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-bigger-head-vfx-for-tiktok-creators-3-ways/"><u>[New] In 2024, The Ultimate Guide to Bigger-Head VFX for TikTok Creators (3 Ways)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-quick-fixes-for-stopped-fb-live-broadcasts/"><u>[New] Quick Fixes for Stopped FB Live Broadcasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-sound-stream-for-speakers/"><u>[New] Seamless Sound Stream for Speakers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-personalizing-your-tiktok-presence-with-30-innovative-pfp-ideas-for-2024/"><u>[Updated] Personalizing Your TikTok Presence with 30 Innovative PFP Ideas for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-navigate-a-new-era-in-livestrances-top-3-desktop-techniques-on-tiktok/"><u>2024 Approved Navigate a New Era in Livestrances Top 3 Desktop Techniques on TikTok</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-reach-peaks-lead-lines-strategies-to-elevate-telegram-marketing/"><u>2024 Approved Reach Peaks, Lead Lines Strategies to Elevate Telegram Marketing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-forging-a-massive-online-following-on-facebook/"><u>In 2024, Forging a Massive Online Following on Facebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/virtual-venality-ai-and-love-scams/"><u>Virtual Venality: AI and Love Scams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-premier-mobile-platforms-the-best-selection-of-android-emulators-for-playstation-2/"><u>[New] 2024 Approved Premier Mobile Platforms The Best Selection of Android Emulators for PlayStation 2</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-seamlessly-step-into-a-tiktok-livestream-a-guide/"><u>[New] 2024 Approved Seamlessly Step Into a TikTok Livestream A Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-spotlight-series-the-best-gamers-on-tiktok/"><u>[New] 2024 Approved Spotlight Series The Best Gamers on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-crafting-a-distinctive-tiktok-stream-hashcode-for-2024/"><u>[New] Crafting a Distinctive TikTok Stream Hashcode for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-elevate-your-teams-presence-blur-backdrops-with-expertise-for-2024/"><u>[New] Elevate Your Teams Presence Blur Backdrops with Expertise for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-thor-vs-jormungandr-ragnaroks-eve/"><u>[New] Thor vs Jormungandr Ragnarok's Eve</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nderstanding-aspect-ratios-impact-on-youtube-viewership/"><u>[New] Understanding ASPECT RATIOS' Impact on YOUTUBE Viewership</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-fix-the-frenzy-regain-access-after-tiktok-reload-error/"><u>[Updated] 2024 Approved Fix the Frenzy Regain Access After TikTok Reload Error</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-capture-clarity-high-quality-screen-recordings-for-youtubers-pcmac-for-2024/"><u>[Updated] Capture Clarity High-Quality Screen Recordings for YouTubers (PC/Mac) for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-composers-toolkit-for-flawless-image-finishing/"><u>[Updated] In 2024, The Composer's Toolkit for Flawless Image Finishing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-secrets-to-seamless-zoom-talks-mastering-online-communication-skills/"><u>[Updated] In 2024, The Secrets to Seamless Zoom Talks Mastering Online Communication Skills</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-tik-hop-waves-unveiling-todays-viral-rap-sounds/"><u>[Updated] Tik-Hop Waves Unveiling Today's Viral Rap Sounds</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-top-7-budget-friendly-tiktok-editors-for-macbooks/"><u>[Updated] Top 7 Budget-Friendly TikTok Editors for MacBooks</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-discovering-deliciousness-tiktoks-most-shared-snacks/"><u>2024 Approved Discovering Deliciousness TikTok's Most Shared Snacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/end-of-year-sale-windows-10-starting-at-an-insanely-low-612/"><u>End of Year Sale: Windows 10, Starting at an Insanely Low $6.12</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/maximizing-tiktok-video-velocity-effectively/"><u>Maximizing TikTok Video Velocity Effectively</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimizing-youtube-view-duration-three-steps-52-chars-for-2024/"><u>Optimizing YouTube View Duration - Three Steps (52 Chars) for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/peeling-back-layers-what-every-snapchat-emoji-hides/"><u>Peeling Back Layers What Every Snapchat Emoji Hides</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/simplify-collaboration-with-mematics-cloud-notes-for-2024/"><u>Simplify Collaboration with Mematic’s Cloud Notes for 2024</u></a></li>
 </ul></div>
 
