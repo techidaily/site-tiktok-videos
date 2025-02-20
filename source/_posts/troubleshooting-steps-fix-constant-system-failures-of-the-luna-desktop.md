@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Fix Constant System Failures of the Luna Desktop"
-date: 2025-02-05T16:05:32.118Z
-updated: 2025-02-09T23:08:55.066Z
+date: 2025-02-17T01:55:06.865Z
+updated: 2025-02-19T23:31:33.580Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
@@ -45,10 +49,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
@@ -56,10 +56,6 @@ Check your region and language settings on your computer:
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Try Cortana again to see if it works.
 
@@ -72,12 +68,16 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Install the available updates.
 
@@ -103,20 +103,20 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
@@ -131,13 +131,13 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -159,18 +159,17 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-capturing-still-shots-from-video-using-photos-app/"><u>[New] Capturing Still Shots From Video Using Photos App</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-maximizing-impact-instagram-and-twitter-video-collaboration/"><u>[New] In 2024, Maximizing Impact Instagram & Twitter Video Collaboration</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-streamlining-your-creative-process-with-windows-10-video-tools-for-2024/"><u>[New] Streamlining Your Creative Process with Windows 10 Video Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-channel-art-make-banners-icons-and-thumbnails/"><u>[New] YouTube Channel Art - Make Banners, Icons, and Thumbnails</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-mastering-the-meaning-and-usage-of-tiktoks-pfp-symbol/"><u>[Updated] 2024 Approved Mastering the Meaning and Usage of TikTok’s PFP Symbol</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-premier-ranking-of-outstanding-stop-motion-films/"><u>[Updated] 2024 Approved The Premier Ranking of Outstanding Stop-Motion Films</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-essential-latest-tiktok-fads-and-hits-for-2024/"><u>[Updated] Essential Latest TikTok Fads & Hits for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-from-concept-to-cinematic-the-art-of-creating-memorable-tiktoks-with-templates/"><u>[Updated] From Concept to Cinematic The Art of Creating Memorable TikToks with Templates</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/become-a-tiktok-fanatic-setup-guide-for-macbook-for-2024/"><u>Become a TikTok Fanatic Setup Guide for MacBook for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/best-bites-in-a-byte-top-tiktok-foodies-for-2024/"><u>Best Bites in a Byte Top TikTok Foodies for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-steam-disk-operations-in-windows/"><u>Fixing Steam Disk Operations in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-device-driver-issues-in-world-of-warcraft-successful-update-and-compatibility-guide/"><u>Overcome Device Driver Issues in World of Warcraft - Successful Update and Compatibility Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/top-30-anime-inspired-videos-reshaping-online-culture-for-2024/"><u>Top 30 Anime-Inspired Videos Reshaping Online Culture for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-from-baking-to-boiling-top-15-innovative-tiktok-dishes/"><u>[Updated] In 2024, From Baking to Boiling Top 15 Innovative TikTok Dishes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-step-by-step-process-for-personalizing-your-tiktok-soundtrack-for-2024/"><u>[Updated] Step-by-Step Process for Personalizing Your TikTok Soundtrack for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-budgeting-outlay-the-expense-of-rendering-songs-visually/"><u>2024 Approved Budgeting Outlay The Expense of Rendering Songs Visually</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ad-free-horizon-your-future-with-w11s-start-menu/"><u>Ad-Free Horizon: Your Future with W11's Start Menu</u></a></li>
+<li><a href="https://win-guides.techidaily.com/backup-incremental-difference-con-aomei-freeware-il-miglior-strumento-per-la-protezione-dei-dati/"><u>Backup Incremental-Difference Con AOMEI Freeware: Il Miglior Strumento per La Protezione Dei Dati</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-windows-file-explorer-path-settings/"><u>Customizing Windows File Explorer Path Settings</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/exclusive-mp4-extraction-software-for-tiktok-content-for-2024/"><u>Exclusive MP4 Extraction Software for TikTok Content for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-from-bland-to-breathtaking-craft-captivating-content-on-tiktok-quickly/"><u>In 2024, From Bland to Breathtaking Craft Captivating Content on TikTok Quickly</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-the-maze-of-private-snapshares/"><u>Navigating the Maze of Private Snapshares</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-use-morphvox-voice-changer-for-online-game-streaming/"><u>New In 2024, How to Use Morphvox Voice Changer for Online Game Streaming?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/est-soundtracks-at-your-fingertips-for-online-creators/"><u>The Best Soundtracks at Your Fingertips for Online Creators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-windows-11-optimal-4k-video-editing-tools-expert-picks-based-on-user-feedback/"><u>Top Rated Windows 11 Optimal 4K Video Editing Tools: Expert Picks Based on User Feedback</u></a></li>
 </ul></div>
 

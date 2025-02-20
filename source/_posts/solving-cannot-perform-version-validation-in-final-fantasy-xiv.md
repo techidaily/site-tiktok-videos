@@ -1,7 +1,7 @@
 ---
 title: Solving 'Cannot Perform Version Validation' In Final Fantasy XIV
-date: 2025-02-05T07:04:23.874Z
-updated: 2025-02-09T22:18:39.278Z
+date: 2025-02-17T08:58:38.242Z
+updated: 2025-02-20T03:59:50.887Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  Also make sure you have downloaded **[the latest Java version](https://java.com/en/download/manual.jsp)**  , which is important for your Minecraft to run smoothly. Note that you should download the Java file according to your operating system (32-bit or 64-bit).[How to check my computer specs?](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 6 fixes that proved very helpful for many users. You donâ€™t have to try them all; just work your way down the list until you find the one that works for you.
@@ -48,10 +44,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 4. **[Run Minecraft as administrator](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable Mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your Minecraft](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Disable Discord Overlay
 
@@ -65,11 +57,19 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Launch your Minecraft again.
 
  See if the issue still persists. If your Minecraft is still not responding, you can move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Remove incompatible software
 
@@ -82,7 +82,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -113,6 +113,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
 
@@ -145,7 +149,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Run Minecraft again to see if this works.
@@ -161,10 +165,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  Donâ€™t forget to restart your computer before you play the game again.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall your Minecraft
 
@@ -183,7 +183,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
@@ -218,17 +218,22 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-elevate-your-tiktok-craft-with-massive-head-techniques/"><u>[New] 2024 Approved Elevate Your TikTok Craft with Massive Head Techniques</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-how-to-edit-videos-for-youtube-on-pc/"><u>[New] In 2024, How to Edit Videos for YouTube on PC</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-laugh-trails-on-tiktok-the-best-joke-threads-for-a-chuckle/"><u>[New] In 2024, Laugh Trails on TikTok The Best Joke Threads for a Chuckle</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-innovating-your-way-through-tiktok-the-power-of-templated-content-for-2024/"><u>[New] Innovating Your Way Through TikTok The Power of Templated Content for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-affordable-advertising-streamlining-channel-sponsorship-partnerships/"><u>[Updated] 2024 Approved Affordable Advertising Streamlining Channel-Sponsorship Partnerships</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-audio-extraction-simplified-with-pazera-tools-in-the-new-era/"><u>[Updated] In 2024, Audio Extraction Simplified with Pazera Tools in the New Era</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-navigating-thumbnail-sizes-for-youtube-content-excellence/"><u>[Updated] In 2024, Navigating Thumbnail Sizes for YouTube Content Excellence</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-top-10-trending-tiktok-eats/"><u>[Updated] Top 10 Trending TikTok Eats</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-how-to-find-your-own-tiktok-stream-key/"><u>2024 Approved How to Find Your Own TikTok Stream Key</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unmatched-melodies-selector-android-companion/"><u>Unmatched Melodies Selector, Android Companion</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-vrs-elite-accessories-top-10/"><u>Unveiling VR's Elite Accessories (Top 10)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-crafting-excellence-essential-tips-for-ginger-island-life/"><u>[New] 2024 Approved Crafting Excellence Essential Tips for Ginger Island Life</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-integrating-words-in-tiktok-videos-made-simple/"><u>[New] 2024 Approved Integrating Words in TikTok Videos Made Simple</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-watchability-adding-time-stamps-to-youtube-videos-for-2024/"><u>[New] Enhancing Watchability Adding Time Stamps to YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-minute-details-on-screen-through-zooming-techniques/"><u>[New] Mastering Minute Details On-Screen Through Zooming Techniques</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-learn-to-craft-unique-audio-experiences-with-tiktok-vocal-adjustments/"><u>[Updated] 2024 Approved Learn to Craft Unique Audio Experiences with TikTok Vocal Adjustments</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-legitimate-tiktok-growth-where-to-find-trustworthy-leads/"><u>[Updated] 2024 Approved Legitimate TikTok Growth Where to Find Trustworthy Leads</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-the-insider-guide-attending-live-tiktok-gigs/"><u>[Updated] 2024 Approved The Insider Guide Attending Live TikTok Gigs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-breaking-down-barriers-to-pc-livestreams-on-tiktok/"><u>[Updated] In 2024, Breaking Down Barriers to PC Livestreams on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/designing-an-eye-catching-tiktok-finale-scene-for-2024/"><u>Designing an Eye-Catching TikTok Finale Scene for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-inshop-pro-the-ultimate-free-image-editing-tool-for-pcs-windowsmaclinux/"><u>Download InShop Pro: The Ultimate Free Image Editing Tool for PCs [Windows/Mac/Linux]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-realme-narzo-60x-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme Narzo 60x 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-ethical-buyers-of-tiktok-popularity-boost/"><u>In 2024, Ethical Buyers of TikTok Popularity Boost</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-nord-n30-se-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Nord N30 SE Phone with Broken Screen</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/snapchat-for-mac-users-install-and-enjoy/"><u>Snapchat for MAC Users - Install and Enjoy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-google-one-services-are-they-enough-value-for-your-money/"><u>Unveiling Google One Services: Are They Enough Value for Your Money?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-your-creativity-top-powerdirector-alternatives-for-android-and-ios/"><u>Updated 2024 Approved Unleash Your Creativity Top PowerDirector Alternatives for Android and iOS</u></a></li>
 </ul></div>
 

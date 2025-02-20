@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Stop Starcraft 2 From Freezing or Crashing on Your PC"
-date: 2025-02-03T06:45:33.598Z
-updated: 2025-02-10T02:01:19.063Z
+date: 2025-02-16T19:18:56.460Z
+updated: 2025-02-19T20:53:26.311Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
  It can be challenging, if not possible, to identify the core issue of the game crash since you all have your own game settings and use unique hardware, but no worries. This article provides 6 solutions to help you rule out common causes of this error and potentially resolve this problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -33,10 +29,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run the game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -52,6 +44,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/scan-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -59,7 +55,7 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-56-17-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -103,6 +99,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-35-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click**Risk of Rain 2** and select**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
@@ -123,17 +123,21 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-49.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-55.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the list box below to select **Windows 7** , then click **Apply**  \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-39-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue has been resolved.
 
@@ -148,7 +152,7 @@ If your problem still exists, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back it up.
@@ -159,21 +163,21 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Under**View by** , select**Category.** Then, select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-53-36.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Right-click**Steam** , and then click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-52-47.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -184,10 +188,6 @@ If your problem still exists, go ahead with the fix below.
 **8)** Move the backup**steamapps** folder you created before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-55-00.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After these steps, your game should run without crashing. If you have any questions or suggestions, please feel free to leave a comment below.
 
@@ -212,21 +212,22 @@ If your problem still exists, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-navigating-through-a-tiktok-live-session-a-comprehensive-overview/"><u>[Updated] 2024 Approved Navigating Through a TikTok Live Session A Comprehensive Overview</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-empires-edge-scoring-the-ultimate-7-grand-wars/"><u>[Updated] Empire's Edge Scoring the Ultimate 7 Grand Wars</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-engaging-tiktok-personal-frames-ideas-that-pop/"><u>[Updated] In 2024, Engaging TikTok Personal Frames Ideas That Pop</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-scrutinizing-the-importance-of-honesty-in-online-self-portraits/"><u>[Updated] In 2024, Scrutinizing the Importance of Honesty in Online Self-Portraits</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/add-context-and-meaning-with-strategic-text-overlays-on-tiktok-videos-for-2024/"><u>Add Context and Meaning with Strategic Text Overlays on TikTok Videos for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/civil-unrest/"><u>Civil Unrest</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/crafting-an-engaging-tiktok-closing-credits-for-2024/"><u>Crafting An Engaging TikTok Closing Credits for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/enhance-chat-dynamics-with-snapchats-gif-sending-steps/"><u>Enhance Chat Dynamics with Snapchat's GIF Sending Steps</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-edge-2023-by-drfone-android/"><u>How to Bypass FRP on Motorola Edge 2023?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/managed-system-configurations-for-windows-solving-the-mystery-of-auto-settings-adjustment-in-business-environments/"><u>Managed System Configurations for Windows - Solving the Mystery of Auto-Settings Adjustment in Business Environments</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/permanent-tiktok-account-elimination-guide-for-2024/"><u>Permanent TikTok Account Elimination Guide for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-realme-12plus-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Realme 12+ 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-evolution-of-business-embracing-vr-tech/"><u>The Evolution of Business Embracing VR Tech</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/top-fonts-to-amplify-your-tiktok-presence-in-23-for-2024/"><u>Top Fonts to Amplify Your TikTok Presence in '23 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-it-certification-programs-for-every-stage-of-your-tech-career-insights-from-zdnet/"><u>Top IT Certification Programs for Every Stage of Your Tech Career - Insights From ZDNet</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-rising-stars-secrets-crafting-top-tier-desktop-tiktok-videos/"><u>[New] Rising Stars' Secrets Crafting Top-Tier Desktop TikTok Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-secret-sauce-of-compelling-tiktok-footage-on-mac-for-2024/"><u>[New] The Secret Sauce of Compelling TikTok Footage on Mac for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-building-a-cohesive-tiktok-ending-spectacle/"><u>[Updated] In 2024, Building a Cohesive TikTok Ending Spectacle</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-top-gaming-talents-on-tiktok/"><u>[Updated] In 2024, The Top Gaming Talents on TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-ultimate-checklist-for-transforming-your-tiktok-handle-for-2024/"><u>[Updated] The Ultimate Checklist for Transforming Your TikTok Handle for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-10-stress-relieving-games/"><u>[Updated] Top 10 Stress Relieving Games</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unearthing-popular-user-generated-speeches/"><u>[Updated] Unearthing Popular User-Generated Speeches</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-character-voiceovers-and-personas-for-dynamic-tiktok-content/"><u>2024 Approved Character Voiceovers and Personas for Dynamic TikTok Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-navigating-the-new-wave-of-tiktok-culture/"><u>2024 Approved Navigating the New Wave of TikTok Culture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/arm-based-windows-systems-get-officially-supported-google-chrome/"><u>ARM-Based Windows Systems Get Officially Supported Google Chrome</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-lava-yuva-2-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Lava Yuva 2 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1724766097253-iphonedvd/"><u>IPhoneで使える、ジャニーズDVDのスムーズな取り込みと変換ガイド</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-3d-animation-software-for-mobile-devices-free-to-download/"><u>New 2024 Approved Top 3D Animation Software for Mobile Devices (Free to Download)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/orbital-design-kit/"><u>Orbital Design Kit</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tiktoks-pfp-explained-a-complete-and-concise-guide/"><u>TikTok's PFP Explained A Complete and Concise Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ultimate-source-for-online-video-to-mp3-downloads-for-2024/"><u>Your Ultimate Source for Online Video to MP3 Downloads for 2024</u></a></li>
 </ul></div>
 
